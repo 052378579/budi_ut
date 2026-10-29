@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Jalur yang menghubungkan demarkasi dengan perangkat *switch* yang berada di *central office* terdekat adalah ....",
+    "pilihan": {
+      "A": "unshield twisted pair",
+      "B": "local loop",
+      "C": "customer premises equipment",
+      "D": "toll network"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Proses *call setup* dilakukan pada jenis jaringan ....",
+    "pilihan": {
+      "A": "circuit switched",
+      "B": "packet switched",
+      "C": "leased line",
+      "D": "dedicated"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Proses pengiriman data yang dilakukan per karakter yang diawali dengan 1 *bit start* dan diakhiri dengan *bit stop* merupakan jenis transmisi ....",
+    "pilihan": {
+      "A": "synhcronous",
+      "B": "paralel",
+      "C": "asynhchronous",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berikut ini merupakan karakteristik pengiriman data secara *synchronous*, *kecuali* ....",
+    "pilihan": {
+      "A": "sinkronisasi *clock* antara pengirim dan penerima dilakukan sebelum terjadi komunikasi",
+      "B": "data dikirim dalam satu blok data",
+      "C": "proses pengiriman data yang dilakukan per karakter",
+      "D": "berisi *bit kontrol*, *bit pembuka*, *bit data*, dan *bit penutup*"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Jenis DSL yang dapat memberikan kecepatan 2 Mbps secara simetris untuk unggah dan unduh data adalah ....",
+    "pilihan": {
+      "A": "HDSL",
+      "B": "SDSL",
+      "C": "VHDSL",
+      "D": "ADSL"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Layanan *T-Carrier* yang terdiri atas 432 saluran DS-0 adalah ....",
+    "pilihan": {
+      "A": "T1",
+      "B": "T2",
+      "C": "T3",
+      "D": "T4"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Teknologi *Synchronous Optical Network* (SONET) merupakan ....",
+    "pilihan": {
+      "A": "teknologi WAN yang dapat mengintegrasikan *voice*, *video*, dan data menggunakan media transmisi kabel tembaga dengan kecepatan mulai 51,84 Mbps",
+      "B": "teknologi LAN yang dapat mengintegrasikan *voice*, *video*, dan data menggunakan media transmisi *fiber optik* dengan kecepatan mulai 51,84 Mbps",
+      "C": "teknologi WAN yang dapat mengintegrasikan *voice*, *video*, dan data menggunakan media nirkabel dengan kecepatan mulai 51,84 Mbps",
+      "D": "teknologi WAN yang dapat mengintegrasikan *voice*, *video*, dan data menggunakan media transmisi *fiber optik* dengan kecepatan mulai 51,84 Mbps"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut merupakan protokol-protokol WAN yang bekerja pada lapisan *data link*, *kecuali* ....",
+    "pilihan": {
+      "A": "Point to Point Protocol",
+      "B": "High-level Data Link Control",
+      "C": "Multi Border Gateway Protocol",
+      "D": "Multi Protocol Label Switching"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut topologi yang didukung pada jaringan *frame relay*, *kecuali* ....",
+    "pilihan": {
+      "A": "star",
+      "B": "full mesh",
+      "C": "adhoc",
+      "D": "partial mesh"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Berapa jumlah *Virtual Circuit* yang diperlukan jaringan *frame relay* pada topologi *full mesh* untuk 5 *site*?",
+    "pilihan": {
+      "A": "4",
+      "B": "6",
+      "C": "20",
+      "D": "10"
+    },
+    "jawaban": "D"
+  }
+]

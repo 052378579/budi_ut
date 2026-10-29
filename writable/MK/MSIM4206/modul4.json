@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Normalisasi pertama kali dikemukakan oleh",
+    "pilihan": {
+      "A": "E.F. CODD",
+      "B": "Niklaus Wirth",
+      "C": "Boyce CODD",
+      "D": "John Warnier"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Sebuah relation yang jumlah kerangkapan datanya sedikit (Minimum Amount of Redundancy), serta memberikan kemungkinan bagi pengguna untuk melakukan insert, delete, modify tanpa error disebut dengan ....",
+    "pilihan": {
+      "A": "Normalisasi",
+      "B": "Anomalisasi",
+      "C": "Well Structure Relation",
+      "D": "Fragmentasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Proses pengelompokan elemen data menjadi tabel-tabel yang menunjukan entity dan relasinya, merupakan pengertian dari",
+    "pilihan": {
+      "A": "Entity",
+      "B": "Anomali",
+      "C": "Normalisasi",
+      "D": "Model data"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Penyimpangan-penyimpangan atau error atau inkonsistensi data yang terjadi pada saat dilakukan proses insert, delete, maupun update disebut dengan ....",
+    "pilihan": {
+      "A": "Entity",
+      "B": "Anomali",
+      "C": "Performance Problem",
+      "D": "Normalisasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Himpunan dari satu atau lebih entitas yang digunakan untuk mengidentifikasikan secara unik sebuah entitas dalam entitas set disebut",
+    "pilihan": {
+      "A": "Super Key",
+      "B": "Primary Key",
+      "C": "Foreign Key",
+      "D": "Candidate Key"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dibawah ini merupakan masalah-masalah (anomali) yang timbul dalam tabel yang tidak dinormalisasi, kecuali ..",
+    "pilihan": {
+      "A": "Insert Anomaly",
+      "B": "Drop Anomaly",
+      "C": "Delete Anomaly",
+      "D": "Update Anomaly"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Bentuk normalisasi yang berfungsi menghilangkan ketergantungan transitif adalah ....",
+    "pilihan": {
+      "A": "1NF",
+      "B": "2NF",
+      "C": "3NF",
+      "D": "BCNF"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Fungsi dari bentuk normalisasi BCNF adalah menghilangkan ....",
+    "pilihan": {
+      "A": "perulangan group",
+      "B": "ketergantungan sebagian",
+      "C": "ketergantungan transitif",
+      "D": "anomali-anomali hasil ketergantungan fungsional"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Salah satu ciri bahwa sebuah tabel diperlukan normalisasi (menjadi 1NF) adalah ....",
+    "pilihan": {
+      "A": "jika relasi memuat set berulang (repeating group)",
+      "B": "tidak dapat menyisipkan informasi parsial",
+      "C": "terhapusnya informasi ketika menghapus sebuah record",
+      "D": "proses pembaharuan data tidak efisien"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Tujuan akhir dari sebuah normalisasi adalah ....",
+    "pilihan": {
+      "A": "terbentuknya sebuah tabel",
+      "B": "terbentuknya berbagai macam atribut",
+      "C": "terbentuknya Entity Relationship Diagram",
+      "D": "meminimalisir redundansi data"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Duplikasi data yang disimpan secara berulang pada lebih dari satu tabel adalah ....",
+    "pilihan": {
+      "A": "Redundansi",
+      "B": "Denormalisasi",
+      "C": "Anomali",
+      "D": "Normalisasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Di bawah ini merupakan kerugian pada redundasi adalah ....",
+    "pilihan": {
+      "A": "menghasilkan data yang baik",
+      "B": "melemahkan integritas basis data",
+      "C": "memperkuat integritas basis data",
+      "D": "mempercepat proses query"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Tujuan dari denormalisasi adalah",
+    "pilihan": {
+      "A": "melemahkan integritas data",
+      "B": "menambah jumlah tabel",
+      "C": "menambah waktu query",
+      "D": "mengurangi waktu query"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Penyimpangan-penyimpangan atau Error atau inkonsistensi data yang terjadi pada saat dilakukan proses insert, delete maupun modify, disebut dengan ....",
+    "pilihan": {
+      "A": "Normalisasi",
+      "B": "Database",
+      "C": "Well Structure Relation",
+      "D": "Anomali"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Satu atribut (atau satu set atribut) yang mengidentifikasikan secara unik suatu kejadian yang spesifik dari entitas disebut dengan ....",
+    "pilihan": {
+      "A": "Primary Key",
+      "B": "Foreign Key",
+      "C": "Alternate Key",
+      "D": "Candidate Key"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Suatu atribut yang nilainya didapatkan (diturunkan) dari atribut tabel lain disebut atribut ....",
+    "pilihan": {
+      "A": "turunan (derived)",
+      "B": "berlebihan",
+      "C": "tabel rekapitulasi",
+      "D": "tidak ada jawaban benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Suatu atribut yang menyatakan lebih dari satu fakta (seperti mencampur nama jalan, kota, kodepos dalam satu kolom) adalah atribut yang .....",
+    "pilihan": {
+      "A": "turunan",
+      "B": "Berlebihan (Composite)",
+      "C": "tabel rekapitulasi",
+      "D": "tidak ada jawaban yang benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Dari atribut berikut (ID Anggota, Nama, Tanggal Lahir, Umur), atribut mana yang merupakan atribut turunan (derived attribute)?",
+    "pilihan": {
+      "A": "Nama",
+      "B": "Umur",
+      "C": "ID Anggota",
+      "D": "Tanggal Lahir"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Sebuah tabel tambahan yang diperlukan jika terjadi pengolahan data yang berlebihan (sering dihitung ulang) dalam denormalisasi disebut dengan....",
+    "pilihan": {
+      "A": "tabel redundansi",
+      "B": "tabel rekapitulasi",
+      "C": "tabel normalisasi",
+      "D": "tidak ada jawaban yang benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Salah satu alasan mengapa dibutuhkan denormalisasi adalah karena tabel yang terlalu normal (banyak relasi join) dapat menyebabkan ....",
+    "pilihan": {
+      "A": "banyak tabel",
+      "B": "banyak relasi",
+      "C": "redundansi",
+      "D": "akses (query) yang lama"
+    },
+    "jawaban": "D"
+  }
+]

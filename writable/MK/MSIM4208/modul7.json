@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Apa kepanjangan dari REST dalam konteks RESTful API?",
+    "pilihan": {
+      "A": "Representational State Transfer",
+      "B": "Representational Standard Transfer",
+      "C": "Resource State Transfer",
+      "D": "Representational Server Transfer"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Manakah dari metode HTTP berikut yang biasanya digunakan untuk mengambil data dari server?",
+    "pilihan": {
+      "A": "POST",
+      "B": "PUT",
+      "C": "GET",
+      "D": "DELETE"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Format data yang paling umum digunakan dalam pertukaran data RESTful API adalah ....",
+    "pilihan": {
+      "A": "XML",
+      "B": "JSON",
+      "C": "HTML",
+      "D": "CSV"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Metode HTTP yang digunakan untuk mengirimkan data baru ke server adalah ....",
+    "pilihan": {
+      "A": "GET",
+      "B": "POST",
+      "C": "DELETE",
+      "D": "PUT"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Stateless dalam RESTful API berarti ....",
+    "pilihan": {
+      "A": "Server menyimpan data sesi pengguna",
+      "B": "Server tidak menyimpan status sesi klien di antara permintaan",
+      "C": "Klien harus selalu terhubung ke server",
+      "D": "Server harus selalu aktif"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kode status HTTP 200 menunjukkan bahwa ....",
+    "pilihan": {
+      "A": "Permintaan berhasil (OK)",
+      "B": "Sumber daya tidak ditemukan (Not Found)",
+      "C": "Terjadi kesalahan pada server",
+      "D": "Permintaan ditolak"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Kode status HTTP 404 menunjukkan bahwa ....",
+    "pilihan": {
+      "A": "Permintaan berhasil",
+      "B": "Sumber daya tidak ditemukan",
+      "C": "Otentikasi gagal",
+      "D": "Server sibuk"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Apa fungsi dari metode HTTP PUT?",
+    "pilihan": {
+      "A": "Mengambil data",
+      "B": "Menghapus data",
+      "C": "Memperbarui data yang sudah ada",
+      "D": "Membuat data baru"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Keuntungan menggunakan JSON dalam API adalah ....",
+    "pilihan": {
+      "A": "Sintaksnya sangat rumit",
+      "B": "Ringan dan mudah dibaca oleh manusia maupun mesin",
+      "C": "Hanya mendukung tipe data string",
+      "D": "Ukuran filenya lebih besar dari XML"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "API singkatan dari ....",
+    "pilihan": {
+      "A": "Application Programming Interface",
+      "B": "Applied Programming Interface",
+      "C": "Application Process Integration",
+      "D": "Automated Programming Interface"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Dalam RESTful API, URI digunakan untuk ....",
+    "pilihan": {
+      "A": "Mengidentifikasi sumber daya (resource)",
+      "B": "Mengatur hak akses pengguna",
+      "C": "Menjalankan fungsi di server",
+      "D": "Menentukan port server"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Manakah pernyataan yang benar mengenai REST API?",
+    "pilihan": {
+      "A": "REST API harus menggunakan bahasa pemrograman tertentu",
+      "B": "REST API bersifat independen terhadap bahasa pemrograman",
+      "C": "REST API hanya bisa diakses oleh aplikasi web",
+      "D": "REST API selalu memerlukan basis data SQL"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Apa kepanjangan dari HTTP?",
+    "pilihan": {
+      "A": "Hypertext Transfer Protocol",
+      "B": "Hyperlink Transfer Protocol",
+      "C": "Hypertext Transmission Process",
+      "D": "Hypermedia Transfer Protocol"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Metode HTTP untuk menghapus sumber daya adalah ....",
+    "pilihan": {
+      "A": "GET",
+      "B": "POST",
+      "C": "DELETE",
+      "D": "PATCH"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Manakah yang merupakan praktik terbaik dalam penamaan endpoint REST API?",
+    "pilihan": {
+      "A": "Menggunakan kata kerja",
+      "B": "Menggunakan kata benda dalam bentuk jamak",
+      "C": "Menggunakan spasi",
+      "D": "Menggunakan huruf kapital semua"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Fungsi utama dari header 'Content-Type' dalam request API adalah ....",
+    "pilihan": {
+      "A": "Menentukan bahasa pemrograman yang digunakan",
+      "B": "Memberi tahu server format data yang dikirim",
+      "C": "Mengamankan data dari peretas",
+      "D": "Menentukan waktu permintaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Apa itu Authorization header?",
+    "pilihan": {
+      "A": "Header untuk menentukan ukuran file",
+      "B": "Header untuk mengirimkan kredensial otentikasi",
+      "C": "Header untuk mencatat alamat IP",
+      "D": "Header untuk menentukan browser"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Keuntungan menggunakan HTTPS dalam API adalah ....",
+    "pilihan": {
+      "A": "Kecepatan transfer data lebih lambat",
+      "B": "Enkripsi data antara klien dan server",
+      "C": "Tidak memerlukan sertifikat SSL",
+      "D": "Meningkatkan ukuran JSON"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Apa yang dimaksud dengan rate limiting dalam API?",
+    "pilihan": {
+      "A": "Membatasi jumlah permintaan dalam jangka waktu tertentu",
+      "B": "Meningkatkan kecepatan respon server",
+      "C": "Mengurangi penggunaan memori",
+      "D": "Menghapus data lama secara otomatis"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "JSON singkatan dari ....",
+    "pilihan": {
+      "A": "JavaScript Object Notation",
+      "B": "Java Standard Object Name",
+      "C": "JavaScript Oriented Network",
+      "D": "Java System Object Notation"
+    },
+    "jawaban": "A"
+  }
+]

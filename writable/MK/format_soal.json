@@ -1,0 +1,121 @@
+{
+    "ut_tesformatif": {
+        "kode_bmp": "MSIM4204",
+        "nama_mk": "NAMA MK",
+        "modul": "1",
+        "jumlah_soal": 10,
+        "date": "22 Mei 2026"
+    },
+    "tes_formatif": [
+        {
+            "number": 1,
+            "text": "Contoh internet pada grup jaringan regional adalah ....",
+            "options": {
+                "A": "NSFNET",
+                "B": "EBONE",
+                "C": "jaringan kampus",
+                "D": "jaringan antar kampus"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "number": 2,
+            "text": "Contoh dari layer aplikasi adalah ....",
+            "options": {
+                "A": "IP",
+                "B": "Telnet",
+                "C": "ICMP",
+                "D": "ATM"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "number": 3,
+            "text": "Layer pada Protokol TCP/IP yang merupakan perangkat keras pada jaringan adalah layer ....",
+            "options": {
+                "A": "aplikasi",
+                "B": "transport",
+                "C": "internetwork",
+                "D": "network interface"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "number": 4,
+            "text": "ARP merupakan salah satu contoh layer ....",
+            "options": {
+                "A": "aplikasi",
+                "B": "transport",
+                "C": "internetwork",
+                "D": "network interface"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "number": 5,
+            "text": "Perangkat atau aplikasi yang memberikan pelayanan kepada user internet adalah ....",
+            "options": {
+                "A": "client",
+                "B": "server",
+                "C": "hosting",
+                "D": "route"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "number": 6,
+            "text": "Perangkat yang berfungsi untuk menghubungkan jaringan pada layer internetwork dan mengarahkan jalur paket data adalah ....",
+            "options": {
+                "A": "router",
+                "B": "bridge",
+                "C": "gateway",
+                "D": "switch"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "number": 7,
+            "text": "Internet dapat digunakan pertama kali secara komersial pada tahun ....",
+            "options": {
+                "A": "1991",
+                "B": "1992",
+                "C": "1993",
+                "D": "1994"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "number": 8,
+            "text": "OSI model (ISO 7498) dibagi menjadi ....",
+            "options": {
+                "A": "4 layer",
+                "B": "5 layer",
+                "C": "6 layer",
+                "D": "7 layer"
+            },
+            "correct_answer": "D"
+        },
+        {
+            "number": 9,
+            "text": "Badan penelitian yang dibentuk oleh DARPA adalah ....",
+            "options": {
+                "A": "NSFNET",
+                "B": "ARPANET",
+                "C": "CERFNet",
+                "D": "AUP"
+            },
+            "correct_answer": "B"
+        },
+        {
+            "number": 10,
+            "text": "Perangkat yang menghubungkan jaringan pada layer network interface dan meneruskan frame adalah ....",
+            "options": {
+                "A": "router",
+                "B": "bridge",
+                "C": "gateway",
+                "D": "switch"
+            },
+            "correct_answer": "B"
+        }
+    ]
+}

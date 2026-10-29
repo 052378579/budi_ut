@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini merupakan karakteristik cloud computing, kecuali ....",
+    "pilihan": {
+      "A": "on-demand self-service",
+      "B": "broad network access",
+      "C": "resource pooling",
+      "D": "software as a service"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Layanan disaster yang menyediakan serangkaian server mirrored stand-by dan melakukan replikasi yang tersinkronisasi untuk mencegah kehilangan data akibat bencana adalah ....",
+    "pilihan": {
+      "A": "hot backup site",
+      "B": "warm backup site",
+      "C": "cold backup site",
+      "D": "snapshot backup site"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Waktu maksimal yang diperlukan mulai dari terjadinya insiden sehingga layanan tidak tersedia sampai layanan kembali berjalan normal adalah ....",
+    "pilihan": {
+      "A": "RTO (Request Time Out)",
+      "B": "RPO (Recovery Point Objective)",
+      "C": "RTO (Recovery Time Objective)",
+      "D": "SLA (Service Level Agreement)"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berdasarkan area data center, server akan disimpan pada area ....",
+    "pilihan": {
+      "A": "HDA",
+      "B": "EDA",
+      "C": "Entrance room",
+      "D": "MDA"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Berdasarkan SNI 8799-1, temperatur ruangan untuk pengoperasian peralatan teknologi informasi sebagai berikut, kecuali ....",
+    "pilihan": {
+      "A": "temperatur ruangan : 18°C – 27°C",
+      "B": "kelembaban ruangan ≤ 60%",
+      "C": "tingkat perubahan temperatur ruangan per-jam maksimum : 5°C",
+      "D": "tingkat perubahan kelembaban ruangan maksimum per-jam : 50% RH"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kemampuan untuk beradaptasi dengan pertumbuhan kebutuhan bisnis yang cepat merupakan kriteria data center ....",
+    "pilihan": {
+      "A": "ketersediaan",
+      "B": "skalabilitas dan fleksibilitas",
+      "C": "keamanan",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Data center dengan tingkat ketersediaan 99,982% merupakan tier ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut merupakan komponen-komponen data center, kecuali ....",
+    "pilihan": {
+      "A": "server",
+      "B": "power distribution system",
+      "C": "cooling system",
+      "D": "PABX"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Data center dengan tingkat ketersediaan 99,995% dapat memberikan toleransi downtime selama ....",
+    "pilihan": {
+      "A": "0,4 jam dalam sebulan",
+      "B": "0,4 jam dalam setahun",
+      "C": "4 jam dalam sebulan",
+      "D": "4 jam dalam setahun"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Data center tier 2 memiliki tingkat ketersediaan ....",
+    "pilihan": {
+      "A": "99 %",
+      "B": "99,741%",
+      "C": "99,671%",
+      "D": "99,995%"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Arsitektur baremetal digunakan pada jenis hypervisor ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Hypervisor yang memiliki akses langsung ke perangkat keras tanpa harus melalui sistem operasi ....",
+    "pilihan": {
+      "A": "baremetal architecture",
+      "B": "hosted architecture",
+      "C": "hypervisor 3",
+      "D": "hypervisor 2"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pendekatan virtualisasi yang menyediakan pemisahan secara menyeluruh dari setiap mesin virtual adalah ....",
+    "pilihan": {
+      "A": "para virtualization",
+      "B": "OS virtualization",
+      "C": "full virtualization",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Kekurangan teknologi virtualisasi adalah ....",
+    "pilihan": {
+      "A": "hanya dapat digunakan untuk lingkungan pengujian dan pengembangan",
+      "B": "tidak dapat digunakan untuk redudansi server",
+      "C": "tidak dapat meningkatkan ketersediaan server",
+      "D": "server fisik mati menyebabkan seluruh mesin virtual pada server tersebut juga mati"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Fungsi hypervisor adalah ....",
+    "pilihan": {
+      "A": "melindungi sistem operasi",
+      "B": "melakukan pemisahan sistem operasi dengan aplikasi",
+      "C": "melakukan abstraksi dari sumber daya fisik menjadi beberapa sumber daya virtual",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Mesin virtual adalah ....",
+    "pilihan": {
+      "A": "mesin yang dapat menjalankan sistem operasi dan aplikasinya sendiri",
+      "B": "perangkat lunak terpisah yang dapat menjalankan sistem operasi dan aplikasinya sendiri seolah-olah dijalankan pada komputer fisik",
+      "C": "perangkat lunak terpisah yang tidak dapat menjalankan sistem operasi dan aplikasinya sendiri seolah-olah dijalankan pada komputer fisik",
+      "D": "mesin yang dapat menjalankan sistem operasi dan aplikasinya secara terpisah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Perangkat lunak yang menggunakan pendekatan hypervisor tipe 2 di antaranya adalah ....",
+    "pilihan": {
+      "A": "Microsoft Virtual PC",
+      "B": "ESX",
+      "C": "XEN",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Perangkat lunak yang secara dinamis mengalokasikan sumber daya di komputer fisik pada virtual machine sesuai dengan yang dibutuhkan adalah ....",
+    "pilihan": {
+      "A": "CentOS",
+      "B": "Software driver",
+      "C": "Hypervisor",
+      "D": "Sistem operasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Berikut merupakan perangkat lunak yang umum digunakan pada virtualisasi server, kecuali ....",
+    "pilihan": {
+      "A": "Vmware",
+      "B": "Xen",
+      "C": "Virtual mesin",
+      "D": "Virtual box"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Kemampuan teknologi virtualisasi adalah ....",
+    "pilihan": {
+      "A": "dapat menggunakan spesifikasi hardware yang rendah",
+      "B": "efisiensi biaya",
+      "C": "efisiensi sumber daya",
+      "D": "memiliki fleksibilitas yang tinggi"
+    },
+    "jawaban": "A"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Semua pernyataan di bawah ini berkaitan dengan flowchart, kecuali....",
+    "pilihan": {
+      "A": "Grafis atau simbolik",
+      "B": "Mewakili suatu algoritma atau proses",
+      "C": "Algoritma lebih dulu daripada flowchart",
+      "D": "Flowchart lebih dulu daripada algoritma"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Salah satu keuntungan menggunakan flowchart adalah komunikasi. Artinya adalah ....",
+    "pilihan": {
+      "A": "Dengan bantuan flowchart komunikasi pengguna dengan sistem komputer menjadi lancar",
+      "B": "Komunikasi antar fungsi berjalan dengan sempurna",
+      "C": "Komunikasi antara pengguna dengan pengguna yang lain menjadi lancar",
+      "D": "Cara yang lebih baik untuk mengkomunikasikan logika suatu sistem kepada semua unit terkait"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Jika mengikuti aturan yang benar, penggunaan simbol keputusan (belah ketupat) yang SALAH dalam penggambaran arah aliran panah adalah....",
+    "pilihan": {
+      "A": "Hanya satu panah masuk",
+      "B": "Memiliki panah keluar untuk 'Ya' dan 'Tidak'",
+      "C": "Memiliki beberapa panah masuk dari arah berbeda sekaligus",
+      "D": "Hanya memiliki satu panah keluar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Sebuah potongan algoritma memiliki instruksi: 'Input panjang, lebar' lalu diikuti 'Luas = panjang * lebar'. Simbol flowchart yang berurutan sesuai algoritma tersebut adalah...",
+    "pilihan": {
+      "A": "Jajargenjang lalu Persegi Panjang",
+      "B": "Persegi Panjang lalu Oval",
+      "C": "Oval lalu Jajargenjang",
+      "D": "Jajargenjang (untuk input) lalu Persegi Panjang (untuk proses)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Simbol yang digunakan untuk operasi PROSES pada flowchart adalah simbol....",
+    "pilihan": {
+      "A": "Oval (Terminator)",
+      "B": "Jajargenjang (I/O)",
+      "C": "Persegi Panjang (Process)",
+      "D": "Belah Ketupat (Decision)"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Pedoman dasar dalam menggunakan simbol-simbol flowchart, kecuali....",
+    "pilihan": {
+      "A": "Semua persyaratan yang diperlukan harus dicantumkan dalam urutan logis",
+      "B": "Diagram alur harus rapi, jelas, dan tidak ambigu",
+      "C": "Direkomendasikan agar flowchart dibuat melalui diskusi kelompok",
+      "D": "Untuk simbol keputusan, beberapa garis aliran bisa memasukinya sekaligus"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Pada algoritma penentuan kelulusan (Input UTS, Input UAS, Hitung Nilai Akhir, If Nilai >= 60 Print Lulus, Else Print Tidak Lulus), jika dibuat flowchart yang utuh maka terdiri dari simbol-simbol....",
+    "pilihan": {
+      "A": "2 Terminator, 5 I/O, 2 Keputusan, 2 Proses, dan 7 Tanda panah",
+      "B": "2 Terminator, 4 I/O, 1 Keputusan, 1 Proses, dan 7 Tanda panah",
+      "C": "2 Terminator, 3 I/O, 1 Keputusan, 2 Proses, dan 8 Tanda panah",
+      "D": "2 Terminator, 4 I/O, 1 Keputusan, 1 Proses, dan 9 Tanda panah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Simbol konektor (penghubung) pada halaman yang sama ditunjukkan dengan simbol....",
+    "pilihan": {
+      "A": "Lingkaran kecil",
+      "B": "Bentuk segilima (Off-page connector)",
+      "C": "Persegi",
+      "D": "Segitiga"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Simbol ini digunakan untuk menunjukkan aliran kontrol dalam suatu proses yang memiliki pilihan kondisi 'Ya' atau 'Tidak'. Simbol tersebut adalah....",
+    "pilihan": {
+      "A": "Simbol Konektor",
+      "B": "Simbol Proses",
+      "C": "Simbol I/O",
+      "D": "Simbol Keputusan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Jumlah simbol standar utama dalam flowchart terdiri dari 6 simbol, yaitu....",
+    "pilihan": {
+      "A": "Terminator, Proses, Keputusan, Konektor, I/O",
+      "B": "Terminator, Proses, Keputusan, Konektor, I/O, Arrow (Tanda panah)",
+      "C": "Terminator, Proses, Keputusan, Konektor, I/O, Delay, Arrow",
+      "D": "Terminator, Proses, Keputusan, Konektor, I/O, Delay, Arrow, Print"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Deskripsi yang cukup singkat dan ringkas yang menyerupai bahasa pemrograman tetapi mampu dibaca oleh manusia secara naratif adalah pengertian dari....",
+    "pilihan": {
+      "A": "Pseudocode",
+      "B": "Flowchart",
+      "C": "Bahasa C++",
+      "D": "Assembly"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Salah satu kelebihan utama dari penggunaan pseudocode adalah....",
+    "pilihan": {
+      "A": "Langsung bisa dieksekusi di komputer",
+      "B": "Sangat spesifik hanya untuk satu bahasa pemrograman",
+      "C": "Memudahkan konversi algoritma ke dalam bahasa pemrograman apa pun",
+      "D": "Komunikasi antar komputer berjalan lancar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Jika terdapat sub-proses (blok kode) dalam pseudocode, cara penulisan yang tepat adalah....",
+    "pilihan": {
+      "A": "Tetap menulis urutan proses sejajar dengan rata kiri (tidak ada jarak)",
+      "B": "Menggunakan simbol flowchart di sebelahnya",
+      "C": "Diberikan indentasi (menjorok ke dalam) yang menandakan bahwa hal tersebut adalah sub blok",
+      "D": "Menulis semuanya dalam satu baris panjang"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Cara penulisan blok pengecekan (If-Else) pada Pseudocode yang ideal dan rapi adalah...",
+    "pilihan": {
+      "A": "Tidak membedakan huruf besar kecil",
+      "B": "Menyatukan IF dan cetak dalam satu baris tanpa enter",
+      "C": "Menggunakan indentasi untuk blok di bawah IF dan di bawah ELSE",
+      "D": "Menggunakan bahasa pemrograman Python murni"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Panduan struktur penulisan pseudocode yang umum bisa diterima (terutama untuk OOP) adalah dengan urutan...",
+    "pilihan": {
+      "A": "1. Deklarasi, 2. Output, 3. Input",
+      "B": "1. Judul/Nama Program, 2. Deskripsi/Deklarasi, 3. Implementasi Algoritma",
+      "C": "1. Implementasi, 2. Deskripsi, 3. Judul",
+      "D": "1. Main, 2. Variable, 3. End"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Jika sebuah pseudocode tidak memiliki deklarasi variabel yang lengkap, maka secara naratif pseudocode tersebut...",
+    "pilihan": {
+      "A": "Sudah sangat benar karena pseudocode harus singkat",
+      "B": "Akan menimbulkan kebingungan bagi programmer dalam menentukan tipe datanya",
+      "C": "Lebih baik dari flowchart",
+      "D": "Langsung bisa dikompilasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Ciri dari pseudocode yang 'TIDAK ideal' adalah ...",
+    "pilihan": {
+      "A": "Gamblang dan jelas dalam penyajian baris demi baris lengkap dengan tipe datanya",
+      "B": "Proses demi proses seolah bercerita dan memberikan instruksi yang sangat informatif bagi programmer",
+      "C": "Ditulis rapi dengan indentasi blok statemen",
+      "D": "Membingungkan, ambigu, dan memberikan daya khayal (menebak-nebak maksud logika) kepada programmer"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Pseudocode yang ditulis tanpa indentasi blok kondisi, mencampur aduk gaya bahasa, dan ambigu masuk dalam kategori pseudocode....",
+    "pilihan": {
+      "A": "Ideal",
+      "B": "Tidak ideal / Tidak jelas",
+      "C": "Standar internasional",
+      "D": "Lengkap"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Untuk mendapatkan Nilai Akhir dengan cara menambahkan UTS dan UAS lalu dibagi dua. Penulisan ekspresi operasi matematika yang paling tepat pada pseudocode agar tidak ambigu adalah...",
+    "pilihan": {
+      "A": "NilaiAkhir <- NilaiUTS + NilaiUAS / 2",
+      "B": "NilaiAkhir <- (NilaiUTS + NilaiUAS) / 2",
+      "C": "NilaiAkhir = NilaiUTS + (NilaiUAS / 2)",
+      "D": "BagiDua(NilaiUTS, NilaiUAS) = NilaiAkhir"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Hal paling esensial yang perlu diperhatikan dalam membuat pseudocode yang baik adalah....",
+    "pilihan": {
+      "A": "Ketersampaian informasi dan semua proses walaupun bertele-tele.",
+      "B": "Singkat padat, tak bertele-tele, terstruktur rapi, dan logikanya mudah ditransformasi ke dalam bahasa pemrograman apa pun.",
+      "C": "Boleh panjang yang penting informasinya bisa dicerna.",
+      "D": "Menggunakan syntax murni Javascript"
+    },
+    "jawaban": "B"
+  }
+]

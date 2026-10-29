@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Cara kerja Database Management System dipengaruhi oleh metode penyimpanan dan metode ....",
+    "pilihan": {
+      "A": "akses",
+      "B": "input",
+      "C": "proses",
+      "D": "output"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Untuk membaca record program aplikasi memanggil ....",
+    "pilihan": {
+      "A": "database",
+      "B": "sistem",
+      "C": "DBMS",
+      "D": "RDBMS"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Salah satu kriteria yang harus dimiliki perangkat lunak Database Management System adalah ....",
+    "pilihan": {
+      "A": "standarisasi logical",
+      "B": "integrity control",
+      "C": "database indenpendence",
+      "D": "recovery data"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Organisasi Berkas dapat disamakan dengan istilah organisasi....",
+    "pilihan": {
+      "A": "sistem basis data",
+      "B": "sistem database",
+      "C": "sistem terintegrasi",
+      "D": "basis data"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Dengan pengembangan basis data yaitu informasi akan didapatkan secara utuh adalah tujuan dari ....",
+    "pilihan": {
+      "A": "penyediaan akses fleksibel",
+      "B": "pemeliharaan integritas data",
+      "C": "proteksi data kerusakan",
+      "D": "penyedia sarana penggunaan bersama"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kemudahan dalam akses data adalah salah satu tujuan dari pengembangan sistem basis data pada hal ....",
+    "pilihan": {
+      "A": "penyediaan akses fleksibel",
+      "B": "pemeliharaan integritas data",
+      "C": "proteksi data kerusakan",
+      "D": "penyedia sarana penggunaan bersama"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Salah satu tujuan dari pengembangan sistem basis data adalah dapat membuat produktivitas meningkat. Maksudnya adalah ....",
+    "pilihan": {
+      "A": "melakukan pengecekan terhadap kerangkapan data",
+      "B": "menghilangkan ketergantungan program",
+      "C": "membuat standar definisi",
+      "D": "proses pencarian data menjadi lebih cepat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Pada tahapan pengembangan dengan 3 tahapan, tahapan pada saat menentukan alternatif pemecahan masalah terjadi pada...",
+    "pilihan": {
+      "A": "analisis",
+      "B": "perancangan",
+      "C": "implementasi",
+      "D": "semua salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pada pengembangan sistem basis data 3 tahapan, proses konversi desain menjadi program terjadi pada tahapan ....",
+    "pilihan": {
+      "A": "analisis",
+      "B": "perancangan",
+      "C": "implementasi",
+      "D": "semua salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Perancangan basis data dilakukan dengan menentukan kebutuhan... dalam basis data berdasarkan model sistem.",
+    "pilihan": {
+      "A": "file-file",
+      "B": "field-field",
+      "C": "atribut",
+      "D": "relasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Fungsi dari MySQL Open Database Connectivity (ODBC) adalah sebagai....",
+    "pilihan": {
+      "A": "basis Data",
+      "B": "aplikasi basis data",
+      "C": "driver penghubung MySQL dengan Microsoft Access",
+      "D": "kontrol Admin MySQL"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Pada Microsoft Access langkah untuk menghubungkan ke database MySQL melalui ODBC adalah ....",
+    "pilihan": {
+      "A": "External Data -> New Source -> From File",
+      "B": "External Data -> New Source -> From Online Services",
+      "C": "External Data -> New Source -> From Other Sources -> ODBC",
+      "D": "External Data -> New Source -> From Other Sources -> Outlook"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Fungsi dari menu design pada form Microsoft Access adalah",
+    "pilihan": {
+      "A": "modifikasi tampilan switchboard",
+      "B": "modifikasi tampilan report",
+      "C": "modifikasi tampilan basis data",
+      "D": "modifikasi tampilan form"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Sebuah komponen antarmuka untuk menampilkan data secara terurut (drop-down) dan memudahkan pengguna memilih adalah",
+    "pilihan": {
+      "A": "Combo box",
+      "B": "Form",
+      "C": "Report",
+      "D": "Semua Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika akan membuat sebuah tombol hapus di MS Access, maka tahapan yang dapat dilakukan adalah",
+    "pilihan": {
+      "A": "Menu design -> Button -> Record operation -> add new record",
+      "B": "Menu design -> Button -> Record operation -> delete record",
+      "C": "Menu design -> Button -> Record navigation -> Go to previous record",
+      "D": "Menu design -> Button -> Record navigation -> Go to next record"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Jika akan membuat sebuah tombol 'Next Data' maka tahapan yang dapat dilakukan adalah",
+    "pilihan": {
+      "A": "Menu design -> Button -> Record operation -> add new record",
+      "B": "Menu design -> Button -> Record operation -> delete record",
+      "C": "Menu design -> Button -> Record navigation -> Go to previous record",
+      "D": "Menu design -> Button -> Record navigation -> Go to next record"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Fungsi dari menu Query di MS Access adalah untuk ....",
+    "pilihan": {
+      "A": "membuat form",
+      "B": "modifikasi (mengambil/menyeleksi) data dari basis data",
+      "C": "membuat report",
+      "D": "semua salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Sebuah menu utama antarmuka untuk mengkoordinasikan/mengelompokkan menu aplikasi menjadi terstruktur disebut.....",
+    "pilihan": {
+      "A": "Switchboard",
+      "B": "Report",
+      "C": "File",
+      "D": "Query"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Untuk menghilangkan panel navigasi bawaan Access berada pada menu",
+    "pilihan": {
+      "A": "Access option -> Database",
+      "B": "Access option -> General",
+      "C": "Access option -> Option",
+      "D": "Access option -> Current Database"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Langkah untuk mengatur agar menu Switchboard (Form) pertama kali muncul saat database dibuka adalah ....",
+    "pilihan": {
+      "A": "Access option -> Current Database -> Display form",
+      "B": "Access option -> Current Database -> Display navigation",
+      "C": "Access option -> Current Database -> Application tittle",
+      "D": "Access option -> Current Database -> Document Window Option"
+    },
+    "jawaban": "A"
+  }
+]

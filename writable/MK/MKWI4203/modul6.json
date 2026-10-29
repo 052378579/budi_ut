@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Model bisnis yang menawarkan fungsi dasar produk/jasa secara gratis, tetapi membebankan tambahan biaya bagi pelanggan yang mau mendapatkan layanan premium adalah ....",
+    "pilihan": {
+      "A": "harga entri rendah dengan fitur harga tambahan",
+      "B": "harga produk rendah, tetapi dukungan tambahan",
+      "C": "harga berdasarkan produk plus margin",
+      "D": "model freemium"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Model dengan penetapan harga produk yang ditetapkan sampai 5 kali dari biaya produk untuk menutup biaya operasional adalah ....",
+    "pilihan": {
+      "A": "harga entri rendah dengan fitur harga tambahan",
+      "B": "harga produk rendah, tetapi dukungan tambahan",
+      "C": "harga berdasarkan produk plus margin",
+      "D": "model freemium"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Model dengan menerapkan harga terpisah antara produk inti dan fitur tambahan adalah ....",
+    "pilihan": {
+      "A": "harga entri rendah dengan fitur harga tambahan",
+      "B": "harga produk rendah, tetapi dukungan tambahan",
+      "C": "harga berdasarkan produk plus margin",
+      "D": "model freemium"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Model yang menawarkan harga berjenjang untuk produk/jasa didasarkan pada intensitas penggunaan (rentang dan volume) adalah ....",
+    "pilihan": {
+      "A": "harga entri rendah dengan fitur harga tambahan",
+      "B": "harga produk rendah, tetapi dukungan tambahan",
+      "C": "harga berdasarkan produk plus margin",
+      "D": "harga berjenjang berdasarkan volume dan lingkup perusahaan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Model bisnis yang sukses diterapkan iTunes dan eBay karena mampu menerapkan strategi yang didasarkan pada, kecuali ....",
+    "pilihan": {
+      "A": "menciptakan experience",
+      "B": "kekuatan merek",
+      "C": "tim produk yang solid",
+      "D": "memperbaiki platform"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Model hypermarket yang sukses diterapkan Amazon dan Apple karena menerapkan beberapa hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "kekuatan merek",
+      "B": "stabilitas keuangan yang kuat",
+      "C": "membangun engagement kuat dengan berbagai audiens",
+      "D": "dedikasi tim solid"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Berikut adalah hal-hal penting yang tidak boleh diabaikan pada saat mengembangkan bisnis, kecuali ....",
+    "pilihan": {
+      "A": "model bisnis harus komplit",
+      "B": "definisi pelanggan yang tepat",
+      "C": "penentuan segmen yang cermat",
+      "D": "memahami posisi persaingan di dalam industri"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Sebagian besar perusahaan menutup usahanya karena manajemen keuangannya yang buruk, dapat dinyatakan ....",
+    "pilihan": {
+      "A": "tidak memberikan informasi investor",
+      "B": "keberlanjutan keuangan tidak terjaga dengan baik",
+      "C": "mempunyai perencanaan pertumbuhan yang tidak optimal",
+      "D": "ekspektasi laba yang terlalu tinggi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Keberhasilan berbisnis di era digital tidak terlepas dari penerapan kunci transformasi dengan melakukan beberapa hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "sharing",
+      "B": "collaboration",
+      "C": "adaptation",
+      "D": "self actualization"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Keberhasilan Anda sangat dipengaruhi oleh kemampuan membuat sketsa model bisnis dalam menjabarkan ide-ide yang menjadi dasar pencarian informasi relevan disebut ....",
+    "pilihan": {
+      "A": "membangun portofolio ide",
+      "B": "strukturisasi model",
+      "C": "perubahan baru",
+      "D": "efektivitas pemula"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Salah satu elemen penting dalam membangun model bisnis canvas yang dapat mengakuisisi pelanggan, mempertahankan pelanggan, dan meningkatkan penjualan adalah ....",
+    "pilihan": {
+      "A": "key resource",
+      "B": "customer relationship",
+      "C": "key activities",
+      "D": "value proposition"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Memperkuat keunggulan produk/jasa yang dapat membedakan dengan pesaing merupakan blok .... pada lean canvas model.",
+    "pilihan": {
+      "A": "key resource",
+      "B": "customer relationship",
+      "C": "key activities",
+      "D": "value proposition"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Untuk dapat menyampaikan value proposition pada konsumen yang menjadi segmen perusahaan maka perlu didukung .... pada lean canvas model.",
+    "pilihan": {
+      "A": "key resource",
+      "B": "channels",
+      "C": "key activities",
+      "D": "value proposition"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Aktivitas kunci pada lean canvas model berkaitan produktivitas bisnis yang ditujukan untuk menghasilkan value proposition terdiri dari beberapa hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "produksi",
+      "B": "penyelesaian masalah",
+      "C": "relationship",
+      "D": "platform/jaringan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Salah satu komponen struktur biaya yang berusaha mendapatkan keuntungan dengan meningkatkan lingkup operasi usaha adalah ....",
+    "pilihan": {
+      "A": "biaya variabel",
+      "B": "economies of scale",
+      "C": "economies of scope",
+      "D": "biaya tetap"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Salah satu komponen struktur biaya yang berusaha mendapatkan keuntungan dengan memperluas output adalah ....",
+    "pilihan": {
+      "A": "biaya variabel",
+      "B": "economies of scale",
+      "C": "economies of scope",
+      "D": "biaya tetap"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Model bisnis yang dapat membantu pedagang untuk mempromosikan dan menjual barang dagangannya sekaligus memfasilitasi transaksi keuangan pelanggan disebut ....",
+    "pilihan": {
+      "A": "marketspace",
+      "B": "marketplace",
+      "C": "market segmen",
+      "D": "market target"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Model bisnis yang memberikan layanan dasar secara gratis kepada pengguna namun mengenakan tarif untuk layanan premium disebut ....",
+    "pilihan": {
+      "A": "exclusif",
+      "B": "freemium",
+      "C": "premium",
+      "D": "on-demand"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Berikut adalah contoh-contoh unfair advantage yang ada pada lean canvas model, kecuali ....",
+    "pilihan": {
+      "A": "informasi internal",
+      "B": "otoritas pribadi",
+      "C": "tim internal",
+      "D": "relationship"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Pada lean canvas model, Anda harus memperhatikan revenue streams (aliran dana) yang memberikan pendapatan bagi perusahaan dalam bentuk, kecuali ....",
+    "pilihan": {
+      "A": "faktor harga",
+      "B": "penjualan aset",
+      "C": "biaya berlangganan",
+      "D": "iklan"
+    },
+    "jawaban": "A"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Segala jenis tindakan ilegal yang dilakukan dengan menggunakan jaringan komputer dan internet sehingga mendapatkan keuntungan sepihak dengan merugikan pihak lain merupakan pengertian dari ....",
+    "pilihan": {
+      "A": "cyberattack",
+      "B": "cyberlaw",
+      "C": "cybercrime",
+      "D": "cyberterrorism"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Cybercrime merupakan sebuah kejahatan unik yang terjadi akibat adanya sebuah komunikasi dunia maya melalui internet. Karakteristik unik dari kejahatan di dunia maya tersebut antara lain menyangkut lima hal sebagai berikut, kecuali ....",
+    "pilihan": {
+      "A": "ruang lingkup kejahatan",
+      "B": "sifat kejahatan",
+      "C": "pelaku kejahatan",
+      "D": "penerima kejahatan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Kejahatan dunia maya yang dilakukan berdasarkan jenis aktivitas yang dilakukannya, di antaranya adalah ....",
+    "pilihan": {
+      "A": "unauthorizes access cybercrime",
+      "B": "illegal content",
+      "C": "cyber espionage, sabotage and extortion",
+      "D": "terorism attack"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Jika dilihat dari motif kejahatan dunia maya maka terdapat dua jenis kejahatan siber yang dapat dilihat dari motif kegiatan yang dilakukannya, yaitu ....",
+    "pilihan": {
+      "A": "carding",
+      "B": "probing",
+      "C": "cyber-tresspass",
+      "D": "cyberstalking"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Sebuah istilah metode yang digunakan untuk mengancam keamanan cyber disebut....",
+    "pilihan": {
+      "A": "trojans",
+      "B": "virus",
+      "C": "malware",
+      "D": "rasonware"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Badan perwakilan PBB yang membuat standar keamanan dengan kode Rekomendasi Seri X adalah ....",
+    "pilihan": {
+      "A": "IEEE",
+      "B": "IETF",
+      "C": "ITU",
+      "D": "IANA"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "ITU merupakan kependekan dari ....",
+    "pilihan": {
+      "A": "Indonesia Telecommunication Union",
+      "B": "International Telecommunication Union",
+      "C": "Internationale Telekomunikae Unione",
+      "D": "Ikatan Telekomunikasi Umum"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "ITU-T membentuk grup-grup untuk membuat standardisasi yang disingkat SG-n. Singkatan SG adalah ....",
+    "pilihan": {
+      "A": "study group",
+      "B": "serikat group",
+      "C": "school group",
+      "D": "summit group"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "SG-n yang bertanggung jawab untuk membuat standar keamanan adalah ....",
+    "pilihan": {
+      "A": "SG3",
+      "B": "SG11",
+      "C": "SG16",
+      "D": "SG17"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Salah satu dimensi keamanan dari ITU-T X.805 adalah ....",
+    "pilihan": {
+      "A": "backlog",
+      "B": "data integrity",
+      "C": "insecure communication",
+      "D": "policy"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Dimensi keamanan kontrol akses merupakan ....",
+    "pilihan": {
+      "A": "pengaturan terhadap akses sumber daya yang tidak sah",
+      "B": "orang yang memegang kendali jaringan",
+      "C": "kebijakan yang diambil atas jaringan",
+      "D": "tindakan melakukan akses ke komputer remote"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Audit merupakan salah satu komponen kontrol akses untuk ....",
+    "pilihan": {
+      "A": "menentukan identitas pengguna",
+      "B": "memberikan hak akses ke sumber daya",
+      "C": "melakukan penilaian terhadap sumber daya dan kebijakan",
+      "D": "mengelola sumber daya dan keamanan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Salah satu teknik untuk mengamankan data yang dikirim adalah ....",
+    "pilihan": {
+      "A": "menyalin pada CD",
+      "B": "mengirim lewat flashdisk",
+      "C": "mengkompresi data",
+      "D": "kriptografi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Berikut ini yang bukan menjaga kerahasiaan data adalah ....",
+    "pilihan": {
+      "A": "menggunakan fungsi hash",
+      "B": "melakukan autentikasi",
+      "C": "mengkompresi data",
+      "D": "menggunakan sertifikat digital"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Peran Trudy dalam keamanan data dan jaringan adalah ....",
+    "pilihan": {
+      "A": "pengirim pesan",
+      "B": "penyusup",
+      "C": "penerima pesan",
+      "D": "pemberi hadiah"
+    },
+    "jawaban": "B"
+  }
+]

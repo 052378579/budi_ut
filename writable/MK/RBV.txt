@@ -1,0 +1,53 @@
+Gunakan (Soal Tes Formatif 1:
+M2_s-20.pdf
+M2_s-21.pdf
+) Gunakan (Soal Tes Formatif 2:
+M1_s-28.pdf
+M1_s-29.pdf
+) dan Kunci Jawaban Tes Formatif 'M1_s-31.pdf'.
+Buat Soal Soal Tes Formatif 1 dan Soal Tes Formatif 2,
+Kunci Jawaban Tes Formatif menjadi FILE 'modul1.json' (lihat Template Standar ModulX.json)
+
+
+https://pustaka.ut.ac.id/reader/services/view.php?doc=M1&format=jpg&subfolder=MKWN4110/&page=1
+https://pustaka.ut.ac.id/reader/index.php?subfolder=MSIM4311/&doc=DAFIS.pdf
+https://pustaka.ut.ac.id/reader/services/view.php?doc=M1&format=jpg&subfolder=MSIM4311/&page=1
+
+SKOM4432	
+https://pustaka.ut.ac.id/reader/index.php?modul=SKOM443204
+
+MSIM4401	
+https://pustaka.ut.ac.id/reader/index.php?modul=MSIM4401
+https://pustaka.ut.ac.id/reader/services/view.php?doc=M1&format=jpg&subfolder=MSIM4401/&page=45
+
+https://pustaka.ut.ac.id/reader/index.php?subfolder=MSIM4311/&doc=M1.pdf
+https://pustaka.ut.ac.id/reader/services/view.php?doc=M1&format=jpg&subfolder=MSIM4311/&page=1
+	
+MSIM4308	
+https://pustaka.ut.ac.id/reader/index.php?modul=MSIM4308
+		
+MSIM4301	
+https://pustaka.ut.ac.id/reader/index.php?modul=MSIM4301
+	
+MSIM4208	
+https://pustaka.ut.ac.id/reader/index.php?modul=MSIM4208
+MSIM4303	
+https://pustaka.ut.ac.id/reader/index.php?modul=MSIM4303
+MKWI4202	
+https://pustaka.ut.ac.id/reader/index.php?modul=MKWI420202
+	
+MSIM4204	
+https://pustaka.ut.ac.id/reader/index.php?modul=MSIM4204
+
+
+
+
+
+
+
+
+
+
+
+
+

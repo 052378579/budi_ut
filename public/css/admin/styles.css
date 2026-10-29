@@ -1,0 +1,119 @@
+/* Base Layout Rules */
+body { 
+    background-color: #f0f4f8; 
+    font-family: 'Outfit', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: #334155;
+}
+[v-cloak] { display: none !important; }
+.cursor-pointer { cursor: pointer; }
+
+/* Tema Khusus Admin (Dark Red Gradient) - TETAP DIPERTAHANKAN SESUAI PERMINTAAN */
+.navbar-admin { 
+    background: linear-gradient(135deg, #8b0000 0%, #5a0000 100%); 
+    box-shadow: 0 4px 20px rgba(139, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+/* --- GLOBAL MODERN UI UTILITIES (Akan dipakai di semua tabel) --- */
+
+/* Modern Card Container */
+.admin-card {
+    background: #ffffff;
+    border-radius: 20px;
+    border: 1px solid rgba(0,0,0,0.05);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.03);
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+/* Modern Data Grid (Table) */
+.table-modern {
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-bottom: 0;
+    width: 100%;
+}
+.table-modern thead th {
+    background-color: #f8fafc;
+    color: #64748b;
+    font-weight: 700;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 1rem 1.5rem;
+    border-bottom: 2px solid #e2e8f0;
+    border-top: none;
+    white-space: nowrap;
+}
+.table-modern tbody td {
+    padding: 1.2rem 1.5rem;
+    vertical-align: middle;
+    border-bottom: 1px solid #f1f5f9;
+    color: #334155;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+.table-modern tbody tr:hover td {
+    background-color: #f8fafc;
+}
+.table-modern tbody tr:last-child td {
+    border-bottom: none;
+}
+
+/* Elegant Badges */
+.badge-soft-primary { background-color: #e0e7ff; color: #4338ca; }
+.badge-soft-success { background-color: #dcfce7; color: #15803d; }
+.badge-soft-danger { background-color: #fee2e2; color: #b91c1c; }
+.badge-soft-warning { background-color: #fef9c3; color: #a16207; }
+.badge-soft-info { background-color: #e0f2fe; color: #0369a1; }
+.badge-soft-secondary { background-color: #f1f5f9; color: #475569; }
+
+.badge-pill {
+    padding: 0.35em 0.8em;
+    border-radius: 50rem;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+}
+
+/* Action Buttons */
+.btn-action {
+    width: 32px; height: 32px;
+    padding: 0;
+    display: inline-flex; align-items: center; justify-content: center;
+    border-radius: 8px;
+    transition: all 0.2s;
+    background: #fff;
+}
+.btn-action:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Sinkronisasi Navigasi Pagination Global */
+.pagination .page-link { color: #8b0000; border-radius: 5px; margin: 0 2px; }
+.pagination .page-item.active .page-link { background-color: #8b0000; border-color: #8b0000; color: white; }
+
+/* Desain Footer Squiggle */
+.footer-heart {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin-top: 10px;
+}
+.footer-heart a {
+    border-bottom: 1px solid #8b0000;
+    color: #8b0000;
+    padding-bottom: .25em; 
+    text-decoration: none;
+    font-weight: 600;
+}
+.footer-heart a:hover {
+    color: #dc3545; 
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%238b0000' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+    background-position: bottom;
+    background-repeat: repeat-x;
+    background-size: 20%;
+    border-bottom: 0;
+    padding-bottom: .3em;
+    text-decoration: none;
+}
+.emoji { vertical-align: middle; }

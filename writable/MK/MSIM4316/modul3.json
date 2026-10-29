@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Yang dimaksud dengan eksterior gateway protocol adalah ....",
+    "pilihan": {
+      "A": "kategori protokol *routing* yang digunakan jaringan *router* pada *Autonomous System* yang berbeda.",
+      "B": "kategori protokol *routing* yang digunakan jaringan *router* dalam satu *Autonomous System*.",
+      "C": "protokol *routing* yang menggunakan *cost* sebagai *metric*.",
+      "D": "protokol *routing* yang menggunakan *hop* sebagai *metric*."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Nilai *default administrative distance* protokol BGP adalah ....",
+    "pilihan": {
+      "A": "110",
+      "B": "90",
+      "C": "30",
+      "D": "20"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut ini merupakan karakteristik protokol *routing* BGP, *kecuali* ....",
+    "pilihan": {
+      "A": "menggunakan protokol TCP",
+      "B": "updating tabel menggunakan konsep distance vector dan dilakukan secara periodic",
+      "C": "updating tabel menggunakan konsep distance vector dan dilakukan ketika terjadi perubahan",
+      "D": "secara periodik selalu melakukan pengiriman *keepalive*"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Nilai periode *update* tabel *routing* pada protokol *routing* BGP adalah ....",
+    "pilihan": {
+      "A": "30 detik",
+      "B": "30 menit",
+      "C": "60 menit",
+      "D": "Jawaban A, B, dan C salah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Berikut merupakan metric yang digunakan protokol *routing* BGP, *kecuali* ....",
+    "pilihan": {
+      "A": "Cost",
+      "B": "AS path",
+      "C": "Local Pref",
+      "D": "MED"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut ini merupakan nomor AS yang dapat digunakan pada jaringan internet, *kecuali* ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "64513",
+      "D": "64000"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Mekanisme yang digunakan untuk menghubungkan antar protokol *routing* yang berbeda adalah ....",
+    "pilihan": {
+      "A": "routing information protocol",
+      "B": "route redistribute",
+      "C": "poison reverse",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "BGP secara berkala mengirim pesan .... untuk menjaga hubungan antar *peer*.",
+    "pilihan": {
+      "A": "notification",
+      "B": "update",
+      "C": "keepalive",
+      "D": "open"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut merupakan klasifikasi atribut BGP, *kecuali* ....",
+    "pilihan": {
+      "A": "well-know mandatory",
+      "B": "well-known transitive",
+      "C": "well-known discretionary",
+      "D": "optional transitive"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Solusi sementara ketika dua organisasi hendak menggabungkan dua jaringan *router* dengan protokol *routing* yang berbeda adalah ....",
+    "pilihan": {
+      "A": "routing information protocol",
+      "B": "route redistribute",
+      "C": "BGP",
+      "D": "OSPF"
+    },
+    "jawaban": "B"
+  }
+]

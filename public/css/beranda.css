@@ -1,0 +1,108 @@
+/* ==========================================================================
+   BERANDA - STYLESHEET (public/css/beranda.css)
+   ========================================================================== */
+
+/* Hero Section (Area Pencarian Atas) */
+.hero-bg {
+    background-color: #ffffff; 
+    color: #212529; 
+    /* Padding top dinamis 120px untuk kompensasi Poni & Navbar */
+    padding-top: calc(env(safe-area-inset-top) + 120px) !important;
+    padding-bottom: 60px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-bottom: 40px;
+    border-bottom: 1px solid #dee2e6;
+}
+
+/* Tombol Filter Kategori */
+.btn-filter {
+    border-radius: 25px;
+    padding: 8px 24px;
+    transition: 0.2s ease-in-out;
+}
+
+/* Kotak Pencarian */
+.search-box {
+    border-radius: 30px;
+    padding: 16px 25px; 
+    border: 2px solid #dee2e6;
+    background-color: #f8f9fa;
+    color: #212529;
+    transition: all 0.3s ease;
+}
+
+.search-box::placeholder { 
+    color: #6c757d; 
+    font-size: 0.95rem; 
+}
+
+.search-box:focus {
+    background-color: #ffffff;
+    border-color: #004da1;
+    color: #212529;
+    box-shadow: 0 0 0 0.25rem rgba(0, 77, 161, 0.15);
+}
+
+/* Glassmorphism Modal Login */
+.glass-modal {
+    background: rgba(255, 255, 255, 0.75) !important; 
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15) !important;
+    border: 1px solid rgba(255, 255, 255, 0.4) !important;
+}
+
+.glass-modal .form-control {
+    background-color: rgba(255, 255, 255, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    transition: all 0.3s ease;
+}
+
+.glass-modal .form-control:focus {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-color: #004da1;
+    box-shadow: 0 0 10px rgba(0, 77, 161, 0.1);
+}
+
+.glass-modal .modal-header {
+    background: transparent !important;
+}
+
+/* Animasi Tombol Favorit Melayang */
+.btn-fav { 
+    z-index: 10; 
+    transition: transform 0.2s; 
+}
+
+.btn-fav:hover { 
+    transform: scale(1.1); 
+    background-color: #f8f9fa !important; 
+}
+
+/* Kustomisasi Struktural Kartu MK */
+.mk-card {
+    border-radius: 24px !important;
+    overflow: hidden !important;
+    border: none !important;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+}
+
+.mk-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.08) !important;
+}
+
+.card-header-custom {
+    font-size: 0.95rem;
+    letter-spacing: 0.5px;
+}
+
+/* Skala Teks Responsif untuk Mobile */
+@media (max-width: 575.98px) {
+    .btn-filter { padding: 7px 18px; font-size: 0.9rem; }
+    .mk-card .card-title { font-size: 0.85rem; }
+    .prodi-badges .badge { font-size: 0.65rem !important; }
+    .card-body.p-3 { padding: 0.75rem !important; }
+}

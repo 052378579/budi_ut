@@ -1,0 +1,302 @@
+[
+  {
+    "pertanyaan": "Bagian dari Pengantar Pendidikan Pancasila adalah ....",
+    "pilihan": {
+      "A": "Apa itu Pancasila?",
+      "B": "Ada apa dengan Pancasila?",
+      "C": "Di mana Pancasila?",
+      "D": "Filsafat Pancasila"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Kata “Pancasila” berasal dari bahasa ....",
+    "pilihan": {
+      "A": "Jawa Kuno",
+      "B": "Sanskerta",
+      "C": "Melayu",
+      "D": "Hindia Belanda"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Panca berarti ....",
+    "pilihan": {
+      "A": "empat",
+      "B": "lima",
+      "C": "tiga",
+      "D": "dua"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pancasila berarti lima ....",
+    "pilihan": {
+      "A": "butir",
+      "B": "asas",
+      "C": "hukum",
+      "D": "aturan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Contoh pengamalan sila ke 5 Pancasila, ialah ....",
+    "pilihan": {
+      "A": "mengikuti tes masuk UKM sesuai prosedur yang berlaku",
+      "B": "membantu mengantar teman ke kampus",
+      "C": "meminta perlakuan spesial ke dosen karena relasi khusus",
+      "D": "meminta tolong isi daftar hadir ke teman, padahal tidak masuk"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan dinamika dalam memahami Pendidikan Pancasila di perguruan tinggi, kecuali ....",
+    "pilihan": {
+      "A": "tantangan global",
+      "B": "interpretasi beragam",
+      "C": "pluralitas",
+      "D": "ekonomi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut ini yang bukan termasuk penerapan Pancasila, yaitu ....",
+    "pilihan": {
+      "A": "membayar pajak kendaraan bermotor",
+      "B": "tidak pernah ikut ronda karena alasan terlalu malam",
+      "C": "hadir di pernikahan mantan",
+      "D": "mengadakan gerakan bagi nasi bungkus"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan tantangan pluralitas, kecuali menghadapi ....",
+    "pilihan": {
+      "A": "isu-isu artis terkini",
+      "B": "Pilpres 2024 mendatang",
+      "C": "perbedaan suku",
+      "D": "perbedaan agama"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk tantangan globalisasi, kecuali ....",
+    "pilihan": {
+      "A": "teknologi informasi yang semakin berkembang",
+      "B": "munculnya berita hoax",
+      "C": "penggunaan media sosial dengan bijak",
+      "D": "menjadi YouTuber"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Salah satu tujuan Pendidikan Pancasila di perguruan tinggi supaya ....",
+    "pilihan": {
+      "A": "mahasiswa aktif dalam politik",
+      "B": "mahasiswa cakap menyampaikan protes",
+      "C": "mahasiswa aktif membuat konten",
+      "D": "memenuhi kewajiban sks"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pendidikan Pancasila mendorong mahasiswa untuk menjadi warga negara yang ....",
+    "pilihan": {
+      "A": "pasif dan partisipatif",
+      "B": "individualis dan partisipatif",
+      "C": "aktif dan partisipatif",
+      "D": "aktif dan responsif"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pancasila dijadikan sebagai landasan negara dan dasar hukum untuk mengatur kehidupan ....",
+    "pilihan": {
+      "A": "pribadi, politik, dan ekonomi Indonesia",
+      "B": "sosial, golongan, dan ekonomi Indonesia",
+      "C": "sosial, politik, dan budaya Indonesia",
+      "D": "sosial, politik, dan ekonomi Indonesia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Keadilan sosial bagi seluruh rakyat Indonesia. Prinsip ini menekankan perlunya pembangunan ekonomi yang adil dan merata untuk ....",
+    "pilihan": {
+      "A": "semua rakyat pulau jawa di Indonesia",
+      "B": "kalangan atas di Indonesia",
+      "C": "semua partai di Indonesia",
+      "D": "semua rakyat Indonesia"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Pancasila di perguruan tinggi memiliki peran penting dalam membentuk ....",
+    "pilihan": {
+      "A": "karakter, identitas bangsa, dan kemampuan berpikir kritis mahasiswa",
+      "B": "jiwa, raga, dan identitas mahasiswa",
+      "C": "karakter, moral, dan kemampuan demonstrasi mahasiswa",
+      "D": "moral, etika, dan kemampuan olahraga mahasiswa"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Prinsip yang menyatakan bahwa Indonesia mengakui adanya Tuhan yang Maha Esa, menunjukkan adanya jaminan kebebasan ....",
+    "pilihan": {
+      "A": "berbudaya dan menghormati semua suku dan kepercayaan dalam masyarakat Indonesia",
+      "B": "beragama dan menghormati semua agama dan kepercayaan dalam masyarakat Indonesia",
+      "C": "berpendapat dan menghormati budaya dan kepercayaan dalam masyarakat Indonesia",
+      "D": "bertakhta dan menghormati semua agama dan kepercayaan dalam masyarakat Indonesia"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk dalam ruang lingkup Pendidikan Pancasila, kecuali ....",
+    "pilihan": {
+      "A": "Pancasila menjadi dasar negara",
+      "B": "Pancasila menjadi pilar negara",
+      "C": "Pancasila menjadi ideologi",
+      "D": "Pengantar Pendidikan Pancasila"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Objek formal adalah ....",
+    "pilihan": {
+      "A": "sudut pandang",
+      "B": "materi yang dikaji",
+      "C": "opini",
+      "D": "pendapat"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Tindakan nyata dalam usaha persatuan dan kesatuan adalah ....",
+    "pilihan": {
+      "A": "kerja bakti di kampus",
+      "B": "demonstrasi",
+      "C": "mengikuti kegiatan UKM",
+      "D": "menggunakan transportasi umum ke kampus"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Salah satu pendekatan yang dapat diterapkan untuk memahami Pancasila, adalah ....",
+    "pilihan": {
+      "A": "mendirikan pusat studi Pancasila",
+      "B": "mengikuti workshop Pancasila sebagai pilar",
+      "C": "kehadiran kampung Pancasila",
+      "D": "film bertema Pancasila"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini yang termasuk objek material Pendidikan Pancasila adalah....",
+    "pilihan": {
+      "A": "keragaman budaya",
+      "B": "kegiatan keagamaan di kampus",
+      "C": "tugas kuliah",
+      "D": "teks pembukaan UUD 1945"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Berikut merupakan tantangan Pendidikan Pancasila di perguruan tinggi, kecuali ....",
+    "pilihan": {
+      "A": "keragaman latar budaya mahasiswa",
+      "B": "penggunaan bahasa Indonesia",
+      "C": "banyaknya fakultas dan disiplin ilmu",
+      "D": "perbedaan pemahaman nilai nilai Pancasila"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan tindakan di luar ideologi Pancasila, kecuali ....",
+    "pilihan": {
+      "A": "intoleransi",
+      "B": "terorisme",
+      "C": "sukuisme",
+      "D": "tenggang rasa"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Reaksi yang mencerminkan pemahaman Pancasila adalah ....",
+    "pilihan": {
+      "A": "menyebar informasi tanpa konfirmasi",
+      "B": "menerima informasi satu pihak",
+      "C": "membantu teman yang merasa sendiri",
+      "D": "acuh terhadap teman yang lama tidak terlihat di kampus"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Contoh penerapan etika di kampus adalah ....",
+    "pilihan": {
+      "A": "menghubungi dosen tengah malam karena tidak puas dengan nilai",
+      "B": "meminta tolong teman mengisi daftar hadir padahal tidak masuk",
+      "C": "tidak menggunakan knalpot brong di lingkungan kampus",
+      "D": "datang terlambat saat kuliah karena bangun kesiangan"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan penerapan tenggang rasa dalam pluralitas di kampus, yaitu dengan memaklumi ....",
+    "pilihan": {
+      "A": "gaya dan logat bahasa teman lain daerah",
+      "B": "dosen yang terlambat mengajar",
+      "C": "teman yang tidak mengumpulkan tugas kuliah",
+      "D": "kawan yang ketiduran di kelas saat kuliah"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai ideologi merujuk pada seperangkat ....",
+    "pilihan": {
+      "A": "akal, moral, nilai, dan keyakinan",
+      "B": "pandangan, nilai, keyakinan, dan prinsip-prinsip",
+      "C": "nilai, asas, keyakinan, dan etika",
+      "D": "etika, moral, nilai, dan keyakinan"
+    },
+    "jawaban_benar": "B"
+  },
+  {
+    "pertanyaan": "Pancasila sebagai ideologi digunakan sebagai landasan negara Indonesia dan menjadi pedoman bagi seluruh warga negara dalam mengatur hubungan ....",
+    "pilihan": {
+      "A": "pribadi, politik, dan budaya",
+      "B": "politik, luar negeri, dan ekonomi",
+      "C": "masyarakat, politik, dan kesenian",
+      "D": "sosial, politik, dan ekonomi"
+    },
+    "jawaban_benar": "D"
+  },
+  {
+    "pertanyaan": "Sebagai sistem filsafat, Pancasila mengandung prinsip-prinsip filsafat yang mendasari setiap aspek kehidupan manusia, termasuk tata nilai ....",
+    "pilihan": {
+      "A": "etika dan estetika",
+      "B": "moral dan ketuhanan",
+      "C": "etika dan moral",
+      "D": "etika dan adab"
+    },
+    "jawaban_benar": "C"
+  },
+  {
+    "pertanyaan": "Pancasila memberikan arah dan panduan bagi pengembangan ilmu pengetahuan dan penelitian di Indonesia merupakan makna dari Pancasila menjadi dasar pengembangan ....",
+    "pilihan": {
+      "A": "ilmu",
+      "B": "moral",
+      "C": "etika",
+      "D": "budaya"
+    },
+    "jawaban_benar": "A"
+  },
+  {
+    "pertanyaan": "Berikut ini merupakan teks-teks dasar yang berhubungan dengan Pancasila, kecuali ....",
+    "pilihan": {
+      "A": "Pembukaan UUD 1945",
+      "B": "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945",
+      "C": "Piagam Nasional",
+      "D": "Dekrit Presiden 5 Juli 1959"
+    },
+    "jawaban_benar": "C"
+  }
+]

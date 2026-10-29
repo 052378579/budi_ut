@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut merupakan kerangka kerja Porter's Five Forces Factor, kecuali ....",
+    "pilihan": {
+      "A": "positioning strategy berdasarkan cost leadership",
+      "B": "positioning strategy berdasarkan differentiation",
+      "C": "positioning strategy berdasarkan reactor strategy",
+      "D": "positioning strategy berdasarkan business focus strategy"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Serangkaian langkah yang harus dilalui untuk dapat mencapai cita-cita yang diharapkan oleh organisasi adalah ....",
+    "pilihan": {
+      "A": "visi",
+      "B": "misi",
+      "C": "sasaran",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Alat untuk mengaudit lingkungan eksternal ....",
+    "pilihan": {
+      "A": "Matriks IFE",
+      "B": "Matriks EFE",
+      "C": "Matriks QSPM",
+      "D": "Jawaban A, B, dan C benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Strategi yang menggunakan kekuatan untuk memanfaatkan peluang yang tersedia adalah strategi ....",
+    "pilihan": {
+      "A": "ST",
+      "B": "ST",
+      "C": "WO",
+      "D": "SW"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Matriks yang memanfaatkan dimensi kekuatan finansial, kekuatan industri, keunggulan kompetitif dan stabilitas lingkungan adalah ....",
+    "pilihan": {
+      "A": "QSPM",
+      "B": "BCG",
+      "C": "SPACE",
+      "D": "IFE"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Strategi perusahaan untuk mempertahankan kompetensi dasar perusahaan dan tidak mengambil risiko yang berlebihan, merupakan strategi yang bersifat ....",
+    "pilihan": {
+      "A": "agresif",
+      "B": "konservatif",
+      "C": "kompetitif",
+      "D": "defensif"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Strategi perusahaan untuk focus memperbaiki kelemahan internal adalah ....",
+    "pilihan": {
+      "A": "agresif",
+      "B": "konservatif",
+      "C": "kompetitif",
+      "D": "defensif"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Kuadran yang sangat menguntungkan suatu perusahaan adalah ....",
+    "pilihan": {
+      "A": "sapi perah",
+      "B": "bintang",
+      "C": "tanda tanya",
+      "D": "anjing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Matrik yang digunakan untuk memutuskan strategi yang dipilih dari beberapa alternative yang tersedia adalah ....",
+    "pilihan": {
+      "A": "Strength Weakness Opportunity Threats",
+      "B": "Boston Consulting Group",
+      "C": "Strategic Position And Action Evaluation",
+      "D": "Quantitative Strategic Planning Matrix"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pangsa pasar yang rendah dengan tingkat pertumbuhan tinggi, diwakili oleh kuadran ....",
+    "pilihan": {
+      "A": "sapi perah",
+      "B": "bintang",
+      "C": "tanda tanya",
+      "D": "anjing"
+    },
+    "jawaban": "C"
+  }
+]

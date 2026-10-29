@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan model perkiraan perbandingan?",
+    "pilihan": {
+      "A": "Metode perbandingan merupakan metode yang paling rumit dalam memperkirakan jumlah penduduk masa akan datang. Metode ini digunakan apabila perhitungan terkendala dengan masalah ketersediaan data. Metode perbandingan ini sangat terbatas penggunaannya. Barangkali untuk suatu daerah yang baru tumbuh, hal itu akan sangat bermanfaat.",
+      "B": "Metode perbandingan merupakan metode yang paling mendekati kebenaran dalam memperkirakan jumlah penduduk masa akan datang. Metode ini digunakan apabila perhitungan terkendala dengan masalah ketersediaan data. Metode perbandingan ini sangat terbatas penggunaannya. Barangkali untuk suatu daerah yang baru tumbuh, hal itu akan sangat bermanfaat.",
+      "C": "Metode perbandingan merupakan metode yang paling sederhana dalam memperkirakan jumlah penduduk masa akan datang. Metode ini digunakan apabila perhitungan terkendala dengan masalah ketersediaan data. Metode perbandingan ini sangat terbatas penggunaannya. Barangkali untuk suatu daerah yang baru tumbuh, hal itu akan sangat bermanfaat.",
+      "D": "Metode perbandingan merupakan metode yang paling sederhana dalam memperkirakan jumlah penduduk masa akan datang. Metode ini digunakan apabila perhitungan terkendala dengan masalah ketersediaan data. Metode perbandingan cocok digunakan untuk suatu daerah yang berkembang dengan pesat."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Model linier adalah teknik proyeksi yang paling sederhana dari seluruh model berdasarkan kecenderungan. Hasil proyeksi akan berbentuk suatu garis lengkung. Model ini berasumsi bahwa penduduk akan bertambah/berkurang sebesar jumlah absolut yang sama/tetap pada masa yang akan datang sesuai dengan kecenderungan yang terjadi pada masa lalu. Asumsi bahwa rata-rata pertambahan penduduk itu sama/tetap merupakan kelemahan model ini.",
+      "B": "Model linier adalah teknik proyeksi yang paling sederhana dari seluruh model berdasarkan kecenderungan. Hasil proyeksi akan berbentuk suatu garis lurus. Model ini berasumsi bahwa penduduk akan bertambah/berkurang sebesar jumlah absolut yang sama/tetap pada masa yang akan datang sesuai dengan kecenderungan yang terjadi pada masa lalu. Asumsi bahwa rata-rata pertambahan penduduk adalah sama/tetap merupakan kekuatan model ini.",
+      "C": "Model linier adalah teknik proyeksi yang paling sederhana dari seluruh model berdasarkan kecenderungan. Hasil proyeksi akan berbentuk suatu garis lurus. Model ini berasumsi bahwa penduduk akan bertambah/berkurang sebesar jumlah absolut yang berbeda sesuai dengan kecenderungan yang terjadi pada masa lalu. Asumsi bahwa rata-rata pertambahan penduduk adalah sama/tetap merupakan kelemahan model ini.",
+      "D": "Model linier adalah teknik proyeksi yang paling sederhana dari seluruh model berdasarkan kecenderungan. Hasil proyeksi akan berbentuk suatu garis lurus. Model ini berasumsi bahwa penduduk akan bertambah/berkurang sebesar jumlah absolut yang sama/tetap pada masa yang akan datang sesuai dengan kecenderungan yang terjadi pada masa lalu. Asumsi bahwa rata-rata pertambahan penduduk adalah sama/tetap merupakan kelemahan model ini."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Model bunga berganda berasumsi bahwa penduduk akan bertambah/berkurang pada tingkat pertumbuhan (persentase) yang tetap. Proyeksi ini umumnya dapat diterapkan pada wilayah yang pada tahun-tahun awal observasi pertambahan penduduknya sedikit dan menjadi semakin banyak pada tahun-tahun akhir. Model ini juga menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya. Dengan menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya, teknik ini tidak mempertimbangkan kenyataan empiris bahwa setelah waktu tertentu (jangka panjang), derajat pertambahan penduduk relatif menurun.",
+      "B": "Model bunga berganda berasumsi bahwa penduduk akan bertambah/berkurang pada tingkat pertumbuhan (persentase) yang tidak tetap. Proyeksi ini umumnya dapat diterapkan di wilayah yang pada tahun-tahun awal observasi pertambahan penduduknya sedikit dan menjadi semakin banyak pada tahun-tahun akhir. Model ini juga menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya. Dengan menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya, teknik ini tidak mempertimbangkan kenyataan empiris bahwa setelah waktu tertentu (jangka panjang), derajat pertambahan penduduk relatif menurun.",
+      "C": "Model bunga berganda berasumsi bahwa penduduk akan bertambah/berkurang pada tingkat pertumbuhan (persentase) yang tidak tetap. Proyeksi ini umumnya dapat diterapkan di wilayah yang pada tahun-tahun awal observasi pertambahan penduduknya sedikit dan menjadi semakin banyak pada tahun-tahun akhir. Model ini juga menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya. Dengan menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya, teknik ini mempertimbangkan kenyataan empiris bahwa setelah waktu tertentu (jangka panjang), derajat pertambahan penduduk relatif menurun.",
+      "D": "Model bunga berganda berasumsi bahwa penduduk akan bertambah/berkurang pada tingkat pertumbuhan (persentase) yang tetap. Proyeksi ini umumnya dapat diterapkan pada wilayah yang sudah berkembang dengan pesat. Model ini juga menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya. Dengan menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya, teknik ini tidak mempertimbangkan kenyataan empiris bahwa setelah waktu tertentu (jangka panjang), derajat pertambahan penduduk relatif menurun."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan model proyeksi penduduk cohort?",
+    "pilihan": {
+      "A": "Dibandingkan dengan metode-metode lainnya, metode cohort merupakan metode proyeksi penduduk yang paling tidak mendekati kebenaran. Dengan metode cohort, jumlah penduduk pada tiap kelompok umur dapat terdeteksi. Informasi ini sangat berguna dalam menghitung kebutuhan fasilitas yang terkait dengan umur, contohnya menghitung kebutuhan penyediaan fasilitas pendidikan.",
+      "B": "Dibandingkan dengan metode-metode lainnya, metode cohort merupakan metode proyeksi penduduk yang paling tidak mendekati kebenaran. Dengan metode cohort, jumlah penduduk pada tiap kelompok umur tidak dapat terdeteksi. Informasi ini sangat berguna dalam menghitung kebutuhan fasilitas yang terkait dengan umur, contohnya menghitung kebutuhan penyediaan fasilitas pendidikan.",
+      "C": "Dibandingkan dengan metode-metode lainnya, metode cohort merupakan metode proyeksi penduduk yang paling mendekati kebenaran. Dengan metode Cohort, jumlah penduduk pada tiap kelompok umur tidak dapat terdeteksi. Informasi ini sangat berguna dalam menghitung kebutuhan fasilitas yang terkait dengan umur, contohnya menghitung kebutuhan penyediaan fasilitas pendidikan.",
+      "D": "Dibandingkan dengan metode-metode lainnya, metode cohort merupakan metode proyeksi penduduk yang paling mendekati kebenaran. Berbeda dengan metode-metode lainnya, dengan metode cohort, jumlah penduduk pada tiap kelompok umur dapat terdeteksi. Informasi ini sangat berguna dalam menghitung kebutuhan fasilitas yang terkait dengan umur, contohnya menghitung kebutuhan penyediaan fasilitas pendidikan."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Untuk daerah-daerah yang mengalami kendala dalam ketersediaan data, metode linier merupakan metode yang paling cocok digunakan untuk memperkirakan jumlah penduduk masa yang akan datang.",
+      "B": "Untuk daerah-daerah yang mengalami kendala dalam ketersediaan data, metode bunga berganda merupakan metode yang paling cocok digunakan untuk memperkirakan jumlah penduduk masa yang akan datang.",
+      "C": "Untuk daerah-daerah yang mengalami kendala dalam ketersediaan data, metode perkiraan perbandingan merupakan metode yang paling cocok digunakan untuk memperkirakan jumlah penduduk masa yang akan datang.",
+      "D": "Untuk daerah-daerah yang mengalami kendala dalam ketersediaan data, metode cohort merupakan metode yang paling cocok digunakan untuk memperkirakan jumlah penduduk masa yang akan datang."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang paling tepat?\n(1) Metode perbandingan merupakan metode yang paling sederhana. Cara ini digunakan apabila kita menghadapi kendala masalah ketersediaan data.\n(2) Metode perbandingan sangat terbatas penggunaannya. Barangkali untuk suatu daerah yang baru tumbuh, metode ini sangat bermanfaat.\n(3) Metode perbandingan dapat digunakan di mana saja, terutama untuk suatu daerah yang telah berkembang dengan pesat.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Model linier hanya digunakan jika data yang tersedia relatif terbatas sehingga tidak memungkinkan menggunakan model lain.\n(2) Biasanya model linier hanya dapat diaplikasikan untuk wilayah luas dengan pertumbuhan yang cepat.\n(3) Biasanya model linier hanya dapat diaplikasikan untuk wilayah kecil dengan pertumbuhan yang lambat dan tidak tepat untuk proyeksi pada wilayah-wilayah yang lebih luas dengan pertumbuhan penduduk yang tinggi.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Model bunga berganda berasumsi bahwa penduduk akan bertambah/berkurang pada tingkat pertumbuhan (persentase) yang tetap.\n(2) Model bunga berganda menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya.\n(3) Dengan menganggap bahwa perkembangan jumlah penduduk akan berganda dengan sendirinya, teknik ini tidak mempertimbangkan kenyataan empiris bahwa setelah waktu tertentu (jangka panjang), derajat pertambahan penduduk relatif menurun.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Salah satu teknik proyeksi penduduk yang lebih mendekati kebenaran adalah cohort survival method.\n(2) Metode cohort menggunakan data kelahiran, kematian, migrasi masuk, dan migrasi keluar dalam menghitung jumlah penduduk pada tiap interval waktu.\n(3) Metode cohort tidak terlalu menuntut persyaratan data yang lengkap.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat dalam kaitannya dengan metode perkiraan perbandingan?\n(1) Salah satu masalah yang dihadapi dalam memilih daerah pola adalah harus mencari suatu daerah pola yang mempunyai ciri pertumbuhan faktor sosial, ekonomi, dan politik yang dapat diperbandingkan dengan daerah yang diselidiki. Hal ini membutuhkan suatu analisis yang cukup rumit, bahkan sering kali tidak mungkin dan tidak praktis.\n(2) Salah satu masalah yang dihadapi dalam memilih daerah pola adalah harus mencari suatu daerah pola yang cukup hanya mempunyai ciri pertumbuhan faktor sosial yang dapat diperbandingkan dengan daerah yang diselidiki.\n(3) Salah satu cara yang biasanya ditempuh adalah menggunakan daerah pola yang cukup luas, yaitu daerah studi menjadi bagian dari daerah pola.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan teknik kuosien lokasi (location quotient)?",
+    "pilihan": {
+      "A": "LQ adalah suatu metode untuk menghitung sumbangan nilai tambah sebuah sektor di suatu daerah (kabupaten/kota) terhadap provinsi atau nasional.",
+      "B": "LQ adalah suatu metode untuk menghitung total nilai sumbangan sebuah sektor di suatu daerah (kabupaten/kota) terhadap sumbangan nilai tambah sektor yang bersangkutan dalam skala provinsi atau nasional.",
+      "C": "LQ adalah suatu metode untuk menghitung perbandingan relatif sumbangan nilai tambah sebuah daerah (kabupaten/kota) terhadap provinsi atau nasional.",
+      "D": "LQ adalah suatu metode untuk menghitung perbandingan relatif sumbangan nilai tambah sebuah sektor di suatu daerah (kabupaten/kota) terhadap sumbangan nilai tambah sektor yang bersangkutan dalam skala provinsi atau nasional."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Jika LQ > 1 maka suatu sektor dikatakan bukan sektor basis dan jika LQ < 1 maka suatu sektor dikatakan sektor basis.",
+      "B": "Jika LQ > 1 maka suatu sektor dikatakan sektor basis dan jika LQ < 1 maka suatu sektor dikatakan bukan sektor basis.",
+      "C": "Jika LQ > 1 maka suatu sektor dikatakan sektor utama dan jika LQ < 1 maka suatu sektor dikatakan sektor pendukung.",
+      "D": "Jika LQ > 1 maka suatu sektor dikatakan sektor pendukung dan jika LQ < 1 maka suatu sektor dikatakan sektor utama."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Pertumbuhan ekonomi dan pergeseran struktural suatu perekonomian daerah ditentukan oleh provincial share (Sp) dan differential shift (Sd). Kedua komponen shift—yaitu Sp dan Sd—memisahkan unsur-unsur pertumbuhan regional yang bersifat eksternal dan internal. Sp merupakan akibat pengaruh unsur-unsur eksternal yang bekerja secara nasional (provinsi), sedangkan Sd adalah akibat dari pengaruh faktor-faktor yang bekerja dalam daerah yang bersangkutan",
+      "B": "Pertumbuhan ekonomi dan pergeseran struktural suatu perekonomian daerah ditentukan oleh provincial share (Sp), proportional (industry-mix) shift dan differential shift (Sd). Kedua komponen shift—yaitu Sp dan Sd—memisahkan unsur-unsur pertumbuhan regional yang bersifat eksternal dan internal. Sp merupakan akibat pengaruh unsur-unsur internal yang bekerja secara nasional (provinsi), sedangkan Sd adalah akibat dari pengaruh faktor-faktor yang bekerja di luar daerah yang bersangkutan.",
+      "C": "Pertumbuhan ekonomi dan pergeseran struktural suatu perekonomian daerah ditentukan oleh provincial share (Sp), proportional (industry-mix) shift dan differential shift (Sd). Kedua komponen shift—yaitu Sp dan Sd—memisahkan unsur-unsur pertumbuhan regional yang bersifat eksternal dan internal. Sp merupakan akibat pengaruh unsur-unsur eksternal yang bekerja secara nasional (provinsi), sedangkan Sd adalah akibat dari pengaruh faktor-faktor yang bekerja dalam daerah yang bersangkutan.",
+      "D": "Pertumbuhan ekonomi dan pergeseran struktural suatu perekonomian daerah ditentukan oleh provincial share (Sp) dan differential shift (Sd). Kedua komponen shift—yaitu Sp dan Sd—memisahkan unsur-unsur pertumbuhan regional yang bersifat eksternal dan internal. Sp merupakan akibat pengaruh unsur-unsur eksternal yang bekerja secara nasional (provinsi), sedangkan Sd adalah akibat dari pengaruh faktor-faktor yang bekerja dalam daerah yang bersangkutan."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan metode input output?",
+    "pilihan": {
+      "A": "Tujuan umum model I-O ialah menjelaskan besaran aliran antarindustri dalam hubungannya dengan tingkat produksi dalam setiap sektor. Satu aspek yang sangat penting dalam perekonomian, yaitu hubungan antarindustri. Hubungan ini bersifat saling ketergantungan satu dengan yang lain.",
+      "B": "Tujuan umum model I-O ialah menjelaskan aliran dana antarindustri dalam hubungannya dengan tingkat produksi dalam setiap sektor. Satu aspek yang sangat penting dalam perekonomian, yaitu hubungan pinjam-meminjam. Hubungan ini bersifat saling ketergantungan satu dengan yang lain.",
+      "C": "Tujuan umum model I-O ialah menjelaskan aliran dana antarindustri dalam hubungannya dengan tingkat produksi dalam setiap sektor. Satu aspek yang sangat penting dalam perekonomian, yaitu hubungan pinjam-meminjam. Hubungan ini bersifat saling ketergantungan satu dengan yang lain.",
+      "D": "Tujuan umum model I-O ialah menjelaskan besaran aliran antarindustri dalam hubungannya dengan tingkat produksi dalam setiap sektor. Satu aspek yang sangat penting dalam perekonomian, yaitu hubungan antarindustri. Hubungan ini bersifat tidak saling ketergantungan satu dengan yang lain."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Tabel input output adalah suatu uraian statistik dalam bentuk matriks baris dan kolom yang menggambarkan transaksi barang dan jasa serta keterkaitan suatu sektor dengan sektor lainnya. Besarnya ketergantungan suatu sektor tertentu terhadap sektor yang lain ditentukan oleh output yang dihasilkan.",
+      "B": "Tabel input output adalah suatu uraian statistik dalam bentuk aliran barang yang menggambarkan transaksi barang dan jasa serta keterkaitan suatu sektor dengan sektor lainnya. Besarnya ketergantungan suatu sektor tertentu terhadap sektor yang lain ditentukan oleh input yang digunakan dalam proses produksi.",
+      "C": "Tabel input output adalah suatu uraian statistik dalam bentuk matriks baris dan kolom yang menggambarkan transaksi barang dan jasa serta keterkaitan suatu sektor dengan sektor lainnya. Besarnya ketergantungan suatu sektor tertentu terhadap sektor yang lain ditentukan oleh input yang digunakan dalam proses produksi ataupun besarnya output yang dialokasikan untuk memenuhi permintaan antara dan permintaan akhir.",
+      "D": "Tabel input output adalah suatu uraian statistik dalam bentuk matriks baris dan kolom yang menggambarkan transaksi barang dan jasa serta keterkaitan suatu sektor dengan sektor lainnya. Besarnya ketergantungan suatu sektor tertentu terhadap sektor yang lain hanya ditentukan oleh besarnya output yang dialokasikan untuk memenuhi permintaan antara dan permintaan akhir."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang paling tepat?\n(1) LQ adalah suatu metode untuk menghitung perbandingan relatif sumbangan nilai tambah sebuah sektor di suatu daerah (kabupaten/kota) terhadap sumbangan nilai tambah sektor yang bersangkutan dalam skala provinsi atau nasional.\n(2) Metode location quotient (LQ) adalah salah satu teknik pengukuran yang paling terkenal dari model basis ekonomi untuk menentukan sektor basis atau nonbasis.\n(3) Dalam perekonomian regional, terdapat kegiatan-kegiatan basis dan kegiatan-kegiatan bukan basis.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Metode LQ memperhitungkan ekspor langsung dan ekspor tidak langsung.\n(2) Metode LQ hanya memperhitungkan ekspor langsung dan tidak memperhitungkan ekspor tidak langsung.\n(3) Metode LQ sederhana dan tidak mahal serta dapat diterapkan pada data historis untuk mengetahui tren.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Dalam analisis shift share, pertumbuhan atau perubahan perekonomian suatu daerah dianalisis dengan melihat pengaruh pertumbuhan ekonomi nasional terhadap variabel regional sektor/industri daerah yang diamati.\n(2) Analisis proportional shift dilakukan dengan membandingkan suatu sektor sebagai bagian dari perekonomian daerah dengan sektor tersebut sebagai bagian dari perekonomian nasional.\n(3) Pengaruh keunggulan kompetitif dinamakan differential shift atau regional share. Differential shift menjelaskan tingkat kompetisi suatu aktivitas/sektor tertentu dibandingkan dengan pertumbuhan total sektor tersebut secara nasional.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Tujuan umum model I-O ialah menjelaskan besaran aliran antarindustri dalam hubungannya dengan tingkat produksi dalam setiap sektor.\n(2) Hasil produksi satu macam produksi berarti bahan dasar bagi industri lain. Dengan kata lain, keluaran industri i merupakan masukan bagi industri k.\n(3) Perubahan input tidak akan menyebabkan perubahan output yang berarti perubahan masukan bagi industri lain. Dengan demikian, secara berantai pengaruh ini tidak akan dirasakan oleh industri yang saling berkaitan tadi.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Output merupakan nilai produksi barang dan jasa yang dihasilkan oleh seluruh sektor-sektor ekonomi yang ada di Kota X.\n(2) Input antara mencakup penggunaan berbagai barang dan jasa oleh suatu sektor dalam kegiatan produksi. Barang dan jasa tersebut berasal dari produksi sektor-sektor lain serta produksi sendiri.\n(3) Input primer atau lebih dikenal dengan nilai tambah merupakan balas jasa yang diciptakan/diberikan kepada faktor-faktor produksi yang berperan dalam proses produksi.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  }
+]

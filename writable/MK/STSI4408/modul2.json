@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Menurut Nonaka dan Takeuchi suatu pengetahuan bersifat dinamis dan dapat berubah bentuk antara implisit dan eksplisit. Interaksi tersebut dikemukakan dalam suatu model konversi pengetahuan yang terdiri dari",
+    "pilihan": {
+      "A": "sosialisasi, ilustrasi, koordinasi dan internalisasi",
+      "B": "identifikasi, eksternalisasi, koordinasi dan internalisasi",
+      "C": "sosialisasi, eksternalisasi, kombinasi dan internalisasi",
+      "D": "identifikasi, internalisasi, koordinasi dan kombinasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Siklus hidup manajemen pengetahuan menurut Rollet terdiri dari",
+    "pilihan": {
+      "A": "planning, creating, integrating, organizing, transferring, maintaining, assessing",
+      "B": "acquisition, organization, specialization, score, retrieve, distribution, conservation, disposal",
+      "C": "planning, creating, integrating, score, retrieve, distribution, conservation, disposal",
+      "D": "acquisition, organization, specialization, organizing, transferring, maintaining, assessing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Teknologi groupware dikategorikan berdasarkan dua dimensi utama yakni dimensi ....",
+    "pilihan": {
+      "A": "waktu dan tempat",
+      "B": "waktu dan orang",
+      "C": "tempat dan orang",
+      "D": "orang dan aplikasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Proses pengumpulan dan pengolahan data yang bertujuan untuk mengekstrak informasi penting adalah ....",
+    "pilihan": {
+      "A": "data warehouse",
+      "B": "data Clustering",
+      "C": "data mining",
+      "D": "data acquisition"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Kepemimpinan yang berpusat pada pendayagunaan instrumen digital, agar organisasi beroperasi lebih efisien, menawarkan pengembangan hasil adalah ....",
+    "pilihan": {
+      "A": "kepemimpinan kolaboratif",
+      "B": "kepemimpinan berkelanjutan",
+      "C": "kepemimpinan digital",
+      "D": "kepemimpinan berwibawa"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut ini merupakan kegiatan manajemen teknologi informasi yang berhubungan dengan aspek deployment, kecuali ....",
+    "pilihan": {
+      "A": "gathering",
+      "B": "organizing",
+      "C": "selecting",
+      "D": "managing risk"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Teknologi informasi dibangun untuk menggabungkan beberapa entitas menjadi satu paket yang terintegrasi merupakan salah satu kegiatan manajemen teknologi informasi pada fungsi deployment ....",
+    "pilihan": {
+      "A": "gathering",
+      "B": "organizing",
+      "C": "synthesizing",
+      "D": "distributing"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Penggunaan email untuk berkomunikasi dengan rekan yang bekerja di kota lain dan diakses pada waktu yang tidak bersamaan merupakan termasuk pada kategori groupware",
+    "pilihan": {
+      "A": "kolokasi sinkron",
+      "B": "non-kolokasi - sinkron",
+      "C": "kolokasi asinkron",
+      "D": "non-kolokasi - asinkron"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Fokus pada penyebaran informasi bagi internal dan mengoptimalkan pemanfaatan pengetahuan, merupakan tahap... pada siklus hidup manajemen pengetahuan menurut Rollet.",
+    "pilihan": {
+      "A": "assessing",
+      "B": "transfering",
+      "C": "maintaining",
+      "D": "creating"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Proses penerjemahan pengetahuan implisit ke pengetahuan eksplisit terjadi pada konversi pengetahuan jenis ....",
+    "pilihan": {
+      "A": "sosialisasi",
+      "B": "eksternalisasi",
+      "C": "kombinasi",
+      "D": "ilustrasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Kegiatan permintaan dan pemanfaatan terhadap barang dan jasa termasuk dalam kelompok aktivitas utama bisnis",
+    "pilihan": {
+      "A": "produksi",
+      "B": "distribusi",
+      "C": "konsumsi",
+      "D": "organisasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Dampak positif perkembangan teknologi terhadap bisnis ....",
+    "pilihan": {
+      "A": "mengubah cara bisnis dalam proses penyampaian produk dan layanannya",
+      "B": "meningkatkan biaya dalam kegiatan operasional bisnis",
+      "C": "memungkinkan munculnya inovasi yang dapat meningkatkan biaya",
+      "D": "peluang perusahaan untuk lebih memahami kebutuhan pelanggan menjadi lebih kompleks"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Persaingan harga dan antar perusahaan yang terlibat dalam e-commerce meningkat dikarenakan",
+    "pilihan": {
+      "A": "pengurangan biaya switching produk bagi pelanggan",
+      "B": "peningkatan biaya transaksi untuk mencari produk atau layanan",
+      "C": "peningkatan biaya operasional karena memerlukan biaya pegawai yang besar",
+      "D": "pengurangan biaya untuk penyediaan infrastruktur teknologi informasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Pada teori ekonomi klasik informasi dipandang sebagai",
+    "pilihan": {
+      "A": "sumber daya untuk mengurangi ketidakpastian",
+      "B": "elemen produktif dan produk",
+      "C": "sumber daya untuk mengurangi produk",
+      "D": "elemen biaya dan produk"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Karakteristik dari ekonomi digital antara lain ....",
+    "pilihan": {
+      "A": "knowledge, virtualization, digitization, customization",
+      "B": "knowledge, virtualization, customization, convergence",
+      "C": "knowledge, virtualization, digitization, convergence",
+      "D": "knowledge, customization, digitization, convergence"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Waktu pemesanan, produksi dan pengiriman barang lebih cepat disebabkan kecepatan proses teknologi digital merupakan salah satu karakteristik ekonomi digital ....",
+    "pilihan": {
+      "A": "globalization",
+      "B": "discordance",
+      "C": "immediacy",
+      "D": "innovation"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Menurut Mesenbourg, ekonomi digital memiliki tiga komponen utama yaitu ...",
+    "pilihan": {
+      "A": "internet of things, E-bisnis & e-commerce",
+      "B": "infrastruktur E-bisnis, internet of things & e-commerce",
+      "C": "infrastruktur E-bisnis, E-bisnis & e-commerce",
+      "D": "infrastruktur E-bisnis, E-bisnis & internet of things"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Siklus ekspansi ekonomi digital terdiri dari",
+    "pilihan": {
+      "A": "Siklus 1: profit economy, Siklus 2: Economy of people, Siklus 3: Economy of things.",
+      "B": "Siklus 1: business economy, Siklus 2: Economy of people, Siklus 3: Economy of things.",
+      "C": "Siklus 1: collaboration economy, Siklus 2: Economy of people, Siklus 3: Economy of things.",
+      "D": "Siklus 1: cooperation economy, Siklus 2: Economy of people, Siklus 3: Economy of things."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Jenis biaya yang dikeluarkan dalam menggunakan sistem pasar untuk membeli dan menjual barang atau jasa disebut juga biaya transaksi. Jenis-jenis biaya transaksi tersebut meliputi biaya ....",
+    "pilihan": {
+      "A": "pencarian, pengadaan, kebijakan, hukum, keputusan dan negosiasi",
+      "B": "pencarian, informasi, kebijakan, hukum, keputusan dan negosiasi",
+      "C": "pencarian, informasi, kebijakan, pengadaan, keputusan dan negosiasi",
+      "D": "pencarian, informasi, kebijakan, hukum, pengadaan dan negosiasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Jenis biaya yang dikeluarkan oleh pembeli atau penjual jika ketentuan kontrak yang dinegosiasikan tidak terpenuhi adalah biaya ....",
+    "pilihan": {
+      "A": "pencarian",
+      "B": "kebijakan",
+      "C": "hukum",
+      "D": "negosiasi"
+    },
+    "jawaban": "C"
+  }
+]

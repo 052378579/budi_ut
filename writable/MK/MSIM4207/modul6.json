@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Kumpulan bit disebut...",
+    "pilihan": {
+      "A": "Byte",
+      "B": "Binary digit",
+      "C": "Bite",
+      "D": "Bittermen"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Data yang sama disimpan di beberapa tempat disebut sebagai....",
+    "pilihan": {
+      "A": "Recycle",
+      "B": "Redundancy",
+      "C": "Reuse",
+      "D": "Register"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Sesuatu yang datanya akan direkam dan disimpan oleh suatu organisasi disebut....",
+    "pilihan": {
+      "A": "Ekuitas",
+      "B": "Aset",
+      "C": "Equilibrium",
+      "D": "Entitas"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Karakteristik entitas disebut sebagai....",
+    "pilihan": {
+      "A": "Atribut",
+      "B": "Aset",
+      "C": "Ekuitas",
+      "D": "Entitas"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Perangkat lunak untuk mengelola data secara terpusat adalah ...",
+    "pilihan": {
+      "A": "DBMS",
+      "B": "NTFS",
+      "C": "APFS",
+      "D": "SPSS"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Model basis data yang menggambarkan data sebagai tabel dua dimensi adalah...",
+    "pilihan": {
+      "A": "Relativitas",
+      "B": "Assymetry",
+      "C": "Relasional",
+      "D": "Algoritma"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Bahasa standar untuk memanipulasi dan mengelola basis data adalah ....",
+    "pilihan": {
+      "A": "SQL",
+      "B": "Python",
+      "C": "C++",
+      "D": "Visual Basic"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Proses untuk menormalkan suatu relasi dalam basis data dengan memecah satu tabel menjadi beberapa tabel disebut....",
+    "pilihan": {
+      "A": "Optimasi",
+      "B": "Normalisasi",
+      "C": "DeNormalisasi",
+      "D": "Defragmentasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Basis data khusus untuk mengelola Big Data adalah...",
+    "pilihan": {
+      "A": "MySQL",
+      "B": "NoSQL",
+      "C": "PostgreSQL",
+      "D": "TransactSQL"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Proses memasukkan data dari sistem pengolahan transaksi ke Data Warehouse adalah...",
+    "pilihan": {
+      "A": "EMT",
+      "B": "ECT",
+      "C": "ECM",
+      "D": "ETL"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Agar dapat digunakan secara optimal pengetahuan membutuhkan...",
+    "pilihan": {
+      "A": "kompetisi",
+      "B": "koperasi",
+      "C": "kooptasi",
+      "D": "kolaborasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Keterampilan untuk mengukir kayu termasuk pengetahuan....",
+    "pilihan": {
+      "A": "tacit",
+      "B": "eksplisit",
+      "C": "terstruktur",
+      "D": "tidak terstruktur"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Kebijakan tertulis mengenai penggunaan laboratorium sebuah universitas merupakan pengetahuan...",
+    "pilihan": {
+      "A": "tacit",
+      "B": "eksplisit",
+      "C": "terstruktur",
+      "D": "tidak terstruktur"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Skema untuk membuat klasifikasi pengetahuan disebut....",
+    "pilihan": {
+      "A": "Taksasi",
+      "B": "Taksidermi",
+      "C": "Taksonomi",
+      "D": "Taksaka"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Aplikasi yang banyak digunakan untuk pembelajaran jarak jauh adalah ....",
+    "pilihan": {
+      "A": "LST",
+      "B": "LCD",
+      "C": "LMS",
+      "D": "LED"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Arsitek rumah biasanya menggunakan aplikasi ....",
+    "pilihan": {
+      "A": "CAD",
+      "B": "CAM",
+      "C": "VR",
+      "D": "Pokemon Go"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Alat simulasi untuk ujian Surat Ijin Mengemudi merupakan contoh dari ....",
+    "pilihan": {
+      "A": "CAD",
+      "B": "CAM",
+      "C": "VR",
+      "D": "Pokemon Go"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "MIT Open Source Ware menggunakan aplikasi ....",
+    "pilihan": {
+      "A": "LST",
+      "B": "LCD",
+      "C": "LMS",
+      "D": "LED"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Manusia membutuhkan bantuan kecerdasan bantuan dalam manajemen pengetahuan ....",
+    "pilihan": {
+      "A": "Setiap saat",
+      "B": "Tidak pernah",
+      "C": "Datanya tidak ada",
+      "D": "Jumlah data dan informasi sangat besar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Pembelajaran organisasi mayoritas melibatkan pengetahuan yang bersifat ....",
+    "pilihan": {
+      "A": "tacit",
+      "B": "eksplisit",
+      "C": "terstruktur",
+      "D": "tidak terstruktur"
+    },
+    "jawaban": "B"
+  }
+]

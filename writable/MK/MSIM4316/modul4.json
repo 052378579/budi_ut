@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Pengiriman data yang dilakukan dari satu sumber ke satu alamat tujuan dikenal dengan istilah ....",
+    "pilihan": {
+      "A": "broadcast",
+      "B": "unicast",
+      "C": "multicast",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Alamat IP yang digunakan untuk jenis data multicast adalah ....",
+    "pilihan": {
+      "A": "192.168.10.5",
+      "B": "255.255.255.255",
+      "C": "224.0.0.1",
+      "D": "127.0.0.1"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut ini merupakan karakteristik dari perangkat router, kecuali ....",
+    "pilihan": {
+      "A": "menghubungkan dua jaringan yang berbeda",
+      "B": "memperbanyak jumlah broadcast domain",
+      "C": "memperkecil jumlah broadcast domain",
+      "D": "memperbanyak jumlah collision domain"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Router dan Switch memiliki karakteristik yang sama dalam hal ....",
+    "pilihan": {
+      "A": "menghubungkan dua jaringan yang berbeda",
+      "B": "memperbanyak jumlah broadcast domain",
+      "C": "memperkecil jumlah broadcast domain",
+      "D": "memperbanyak jumlah collision domain"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "VLAN bekerja pada layer ....",
+    "pilihan": {
+      "A": "Network",
+      "B": "Application",
+      "C": "Datalink",
+      "D": "Transport"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kemampuan VLAN dalam melakukan pengelompokan jaringan yang berdasarkan kelompok kerja dan tidak bergantung pada lokasi, memberikan manfaat ....",
+    "pilihan": {
+      "A": "fleksibilitas",
+      "B": "cost",
+      "C": "keamanan",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Berikut merupakan karakteristik dari VLAN, kecuali ....",
+    "pilihan": {
+      "A": "melakukan segmentasi jaringan pada layer 2",
+      "B": "1 VLAN identik 1 broadcast domain",
+      "C": "1 VLAN identik 1 network address",
+      "D": "anggota VLAN 2 dan VLAN 3 dapat berkomunikasi secara langsung tanpa menggunakan router"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Port yang digunakan untuk menghubungkan antar switch dan dapat melewatkan data yang berasal dari beberapa VLAN berbeda adalah ....",
+    "pilihan": {
+      "A": "Access Port",
+      "B": "Router Port",
+      "C": "Trunk Port",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Mekanisme Inter-Vlan yang paling cepat adalah ....",
+    "pilihan": {
+      "A": "router on stick",
+      "B": "routing secara tradisional",
+      "C": "antar VLAN tidak dapat dihubungkan",
+      "D": "Switched Virtual Interface pada MLS"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Semua port yang terdapat di switch secara default merupakan anggota VLAN berapa ....",
+    "pilihan": {
+      "A": "VLAN 0",
+      "B": "VLAN 1",
+      "C": "VLAN 10",
+      "D": "bukan merupakan anggota VLAN tertentu"
+    },
+    "jawaban": "B"
+  }
+]

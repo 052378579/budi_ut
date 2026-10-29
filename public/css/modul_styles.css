@@ -1,0 +1,56 @@
+body { 
+    font-family: 'Inter', system-ui, -apple-system, sans-serif; 
+    background-color: #f4f7f9; 
+}
+[v-cloak] { display: none !important; }
+
+/* Jarak bantalan atas dinamis agar tidak menabrak status bar/poni Android */
+.navbar-dark {
+    padding-top: calc(env(safe-area-inset-top) + 10px) !important;
+}
+
+/* Jarak bantalan atas konten disesuaikan karena tinggi navbar meningkat akibat area poni */
+.content-wrapper { 
+    padding-top: calc(env(safe-area-inset-top) + 90px); 
+    min-height: 85vh; 
+}
+
+/* Modifikasi Estetika Tautan Profil Navigasi */
+.profile-link { transition: all 0.2s ease; text-decoration: none !important; }
+.profile-link:hover { opacity: 0.8; transform: translateY(-1px); }
+
+/* =========================================================
+   KUSTOMISASI IDENTITAS & DROPDOWN PROFIL (SINKRONISASI)
+   ========================================================= */
+.profile-brand-text { font-size: 0.75rem; letter-spacing: 0.75px; }
+
+.dropdown-toggle-profile { cursor: pointer; transition: opacity 0.2s; }
+.dropdown-toggle-profile:hover { opacity: 0.85; }
+.dropdown-toggle-profile::after { vertical-align: middle; margin-left: 0.5rem; color: rgba(255,255,255,0.7); }
+
+.dropdown-menu-custom {
+    border-radius: 12px;
+    border: 1px solid rgba(0,0,0,0.05);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    padding: 0.5rem;
+    margin-top: 10px !important;
+}
+
+.dropdown-menu-custom .dropdown-item {
+    border-radius: 8px;
+    padding: 0.6rem 1rem;
+    font-weight: 500;
+    color: #495057;
+    transition: all 0.2s;
+}
+
+.dropdown-menu-custom .dropdown-item:hover { background-color: #f8f9fa; color: #004da1; }
+.dropdown-menu-custom .dropdown-item.text-danger:hover { background-color: #fff5f5; color: #dc3545 !important; }
+
+@media (max-width: 575.98px) {
+    .no-border-mobile { border-left: 0 !important; padding-left: 0 !important; }
+}
+
+@media (min-width: 992px) {
+    .border-lg-none { border: none !important; }
+}

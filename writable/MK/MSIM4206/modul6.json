@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut kekurangan dari aplikasi basis data MySQL/MariaDB adalah ...",
+    "pilihan": {
+      "A": "gratis",
+      "B": "kurang mendukung dalam Aplikasi Game dan Mobile",
+      "C": "struktur tabel yang fleksibel",
+      "D": "tidak ada jawaban yang tepat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Aplikasi basis data yang paling cocok digunakan untuk proses bisnis skala besar adalah",
+    "pilihan": {
+      "A": "MySQL/MariaDB",
+      "B": "PostgreeSQL",
+      "C": "SQLServer",
+      "D": "Oracle"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut adalah basis data yang menjadi satu paket pada aplikasi XAMPP ..",
+    "pilihan": {
+      "A": "MySQL/MariaDB",
+      "B": "PostgreeSQL",
+      "C": "SQLServer",
+      "D": "Oracle"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Aplikasi berikut yang terkenal dalam urusan relasi adalah ....",
+    "pilihan": {
+      "A": "MySQL/MariaDB",
+      "B": "PostgreeSQL",
+      "C": "SQLServer",
+      "D": "Oracle"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Paket aplikasi basis data yang dikembangkan oleh apachefriend adalah .....",
+    "pilihan": {
+      "A": "XAMPP",
+      "B": "PhpMyAdmin",
+      "C": "MariaDB",
+      "D": "Oracle"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Tipe data yang mampu menyimpan data bilangan bulat mulai dari -128 s.d 127 adalah tipe data",
+    "pilihan": {
+      "A": "TINYINT",
+      "B": "SMALLINT",
+      "C": "INT",
+      "D": "BIGINT"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Berikut ini termasuk ke dalam fitur yang didapatkan dalam paket XAMPP versi 3.2.4, kecuali",
+    "pilihan": {
+      "A": "WSFTP",
+      "B": "FileZilla",
+      "C": "Tomcat",
+      "D": "Mercury"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Halaman untuk mengakses basis data pada XAMPP adalah ....",
+    "pilihan": {
+      "A": "PhpMyAdmin",
+      "B": "SQL",
+      "C": "Apache",
+      "D": "Filezilla"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Dalam XAMPP terdapat fitur yang berguna sebagai aplikasi webserver adalah ....",
+    "pilihan": {
+      "A": "PhpMyAdmin",
+      "B": "SQL",
+      "C": "Apache",
+      "D": "Filezilla"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Tinyint menyimpan bilangan bulat mulai dari ....",
+    "pilihan": {
+      "A": "-32.768",
+      "B": "-8.388.608",
+      "C": "-128",
+      "D": "-9.22"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Perintah SQL yang digunakan untuk membuat basis data adalah ....",
+    "pilihan": {
+      "A": "CREATE",
+      "B": "ALTER",
+      "C": "DROP",
+      "D": "SELECT"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Perintah SQL yang digunakan untuk menghapus basis data adalah adalah",
+    "pilihan": {
+      "A": "CREATE",
+      "B": "ALTER",
+      "C": "DROP",
+      "D": "SELECT"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Terdapat sebuah tabel dengan nama pasien. Jika akan mengambil data seluruh pasien maka SQL yang dibuat adalah",
+    "pilihan": {
+      "A": "SELECT FROM DOKTER",
+      "B": "SELECT * FROM PASIEN",
+      "C": "SELECT nama pasien, alamat pasien from pasien",
+      "D": "DELETE FROM PASIEN"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Terdapat sebuah tabel pasien dengan atribut id, nama, alamat, no_hp, dan jenis_kelamin. Jika akan mengambil data pasien (nama dan alamat) yang jenis kelaminnya L (laki-laki) maka SQL yang dibuat adalah ....",
+    "pilihan": {
+      "A": "SELECT * FROM PASIEN",
+      "B": "SELECT id_pasien, nama_pasien, alamat_pasien FROM pasien",
+      "C": "SELECT id_pasien, nama_pasien, alamat_pasien FROM pasien WHERE jenis_kelamin='L'",
+      "D": "SELECT id_pasien, nama_pasien, alamat_pasien FROM pasien WHERE jenis ='L'"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut perintah untuk mengurutkan data dari yang terbesar ke terkecil adalah",
+    "pilihan": {
+      "A": "GROUP BY",
+      "B": "ORDER BY",
+      "C": "ORDER BY ASC",
+      "D": "ORDER BY DESC"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Keyword SQL yang berfungsi mengelompokkan data dengan menghilangkan data yang sama dalam satu tabel adalah ....",
+    "pilihan": {
+      "A": "SELECT",
+      "B": "GROUP BY",
+      "C": "LIKE",
+      "D": "INSERT"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Keyword SQL yang berfungsi untuk melakukan pengurutan data secara menurun adalah...",
+    "pilihan": {
+      "A": "ASC",
+      "B": "DESC",
+      "C": "LIKE",
+      "D": "ASCII"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Sebuah kumpulan perintah SQL yang berfungsi untuk proses pengolahan data dalam setiap tabel basis data, disebut dengan ....",
+    "pilihan": {
+      "A": "DDL",
+      "B": "DCL",
+      "C": "TCL",
+      "D": "DML"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Sebuah kumpulan perintah SQL yang berfungsi untuk melakukan perubahan, membuat dan menghapus struktur objek-objek basis data disebut dengan ....",
+    "pilihan": {
+      "A": "DCL",
+      "B": "TCL",
+      "C": "DDL",
+      "D": "DML"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Perintah untuk mengambil atau menampilkan data tertentu dengan nilai antara \"nilai pertama\" sampai dengan \"nilai kedua\" adalah ....",
+    "pilihan": {
+      "A": "BETWEEN",
+      "B": "LIKE",
+      "C": "GROUP BY",
+      "D": "ASC"
+    },
+    "jawaban": "A"
+  }
+]

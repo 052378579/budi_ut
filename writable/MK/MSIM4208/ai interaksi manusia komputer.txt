@@ -1,0 +1,36 @@
+analisis gambar SOAL ATAU 'PERTANYAAN' :
+8_M6_23.jpg, 8_M6_24.jpg, 8_M6_25.jpg, dan 
+8_M6_33.jpg, 8_M6_34.jpg, 8_M6_35.jpg, 8_M6_36.jpg
+
+analisis gambar 'JAWABAN' :
+8_M6_38_1.jpg, dan 8_M6_38_2.jpg
+
+
+analisis FORMAT baris kode JSON :
+"no": 'NOMOR URUT SOAL',
+"pertanyaan": "SOAL ATAU PERTANYAAN",
+"pilihan": {
+    "A": "PILIHAN A",
+    "B": "PILIHAN B",
+    "C": "PILIHAN C",
+    "D": "PILIHAN D"
+},
+"jawaban": "JAWABAN"
+
+ubah menjadi transkrip teks dari gambar yang berikan.
+gabungkan transkrip
+8_M6_23.jpg, 8_M6_24.jpg, 8_M6_25.jpg (nomor urut 1 sampai 10), 
+8_M6_33.jpg, 8_M6_34.jpg, 8_M6_35.jpg, 8_M6_36.jpg (nomor urut 11 sampai 20)
+
+indentifikasi JAWABAN: A, B, C, D
+gabungkan transkrip (SOAL ATAU PERTANYAAN) menjadi sebuah objek tunggal dalam format JSON (JavaScript Object Notation)
+Tampilkan baris kode .json secara lengkap dan rinci
+
+
+
+
+===================================================
+M6_T1	6.23, 6.24, 6.25
+M6_T2	6.33, 6.34, 6.35, 6.36
+JAWABAN	6.38
+===== sudah

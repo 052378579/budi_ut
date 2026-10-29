@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Mekanisme kontrol yang disediakan sebelum kegiatan dilakukan adalah",
+    "pilihan": {
+      "A": "Feed forward control",
+      "B": "Concurrent control",
+      "C": "Feed back control",
+      "D": "Feed current control"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut merupakan pernyataan yang benar tentang evaluasi strategi e-bisnis, kecuali ....",
+    "pilihan": {
+      "A": "evaluasi merupakan bagian dari proses kontrol dan didasarkan pada pengaturan standar kinerja",
+      "B": "kegiatan membandingkan serangkaian target dengan kinerja yang dicapai.",
+      "C": "aktivitas yang mengungkap keberhasilan atau kegagalan suatu strategi organisasi dalam mencapai tujuan",
+      "D": "proses kontrol merupakan bagian dari evaluasi dan didasarkan pada pengaturan standar kinerja"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Laporan keuangan utama yang memberikan informasi keuangan dasar untuk kontrol dan evaluasi kinerja ....",
+    "pilihan": {
+      "A": "neraca dan laporan stok",
+      "B": "neraca dan laporan rugi laba",
+      "C": "neraca dan laporan aset",
+      "D": "neraca dan laporan penjualan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Faktor utama proses evaluasi terhadap perangkat keras komputer meliputi hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "efisiensi",
+      "B": "kapabilitas",
+      "C": "biaya",
+      "D": "keandalan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Mekanisme kontrol yang disediakan setelah kegiatan selesai dilakukan adalah ....",
+    "pilihan": {
+      "A": "feed forward control",
+      "B": "concurrent control",
+      "C": "feed back control",
+      "D": "feed current control"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Evaluasi terhadap kebutuhan untuk mengenali bahwa dampak internet melampaui lingkungan internal, merupakan salah satu kegiatan evaluasi terhadap",
+    "pilihan": {
+      "A": "sumber daya manusia e-bisnis",
+      "B": "finansial e-bisnis",
+      "C": "kontrol e-bisnis",
+      "D": "model bisnis"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Suatu kewajiban perusahaan yang harus dibayar berdasarkan periode tertentu, contohnya hutang perusahaan adalah",
+    "pilihan": {
+      "A": "liabilitas",
+      "B": "ekuitas",
+      "C": "aset",
+      "D": "neraca"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Faktor utama proses evaluasi terhadap perangkat lunak meliputi hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "efisiensi",
+      "B": "kualitas",
+      "C": "fleksibilitas",
+      "D": "keandalan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Evaluasi situs web terhadap informasi tentang perilaku pengguna online dapat dilakukan pada parameter ....",
+    "pilihan": {
+      "A": "kualitas layanan",
+      "B": "kualitas produk",
+      "C": "efisiensi pengiriman",
+      "D": "jumlah hits di situs web"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Organisasi yang berharap dapat mengoperasikan dan mengelola situs web tetapi memanfaatkan tempat untuk server di provider dapat memanfaatkan layanan ....",
+    "pilihan": {
+      "A": "self-hosting",
+      "B": "co-location",
+      "C": "dedicated hosting",
+      "D": "shared hosting"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Definisi manajemen perubahan menurut Coffman adalah",
+    "pilihan": {
+      "A": "proses, alat, dan teknik yang dipakai untuk mengelola proses perubahan dari sisi individu untuk mencapai hasil yang diperlukan serta untuk merealisasikan perubahan secara efektif melalui agen perubahan, tim, dan sistem yang lebih luas Informasi",
+      "B": "metode untuk melihat perubahan dan menginformasikan pembuatan keputusan",
+      "C": "pendekatan terstruktur yang digunakan agar mampu membantu individu, tim, maupun organisasi berubah dari kondisi saat ini ke yang lebih baik",
+      "D": "pendekatan yang dilakukan untuk menganalisis, meninjau, dan memperbaiki proses bisnis"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut merupakan pendekatan untuk memahami kekuatan-kekuatan yang digunakan pada force field analysis, kecuali ....",
+    "pilihan": {
+      "A": "unfreezing",
+      "B": "mengubah pola perilaku",
+      "C": "refreezing",
+      "D": "mengubah pola pembiayaan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Penerapan sistem baru untuk menggantikan sistem lama dilakukan hanya pada suatu bagian dari sistem lama sehingga ketika terjadi masalah bagian yang baru dapat segera dikembalikan ke sistem lama, mekanisme tersebut merupakan ciri dari konversi",
+    "pilihan": {
+      "A": "langsung",
+      "B": "bertahap",
+      "C": "paralel",
+      "D": "pilot"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Perancangan business process re-engineering secara sistematis dilakukan melalui tahapan berikut ....",
+    "pilihan": {
+      "A": "Mengeliminasi, Menyederhanakan, Mengintegrasikan, Mengotomatisasi",
+      "B": "Mengeliminasi, Mengotomatisasi, Menyederhanakan, Mengintegrasikan",
+      "C": "Mengintegrasikan, Mengeliminasi, Menyederhanakan, Mengotomatisasi",
+      "D": "Mengotomatisasi, Mengeliminasi, Menyederhanakan, Mengintegrasikan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Business process improvement merupakan",
+    "pilihan": {
+      "A": "proses, alat, dan teknik yang dipakai untuk mengelola proses perubahan dari sisi individu untuk mencapai hasil yang diperlukan serta untuk merealisasikan perubahan secara efektif melalui agen perubahan, tim, dan sistem yang lebih luas Informasi",
+      "B": "metode untuk melihat perubahan dan menginformasikan pembuatan keputusan",
+      "C": "pendekatan terstruktur yang digunakan agar mampu membantu individu, tim, maupun organisasi berubah dari kondisi saat ini ke yang lebih baik",
+      "D": "pendekatan yang dilakukan untuk menganalisis, meninjau, dan memperbaiki proses bisnis"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "penerapan sistem baru dilakukan hanya pada lokasi utama tertentu, mekanisme tersebut merupakan konversi jenis",
+    "pilihan": {
+      "A": "langsung",
+      "B": "bertahap",
+      "C": "paralel",
+      "D": "pilot"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Salah satu pendekatan dalam model force field analysis adalah menemukan cara untuk membuat kebutuhan terhadap perubahan sangat diperlukan sehingga pada umumnya orang akan memahami dan mendukung perlunya suatu perubahan adalah",
+    "pilihan": {
+      "A": "unfreezing",
+      "B": "mengubah pola perilaku",
+      "C": "refreezing",
+      "D": "mengubah pola pembiayaan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Bidang yang termasuk pada kekuatan pendorong pada e-bisnis adalah ....",
+    "pilihan": {
+      "A": "penghematan biaya",
+      "B": "biaya pemanfaatan teknologi",
+      "C": "kompetisi",
+      "D": "transparansi pasar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Perancangan business process re-engineering secara sistematis dilakukan melalui tahapan berikut, kecuali ....",
+    "pilihan": {
+      "A": "mengeliminasi kegiatan",
+      "B": "menyederhanakan proses",
+      "C": "mengintegrasikan kegiatan",
+      "D": "merancang proses baru dari awal"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Manajemen perubahan yang dilakukan melalui pergeseran paradigma ke perubahan radikal adalah ....",
+    "pilihan": {
+      "A": "business process improvement",
+      "B": "business process re-engineering",
+      "C": "business process automatization",
+      "D": "otomatisasi"
+    },
+    "jawaban": "B"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Manfaat yang diperoleh dengan menerapkan supply chain management yang efektif adalah",
+    "pilihan": {
+      "A": "memastikan kualitas bahan material dan proses distribusinya",
+      "B": "meningkatkan kapasitas penyimpanan bahan material",
+      "C": "merenggangkan kerja sama antara pemasok dan perusahaan",
+      "D": "mendukung penimbunan bahan material untuk cadangan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Menurut Thomas Wailgum komponen supply chain terdiri dari",
+    "pilihan": {
+      "A": "plan, source, data, deliver, return",
+      "B": "plan, source, make, data, return",
+      "C": "plan, source, make, deliver, return",
+      "D": "plan, data, make, deliver, return"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Turban membagi supply chain menjadi ... bagian.",
+    "pilihan": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Bagian supply chain yang berhubungan dengan para pemasok adalah",
+    "pilihan": {
+      "A": "up stream supply chain management",
+      "B": "down stream supply chain management",
+      "C": "midstream supply chain management",
+      "D": "internal stream supply chain management"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Elemen supply chain management terdiri dari",
+    "pilihan": {
+      "A": "elemen pelanggan, logistik, operasional dan integrasi",
+      "B": "elemen pasok, logistik, pelanggan dan integrasi",
+      "C": "elemen pasok, logistik, operasional dan pelanggan",
+      "D": "elemen pasok, logistik, operasional dan integrasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut ini merupakan karakteristik model pull pada supply chain management, kecuali ....",
+    "pilihan": {
+      "A": "menggunakan sistem produksi make to order",
+      "B": "pengembangan produk baru dipimpin oleh produsen",
+      "C": "siklus dan waktu respons yang lama",
+      "D": "tingkat inventori tinggi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jika kegiatan manufaktur di perusahaan Anda dilakukan secara outsourcing, maka perusahaan tersebut menerapkan strategi ....",
+    "pilihan": {
+      "A": "integrasi vertikal",
+      "B": "integrasi virtual",
+      "C": "disintegrasi vertikal",
+      "D": "jawaban a, b dan c salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Tiga hal yang harus diperhatikan terhadap pilihan strategi integrasi vertikal menurut Hayes adalah",
+    "pilihan": {
+      "A": "arah ekspansi, jangkauan integrasi dan keseimbangan proses integrasi vertikal",
+      "B": "tahapan ekspansi, jangkauan integrasi dan keseimbangan proses integrasi vertikal",
+      "C": "arah ekspansi, kapabilitas integrasi dan keseimbangan proses integrasi vertikal",
+      "D": "tujuan ekspansi, jangkauan integrasi dan keseimbangan proses integrasi vertikal"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Langkah Toyota dengan mengakuisisi pabrik baja dan dealernya merupakan penerapan strategi .....",
+    "pilihan": {
+      "A": "integrasi vertikal yang diarahkan ke hulu",
+      "B": "integrasi vertikal yang diarahkan ke hilir",
+      "C": "integrasi virtual",
+      "D": "jawaban a, b dan c salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Langkah Dell dengan melakukan outsourcing terhadap produksi komponen pendukung Personal Computer merupakan penerapan strategi",
+    "pilihan": {
+      "A": "integrasi vertikal yang diarahkan ke hulu",
+      "B": "integrasi vertikal yang diarahkan ke hilir",
+      "C": "integrasi virtual",
+      "D": "jawaban a, b dan c salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Konsep e-supply chain management, menurut Turban terdiri dari beberapa proses berikut",
+    "pilihan": {
+      "A": "supply chain replenishment, collaborative planning, collaborative product development, e-procurement dan e-logistics",
+      "B": "supply chain replenishment, collaborative planning, collaborative product development, e-human resource management dan e-logistics",
+      "C": "supply chain replenishment, collaborative planning, collaborative marketing, e-procurement dan e-logistics",
+      "D": "supply chain replenishment, collaborative selling, collaborative product development, e-procurement dan e-logistics"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Sistem informasi yang digunakan untuk mendukung proses pengadaan adalah ....",
+    "pilihan": {
+      "A": "customer relationship management",
+      "B": "e-logistics",
+      "C": "e-procurement",
+      "D": "human resource management"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Konstituen dari proses persiapan dan pelaksanaan e-SCM terdiri dari",
+    "pilihan": {
+      "A": "e-network, respons pemasok dan teknologi",
+      "B": "e-network, respons pelanggan dan teknologi",
+      "C": "mekanisme, respons pelanggan dan teknologi",
+      "D": "kontrol, respons pelanggan dan teknologi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Standar transfer data e-SCM yang digunakan mengintegrasikan permintaan dari sistem eksternal ke sistem internal secara realtime adalah ....",
+    "pilihan": {
+      "A": "middleware",
+      "B": "e-mail",
+      "C": "electronic data interchange",
+      "D": "jawaban a, b dan c salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Item-item yang dialirkan melalui sistem supply chain management adalah ....",
+    "pilihan": {
+      "A": "aliran material, manusia dan dana",
+      "B": "aliran informasi, dana dan manusia",
+      "C": "aliran informasi, manusia dan dana",
+      "D": "aliran informasi, material dan dana"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Berikut ini merupakan keunggulan pada e-SCM, kecuali ....",
+    "pilihan": {
+      "A": "mengoptimalkan persediaan sehingga dapat menambah biaya penyimpanan",
+      "B": "meningkatkan transparansi dan visibilitas dalam rantai pasok",
+      "C": "mengurangi risiko keterlambatan pengiriman",
+      "D": "meningkatkan akurasi perusahaan untuk melakukan analisis kinerja rantai pasok secara efektif"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Bagian dalam suatu perusahaan yang melakukan perencanaan produksi dan pengendalian persediaan adalah ....",
+    "pilihan": {
+      "A": "produksi dan gudang",
+      "B": "PPIC",
+      "C": "produksi",
+      "D": "gudang"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Bagian di suatu perusahaan yang bertugas melakukan transformasi material menjadi produk jadi adalah",
+    "pilihan": {
+      "A": "gudang",
+      "B": "produksi",
+      "C": "PPIC",
+      "D": "pengadaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Supply chain management mencakup proses yang berfokus pada operasi internal perusahaan, dapat didukung dengan menggunakan aplikasi",
+    "pilihan": {
+      "A": "CRM",
+      "B": "ISCM",
+      "C": "SRM",
+      "D": "TFM"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Bagian ini bertugas membangun koordinasi yang bersifat taktis dan operasional sehingga kegiatan produksi, pengadaan material, pengiriman produk dapat dilakukan secara efektif, bagian tersebut adalah",
+    "pilihan": {
+      "A": "gudang",
+      "B": "produksi",
+      "C": "PPIC",
+      "D": "pengadaan"
+    },
+    "jawaban": "C"
+  }
+]

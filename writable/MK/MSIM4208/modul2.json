@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Seorang perancang sistem perlu memahami cara manusia mengolah informasi, hal ini termasuk dalam aspek ....",
+    "pilihan": {
+      "A": "middleware",
+      "B": "software",
+      "C": "hardware",
+      "D": "brainware"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Manusia dan komputer memiliki beberapa persamaan, antara lain mempunyai otak. Otak pada komputer adalah ....",
+    "pilihan": {
+      "A": "Central Processing Unit",
+      "B": "motherboard",
+      "C": "hard drive",
+      "D": "Random Access Memory"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Manusia hanya mampu fokus terhadap satu pekerjaan dalam satu waktu, sedangkan komputer dapat melakukan beberapa pekerjaan dalam satu waktu yang disebut ....",
+    "pilihan": {
+      "A": "multiprogramming",
+      "B": "multitasking",
+      "C": "multithreading",
+      "D": "multiprocessing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Suatu tindakan yang jarang dilakukan akan diolah dalam diri manusia secara ....",
+    "pilihan": {
+      "A": "sadar",
+      "B": "tidak sadar",
+      "C": "otomatis",
+      "D": "spontan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Suatu tindakan baru dapat diolah dalam diri manusia secara otomatis melalui ....",
+    "pilihan": {
+      "A": "tindakan",
+      "B": "latihan",
+      "C": "gambar",
+      "D": "suara"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Pengolahan yang melibatkan organ-organ sensori ke otak disebut pengolahan ....",
+    "pilihan": {
+      "A": "motorik",
+      "B": "kognitif",
+      "C": "perseptual",
+      "D": "konseptual"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "1. Membuat keputusan respon yang dipilih,<br>2. Mengeksekusi respon yang dipilih dan melakukan tindakan yang diperlukan,<br>3. Menyandikan informasi dari lingkungan ke bentuk representasi internal,<br>4. Membandingkan representasi internal dari rangsangan dengan informasi yang sudah tersimpan di otak<br>Urutan langkah pengolahan informasi adalah ....",
+    "pilihan": {
+      "A": "1-2-3-4",
+      "B": "2-1-3-4",
+      "C": "3-4-1-2",
+      "D": "4-3-2-1"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Register sensori penglihatan menerima informasi dari luar dan akan memegang informasi selama ....",
+    "pilihan": {
+      "A": "0,2 detik",
+      "B": "2 detik",
+      "C": "0,2 menit",
+      "D": "2 menit"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Short-Term Memory memiliki kapasitas terbatas, oleh sebab itu jika diberikan suatu nomor telepon 0217505295, maka akan lebih mudah mengingatnya jika nomor tersebut dibagi menjadi beberapa kelompok, seperti 021 750 5295. Teknik ini disebut ....",
+    "pilihan": {
+      "A": "chopping",
+      "B": "cutting",
+      "C": "chunking",
+      "D": "grouping"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Kemampuan motor skills seperti mengendarai sepeda termasuk dalam ....",
+    "pilihan": {
+      "A": "sensory memory",
+      "B": "short-term memory",
+      "C": "long-term memory",
+      "D": "explicit memory"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Banyaknya cahaya yang dipantulkan oleh permukaan obyek disebut ....",
+    "pilihan": {
+      "A": "luminous",
+      "B": "illumination",
+      "C": "luminance",
+      "D": "luminescent"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Semakin besar luminansi dari sebuah obyek, menyebabkan diameter bola mata mengecil karena ....",
+    "pilihan": {
+      "A": "meningkatkan fokus",
+      "B": "silau",
+      "C": "buram",
+      "D": "terlalu terang"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Hubungan antara cahaya yang dipancarkan oleh suatu obyek dan cahaya dari latar belakang obyek tersebut disebut ....",
+    "pilihan": {
+      "A": "luminansi",
+      "B": "kontras",
+      "C": "kecerahan",
+      "D": "medan penglihatan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Sudut yang dibentuk ketika mata bergerak ke kiri terjauh dan ke kanan terjauh dapat dibagi menjadi ....",
+    "pilihan": {
+      "A": "1 daerah",
+      "B": "2 daerah",
+      "C": "3 daerah",
+      "D": "4 daerah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Ketika kepala dan mata dalam keadaan diam, daerah penglihatan monokuler mempunyai rentang antara ....",
+    "pilihan": {
+      "A": "0° sampai 60°",
+      "B": "62° sampai 70°",
+      "C": "94° sampai 104°",
+      "D": "100° sampai 166°"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Mata dapat membedakan warna secara akurat ketika posisi obyek terhadap mata membentuk sudut sebesar ....",
+    "pilihan": {
+      "A": "± 15",
+      "B": "± 30",
+      "C": "± 45",
+      "D": "± 60"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Efek chromostereopsis seringkali timbul pada kombinasi warna ....",
+    "pilihan": {
+      "A": "merah dan biru",
+      "B": "biru dan kuning",
+      "C": "kuning dan hijau",
+      "D": "hijau dan biru"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Kombinasi warna yang baik adalah ....",
+    "pilihan": {
+      "A": "merah, biru, hijau",
+      "B": "magenta, hijau, merah",
+      "C": "merah, kuning, putih",
+      "D": "magenta, biru, hijau"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Warna dingin biasanya digunakan untuk menunjukkan status atau informasi latar belakang. Warna dingin antara lain adalah ....",
+    "pilihan": {
+      "A": "biru",
+      "B": "merah",
+      "C": "oranye",
+      "D": "kuning"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Merah, kuning, biru termasuk warna ....",
+    "pilihan": {
+      "A": "primer",
+      "B": "sekunder",
+      "C": "tersier",
+      "D": "netral"
+    },
+    "jawaban": "A"
+  }
+]

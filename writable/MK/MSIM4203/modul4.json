@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Desain pemrograman dengan pendekatan 'top-down' adalah konsep pendekatan bahasa pemrograman terstruktur. Pola ini pertama kali diperkenalkan oleh....",
+    "pilihan": {
+      "A": "Corrado Böhm dan Giuseppe Jacopini",
+      "B": "Edsger W.Dijkstra",
+      "C": "Blase Pascall",
+      "D": "James Watt"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Bahasa pemrograman klasik yang menerapkan konsep pemrograman terstruktur adalah....",
+    "pilihan": {
+      "A": "Cobol",
+      "B": "C++",
+      "C": "Delphi",
+      "D": "Java"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Pemrograman Berorientasi Objek (OOP) pertama kali diperkenalkan pada tahun 1960-an. Bahasa pemrograman yang pertama menggunakan konsep tersebut adalah....",
+    "pilihan": {
+      "A": "Ada",
+      "B": "C++",
+      "C": "Simula",
+      "D": "Java"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Perusahaan pencetus lahirnya bahasa pemrograman Java pada tahun 1995 adalah ...",
+    "pilihan": {
+      "A": "Microsoft",
+      "B": "Apple",
+      "C": "Xerox",
+      "D": "Sun Microsystems"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Software dasar yang bisa digunakan sebagai editor menulis kode Java adalah, kecuali....",
+    "pilihan": {
+      "A": "Notepad++",
+      "B": "Wordpad",
+      "C": "Notepad",
+      "D": "Power Point"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Fungsi dari komponen bawaan Java yang bernama 'jdb' (Java Debugger) adalah....",
+    "pilihan": {
+      "A": "Untuk mengemas library kelas ke dalam satu file JAR",
+      "B": "Sebagai loader untuk menginterpretasikan file kelas",
+      "C": "Digunakan untuk men-debug program Java. Jika terjadi kesalahan pada program, jdb akan menganalisis dan memunculkan pesan kesalahan.",
+      "D": "Menghasilkan dokumentasi dari kode sumber"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Konsep paradigma utama yang berkaitan erat dengan OOP (Object-Oriented Programming) adalah....",
+    "pilihan": {
+      "A": "Inheritance, encapsulation, polymorphism",
+      "B": "Class, Object, Method, Trigger",
+      "C": "Trigger, encapsulation, Object",
+      "D": "Class, Variabel, Behaviour, Kompilasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Pada awal rilisnya, Sun Microsystem berhasil meluncurkan sebuah browser berbasis Java yang diberi nama....",
+    "pilihan": {
+      "A": "Netscape",
+      "B": "HotJava",
+      "C": "Opera",
+      "D": "Maxthon"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Browser Netscape Navigator berhasil mengadopsi teknologi Java (applet) pada....",
+    "pilihan": {
+      "A": "Januari 1996",
+      "B": "Februari 1996",
+      "C": "Maret 1996",
+      "D": "April 1996"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Kepanjangan dari JDK yang berisi kompiler dan runtime environtment Java adalah....",
+    "pilihan": {
+      "A": "Java Deploy Kit",
+      "B": "Java Development Kit",
+      "C": "Java Developer Kit",
+      "D": "Java Description Kit"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Format standar komentar dokumentasi (Javadoc) yang tepat pada Java ditandai dengan....",
+    "pilihan": {
+      "A": "// ...",
+      "B": "/* ... */",
+      "C": "/** ... */",
+      "D": ""
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Paket standar (Package) 'java.io' dalam Java utamanya digunakan untuk keperluan....",
+    "pilihan": {
+      "A": "Keperluan Kompilasi",
+      "B": "Proses Input dan Output (I/O) data / file",
+      "C": "Manipulasi String",
+      "D": "Fungsi matematika kompleks"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Sintaks deklarasi paket (package) yang diletakkan di baris paling atas kode yang benar adalah....",
+    "pilihan": {
+      "A": "paket sepeda;",
+      "B": "Sepeda package;",
+      "C": "package Sepeda;",
+      "D": "name package Sepeda;"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Aturan/kaidah dalam penamaan dan struktur paket (package) yang benar dalam Java adalah ...",
+    "pilihan": {
+      "A": "Hanya boleh digunakan untuk satu kelas saja",
+      "B": "Tidak perlu sesuai dengan struktur path/direktori folder fisik",
+      "C": "Harus merepresentasikan path fisik (direktori folder) tempat file Java tersebut disimpan",
+      "D": "Tidak wajib diletakkan di baris paling awal"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Pernyataan impor dengan wildcard (bintang) seperti `import paketSepeda.*;` memberikan perintah pada kompiler untuk....",
+    "pilihan": {
+      "A": "Mengimpor sebagian file saja",
+      "B": "Mengimpor class-class tertentu yang diketik spesifik",
+      "C": "Mengimpor seluruh class/file yang ada di dalam package/folder 'paketSepeda'",
+      "D": "Tidak melakukan impor sama sekali"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Pernyataan yang benar tentang inheritance pada sebuah Interface di Java adalah....",
+    "pilihan": {
+      "A": "Sebuah interface dapat mewarisi (extends) dari class",
+      "B": "Sebuah interface tidak dapat diwariskan sama sekali",
+      "C": "Sebuah class tidak dapat mengimplementasi interface",
+      "D": "Sebuah interface dapat mewarisi (extends) dari satu atau lebih interface lainnya"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Kaidah penamaan nama file Java (misalnya jika terdapat class public di dalamnya) yang tepat adalah....",
+    "pilihan": {
+      "A": "Penamaan file bebas walaupun tidak sesuai dengan nama class",
+      "B": "Penamaan file tidak perlu berekstensi .java",
+      "C": "Penamaan file harus persis sama (case-sensitive) dengan nama Class Public yang ada di dalamnya",
+      "D": "Penamaan file harus sama dengan nama package"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Agar sebuah Class utuh dapat berjalan dan dikompilasi, maka setiap kurung kurawal pembuka `{` harus diakhiri dengan pasangan yang sesuai. Pasangan dari '{' adalah...",
+    "pilihan": {
+      "A": "[",
+      "B": "()",
+      "C": "]",
+      "D": "}"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Maksud dari pernyataan `import java.util.Scanner;` adalah....",
+    "pilihan": {
+      "A": "Mengimpor semua class yang ada di dalam package java.util",
+      "B": "Mengimpor class Scanner spesifik yang ada dalam paket java.util",
+      "C": "Menjalankan program utilitas",
+      "D": "Mendeklarasikan nama paket proyek kita"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Jika pernyataan impor diawali double-slash seperti `// import paketSepeda.*;`, maksudnya adalah....",
+    "pilihan": {
+      "A": "Mengimpor dengan hak akses administrator",
+      "B": "Mengimpor semua file dalam paket",
+      "C": "Memberikan penekanan pada kompiler",
+      "D": "Pernyataan impor tidak berlaku (diabaikan oleh kompiler) karena dijadikan sebagai komentar baris."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Kelompok besar tipe data pada Java secara fundamental dikategorikan menjadi 2 jenis, yaitu....",
+    "pilihan": {
+      "A": "Primitif dan Referensi (Reference)",
+      "B": "Angka dan Huruf",
+      "C": "Statis dan Dinamis",
+      "D": "Integer dan String"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Tipe data bawaan sistem seperti byte, short, int, long, float, double, char, dan boolean tergolong sebagai jenis tipe data....",
+    "pilihan": {
+      "A": "Tipe data primitif",
+      "B": "Tipe data referensi",
+      "C": "Tipe data objek",
+      "D": "Tipe data abstrak"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Nilai karakter tunggal seperti 'A', 'b', atau '1' dalam memori Java disimpan menggunakan tipe data...",
+    "pilihan": {
+      "A": "String",
+      "B": "Char",
+      "C": "Byte",
+      "D": "Int"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Nilai `true` / `false` termasuk dalam kelompok tipe data....",
+    "pilihan": {
+      "A": "Logika (Boolean)",
+      "B": "Real (Float)",
+      "C": "Integer",
+      "D": "Char"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Batas rentang nilai memori (32-bit) dari tipe data 'int' (Integer) standar adalah ....",
+    "pilihan": {
+      "A": "-32.768 hingga 32.767 (16-bit short)",
+      "B": "-9 Quintillion hingga 9 Quintillion (64-bit long)",
+      "C": "-2,147,483,648 hingga 2,147,483,647",
+      "D": "0 hingga 255 (8-bit byte)"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Nilai default bawaan (jika belum diinisialisasi) dari variabel dengan tipe data boolean di dalam array / class atribut adalah....",
+    "pilihan": {
+      "A": "1",
+      "B": "0",
+      "C": "true",
+      "D": "false"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Pernyataan yang benar di bawah ini tentang penulisan kata kunci tipe data primitif pada Java (seperti int, double, boolean) adalah....",
+    "pilihan": {
+      "A": "Boleh ditulis dengan huruf kapital semua (INT, DOUBLE)",
+      "B": "Tergolong sebagai keyword yang dicadangkan (reserved) dan harus ditulis dengan huruf kecil semua",
+      "C": "Bukan merupakan keyword",
+      "D": "Dapat digunakan sebagai nama variabel"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Pernyataan yang benar tentang *Variabel Lokal* dalam Java adalah....",
+    "pilihan": {
+      "A": "Variabel lokal adalah variabel yang dideklarasikan di dalam tubuh Method, Constructor, atau Block tertentu dan umurnya terbatas di dalam blok tersebut.",
+      "B": "Dapat diakses oleh seluruh class lain di luar file",
+      "C": "Dapat dideklarasikan dengan modifier akses (public, private)",
+      "D": "Disimpan secara statis di memory"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Di dalam pemrograman berbasis objek, sebuah instance object baru dari suatu class dialokasikan di memory dengan menggunakan operator keyword....",
+    "pilihan": {
+      "A": "static",
+      "B": "new",
+      "C": "private",
+      "D": "class"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Variabel Kelas (Variabel yang sifatnya global untuk satu kelas dan nilainya dibagikan/dimiliki bersama oleh semua objek turunan kelas tersebut) dideklarasikan menggunakan modifier keyword...",
+    "pilihan": {
+      "A": "static",
+      "B": "new",
+      "C": "private",
+      "D": "public"
+    },
+    "jawaban": "A"
+  }
+]

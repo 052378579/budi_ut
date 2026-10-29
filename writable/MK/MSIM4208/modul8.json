@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Karakteristik komputasi awan yang memungkinkan pengguna mendapatkan sumber daya komputasi secara otomatis tanpa perlu interaksi manusia dengan penyedia layanan adalah ....",
+    "pilihan": {
+      "A": "On-demand self-service",
+      "B": "Broad network access",
+      "C": "Resource pooling",
+      "D": "Rapid elasticity"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Layanan komputasi awan yang menyewakan infrastruktur TI dasar seperti server, mesin virtual, jaringan, dan sistem operasi adalah ....",
+    "pilihan": {
+      "A": "SaaS",
+      "B": "PaaS",
+      "C": "IaaS",
+      "D": "DaaS"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Model penyebaran cloud yang dioperasikan semata-mata untuk sebuah organisasi, baik dikelola oleh organisasi tersebut atau pihak ketiga adalah ....",
+    "pilihan": {
+      "A": "Public Cloud",
+      "B": "Private Cloud",
+      "C": "Hybrid Cloud",
+      "D": "Community Cloud"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Salah satu ancaman keamanan pada komputasi awan yang terjadi akibat kelemahan pada antarmuka pemrograman aplikasi adalah ....",
+    "pilihan": {
+      "A": "Data Breach",
+      "B": "Insecure APIs",
+      "C": "Account Hijacking",
+      "D": "Malicious Insiders"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Hypervisor tipe 1 (bare-metal) berjalan secara langsung di atas ....",
+    "pilihan": {
+      "A": "Sistem Operasi Host",
+      "B": "Perangkat Keras Fisik",
+      "C": "Sistem Operasi Guest",
+      "D": "Aplikasi Virtualisasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Teknologi yang memisahkan sistem operasi dari perangkat keras fisik sehingga memungkinkan beberapa sistem operasi berjalan di satu mesin fisik disebut ....",
+    "pilihan": {
+      "A": "Enkripsi",
+      "B": "Virtualisasi",
+      "C": "Containerization",
+      "D": "Replikasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Perbedaan utama antara virtual mesin (VM) dan container adalah ....",
+    "pilihan": {
+      "A": "Container tidak memerlukan sistem operasi host",
+      "B": "VM membagikan kernel OS host yang sama dengan VM lain",
+      "C": "Container membagikan kernel OS host yang sama, membuatnya lebih ringan",
+      "D": "VM hanya bisa dijalankan di cloud"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Layanan Google Drive dan Dropbox merupakan contoh nyata dari model layanan ....",
+    "pilihan": {
+      "A": "IaaS",
+      "B": "PaaS",
+      "C": "SaaS",
+      "D": "BaaS"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Kemampuan komputasi awan untuk menambah atau mengurangi kapasitas sumber daya komputasi secara cepat dan elastis seiring dengan perubahan beban kerja disebut ....",
+    "pilihan": {
+      "A": "Measured Service",
+      "B": "Rapid Elasticity",
+      "C": "Resource Pooling",
+      "D": "Broad Network Access"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Perangkat lunak open source yang paling populer saat ini untuk mengelola aplikasi berbasis container adalah ....",
+    "pilihan": {
+      "A": "VMware",
+      "B": "VirtualBox",
+      "C": "Docker",
+      "D": "Hyper-V"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Arsitektur cloud yang secara spesifik menggabungkan layanan public cloud dan private cloud dengan teknologi yang memungkinkan data dan aplikasi berbagi di antara keduanya disebut ....",
+    "pilihan": {
+      "A": "Multi Cloud",
+      "B": "Hybrid Cloud",
+      "C": "Community Cloud",
+      "D": "Distributed Cloud"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Keuntungan strategis utama dari komputasi awan bagi perusahaan skala kecil menengah adalah ....",
+    "pilihan": {
+      "A": "Mengharuskan perekrutan teknisi hardware yang banyak",
+      "B": "Mengubah biaya modal (CapEx) menjadi biaya operasional (OpEx)",
+      "C": "Meningkatkan pembelian server fisik setiap tahun",
+      "D": "Mengurangi kecepatan akses data internal"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Proses memindahkan data, aplikasi, dan beban kerja TI lainnya dari infrastruktur lokal (on-premises) ke lingkungan cloud disebut ....",
+    "pilihan": {
+      "A": "Cloud Migration",
+      "B": "Cloud Deployment",
+      "C": "Cloud Provisioning",
+      "D": "Cloud Storage"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Layanan AWS Elastic Beanstalk dan Google App Engine adalah contoh dari penyediaan layanan ....",
+    "pilihan": {
+      "A": "SaaS",
+      "B": "PaaS",
+      "C": "IaaS",
+      "D": "FaaS"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Dalam konteks keamanan komputasi awan, konsep tanggung jawab bersama (shared responsibility model) berarti bahwa ....",
+    "pilihan": {
+      "A": "Pelanggan bertanggung jawab penuh atas seluruh infrastruktur fisik",
+      "B": "Penyedia cloud membebaskan diri dari semua tanggung jawab data",
+      "C": "Penyedia cloud dan pelanggan berbagi tugas pengamanan sesuai model layanannya",
+      "D": "Pemerintah mengambil alih tanggung jawab keamanan data"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Fasilitas fisik terpusat yang digunakan untuk menempatkan sistem komputer dan komponen terkaitnya, seperti sistem telekomunikasi dan penyimpanan data, disebut ....",
+    "pilihan": {
+      "A": "Data Center",
+      "B": "Cloud Server",
+      "C": "Network Hub",
+      "D": "Storage Area Network"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Salah satu standar klasifikasi keandalan dan redundansi infrastruktur data center yang paling umum digunakan secara global adalah ....",
+    "pilihan": {
+      "A": "ISO 9001",
+      "B": "Tier Standard dari Uptime Institute",
+      "C": "IEEE 802.11",
+      "D": "OSI Reference Model"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berdasarkan standar klasifikasi, Data Center Tier 4 dirancang untuk memiliki tingkat ketersediaan (availability) sebesar ....",
+    "pilihan": {
+      "A": "99.671%",
+      "B": "99.741%",
+      "C": "99.982%",
+      "D": "99.995%"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Komponen kritikal di dalam data center yang berfungsi untuk menjaga suhu perangkat agar tidak mengalami overheating (kepanasan) adalah ....",
+    "pilihan": {
+      "A": "Power Supply (UPS)",
+      "B": "Cooling System / HVAC",
+      "C": "Fire Suppression System",
+      "D": "Cabling System"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Toleransi gangguan layanan (downtime) maksimal per tahun yang diizinkan untuk Data Center dengan sertifikasi Tier 3 adalah sekitar ....",
+    "pilihan": {
+      "A": "28.8 jam",
+      "B": "22 jam",
+      "C": "1.6 jam",
+      "D": "26.3 menit"
+    },
+    "jawaban": "C"
+  }
+]

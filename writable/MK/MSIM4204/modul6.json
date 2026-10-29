@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Salah satu aplikasi yang digunakan untuk mengakses remote host melalui terminal yang interaktif adalah ....",
+    "pilihan": {
+      "A": "TELNET",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "UDP"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Pada script di bawah ini penulisan \"in\" mempunyai arti ....\n```c\nstruct sockaddr_in {\n    short int sin_family; // Address family\n    unsigned short int sin_port; // Port number\n    struct in_addr sin_addr; // Internet address\n    unsigned char sin_zero[8]; /* Same size as struct sockaddr */\n};\n```",
+    "pilihan": {
+      "A": "Intranet",
+      "B": "Internet",
+      "C": "Internetworking",
+      "D": "Input"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Fungsi perubahan network ke host dengan sistem short digunakan perintah ....",
+    "pilihan": {
+      "A": "htons()",
+      "B": "htonl()",
+      "C": "ntohs()",
+      "D": "ntohl()"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "System call yang digunakan untuk mengakses suatu remote host adalah ....",
+    "pilihan": {
+      "A": "socket",
+      "B": "bind",
+      "C": "connect",
+      "D": "listen"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "System call yang digunakan untuk menunggu koneksi dari suatu host ...",
+    "pilihan": {
+      "A": "listen",
+      "B": "accept",
+      "C": "send",
+      "D": "recy"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "System call yang digunakan mengetahui informasi tentang tujuan adalah ....",
+    "pilihan": {
+      "A": "recyfrom",
+      "B": "sendto",
+      "C": "close",
+      "D": "getpeername"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Pada script di bawah ini perintah `h_aliases` menunjukkan ....\n```c\nstruct hostent {\n    char *h_name;\n    char **h_aliases;\n    int h_addrtype;\n    int h_length;\n    char **h_addr_list;\n};\n#define h_addr h_addr_list[0]\n```",
+    "pilihan": {
+      "A": "nama resmi dari suatu host",
+      "B": "nama alternatif dari suatu host",
+      "C": "type dari alamat, contoh AF_INET",
+      "D": "panjang dari data alamat IP"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Contoh penggunaan `inet_addr()` yang benar adalah ....",
+    "pilihan": {
+      "A": "inet_addr(\"10.252.102.23\");",
+      "B": "addr.s_addr = inet_addr(\"10.252.102.23\");",
+      "C": "ina.sin_addr.s_addr = inet_addr;",
+      "D": "ina.sin_addr.s_addr = inet_addr(\"10.252.102.23\");"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Perbedaan antara SOCK_STREAM dan SOCK_DGRAM adalah ....",
+    "pilihan": {
+      "A": "SOCK_STREAM digunakan apabila menggunakan protokol TCP",
+      "B": "SOCK_DGRAM digunakan untuk protokol TCP.",
+      "C": "SOCK_STREAM digunakan apabila menggunakan protokol UDP",
+      "D": "Type berisikan SOCK_STREAM atau SOCK_DGRAM dan protocol berisikan angka 1"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pertukaran data protokol berbasis connectionless-oriented menggunakan fungsi ....",
+    "pilihan": {
+      "A": "send()",
+      "B": "recv()",
+      "C": "sendto()",
+      "D": "close()"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut yang merupakan nama domain untuk organisasi internasional adalah ....",
+    "pilihan": {
+      "A": "com",
+      "B": "edu",
+      "C": "gov",
+      "D": "int"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Singapura menggunakan nama domain dengan kode ....",
+    "pilihan": {
+      "A": "sp",
+      "B": "sg",
+      "C": "si",
+      "D": "sa"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Format dari resource record yang berfungsi untuk mengidentifikasikan nama protokol adalah ....",
+    "pilihan": {
+      "A": "Nama",
+      "B": "TTL",
+      "C": "Class",
+      "D": "Tipe"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "CNAME merupakan salah satu tipe dari resource record yang mempunyai arti ....",
+    "pilihan": {
+      "A": "Canonical Name, nama alias dari suatu host",
+      "B": "CPU dan OS yang digunakan suatu host, bersifat komentar",
+      "C": "Nameserver yang memiliki authority untuk suatu domain",
+      "D": "Pointer untuk nama domain"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Pesan DNS dikirimkan melalui UDP dan TCP menggunakan port ke ....",
+    "pilihan": {
+      "A": "50",
+      "B": "51",
+      "C": "52",
+      "D": "53"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Protokol yang digunakan untuk mengirimkan pesan kepada namaserver untuk mencatat IP dan nama host adalah ....",
+    "pilihan": {
+      "A": "DHCP",
+      "B": "FTP",
+      "C": "IP",
+      "D": "UDP"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Sistem NIS yang berfungsi mengelola peta atau database dari password pengguna adalah ....",
+    "pilihan": {
+      "A": "NIS master server",
+      "B": "NIS slave server",
+      "C": "NIS Client",
+      "D": "NIS Host"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Untuk mengetahui lebih lengkap tentang DNS maka kita bisa melihat penjelasan tersebut pada ....",
+    "pilihan": {
+      "A": "RFC 1035",
+      "B": "RFC 1036",
+      "C": "RFC 1037",
+      "D": "RFC 1038"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Tipe PTR pada resource record mempunyai arti ....",
+    "pilihan": {
+      "A": "Mail Exchange untuk suatu domain",
+      "B": "Start of Authority",
+      "C": "Pointer untuk nama domain",
+      "D": "Canonical Name, nama alias dari suatu host"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Nama domain yang menunjukkan arti organisasi non-profit adalah ....",
+    "pilihan": {
+      "A": "org",
+      "B": "gov",
+      "C": "id",
+      "D": "net"
+    },
+    "jawaban": "A"
+  }
+]

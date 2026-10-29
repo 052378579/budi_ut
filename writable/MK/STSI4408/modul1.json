@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "E-bisnis merupakan transaksi atau proses digital di internal perusahaan, yang melibatkan sistem informasi dibawah kontrol perusahaan, definisi tersebut menurut",
+    "pilihan": {
+      "A": "Guay",
+      "B": "Turban",
+      "C": "Laudon & Traver",
+      "D": "Jawaban A, B dan C tidak benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut ini merupakan ruang lingkup proses bisnis e-commerce, kecuali ....",
+    "pilihan": {
+      "A": "HRM",
+      "B": "pembelian",
+      "C": "penjualan",
+      "D": "pemasaran"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "E-bisnis merupakan kombinasi dari tiga aktivitas berikut, kecuali ....",
+    "pilihan": {
+      "A": "e-commerce",
+      "B": "proses bisnis internal",
+      "C": "pemeliharaan komputer",
+      "D": "relasi dengan pelanggan dan pemasok"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Nilai kegunaan suatu produk berubah akibat perpindahan lokasi terhadap produk tersebut adalah ....",
+    "pilihan": {
+      "A": "form utility",
+      "B": "pace utility",
+      "C": "ownership utility",
+      "D": "time utility"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Bentuk kegiatan transaksi dengan pelaku bisnis (organisasi) lain adalah ....",
+    "pilihan": {
+      "A": "business to consumer",
+      "B": "business to business",
+      "C": "consumer to consumer",
+      "D": "consumer to business"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Penerapan E-bisnis dapat memberi keuntungan berikut, kecuali ....",
+    "pilihan": {
+      "A": "efisiensi dan efektivitas",
+      "B": "jangkauan yang lebih luas",
+      "C": "meningkatkan biaya proses bisnis",
+      "D": "terciptanya peluang model bisnis baru"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Berikut ini merupakan fungsi utama dari bisnis, kecuali",
+    "pilihan": {
+      "A": "memperoleh barang jadi menjadi bahan mentah",
+      "B": "menyalurkan produk",
+      "C": "mengubah bahan mentah menjadi barang jadi",
+      "D": "memperoleh bahan mentah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Payung atau jas hujan akan memiliki nilai bagi konsumen ketika musim hujan, artinya payung atau jas hujan memiliki utilitas....",
+    "pilihan": {
+      "A": "bentuk",
+      "B": "waktu",
+      "C": "kepemilikan",
+      "D": "tempat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Peran sistem informasi bisnis untuk mendukung bisnis perusahaan adalah",
+    "pilihan": {
+      "A": "memberi dukungan agar perusahaan dapat meningkatkan biaya",
+      "B": "memberi dukungan agar perusahaan dapat memperoleh keunggulan kompetitif",
+      "C": "memberi dukungan agar perusahaan dapat meningkatkan jumlah pegawai",
+      "D": "Jawaban A, B dan C tidak benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "eBay merupakan contoh penerapan e-commerce jenis ....",
+    "pilihan": {
+      "A": "business to consumer",
+      "B": "business to business",
+      "C": "consumer to business",
+      "D": "consumer to consumer"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Sistem yang berperan untuk melakukan mengintegrasikan semua proses bisnis, adalah",
+    "pilihan": {
+      "A": "CRM",
+      "B": "HRM",
+      "C": "ERP",
+      "D": "SCM"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Jaringan yang menghubungkan komputer di seluruh dunia adalah",
+    "pilihan": {
+      "A": "intranet",
+      "B": "internet",
+      "C": "wifi",
+      "D": "local area network"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Gmail merupakan salah satu bentuk layanan komputasi awan (cloud computing) yang termasuk dalam kategori layanan",
+    "pilihan": {
+      "A": "platform as a service",
+      "B": "infrastructure as a service",
+      "C": "software as a service",
+      "D": "jawaban A, B dan C tidak benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Salah satu karakteristik dari E-bisnis adalah",
+    "pilihan": {
+      "A": "dokumen dibagi dalam bentuk dokumen cetak",
+      "B": "proses yang dilakukan bersifat real-time",
+      "C": "jangkauan bisnis relatif terbatas dalam lokasi tertentu",
+      "D": "komunikasi dilakukan secara fisik"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut ini merupakan tujuan dari penerapan E-bisnis, kecuali ....",
+    "pilihan": {
+      "A": "melakukan optimalisasi terhadap aktivitas bisnis",
+      "B": "melakukan transformasi proses bisnis",
+      "C": "meningkatkan kompleksitas proses bisnis",
+      "D": "berbagi informasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Perusahaan dapat melakukan outsourcing terhadap kebutuhan perangkat server kepada penyedia layanan ....",
+    "pilihan": {
+      "A": "platform as a service",
+      "B": "infrastructure as a service",
+      "C": "software as a service",
+      "D": "jawaban A, B dan C tidak benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Decision Support System merupakan sistem yang",
+    "pilihan": {
+      "A": "mengolah semua data sehingga menjadi berguna",
+      "B": "memberi dukungan dalam transaksi pemrosesan",
+      "C": "dapat membantu pengguna mengerjakan tugas yang kompleks",
+      "D": "memberi dukungan interaktif pada proses pengambilan keputusan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berikut ini merupakan karakteristik bisnis konvensional, kecuali ....",
+    "pilihan": {
+      "A": "dokumen dibagi dalam bentuk dokumen cetak",
+      "B": "proses yang dilakukan bersifat real-time",
+      "C": "jangkauan bsinis relatif terbatas dalam lokasi tertentu",
+      "D": "komunikasi dilakukan secara fisik"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Konsep sistem informasi yang berperan melakukan pengolahan terhadap semua data menjadi berguna adalah ....",
+    "pilihan": {
+      "A": "sistem informasi manajemen",
+      "B": "decision support system",
+      "C": "executive information system",
+      "D": "sistem pakar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Sistem informasi yang memantau rantai siklus pengelolaan alur produksi barang, mulai dari bahan dasar sampai pengiriman produk akhir ke pelanggan adalah ....",
+    "pilihan": {
+      "A": "CRM",
+      "B": "HRM",
+      "C": "ERP",
+      "D": "SCM"
+    },
+    "jawaban": "D"
+  }
+]

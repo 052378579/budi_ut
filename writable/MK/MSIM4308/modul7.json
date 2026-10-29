@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut merupakan beberapa perangkat lunak yang digunakan untuk mengelola server dari jarak jauh, kecuali ....",
+    "pilihan": {
+      "A": "Vmware",
+      "B": "VNC",
+      "C": "Telnet",
+      "D": "Secure Shell"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Port yang secara default digunakan oleh protokol SSH adalah ....",
+    "pilihan": {
+      "A": "23",
+      "B": "21",
+      "C": "22",
+      "D": "20"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Perangkat lunak yang dapat digunakan untuk mengakses desktop grafis dari suatu komputer dari jarak jauh adalah ....",
+    "pilihan": {
+      "A": "Virtual Network Computing",
+      "B": "Virtual Network Desktop",
+      "C": "Secure shell",
+      "D": "Telnet"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "VNC server dapat diakses melalui client menggunakan perangkat lunak ....",
+    "pilihan": {
+      "A": "Vmware",
+      "B": "VNC Viewer",
+      "C": "Anydesk",
+      "D": "Jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Sintak yang digunakan untuk menginstal SSH di sistem operasi CentOS 7 adalah ....",
+    "pilihan": {
+      "A": "#yum -y install openssh-server openssh-clients",
+      "B": "#yum update",
+      "C": "#yum install telnet telnet-server -y",
+      "D": "# install openssh-server openssh-clients"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Port yang digunakan oleh Telnet adalah ....",
+    "pilihan": {
+      "A": "#firewall-cmd --permanent --add-port=20/tcp",
+      "B": "#firewall-cmd --permanent --add-port=23/tcp",
+      "C": "#firewall-cmd --permanent --add-port=21/tcp",
+      "D": "#firewall-cmd --permanent --add-port=22/tcp"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Lokasi file konfigurasi VNC server terdapat di dalam direktori ....",
+    "pilihan": {
+      "A": "/etc/system/vnc/",
+      "B": "/etc/systemd/vnc/",
+      "C": "/lib/systemd/system/",
+      "D": "/etc/systemd/system/"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Sekumpulan komponen yang menyediakan akses mirip terminal ke komputer jarak jauh adalah ....",
+    "pilihan": {
+      "A": "FTP",
+      "B": "HTTP",
+      "C": "DNS",
+      "D": "TELNET"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Aplikasi shell yang digunakan untuk membuat koneksi terenkripsi antar sistem sehingga koneksi menjadi lebih aman ....",
+    "pilihan": {
+      "A": "Telnet",
+      "B": "SSH",
+      "C": "HTTP",
+      "D": "Jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "SSH memiliki kemampuan untuk membangkitkan kunci publik dan privat, hal tersebut dapat dilakukan dengan menggunakan sintak ....",
+    "pilihan": {
+      "A": "ssh-keygen -t rsa",
+      "B": "ssh-password -t rsa",
+      "C": "ssh-public -t rsa",
+      "D": "Jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini merupakan beberapa protokol yang digunakan dalam sistem email, kecuali ....",
+    "pilihan": {
+      "A": "File Transfer Protocol",
+      "B": "Simple Mail Transfer Protocol",
+      "C": "Post Office Protocol v3",
+      "D": "Internet Message Access Protocol"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Port 143 merupakan port standard yang digunakan oleh protokol ....",
+    "pilihan": {
+      "A": "File Transfer Protocol",
+      "B": "Simple Mail Transfer Protocol",
+      "C": "Post Office Protocol v3",
+      "D": "Internet Message Access Protocol"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Multipurpose Internet Mail Extension (MIME) merupakan fitur yang mengizinkan sistem email untuk ....",
+    "pilihan": {
+      "A": "mengirimkan data selain teks",
+      "B": "mengenkripsi data",
+      "C": "menambah tingkat keamanan",
+      "D": "Jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Protokol yang merupakan Mail transport agent adalah ....",
+    "pilihan": {
+      "A": "POP3",
+      "B": "SMTP",
+      "C": "IMAP",
+      "D": "Telnet"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Microsoft Outlook merupakan sistem yang termasuk dalam kategori ....",
+    "pilihan": {
+      "A": "mail user agent",
+      "B": "mail transport agent",
+      "C": "mail delivery agent",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Postfix dapat dikonfigurasi melalui file ....",
+    "pilihan": {
+      "A": "/etc/postfix/main.pf",
+      "B": "/etc/postfix/main.cf",
+      "C": "/etc/postfix/main.pl",
+      "D": "/etc/posfix/main.cf"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Perangkat lunak yang digunakan untuk menyediakan layanan POP3 dan IMAP adalah ....",
+    "pilihan": {
+      "A": "Dovecot",
+      "B": "Postfix",
+      "C": "Suirrelmail",
+      "D": "Sendmail"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Perhatikan sintak berikut:\n[root@localhost ~]# telnet localhost smtp\nPort yang dituju oleh perintah diatas adalah ....",
+    "pilihan": {
+      "A": "23",
+      "B": "21",
+      "C": "22",
+      "D": "25"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Berikut merupakan perangkat lunak yang umum digunakan pada mail server, kecuali ....",
+    "pilihan": {
+      "A": "Microsoft Exchange server",
+      "B": "Postfix",
+      "C": "Zimbra",
+      "D": "Microsoft ISA server"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Program server yang menerima email dari MUA, memeriksa kemudian mentransfer menggunakan SMTP ke MTA di server yang sama adalah ....",
+    "pilihan": {
+      "A": "mail user agent",
+      "B": "mail transport agent",
+      "C": "mail delivery agent",
+      "D": "mail submission agent"
+    },
+    "jawaban": "D"
+  }
+]

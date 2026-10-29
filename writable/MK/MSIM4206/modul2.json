@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Network Model merupakan salah satu model data yang di dasarkan pada ....",
+    "pilihan": {
+      "A": "Record",
+      "B": "File",
+      "C": "Node-Node",
+      "D": "Field"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Model Jaringan dapat dideskripsikan ke dalam struktur hubungan bertingkat yang tersusun atas komponen berupa ....",
+    "pilihan": {
+      "A": "Record",
+      "B": "File",
+      "C": "Node-Node",
+      "D": "Field"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Sesuai dengan gambar model struktur data, model yang menggunakan koneksi antar node disebut:",
+    "pilihan": {
+      "A": "Network Model",
+      "B": "Relational Model",
+      "C": "Object Database Model",
+      "D": "Relational Database Model"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Tingkatan data dalam database relasi, data yang tersimpan dalam DBMS mempunyai tingkatan sebagai berikut",
+    "pilihan": {
+      "A": "Karakter, Field, Record, Tabel, Database",
+      "B": "Karakter, File, Record, Tabel, Database",
+      "C": "Karakter, Record, Baris, Tabel, Database",
+      "D": "Field, Record, Tabel, Karakter, File"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Sekumpulan konsep yang terintegrasi untuk mendiskripsikan data, hubungan antardata dan batasan-batasannya disebut",
+    "pilihan": {
+      "A": "Database",
+      "B": "Model Data",
+      "C": "Data Relasi",
+      "D": "Relasi Database"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Entity Relationship Model, Binary Model, dan Semantic Model termasuk dalam Model",
+    "pilihan": {
+      "A": "Record Bases Data Model",
+      "B": "Physical Bases Data Model",
+      "C": "Object Based Data Model",
+      "D": "Frame Based Data Model"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Hierachycal Model, Network Model, dan Relational Model termasuk dalam Model ...",
+    "pilihan": {
+      "A": "Record Bases Data Model",
+      "B": "Object Based Data Model",
+      "C": "Frame Based Data Model",
+      "D": "Unifying Based Data Model"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Kumpulan data value dari attribute yang berkaitan sehingga dapat menjelaskan sebuah entity secara lengkap disebut ....",
+    "pilihan": {
+      "A": "File",
+      "B": "Data",
+      "C": "Field",
+      "D": "Tupple"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Record disebut juga ....",
+    "pilihan": {
+      "A": "Baris",
+      "B": "Kolom",
+      "C": "Datum",
+      "D": "Entity"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Entity sering disamakan dengan istilah ....",
+    "pilihan": {
+      "A": "Baris",
+      "B": "Datum",
+      "C": "Tabel",
+      "D": "Record"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Dari kasus showroom mobil (honda, toyota, suzuki) dengan berbagai jenis dan warna, entitas yang terbentuk adalah",
+    "pilihan": {
+      "A": "mobil",
+      "B": "rush, brio, ertiga",
+      "C": "merah, hijau, kuning",
+      "D": "tidak ada entitas yang terbentuk"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Simbol yang digunakan untuk menggambarkan associative entity (entitas asosiatif) adalah",
+    "pilihan": {
+      "A": "Persegi Panjang",
+      "B": "Belah Ketupat",
+      "C": "Persegi panjang dengan belah ketupat di dalamnya",
+      "D": "Oval"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Berikut yang merupakan Model Basis data adalah ....",
+    "pilihan": {
+      "A": "Network, Hierarchical, Object Oriented, Multi Valued",
+      "B": "Relational, Network, Hierarchical, Object Oriented",
+      "C": "Associative, Hierarchical, object oriented, Relational",
+      "D": "Network, Hierarchical, Multi Valued, Object Oriented"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Atribut yang dapat memiliki lebih dari satu nilai untuk setiap instans entitas disebut ....",
+    "pilihan": {
+      "A": "Derived Attribute",
+      "B": "Multivalued Attribute",
+      "C": "Composite Attribute",
+      "D": "Simple Attribute"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Sebuah properti dalam sebuah entitas disebut dengan ....",
+    "pilihan": {
+      "A": "File",
+      "B": "Entity",
+      "C": "Relasi",
+      "D": "Atribut"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Simbol yang digunakan untuk menggambarkan Derived Attribute (atribut turunan) adalah ....",
+    "pilihan": {
+      "A": "Garis putus-putus",
+      "B": "Lingkaran ganda",
+      "C": "Oval dengan garis putus-putus",
+      "D": "Persegi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Atribut yang dipecah menjadi atribut-atribut lain (seperti Alamat menjadi Jalan, Kota, Kode Pos) disebut ....",
+    "pilihan": {
+      "A": "Simple Atribut",
+      "B": "Composite Atribut",
+      "C": "Single Value Atribut",
+      "D": "Multi Value Atribut"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Jumlah record dalam sebuah relasi (tabel) disebut dengan ....",
+    "pilihan": {
+      "A": "Atribut",
+      "B": "Derajat",
+      "C": "Kerelasian",
+      "D": "Kardinalitas"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Salah satu degree of relationship yang juga disebut dengan recursive relationship adalah ....",
+    "pilihan": {
+      "A": "Binary Relationship",
+      "B": "Unary Relationship",
+      "C": "Multiple Relationship",
+      "D": "Ternary Relationship"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Dari cerita Lia pemilik Toko Catelia Florish, entitas yang mungkin terbentuk adalah....",
+    "pilihan": {
+      "A": "Pelanggan, Surat Pesanan, Faktur, Kwitansi, Bunga",
+      "B": "Pelanggan, Surat Pesanan, Faktur, Bunga",
+      "C": "Surat Pesanan, Faktur, Kwitansi, Bunga",
+      "D": "Surat Pesanan, Faktur, Bunga"
+    },
+    "jawaban": "A"
+  }
+]

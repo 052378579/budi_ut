@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini adalah komponen utama di dalam aplikasi R Shiny, kecuali ....",
+    "pilihan": {
+      "A": "Shiny App (Fungsi inisialisasi)",
+      "B": "Server",
+      "C": "User Interface (UI)",
+      "D": "Web Apps"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Ketika akan menggunakan framework Shiny dalam skrip R, perintah paket yang harus dipanggil pertama kali adalah ....",
+    "pilihan": {
+      "A": "install.packages(\"Shiny\")",
+      "B": "library(shiny)",
+      "C": "library(RShiny)",
+      "D": "use(Shiny)"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Tugas utama dari blok fungsi `server` pada komponen Shiny adalah ....",
+    "pilihan": {
+      "A": "sebagai layout tampilan depan aplikasi",
+      "B": "menjalankan perintah inisialisasi awal",
+      "C": "melakukan setting awal tema web",
+      "D": "menjalankan logika kerja komputasi dan pemrosesan analisis data (backend)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Diberikan blok kode program Shiny dasar. Pernyataan berikut benar tentang arsitekturnya, kecuali ....",
+    "pilihan": {
+      "A": "kode program tersebut bisa dijalankan jika UI dan Server digabung via shinyApp",
+      "B": "ketiga komponen program (UI, Server, app) harus terpenuhi",
+      "C": "pengguna tidak bisa memberikan nilai parameter input",
+      "D": "UI bertanggung jawab merender output dari Server"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Dalam arsitektur Shiny, komponen yang berinteraksi langsung menangkap klik, ketikan angka (number), atau pilihan (choice/color) dari pengguna disebut objek ....",
+    "pilihan": {
+      "A": "renderPlot",
+      "B": "input (seperti numericInput, selectInput)",
+      "C": "mean",
+      "D": "standar deviasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Apabila di blok UI terdapat perintah `plotOutput(\"distPlot\")`, maka objek output visual yang akan dihasilkan ke layar web berupa ....",
+    "pilihan": {
+      "A": "tabel angka mentah data",
+      "B": "grafik/plot (seperti histogram)",
+      "C": "teks kesimpulan",
+      "D": "notifikasi pop-up"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jika dalam input Shiny terdapat `selectInput` untuk 4 jenis ukuran sampel (n) dan `radioButtons` untuk 3 warna, maka banyaknya total kombinasi pilihan grafik yang bisa dihasilkan adalah ....",
+    "pilihan": {
+      "A": "4",
+      "B": "7",
+      "C": "12",
+      "D": "10"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dalam R, fungsi `rnorm(n)` pada blok server Shiny secara default akan menghasilkan simulasi data sebanyak n yang mengikuti distribusi normal ....",
+    "pilihan": {
+      "A": "standar (mean = 0, sd = 1)",
+      "B": "mean = 0 dan standar deviasi = 5",
+      "C": "mean = 10 dan standar deviasi = 1000",
+      "D": "mean = 0 dan standar deviasi = 10"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Jika pada parameter input UI Shiny `choices = c(\"hijau\", \"merah\", \"biru\")` diteruskan langsung ke argumen `col = input$color` pada base R plot(), kode program akan menghasilkan ...",
+    "pilihan": {
+      "A": "histogram dengan tiga pilihan warna",
+      "B": "error (karena fungsi warna default R menggunakan bahasa Inggris, e.g., 'red')",
+      "C": "warna grafik teracak otomatis",
+      "D": "warna transparan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pernyataan terkait simulasi random data `rnorm(n)` di server Shiny berikut adalah benar, kecuali ....",
+    "pilihan": {
+      "A": "histogram yang dihasilkan akan membentuk pola lonceng (distribusi normal)",
+      "B": "setiap kali dilakukan pilihan interaktif baru, grafik histogram yang dihasilkan memiliki bentuk acak yang selalu persis sama (statis)",
+      "C": "setiap kali interaksi parameter diubah, Shiny me-render ulang dan menghasilkan nilai random yang sedikit berbeda (dinamis)",
+      "D": "semakin besar sampel n, pola distribusi normal (lonceng) akan semakin mulus"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini adalah manfaat membuat visualisasi data interaktif menggunakan Shiny, kecuali ....",
+    "pilihan": {
+      "A": "membantu eksploitasi dan memahami pola data secara mandiri",
+      "B": "dijadikan alat presentasi efektif bagi audiensi non-teknis",
+      "C": "memungkinkan user memfilter variabel secara real-time",
+      "D": "membantu lebih mudah dalam koding machine learning tingkat rendah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Terdapat tiga komponen fundamental yang harus ada agar kerangka R Shiny dapat dieksekusi, kecuali .....",
+    "pilihan": {
+      "A": "pemanggilan library (library(shiny))",
+      "B": "fungsi User Interface (UI)",
+      "C": "fungsi Server",
+      "D": "tabel database eksternal"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pada dataset 'mtcars' bawaan R yang memiliki 11 variabel, jika Anda hanya mendeklarasikan blok `ui <- fluidPage(...)` dan `server <- function(input, output) {...}`, apakah aplikasi web sudah bisa berjalan?",
+    "pilihan": {
+      "A": "sudah, tinggal menekan tombol Run App",
+      "B": "sudah, karena UI dan Server tersedia",
+      "C": "belum, karena fungsi penggabungan eksekusi belum ada",
+      "D": "belum, dataset mtcars perlu didownload ulang"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Mengacu pada soal sebelumnya, aplikasi Shiny belum dapat berjalan jika kurang satu blok kode vital (driver) di akhir skrip, yaitu ....",
+    "pilihan": {
+      "A": "belum di install package RStudio",
+      "B": "fungsi pemanggil aplikasi `shinyApp(ui = ui, server = server)` belum dituliskan.",
+      "C": "dataset belum di export ke CSV",
+      "D": "nilai variabel tidak didefinisikan ke list"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Dalam dashboard pengujian normalitas mtcars, objek kontrol kontrol antarmuka apa sajakah yang biasa dijadikan parameter input dalam UI?",
+    "pilihan": {
+      "A": "hanya nilai numerik n",
+      "B": "pilihan warna dan garis regresi",
+      "C": "objek pilihan variabel (varchoice), tipe tes (testchoice), dan tipe plot (plotchoice)",
+      "D": "teks laporan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Pada analisis data dataset kendaraan 'mtcars', variabel yang sering digunakan sebagai variabel dependen (variabel respon/target utama) untuk efisiensi adalah ....",
+    "pilihan": {
+      "A": "mpg (Miles/(US) gallon)",
+      "B": "cyl (jumlah silinder)",
+      "C": "hp (horsepower)",
+      "D": "wt (berat mesin)"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Uji statistika formal (bukan grafis) yang sering dipanggil dari R ke dalam aplikasi Shiny untuk menguji asumsi normalitas distribusi data numerik adalah ....",
+    "pilihan": {
+      "A": "t.test",
+      "B": "korelasi pearson",
+      "C": "ANOVA",
+      "D": "shapiro.test"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berdasarkan karakteristik data, untuk variabel konsumsi bahan bakar 'mpg' pada mtcars, jika divisualisasikan dengan histogram, apakah polanya mengikuti kurva distribusi normal sempurna?",
+    "pilihan": {
+      "A": "ya, sangat mulus",
+      "B": "tidak (cenderung miring / skew)",
+      "C": "tidak tahu tanpa model non-parametrik",
+      "D": "hanya distribusinya yang berbentuk eksponensial"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Pada plot standar output histogram dalam dashboard Shiny (contoh: `hist()`), sumbu vertikal (Y) mengindikasikan ukuran metrik ....",
+    "pilihan": {
+      "A": "Frequency (frekuensi kemunculan data)",
+      "B": "Kualitas mesin",
+      "C": "Merek mobil",
+      "D": "Waktu tempuh (qsec)"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Bila nilai uji normalitas Shapiro-Wilk untuk variabel 'mpg' di-render di aplikasi dan menghasilkan P-value = 0.1229. Karena P-value > 0.05, maka dapat disimpulkan bahwa data 'mpg' ....",
+    "pilihan": {
+      "A": "Menolak H0 (tidak berdistribusi normal)",
+      "B": "Gagal tolak H0 (dianggap berdistribusi normal secara statistik)",
+      "C": "Data mengandung huruf (string)",
+      "D": "Nilai korelasi negatif"
+    },
+    "jawaban": "B"
+  }
+]

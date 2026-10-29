@@ -1,0 +1,167 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini yang bukan merupakan komponen sistem informasi adalah ....",
+    "pilihan": {
+      "A": "hardware",
+      "B": "software",
+      "C": "prosedur",
+      "D": "informasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Peralatan hardware yang berfungsi untuk menyampaikan hasil pemrosesan data kepada pengguna adalah ....",
+    "pilihan": {
+      "A": "peralatan input",
+      "B": "peralatan pemroses",
+      "C": "peralatan output",
+      "D": "media penyimpanan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Fungsi informasi sebagai berikut, kecuali",
+    "pilihan": {
+      "A": "membantu pengambilan keputusan",
+      "B": "sebagai alternatif pemecahan masalah",
+      "C": "bahan evaluasi kinerja masa lalu",
+      "D": "sebagai arsip catatan historis"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berikut ini yang merupakan contoh system software adalah",
+    "pilihan": {
+      "A": "Unix",
+      "B": "computing platforms",
+      "C": "spreadsheet processor",
+      "D": "telecommunication services"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Komponen sistem yang bermanfaat sebagai media regulasi adalah",
+    "pilihan": {
+      "A": "database",
+      "B": "prosedur",
+      "C": "brainware",
+      "D": "hardware"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Resource yang memberikan koneksi data, video, suara kepada karyawan, konsumen dan supplier adalah ....",
+    "pilihan": {
+      "A": "computing platforms",
+      "B": "application software services",
+      "C": "IT management service",
+      "D": "telecommunication services"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Resource yang bergerak dalam level manajemen seperti pembuat kebijakan dan merencanakan sistem informasi adalah....",
+    "pilihan": {
+      "A": "IT standard service",
+      "B": "computing platforms",
+      "C": "application software services",
+      "D": "IT research and development service"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut yang merupakan tujuan pengendalian internal adalah ....",
+    "pilihan": {
+      "A": "meningkatkan laba operasi perusahaan",
+      "B": "menjamin manajemen perusahaan agar kegiatan perusahaan sejalan dengan hukum dan kegiatan yang berlaku",
+      "C": "mendukung operasi perusahaan yang efektif dan efisien",
+      "D": "membantu dalam kebijakan-kebijakan manajerial"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pengendalian yang mencakup manajemen dan seluruh karyawan yang terlibat dalam pengendalian pada perusahaan adalah ....",
+    "pilihan": {
+      "A": "pemantauan",
+      "B": "lingkungan internal dan eksternal",
+      "C": "lingkungan pengendalian",
+      "D": "penilaian risiko"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Berikut ini merupakan bagian dari kualitas dan pengalaman pengembang dalam mengembangkan sistem informasi, kecuali",
+    "pilihan": {
+      "A": "menyediakan jasa maintenance yang siap bekerja 24 jam",
+      "B": "tenaga pengembang yang disediakan memiliki kemampuan yang tidak diragukan lagi",
+      "C": "analis sistem yang sudah berpengalaman berhasil mengembangkan berbagai proyek",
+      "D": "persentase keberhasilan pengembangan sistem yang tinggi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Tujuan dari sistem informasi akuntansi adalah",
+    "pilihan": {
+      "A": "memenuhi kebutuhan pelaporan yang diatur organisasi",
+      "B": "membantu organisasi dalam meminimalisasi risiko kecurangan yang mungkin akan ditemui dari penyalahgunaan data akuntansi",
+      "C": "menyediakan alternatif keputusan untuk investasi perusahaan",
+      "D": "menyediakan informasi akuntansi yang sesuai dengan kebutuhan organisasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut ini yang merupakan komponen sistem informasi akuntansi adalah ....",
+    "pilihan": {
+      "A": "user",
+      "B": "brainware",
+      "C": "developer",
+      "D": "software"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Berikut yang subsistem dari sistem informasi manajemen adalah sistem informasi.....",
+    "pilihan": {
+      "A": "manajemen",
+      "B": "auditing",
+      "C": "akuntansi",
+      "D": "kepegawaian"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Berikut ini yang merupakan komponen dari decision support system adalah",
+    "pilihan": {
+      "A": "hardware, brainware, dan software",
+      "B": "database, software, dan prosedur",
+      "C": "database, model base, dan hardware",
+      "D": "software system, database, dan model base"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut ini yang bukan contoh aplikasi office automation adalah",
+    "pilihan": {
+      "A": "email, voice mail, dan electronic calendaring",
+      "B": "ecalendaring, email, dan ebook",
+      "C": "voice mail, electronic calendaring, dan audio conferring",
+      "D": "electronic calendaring, audio conferring, dan facsimile"
+    },
+    "jawaban": "B"
+  }
+]

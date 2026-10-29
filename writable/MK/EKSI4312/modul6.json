@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Rangkaian kegiatan bisnis dan operasional pemrosesan data terkait yang terus menerus berhubungan dengan pembelian serta pembayaran barang dan jasa disebut ....",
+    "pilihan": {
+      "A": "siklus produksi",
+      "B": "siklus pendapatan",
+      "C": "siklus pengeluaran",
+      "D": "siklus operasional"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Tujuan utama dari siklus pengeluaran adalah ....",
+    "pilihan": {
+      "A": "meminimalkan total biaya perolehan",
+      "B": "menyediakan produk yang tepat pada tempat dan waktu yang tepat",
+      "C": "memproduksi barang tepat waktu",
+      "D": "mendapatkan barang yang sesuai"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Tanpa adanya hubungan baik dengan pemasok, perusahaan masih mungkin mendapatkan harga murah dan barang relatif baik, namun tidak menjamin....",
+    "pilihan": {
+      "A": "kualitas barang",
+      "B": "barang sampai tepat waktu",
+      "C": "harga tidak naik",
+      "D": "ketersediaan barang tersebut"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Hal yang biasanya diminta departemen lainnya kepada departemen pembelian dalam permintaan pembelian kebutuhan adalah ....",
+    "pilihan": {
+      "A": "barang yang dipesan pelanggan",
+      "B": "kebutuhan operasional produksi perusahaan",
+      "C": "kebutuhan penunjang operasional perusahaan",
+      "D": "kebutuhan lainnya, seperti alat tulis kantor"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Yang melakukan persetujuan pembelian adalah",
+    "pilihan": {
+      "A": "departemen pembelian",
+      "B": "departemen penjualan",
+      "C": "departemen lainnya",
+      "D": "pemasok"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Tugas dari petugas gudang sebelum dilakukan pemesanan ke pemasok adalah ....",
+    "pilihan": {
+      "A": "menyimpan barang ke gudang",
+      "B": "mengajukan permintaan barang",
+      "C": "membayar pesanan",
+      "D": "memeriksa ketersediaan barang yang akan dipesan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Data saldo rekening perusahaan didapatkan dari ....",
+    "pilihan": {
+      "A": "departemen pembelian",
+      "B": "bank",
+      "C": "gudang",
+      "D": "pemasok"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Hal yang sebaiknya dilakukan setelah menerima barang dari pemasok adalah ....",
+    "pilihan": {
+      "A": "membayar barang",
+      "B": "mengajukan retur pembelian",
+      "C": "memverifikasi barang",
+      "D": "menyimpan barang di gudang"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Dokumen yang digunakan dalam aktivitas penerimaan barang adalah",
+    "pilihan": {
+      "A": "purchase order",
+      "B": "receiving report",
+      "C": "voucher package",
+      "D": "purchase contract"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pencocokan dokumen PO dan receiving report dilakukan pada aktivitas",
+    "pilihan": {
+      "A": "pemesanan barang",
+      "B": "penerimaan pesanan",
+      "C": "pengelurana kas",
+      "D": "persetujuan faktur"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Harga barang, kualitas barang, dan pengiriman barang adalah hal yang perlu dipertimbangkan sebelum",
+    "pilihan": {
+      "A": "menentukan jumlah pembelian",
+      "B": "mengevaluasi pembelian.",
+      "C": "membayar barang",
+      "D": "memilih pemasok"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Metode pengendalian persediaan dengan cara mengurangi tingkat persediaan yang dibutuhkan dengan cara menjadwalkan produksi adalah ....",
+    "pilihan": {
+      "A": "EOQ",
+      "B": "MRP",
+      "C": "ERP",
+      "D": "JIT"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Metode pengendalian persediaan ditandai dengan pengiriman bahan baku, perlengkapan, dan barang-barang lainnya langsung ke lokasi yang membutuhkan pengiriman barang tersebut, bukan pengiriman dalam jumlah besar yang sesekali dilakukan ke pusat penerimaan dan fasilitas penyimpanan seperti gudang adalah",
+    "pilihan": {
+      "A": "ERP",
+      "B": "MRP",
+      "C": "EOQ",
+      "D": "JIT"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Aktivitas yang bertanggung jawab untuk menyimpan barang-barang hasil pembelian adalah",
+    "pilihan": {
+      "A": "pemesanan barang",
+      "B": "penerimaan barang",
+      "C": "penyimpanan barang",
+      "D": "pembayaran barang"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Proses untuk memastikan barang yang diterima sebelum perusahaan akan melakukan pembayaran terjadi pada tahap",
+    "pilihan": {
+      "A": "verifikasi jumlah serta kualitas barang yang dikirim",
+      "B": "pengecekan tagihan dari pemasok",
+      "C": "membayar tagihan kepada pemasok",
+      "D": "pemesanan barang"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Teknik yang memungkinkan pegawai bagian penerimaan barang memindai nomor produk, deskripsi, dan jumlah barang yang diterima adalah ....",
+    "pilihan": {
+      "A": "ERP",
+      "B": "pemberian kode garis",
+      "C": "EOQ",
+      "D": "Just in Time"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Dokumen yang berisikan informasi mengenai barang yang diterima oleh gudang adalah",
+    "pilihan": {
+      "A": "receiving report",
+      "B": "invoice",
+      "C": "purchase order",
+      "D": "purchase requisition"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berikut ini hal yang harus dihindari dalam proses penerimaan barang sebagai berikut, kecuali menerima",
+    "pilihan": {
+      "A": "jumlah barang yang berbeda",
+      "B": "barang rusak",
+      "C": "barang dengan kualitas rendah",
+      "D": "barang utuh dan siap pakai"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Dokumen dari vendor atau pemasok yang memberitahukan kepada bagian pembelian terkait jumlah yang harus dibayar dan kemana harus membayar adalah ....",
+    "pilihan": {
+      "A": "purchase package",
+      "B": "purchase requisition",
+      "C": "receiving report",
+      "D": "vendor invoice"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Menetapkan apakah akan memanfaatkan diskon dengan melakukan pembayaran di awal atau tidak dilakukan pada proses ....",
+    "pilihan": {
+      "A": "pemesanan barang",
+      "B": "pengeluaran kas",
+      "C": "persetujuan tagihan",
+      "D": "penerimaan barang"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Risiko apakah dalam siklus pengeluaran yang tidak berhubungan dengan pemasok",
+    "pilihan": {
+      "A": "kickback",
+      "B": "membeli barang berkualitas rendah",
+      "C": "membeli barang terlalu mahal",
+      "D": "pencurian persediaan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Pemberian hadiah dari pemasok untuk petugas bagian pembelian dengan tujuan memengaruhi pilihan adalah ....",
+    "pilihan": {
+      "A": "membeli barang berkualitas rendah",
+      "B": "kickback",
+      "C": "membeli barang terlalu mahal",
+      "D": "pencurian persediaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Membuat daftar pemasok merupakan cara pengendalian terhadap risiko",
+    "pilihan": {
+      "A": "membeli barang berkualitas rendah",
+      "B": "kehabisan atau kelebihan persediaan",
+      "C": "kickback",
+      "D": "kesalahan menghitung barang yang diterima"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Berikut ini yang merupakan risiko yang dapat terjadi dalam aktivitas siklus pengeluaran adalah",
+    "pilihan": {
+      "A": "bad debt expense",
+      "B": "kesalahan menghitung barang yang diterima",
+      "C": "kehabisan persediaan",
+      "D": "membayar barang yang tidak dibeli"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Pengendalian yang dapat dilakukan untuk mencegah kesalahan menghitung barang yang diterima adalah",
+    "pilihan": {
+      "A": "sistem pemrosesan penerimaan melarang petugas bagian penerimaan mengetahui jumlah barang yang dipesan",
+      "B": "menggaji petugas bagian penerimaan dengan bayaran tinggi",
+      "C": "melihat jumlah barang yang dikirim pada faktur",
+      "D": "melihat jumlah barang yang dikirim pada purchase order"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Pengendalian yang dapat digunakan untuk menjaga persediaan dari kehilangan sebagai berikut, kecuali ....",
+    "pilihan": {
+      "A": "persediaan disimpan dengan akses yang terbatas",
+      "B": "membagi tugas penjagaan gudang menjadi tiga shift",
+      "C": "semua perpindahan barang yang terjadi harus didokumentasikan",
+      "D": "perhitungan fisik secara periodik"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Pemesanan dari pemasok yang tidak terotorisasi dan pembelian barang dengan kualitas yang tidak sesuai merupakan akibat dari",
+    "pilihan": {
+      "A": "kickback",
+      "B": "pencurian persediaan",
+      "C": "membeli barang terlalu mahal",
+      "D": "data master invalid"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Upaya yang dapat dilakukan untuk menghindari risiko penyalahgunaan kas atau cek adalah",
+    "pilihan": {
+      "A": "melarang para petugas untuk menerima hadiah",
+      "B": "menentukan waktu pembayaran yang tepat",
+      "C": "pembatasan akses terhadap kas",
+      "D": "pemesanan barang periodik"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Upaya yang dapat dilakukan untuk menghindari risiko kerusakan atau kehilangan data master adalah",
+    "pilihan": {
+      "A": "prosedur pencadangan dan pemulihan bencana",
+      "B": "menentukan waktu pembayaran yang tepat",
+      "C": "pembatasan akses",
+      "D": "pemesanan barang periodik"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Pengendalian yang dapat dilakukan untuk mencegah kesalahan mencatat dan memasukkan data utang adalah",
+    "pilihan": {
+      "A": "pengendalian integritas pemrosesan data",
+      "B": "prosedur pencadangan dan pemulihan bencana",
+      "C": "membandingkan perbedaan saldo dalam rekening pemasok sebelum dan setelah pemrosesan cek dengan jumlah total faktur yang diproses",
+      "D": "melarang para petugas bagian pencatatan untuk menerima hadiah dari pemasok yang ada"
+    },
+    "jawaban": "C"
+  }
+]

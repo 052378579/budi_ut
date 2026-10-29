@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Dalam aktivitas bisnis, komunikasi berperan ibarat....",
+    "pilihan": {
+      "A": "oli",
+      "B": "darah",
+      "C": "napas",
+      "D": "nadi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Permasalahan komunikasi bisnis terus meningkat dalam era pasar bebas, hal ini disebabkan, antara lain....",
+    "pilihan": {
+      "A": "sikap dan kebutuhan karyawan terus berubah",
+      "B": "pertumbuhan bisnis yang semakin mengglobal",
+      "C": "organisasi bisnis yang berkembang semakin kompleks",
+      "D": "semua jawaban benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Penyampaian pesan yang menggunakan simbol-simbol piktorial berupa gambar, foto atau grafik untuk memudahkan pemahaman dan interpretasi lawan atau teman dalam berkomunikasi disebut komunikasi....",
+    "pilihan": {
+      "A": "lisan",
+      "B": "tertulis",
+      "C": "lisan dan tertulis",
+      "D": "visual"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Seorang manajer terus menggaruk-garukkan kepalanya saat menegur seorang bawahannya. Tindakan menggaruk kepala itu ditafsirkan bawahan sebagai kemarahan yang amat sangat. Dalam tipe komunikasi, tindakan manajer itu termasuk komunikasi....",
+    "pilihan": {
+      "A": "nonverbal",
+      "B": "tertulis",
+      "C": "lisan",
+      "D": "visual"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Komunikasi adalah sebuah sistem yang mengandung unsur-unsur pendukung. Setidaknya dua sistem dasar beroperasi dalam transaksi komunikasi itu yaitu sistem internal dan sistem eksternal. Berikut ini merupakan sistem internal yang mempengaruhi komunikasi kecuali....",
+    "pilihan": {
+      "A": "nilai diri komunikator",
+      "B": "sikap komunikator",
+      "C": "pengalaman hidup komunikator",
+      "D": "isyarat nonverbal komunikan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dalam komunikasi terdapat dua jenis pesan yaitu pesan verbal dan pesan nonverbal. Adapun pesan nonverbal mempunyai fungsi sebagai berikut, kecuali....",
+    "pilihan": {
+      "A": "perilaku nonverbal dapat mengulangi perilaku verbal",
+      "B": "memperteguh, menekankan, dan melengkapi perilaku verbal",
+      "C": "perilaku nonverbal dapat menyiasati perilaku verbal",
+      "D": "perilaku nonverbal dapat menggantikan perilaku verbal"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Noise merupakan salah satu faktor penting yang mempengaruhi jalannya komunikasi. Adapun noise yang berasal dari sisi eksternal komunikan, yaitu....",
+    "pilihan": {
+      "A": "lingkungan yang bising",
+      "B": "motivasi yang terpendam",
+      "C": "interest",
+      "D": "prejudice"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Komunikasi untuk menimbulkan pengertian memang susah tetapi lebih susah lagi adalah komunikasi yang menghasilkan tindakan nyata atau mendorong seseorang untuk bertindak. Tindakan nyata dalam hal ini maksudnya adalah....",
+    "pilihan": {
+      "A": "konatif",
+      "B": "afektif",
+      "C": "kognitif",
+      "D": "responsive"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pada dasarnya komunikasi manusia itu bersifat dua arah. Meskipun sifat dua arah digunakan untuk menandai proses komunikasi, unsur-unsur proses komunikasi sebenarnya tidak terpola secara kaku. Pernyataan ini mewakili prinsip komunikasi yang bersifat....",
+    "pilihan": {
+      "A": "helikal",
+      "B": "sirkuler",
+      "C": "linier",
+      "D": "multilinier"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Tipe komunikasi lisan berikut ini adalah....",
+    "pilihan": {
+      "A": "konferensi",
+      "B": "wawancara",
+      "C": "presentasi penjualan",
+      "D": "semua Jawaban Benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Kualitas informasi yang dibutuhkan untuk pengambilan keputusan dalam organisasi/lembaga bisnis, merupakan fungsi....",
+    "pilihan": {
+      "A": "informatif",
+      "B": "persuasif",
+      "C": "kontrol",
+      "D": "emotif"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Tujuan komunikasi untuk adanya perubahan sikap, pendapat dan perilaku, tanpa paksaan, adalah....",
+    "pilihan": {
+      "A": "koersif",
+      "B": "persuasif",
+      "C": "briefing",
+      "D": "konsultatif"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Fungsi kontrol akan berjalan apabila ....",
+    "pilihan": {
+      "A": "informasi jelas",
+      "B": "adanya saluran",
+      "C": "memperkaya keterampilan",
+      "D": "semua jawaban di atas benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Ungkapan emosi dapat diukur melalui ....",
+    "pilihan": {
+      "A": "nada suara",
+      "B": "ekspresi wajah",
+      "C": "bahasa tubuh",
+      "D": "semua jawaban di atas benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Fungsi emotif yang meningkatkan penerimaan isi pesan yang berkaitan dengan....",
+    "pilihan": {
+      "A": "suka dan tidak suka",
+      "B": "puas dan tidak puas",
+      "C": "benci dan cinta",
+      "D": "semua jawaban di atas benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Efek yang membawa perubahan pada bidang (domain) afektif merupakan efek dari fungsi....",
+    "pilihan": {
+      "A": "informatif",
+      "B": "persuasif",
+      "C": "kontrol",
+      "D": "emotif"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Komunikasi merupakan hal yang tidak dapat terpisahkan dari kehidupan manusia. Komunikasi memiliki fungsi-fungsi sebagai berikut, kecuali....",
+    "pilihan": {
+      "A": "pembentukan konsep diri",
+      "B": "pernyataan eksistensi diri",
+      "C": "segmentasi diri",
+      "D": "aktualisasi diri"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Komunikasi dapat diterapkan di dalam organisasi dan kehidupan sosial karena komunikasi....",
+    "pilihan": {
+      "A": "dapat menunjang tujuan organisasi",
+      "B": "diperlukan untuk menghambat jalannya komunikasi top down",
+      "C": "dapat memunculkan kesalahpahaman di antara karyawan",
+      "D": "merupakan alat untuk memecahkan permasalahan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Komunikasi persuasif akan efektif jika....",
+    "pilihan": {
+      "A": "kepercayaan komunikan kuat pada komunikator",
+      "B": "kredibilitas komunikator yang tinggi",
+      "C": "pesan mudah dipahami",
+      "D": "semua jawaban benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Kepercayaan komunikan pada komunikator yang berdasarkan pada kedekatan merupakan salah satu fungsi komunikasi....",
+    "pilihan": {
+      "A": "informatif",
+      "B": "emotif",
+      "C": "persuasif",
+      "D": "personal"
+    },
+    "jawaban": "B"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Bagian bawah piramida manajemen adalah operasi harian perusahaan yang mencakup, kecuali ....",
+    "pilihan": {
+      "A": "produk",
+      "B": "proses",
+      "C": "teknologi informasi",
+      "D": "aplikasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Arsitektur merupakan gambaran terstruktur dari tiap aktivitas ....",
+    "pilihan": {
+      "A": "Software Engineering Institute",
+      "B": "Spewak",
+      "C": "Lankhorst",
+      "D": "Osvald"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Kumpulan organisasi yang memiliki beberapa tujuan/prinsip umum, dan/atau suatu garis dasar adalah ....",
+    "pilihan": {
+      "A": "arsitektur",
+      "B": "kerangka kerja",
+      "C": "enterprise",
+      "D": "framework"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Arsitektur Enterprise adalah ....",
+    "pilihan": {
+      "A": "Strategi + Business + Aplikasi",
+      "B": "Teknologi + Business + Strategi",
+      "C": "Strategi + Teknologi + Aplikasi",
+      "D": "Teknologi + Business + Aplikasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Faktor internal yang mempengaruhi arsitektur enterprise adalah ....",
+    "pilihan": {
+      "A": "keselarasan bisnis dan teknologi",
+      "B": "visi",
+      "C": "misi",
+      "D": "Peraturan Pemerintah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Unsur-unsur yang terdapat pada model penyelarasan strategis, kecuali ....",
+    "pilihan": {
+      "A": "infrastruktur sistem informasi",
+      "B": "strategi teknologi informasi",
+      "C": "regulasi eksternal",
+      "D": "strategi bisnis"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Arsitektur yang mendefinisikan strategi bisnis, tata kelola, organisasi dan proses bisnis arsitektur adalah ....",
+    "pilihan": {
+      "A": "bisnis",
+      "B": "infrastruktur",
+      "C": "informasi",
+      "D": "aplikasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Arsitektur yang mendeskripsikan perangkat lunak dan kemampuan perangkat keras yang diperlukan untuk mendukung penyebaran dari bisnis, data, dan jasa aplikasi arsitektur adalah ....",
+    "pilihan": {
+      "A": "bisnis",
+      "B": "teknologi",
+      "C": "informasi",
+      "D": "aplikasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Suatu struktur logis yang dapat diperluas untuk menggolongkan dan mengorganisasikan serangkaian konsep, metode, teknologi dan perubahan pada suatu perancangan atau proses pengolahan adalah ....",
+    "pilihan": {
+      "A": "produk",
+      "B": "arsitektur",
+      "C": "framework",
+      "D": "metode"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Sarana untuk mencapai tujuan individu atau organisasi adalah ....",
+    "pilihan": {
+      "A": "visi",
+      "B": "misi",
+      "C": "strategi",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut merupakan aspek-aspek dari kerangka kerja Zachman, kecuali ....",
+    "pilihan": {
+      "A": "data",
+      "B": "proses",
+      "C": "aplikasi",
+      "D": "motivasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut merupakan perspektif pada kerangka kerja Zachman, kecuali ....",
+    "pilihan": {
+      "A": "perancang",
+      "B": "pengembang",
+      "C": "pengguna",
+      "D": "pengajar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Salah satu karakteristik kerangka kerja Zachman adalah ....",
+    "pilihan": {
+      "A": "kerangka kerja tidak mengharuskan desainer untuk mempertimbangkan semua aspek desain",
+      "B": "kerangka kerja Zachman memerlukan dan melibatkan pemangku kepentingan dalam desain dan pengembangan sistem",
+      "C": "kerangka kerja Zachman tidak dapat memandu teknik pengumpulan data",
+      "D": "kerangka ini bersifat khusus"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Kerangka kerja EAP menggunakan aspek yang sama dengan Zachman, kecuali ....",
+    "pilihan": {
+      "A": "data",
+      "B": "fungsi",
+      "C": "waktu",
+      "D": "jaringan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut merupakan lapisan pembangunan enterprise architecture planning, kecuali ....",
+    "pilihan": {
+      "A": "memahami kondisi saat ini",
+      "B": "memahami kondisi masa lalu",
+      "C": "mendefinisikan visi masa depan",
+      "D": "permulaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Enterprise Architecture Planning merupakan kerangka kerja yang mendeskripsikan arsitektur berikut, kecuali ....",
+    "pilihan": {
+      "A": "manusia",
+      "B": "data",
+      "C": "aplikasi",
+      "D": "teknologi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Kolom pada kerangka kerja Zachman yang menjelaskan lokasi operasional dari organisasi, struktur bangunan organisasi tersebut adalah ....",
+    "pilihan": {
+      "A": "data",
+      "B": "fungsi",
+      "C": "waktu",
+      "D": "jaringan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Tahapan pada kerangka EAP yang bertujuan untuk mengidentifikasi struktur organisasi, model fungsi bisnis, sehingga memperoleh serangkaian kegiatan bisnis adalah ....",
+    "pilihan": {
+      "A": "pemodelan bisnis",
+      "B": "arsitektur data",
+      "C": "perencanaan awal",
+      "D": "arsitektur teknologi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Dalam kerangka EAP tahapan Arsitektur data terdapat pada lapisan ....",
+    "pilihan": {
+      "A": "permulaan",
+      "B": "kondisi enterprise saat ini",
+      "C": "rencana enterprise di masa depan",
+      "D": "rencana pencapaian"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Perspektif pada kerangka kerja Zachman yang menetapkan model semantik keterhubungan bisnis antara komponen-komponen bisnis adalah....",
+    "pilihan": {
+      "A": "perancang",
+      "B": "pengembang",
+      "C": "pengguna",
+      "D": "pemilik"
+    },
+    "jawaban": "D"
+  }
+]

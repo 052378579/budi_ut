@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Port yang digunakan oleh layanan HTTP adalah ....",
+    "pilihan": {
+      "A": "80",
+      "B": "443",
+      "C": "445",
+      "D": "53"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "HTTPS merupakan kombinasi dari protokol HTTP dengan protokol ....",
+    "pilihan": {
+      "A": "SSH",
+      "B": "SFTP",
+      "C": "SSL",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut ini merupakan perangkat lunak yang digunakan pada web client, kecuali ....",
+    "pilihan": {
+      "A": "internet information service (iis)",
+      "B": "internet explorer",
+      "C": "google chrome",
+      "D": "safari"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Port yang digunakan untuk layanan HTTPS adalah ....",
+    "pilihan": {
+      "A": "80",
+      "B": "443",
+      "C": "445",
+      "D": "53"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Virtual host merupakan ....",
+    "pilihan": {
+      "A": "mekanisme pada web server untuk menyediakan lebih dari satu website pada satu mesin web server.",
+      "B": "mekanisme pada dns server untuk menyediakan lebih dari satu domain pada satu mesin dns server.",
+      "C": "mekanisme pada web server untuk menyediakan lebih dari satu domain pada satu mesin web server.",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Default home directory dari Web server IIS berada pada direktori ....",
+    "pilihan": {
+      "A": "/var/www/html",
+      "B": "C:\\Inetpub\\wwwroot",
+      "C": "/etc/named.conf",
+      "D": "C:\\Inetpub"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Berikut sintak yang digunakan untuk memantau status HTTP ...",
+    "pilihan": {
+      "A": "systemctl restart httpd",
+      "B": "systemctl status http",
+      "C": "systemctl status httpd",
+      "D": "systemctl enable httpd"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut merupakan perangkat lunak yang bersifat open source yang digunakan pada web server, kecuali ....",
+    "pilihan": {
+      "A": "Nginx",
+      "B": "Apache",
+      "C": "Openlitespeed",
+      "D": "Internet Information Service"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Konfigurasi SSLProtocol dilakukan pada file berikut ....",
+    "pilihan": {
+      "A": "/etc/http/conf.d/ssl.conf",
+      "B": "/etc/httpd/conf.d/ssl.conf",
+      "C": "/etc/httpd/conf.d/httpd.conf",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "File konfigurasi pada web server Apache adalah ....",
+    "pilihan": {
+      "A": "/etc/httpd/conf/httpd.conf",
+      "B": "/etc/http/conf/httpd.conf",
+      "C": "/etc/httpd/conf/http.conf",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Perhatikan gambar berikut!\n+---------------------------------+\n| user          | host            |\n+---------------------------------+\n| root          | 127.0.0.1       |\n| root          | ::1             |\n| root          | localhost       |\n| user_DB       | localhost       |\n+---------------------------------+\nQuery yang diperlukan untuk menampilkan daftar berikut adalah ....",
+    "pilihan": {
+      "A": "CREATE user ;",
+      "B": "SELECT user, host From mysql.user;",
+      "C": "SELECT user, host From database;",
+      "D": "DROP user ;"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Perintah yang digunakan untuk menghapus Tabel10 adalah ....",
+    "pilihan": {
+      "A": "DROP Tabel10 ;",
+      "B": "DROP table Table10;",
+      "C": "DROP table Tabel10;",
+      "D": "DROP tabel Tabel10;"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Hak akses yang dimiliki pengguna database dapat dilihat dengan menggunakan sintak ....",
+    "pilihan": {
+      "A": "show grants",
+      "B": "show database",
+      "C": "show table",
+      "D": "show users"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Status layanan MariaDB dapat diketahui secara rinci dengan menggunakan sintak ....",
+    "pilihan": {
+      "A": "Systemctl status mariaDB",
+      "B": "Systemctl status mariaDB -l",
+      "C": "Systemctl monitor mariaDB",
+      "D": "Systemctl status database"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut merupakan perangkat lunak server database yang dapat diinstall pada sistem operasi Linux, kecuali ....",
+    "pilihan": {
+      "A": "MariaDB",
+      "B": "MySQL",
+      "C": "SQL server",
+      "D": "Postgre"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Berikut merupakan tiga jenis data yang terdapat pada database, kecuali ....",
+    "pilihan": {
+      "A": "data input",
+      "B": "data output",
+      "C": "data operasional",
+      "D": "data fungsional"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Kumpulan data yang disusun dalam bentuk tabel-tabel yang saling berhubungan satu dengan lainnya disebut ....",
+    "pilihan": {
+      "A": "record",
+      "B": "database",
+      "C": "field",
+      "D": "secure socket layer"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berikut merupakan perangkat lunak yang umum digunakan pada server database, kecuali ....",
+    "pilihan": {
+      "A": "MySQL",
+      "B": "Postgre",
+      "C": "MariaDB",
+      "D": "Zimbra"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Perintah berikut digunakan untuk melakukan penjadwalan suatu aktivitas yang secara periodik dan otomatis dilakukan ....",
+    "pilihan": {
+      "A": "Backup.sh",
+      "B": "crontab",
+      "C": "gunzip",
+      "D": "bash"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Perhatikan sintak berikut!\n# mysql -u user_DB -p Fakultas < /srv/backup/db/Fakultas.sql\nMaksud dari perintah tersebut adalah ....",
+    "pilihan": {
+      "A": "melakukan aktivitas restore database",
+      "B": "membuka file yang berada di /svr/backup/db/Fakultas.sql",
+      "C": "membuka aplikasi mysql",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  }
+]

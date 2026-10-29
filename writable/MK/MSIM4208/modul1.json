@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Prinsip dasar suatu sistem komputer adalah ....",
+    "pilihan": {
+      "A": "input dan proses",
+      "B": "proses dan output",
+      "C": "input dan output",
+      "D": "input, proses, output"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Interaksi antara pengguna dan komputer dapat terjadi jika tersedia ....",
+    "pilihan": {
+      "A": "pengguna",
+      "B": "komputer",
+      "C": "programmer",
+      "D": "media"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "User-friendly digunakan untuk merujuk pada karakter yang dimiliki oleh ....",
+    "pilihan": {
+      "A": "program aplikasi",
+      "B": "program kerja",
+      "C": "pengguna",
+      "D": "programmer"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Interaksi antara pengguna dan komputer dapat terjadi ketika pengguna ....",
+    "pilihan": {
+      "A": "menyalakan komputer",
+      "B": "menggunakan mouse",
+      "C": "menyentuh keyboard",
+      "D": "mengetikkan sesuatu"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Fokus interaksi manusia dan komputer ditinjau dari perspektif ilmu komputer adalah interaksi antara ....",
+    "pilihan": {
+      "A": "manusia dengan manusia",
+      "B": "manusia dengan pengguna",
+      "C": "mesin dengan komputer",
+      "D": "manusia dengan komputer"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Seorang perancang antarmuka harus mempertimbangkan kenyamanan pengguna, oleh sebab itu dia membutuhkan pengetahuan dari bidang ilmu lain, yaitu ....",
+    "pilihan": {
+      "A": "Antropologi",
+      "B": "Sosiologi",
+      "C": "Psikologi",
+      "D": "Ergonomi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Seorang perancang antarmuka juga harus dapat memahami sifat dan kebiasaan pengguna. Pengetahuan ini dapat diperoleh dari bidang ilmu ....",
+    "pilihan": {
+      "A": "Psikologi",
+      "B": "Ergonomi",
+      "C": "Perancangan Grafis dan Tipografi",
+      "D": "Perancangan Industri"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Antarmuka suatu sistem yang dilengkapi dengan gambar atau ilustrasi yang dapat mempermudah pengguna dapat dikembangkan dengan mempelajari ilmu ....",
+    "pilihan": {
+      "A": "Psikologi",
+      "B": "Ergonomi",
+      "C": "Perancangan Grafis dan Tipografi",
+      "D": "Perancangan Industri"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Melalui antarmuka pengguna berdialog dengan komputer. Dialog dapat terjadi jika ada sarana komunikasi yang memadai. Hal ini dapat diperoleh dengan mempelajari ilmu ....",
+    "pilihan": {
+      "A": "Psikologi",
+      "B": "Linguistik",
+      "C": "Ilmu Komputer",
+      "D": "Teknik Elektronika"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Perancangan antarmuka suatu sistem tidak dapat dilepaskan dari perangkat keras, oleh sebab itu diperlukan pengetahuan bidang ilmu ....",
+    "pilihan": {
+      "A": "Psikologi",
+      "B": "Linguistik",
+      "C": "Ilmu Komputer",
+      "D": "Teknik Elektronika"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Salah satu kriteria yang harus dimiliki oleh sebuah perangkat lunak adalah \"ramah dengan pengguna\", biasa disebut ....",
+    "pilihan": {
+      "A": "user-friendly",
+      "B": "user-ability",
+      "C": "user-interface",
+      "D": "user-center design"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Pengembangan fasilitas antarmuka, selain harus menangani sejumlah peranti kontrol, juga harus memperhatikan selera dan kebiasaan pengguna yang ....",
+    "pilihan": {
+      "A": "homogen",
+      "B": "heterogen",
+      "C": "monoton",
+      "D": "seragam"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Proses perancangan dan pengembangan antarmuka memerlukan peranti ....",
+    "pilihan": {
+      "A": "masukan",
+      "B": "keluaran",
+      "C": "bantu",
+      "D": "modern"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Dalam pengembangan antarmuka lebih baik terlebih dahulu dikembangkan ....",
+    "pilihan": {
+      "A": "contohnya",
+      "B": "prototipenya",
+      "C": "bentuknya",
+      "D": "modelnya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Antarmuka yang konsisten dapat dikembangkan untuk sejumlah aplikasi dengan memanfaatkan ....",
+    "pilihan": {
+      "A": "program bantu yang sama",
+      "B": "program bantu yang berbeda",
+      "C": "prototipe yang sama",
+      "D": "model yang sama"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Sebuah program aplikasi terdiri dari dua bagian penting, yaitu ....",
+    "pilihan": {
+      "A": "antarmuka dan aplikasi",
+      "B": "prototipe dan antarmuka",
+      "C": "prototipe dan aplikasi",
+      "D": "program dan aplikasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Antarmuka berfungsi sebagai sarana dialog antara ....",
+    "pilihan": {
+      "A": "manusia dengan pengguna",
+      "B": "manusia dengan komputer",
+      "C": "komputer dengan mesin",
+      "D": "komputer dengan program"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Bagian antarmuka lebih banyak berurusan dengan cara ....",
+    "pilihan": {
+      "A": "penyajian informasi",
+      "B": "penggunaan gadget",
+      "C": "penyelesaian masalah",
+      "D": "pembuatan program"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Pada antarmuka tidak boleh ada keterlambatan antara tindakan pengguna dan sistem, karena hal ini akan menyebabkan pengguna ....",
+    "pilihan": {
+      "A": "senang",
+      "B": "sabar",
+      "C": "frustrasi",
+      "D": "acuh"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Berikut adalah keuntungan menggunakan peranti bantu untuk pengembangan antarmuka, kecuali program antarmuka ....",
+    "pilihan": {
+      "A": "modular",
+      "B": "reusable",
+      "C": "easy to modify",
+      "D": "rigid"
+    },
+    "jawaban": "D"
+  }
+]

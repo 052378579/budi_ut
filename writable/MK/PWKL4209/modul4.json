@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan hierarki rencana umum tata ruang?",
+    "pilihan": {
+      "A": "Rencana umum tata ruang secara berhierarki terdiri atas (a) rencana tata ruang wilayah nasional, (b) rencana tata ruang wilayah provinsi, dan (c) rencana tata ruang wilayah pulau/kepulauan.",
+      "B": "Rencana umum tata ruang secara berhierarki terdiri atas (a) rencana tata ruang wilayah nasional, (b) rencana tata ruang wilayah provinsi, serta (c) rencana tata ruang wilayah kabupaten dan rencana tata ruang wilayah kota.",
+      "C": "Rencana umum tata ruang secara berhierarki terdiri atas (a) rencana tata ruang wilayah nasional, (b) rencana tata ruang wilayah provinsi, dan (c) rencana detail tata ruang wilayah kabupaten/kota.",
+      "D": "Rencana umum tata ruang secara berhierarki terdiri atas (a) rencana tata ruang wilayah nasional, (b) rencana tata ruang kawasan strategis provinsi, serta (c) rencana tata ruang wilayah kabupaten dan rencana tata ruang wilayah kota."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Rencana tata ruang wilayah nasional menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang nasional, rencana tata ruang wilayah provinsi menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang daerah provinsi, serta rencana tata ruang wilayah kabupaten menjadi dasar untuk penerbitan perizinan lokasi pembangunan dan administrasi pertanahan.",
+      "B": "Rencana tata ruang wilayah nasional menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang daerah, rencana tata ruang wilayah provinsi menjadi pedoman untuk penyusunan rencana pembangunan jangka menengah nasional, serta rencana tata ruang wilayah kabupaten menjadi dasar untuk penerbitan perizinan lokasi pembangunan dan administrasi pertanahan.",
+      "C": "Rencana tata ruang wilayah nasional menjadi dasar untuk penerbitan perizinan lokasi pembangunan dan administrasi pertanahan. Rencana tata ruang wilayah provinsi menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang daerah dan rencana tata ruang wilayah kabupaten menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang nasional.",
+      "D": "Rencana tata ruang wilayah nasional menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang nasional, rencana tata ruang wilayah provinsi menjadi pedoman untuk penyusunan rencana pembangunan jangka menengah nasional, serta rencana tata ruang wilayah kabupaten menjadi pedoman untuk penyusunan rencana pembangunan jangka panjang nasional."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Manakah jawaban yang tepat dalam kaitannya dengan penggunaan skala minimal pada peta rencana tata ruang?",
+    "pilihan": {
+      "A": "Peta rencana tata ruang wilayah nasional menggunakan peta minimal skala 1:1.000.000, peta rencana tata ruang wilayah kabupaten menggunakan peta minimal skala 1:250.000, dan peta rencana tata ruang wilayah kota menggunakan peta minimal skala 1:100.000.",
+      "B": "Peta rencana tata ruang wilayah nasional menggunakan peta minimal skala 1:1.000.000, peta rencana tata ruang wilayah kabupaten menggunakan peta minimal skala 1:250.000, dan peta rencana tata ruang wilayah provinsi menggunakan peta minimal skala 1:100.000.",
+      "C": "Peta rencana tata ruang wilayah provinsi menggunakan peta minimal skala 1:1.000.000, peta rencana tata ruang wilayah nasional menggunakan peta minimal skala 1:250.000, dan peta rencana tata ruang wilayah kabupaten/kota menggunakan peta minimal skala 1:100.000.",
+      "D": "Peta rencana tata ruang wilayah nasional menggunakan peta minimal skala 1:1.000.000, peta rencana tata ruang wilayah provinsi menggunakan peta minimal skala 1:250.000, dan peta rencana tata ruang wilayah kabupaten/kota menggunakan peta minimal skala 1:100.000."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Rencana umum tata ruang disusun apabila rencana perinci tata ruang belum dapat dijadikan dasar dalam pelaksanaan pemanfaatan ruang dan pengendalian pemanfaatan ruang.",
+      "B": "Rencana perinci tata ruang disusun apabila rencana umum tata ruang sudah dapat dijadikan dasar dalam pelaksanaan pemanfaatan ruang dan pengendalian pemanfaatan ruang.",
+      "C": "Rencana perinci tata ruang disusun apabila rencana umum tata ruang belum dapat dijadikan dasar dalam pelaksanaan pemanfaatan ruang dan pengendalian pemanfaatan ruang.",
+      "D": "Rencana perinci tata ruang tidak perlu disusun karena rencana umum tata ruang belum dapat dijadikan dasar dalam pelaksanaan pemanfaatan ruang dan pengendalian pemanfaatan ruang."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Rencana tata ruang kawasan perkotaan berbentuk rencana detail dan merupakan penjabaran dari rencana umum tata ruang wilayah kota/kabupaten dalam rencana pemanfaatan ruang kawasan perkotaan.",
+      "B": "Rencana tata ruang kawasan perkotaan berbentuk rencana umum dan bukan merupakan penjabaran dari rencana umum tata ruang wilayah kota/kabupaten dalam rencana pemanfaatan ruang kawasan perkotaan.",
+      "C": "Rencana tata ruang wilayah kota berbentuk rencana detail dan merupakan penjabaran dari rencana umum tata ruang wilayah kota/kabupaten dalam rencana pemanfaatan ruang kawasan perkotaan.",
+      "D": "Rencana tata ruang wilayah kabupaten berbentuk rencana detail dan merupakan penjabaran dari rencana umum tata ruang wilayah kota/kabupaten dalam rencana pemanfaatan ruang kawasan perkotaan."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang paling tepat?\n1. Rencana tata ruang kawasan perkotaan merupakan pedoman bagi pemerintah daerah untuk pemberian advis planning, pengaturan bangunan setempat, serta penyusunan rencana teknik ruang kawasan perkotaan atau rencana tata bangunan dan lingkungan.\n2. Rencana struktur dan pola pemanfaatan ruang kawasan perkotaan meliputi struktur pemanfaatan ruang dan pola pemanfaatan ruang. Struktur pemanfaatan ruang meliputi distribusi penduduk, struktur pelayanan kegiatan kawasan perkotaan, sistem jaringan pergerakan, sistem jaringan telekomunikasi, sistem jaringan energi, dan sistem prasarana pengelolaan lingkungan. Sementara itu, pola pemanfaatan ruang meliputi pengembangan kawasan fungsional (kawasan permukiman, perdagangan, jasa, pemerintahan, pariwisata, dan perindustrian) dalam blok-blok peruntukan.\n3. Rencana tata ruang kawasan perkotaan berbentuk rencana detail dan merupakan penjabaran dari rencana umum tata ruang wilayah kota/kabupaten dalam rencana pemanfaatan ruang kawasan perkotaan. Jangka waktu rencana detail tata ruang kawasan perkotaan ini adalah 15 tahun dan dituangkan dalam peta rencana dengan skala 1:50.000 atau lebih.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang paling tepat?\n1. Rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten adalah rencana perinci tata ruang wilayah kabupaten.\n2. Rencana tata ruang kawasan perkotaan yang mencakup dua atau lebih wilayah kabupaten/kota pada satu atau lebih wilayah provinsi merupakan alat koordinasi dalam pelaksanaan pembangunan yang bersifat lintas wilayah.\n3. Rencana tata ruang wilayah perkotaan tersebut berisi arahan struktur ruang dan pola ruang yang bersifat lintas wilayah administratif.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n1. Produk rencana struktur dan pola pemanfaatan ruang kawasan perkotaan terdiri atas (a) rencana distribusi penduduk, (b) rencana struktur pelayanan kegiatan, (c) rencana sistem jaringan pergerakan, dan (d) rencana sistem jaringan utilitas.\n2. Rencana pola pemanfaatan ruang kawasan perkotaan meliputi pengembangan kawasan fungsional (kawasan permukiman, perdagangan, jasa, pemerintahan, pariwisata, dan perindustrian) dalam blok-blok peruntukan.\n3. Rencana struktur pemanfaatan ruang kawasan perkotaan meliputi distribusi penduduk, struktur pelayanan kegiatan kawasan perkotaan, sistem jaringan pergerakan, sistem jaringan telekomunikasi, sistem jaringan energi, dan sistem prasarana pengelolaan lingkungan.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Rencana tata ruang kawasan perdesaan yang merupakan bagian wilayah kabupaten adalah ....\n1. rencana tata ruang kawasan perdesaan yang merupakan bagian wilayah kabupaten, yaitu bagian rencana tata ruang wilayah provinsi\n2. rencana tata ruang kawasan perdesaan yang mencakup dua atau lebih wilayah kabupaten, yaitu alat koordinasi dalam pelaksanaan pembangunan yang bersifat lintas wilayah\n3. rencana tata ruang kawasan perdesaan yang merupakan bagian wilayah kabupaten, yaitu bagian rencana tata ruang wilayah kabupaten",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Rencana tata ruang kawasan agropolitan memuat ....\n1. rencana struktur ruang kawasan agropolitan yang meliputi sistem pusat kegiatan dan sistem jaringan prasarana kawasan agropolitan\n2. rencana pola ruang kawasan agropolitan yang meliputi kawasan lindung dan kawasan budi daya\n3. arahan pemanfaatan ruang kawasan agropolitan yang berisi indikasi program utama yang bersifat interdependen antardesa",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Pelaksanaan penataan ruang di Indonesia diatur melalui Peraturan Pemerintah (PP) Nomor 15 Tahun 2010 tentang Penyelenggaraan Penataan Ruang.",
+      "B": "Pelaksanaan penataan ruang di Indonesia diatur melalui Undang-Undang Nomor 26 Tahun 2007 tentang Penataan Ruang.",
+      "C": "Pelaksanaan penataan ruang di Indonesia diatur melalui Undang-Undang Nomor 26 Tahun 2007 tentang Penataan Ruang dan Peraturan Pemerintah (PP) Nomor 15 Tahun 2010 tentang Penyelenggaraan Penataan Ruang.",
+      "D": "Pelaksanaan penataan ruang di Indonesia tidak diatur oleh undang-undang. Sesuai dengan asas otonomi daerah, pelaksanaan penataan ruang diserahkan kepada kewenangan masing-masing daerah."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Manakah pernyataan yang tepat terkait dengan tahapan dalam penyusunan rencana tata ruang?",
+    "pilihan": {
+      "A": "Menurut PP Nomor 15 Tahun 2010, proses penyusunan rencana tata ruang dilakukan melalui lima tahapan, yaitu (1) tahap persiapan penyusunan rencana tata ruang, (2) tahap kompilasi data, (3) tahap pengolahan dan analisis data, (4) tahap perumusan konsepsi rencana tata ruang, dan (5) tahap penyusunan rancangan peraturan perundang-undangan tentang rencana tata ruang.",
+      "B": "Menurut PP Nomor 15 Tahun 2010, proses penyusunan rencana tata ruang dilakukan melalui empat tahapan, yaitu (1) tahap persiapan penyusunan rencana tata ruang, (2) tahap pengumpulan data, (3) tahap pengolahan dan analisis data, serta (4) tahap perumusan konsepsi rencana tata ruang.",
+      "C": "Menurut PP Nomor 15 Tahun 2010, proses penyusunan rencana tata ruang dilakukan melalui lima tahapan, yaitu (1) tahap persiapan penyusunan rencana tata ruang, (2) tahap pengumpulan data, (3) tahap pengolahan dan analisis data, (4) tahap perumusan konsepsi rencana tata ruang, serta (5) tahap penyusunan rancangan peraturan perundang-undangan tentang rencana tata ruang.",
+      "D": "Menurut PP Nomor 15 Tahun 2010, proses penyusunan rencana tata ruang dilakukan melalui empat tahapan, yaitu (1) tahap persiapan penyusunan rencana tata ruang, (2) tahap kompilasi data, (3) tahap pengolahan dan analisis data, serta (4) tahap perumusan konsepsi rencana tata ruang."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan kebutuhan data/informasi dalam menyusun rencana tata ruang?",
+    "pilihan": {
+      "A": "Kebutuhan data pada penyusunan rencana tata ruang wilayah kabupaten paling sedikit meliputi data wilayah administrasi, data fisiografis, data kependudukan, data ekonomi dan keuangan, data ketersediaan prasarana dan sarana dasar, data penggunaan lahan, data peruntukan ruang, serta data daerah rawan bencana. Peta dasar rupa bumi dan peta tematik yang dibutuhkan termasuk peta penggunaan lahan, peta peruntukan ruang, dan peta daerah rawan bencana pada skala peta minimal 1: 150.000.",
+      "B": "Kebutuhan data pada penyusunan rencana tata ruang pulau/kepulauan meliputi data wilayah administrasi, data fisiografis, data kependudukan, data ekonomi dan keuangan, data ketersediaan prasarana dan sarana dasar, data penggunaan lahan, data peruntukan ruang, dan peta dasar rupa bumi serta peta tematik yang dibutuhkan.",
+      "C": "Kebutuhan data pada penyusunan rencana tata ruang pulau/kepulauan meliputi data wilayah administrasi, data fisiografis, data kependudukan, data ekonomi dan keuangan, data ketersediaan prasarana dan sarana dasar, data penggunaan lahan, data peruntukan ruang, dan peta dasar rupa bumi serta peta tematik skala 1:1.000.000.",
+      "D": "Kebutuhan data pada penyusunan rencana tata ruang wilayah kabupaten paling sedikit meliputi data wilayah administrasi, data fisiografis, data kependudukan, data ekonomi dan keuangan, data ketersediaan prasarana dan sarana dasar, data penggunaan lahan, data peruntukan ruang, serta data daerah rawan bencana. Peta dasar rupa bumi dan peta tematik yang dibutuhkan termasuk peta penggunaan lahan, peta peruntukan ruang, dan peta daerah rawan bencana pada skala peta minimal 1: 1.500.000."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Perumusan konsepsi rencana tata ruang kawasan strategis provinsi paling sedikit harus mengacu pada rencana tata ruang wilayah nasional, pedoman, dan petunjuk pelaksanaan bidang penataan ruang serta memperhatikan rencana tata ruang pulau/kepulauan, rencana tata ruang wilayah provinsi, atau rencana tata ruang wilayah kabupaten/kota yang menjadi bagian dari kawasan strategis nasional atau di mana kawasan strategis nasional terletak, rencana pembangunan jangka panjang nasional, dan rencana pembangunan jangka menengah nasional.",
+      "B": "Perumusan konsepsi rencana tata ruang kawasan strategis nasional paling sedikit harus mengacu pada rencana tata ruang wilayah provinsi, pedoman, dan petunjuk pelaksanaan bidang penataan ruang serta memperhatikan rencana tata ruang pulau/kepulauan, rencana tata ruang wilayah provinsi, atau rencana tata ruang wilayah kabupaten/kota yang menjadi bagian dari kawasan strategis nasional atau di mana kawasan strategis nasional terletak, rencana pembangunan jangka panjang nasional, dan rencana pembangunan jangka menengah nasional.",
+      "C": "Perumusan konsepsi rencana tata ruang kawasan strategis kabupaten paling sedikit harus mengacu pada rencana tata ruang wilayah nasional, pedoman, dan petunjuk pelaksanaan bidang penataan ruang serta memperhatikan rencana tata ruang pulau/kepulauan, rencana tata ruang wilayah provinsi, atau rencana tata ruang wilayah kabupaten/kota yang menjadi bagian dari kawasan strategis nasional atau di mana kawasan strategis nasional terletak, rencana pembangunan jangka panjang nasional, dan rencana pembangunan jangka menengah nasional.",
+      "D": "Perumusan konsepsi rencana tata ruang kawasan strategis nasional paling sedikit harus mengacu pada rencana tata ruang wilayah nasional, pedoman, dan petunjuk pelaksanaan bidang penataan ruang serta memperhatikan rencana tata ruang pulau/kepulauan, rencana tata ruang wilayah provinsi, atau rencana tata ruang wilayah kabupaten/kota yang menjadi bagian dari kawasan strategis nasional atau di mana kawasan strategis nasional terletak, rencana pembangunan jangka panjang nasional, dan rencana pembangunan jangka menengah nasional."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan penyusunan konsepsi rencana tata ruang kawasan perkotaan?",
+    "pilihan": {
+      "A": "Perumusan konsepsi rencana tata ruang kawasan perkotaan yang mencakup dua atau lebih wilayah kabupaten/kota paling sedikit harus mengacu pada rencana tata ruang wilayah kabupaten. Sementara itu, perumusan konsepsi rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit harus mengacu pada rencana tata ruang wilayah nasional dan rencana tata ruang wilayah provinsi.",
+      "B": "Perumusan konsepsi rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit harus mengacu pada rencana tata ruang wilayah kabupaten. Sementara itu, perumusan konsepsi rencana tata ruang kawasan perkotaan yang mencakup dua atau lebih wilayah kabupaten/kota paling sedikit harus mengacu pada rencana tata ruang wilayah nasional dan rencana tata ruang wilayah provinsi.",
+      "C": "Perumusan konsepsi rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit harus mengacu pada rencana tata ruang wilayah nasional dan rencana tata ruang wilayah provinsi. Sementara itu, perumusan konsepsi rencana tata ruang kawasan perkotaan yang mencakup dua atau lebih wilayah kabupaten/kota paling sedikit harus mengacu pada rencana tata ruang wilayah kabupaten.",
+      "D": "Perumusan konsepsi rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit harus mengacu pada rencana tata ruang wilayah nasional dan rencana tata ruang wilayah kabupaten. Sementara itu, perumusan konsepsi rencana tata ruang kawasan perkotaan yang mencakup dua atau lebih wilayah kabupaten/kota paling sedikit harus mengacu pada rencana tata ruang wilayah nasional dan rencana tata ruang wilayah provinsi."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang paling tepat?\n1. Pengolahan data dan analisis pada penyusunan rencana tata ruang kawasan perdesaan yang merupakan bagian wilayah kabupaten paling sedikit meliputi teknik analisis terkait kesesuaian komoditas pertanian, peternakan, perkebunan, atau perikanan; teknik analisis penentuan komoditas unggulan; teknik pengolahan hasil yang telah dilakukan dan jangkauan pemasaran; serta teknik analisis dukungan kelembagaan yang mengembangkan kegiatan agribisnis.\n2. Perumusan konsepsi pada penyusunan rencana tata ruang kawasan perdesaan yang merupakan bagian wilayah kabupaten paling sedikit harus mengacu pada rencana tata ruang wilayah kabupaten dan memperhatikan rencana pembangunan jangka panjang kabupaten serta rencana pembangunan jangka menengah kabupaten.\n3. Pengolahan data dan analisis pada penyusunan rencana tata ruang kawasan perdesaan yang mencakup dua atau lebih wilayah kabupaten pada satu atau lebih wilayah provinsi paling sedikit meliputi teknik analisis terkait kesesuaian komoditas pertanian, peternakan, perkebunan, atau perikanan; teknik analisis penentuan komoditas unggulan, teknik pengolahan hasil yang telah dilakukan dan jangkauan pemasaran; serta teknik analisis dukungan kelembagaan yang mengembangkan kegiatan agribisnis.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang tepat?\n1. Kebutuhan data pada penyusunan rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit meliputi data wilayah administrasi, data fisiografis, data kependudukan, data ekonomi dan keuangan, data ketersediaan prasarana dan sarana dasar, data penggunaan lahan, data peruntukan ruang, data daerah rawan bencana, data intensitas bangunan dan peta dasar rupa bumi, serta peta tematik yang dibutuhkan.\n2. Kebutuhan data pada penyusunan rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit meliputi data wilayah administrasi, data penggunaan lahan, data peruntukan ruang, data daerah rawan bencana, data intensitas bangunan, serta peta dasar rupa bumi dan peta tematik yang dibutuhkan.\n3. Kebutuhan data pada penyusunan rencana tata ruang kawasan perkotaan yang merupakan bagian wilayah kabupaten paling sedikit meliputi data wilayah administrasi, data fisiografis, data kependudukan, data ekonomi dan keuangan, data ketersediaan prasarana dan sarana dasar, data penggunaan lahan, data peruntukan ruang, data daerah rawan bencana, data intensitas bangunan, serta peta dasar rupa bumi dan peta tematik yang dibutuhkan.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Yang dimaksud dengan data fisiografis adalah ....\n1. data yang menggambarkan kondisi fisik dan geografis, antara lain data topografi dan ketinggian tanah\n2. data yang menggambarkan kondisi fisik dan geografis, antara lain data geologi dan hidrologi\n3. data yang menggambarkan kondisi fisik dan geografis, antara lain data jenis tanah dan iklim",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?\n1. Data ekonomi diperlukan untuk memperoleh pengetahuan mengenai karakteristik perekonomian wilayah dan ciri-ciri ekonomi kawasan dengan mengidentifikasi wilayah basis ekonomi, sektor-sektor unggulan, besaran kesempatan kerja, pertumbuhan, dan disparitas pertumbuhan ekonomi antarwilayahnya.\n2. Data kependudukan diperlukan untuk memahami faktor-faktor sosial kemasyarakatan yang memengaruhi perkembangan wilayah serta hubungan kausalitas di antara faktor-faktor tersebut, antara lain mengetahui sebaran/distribusi, struktur, kualitas, karakteristik masyarakat, tingkat pertumbuhan penduduk, kendala dalam pengembangan, serta potensi sumber daya manusia yang dapat dikembangkan.\n3. Data fisiografis adalah data yang menggambarkan kondisi fisik dan geografis.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n1. Data perinci kependudukan antara lain jumlah penduduk, jumlah penduduk menurut mata pencarian, jumlah penduduk menurut tingkat pendidikan, jumlah penduduk menurut struktur usia, jumlah penduduk menurut struktur agama, jumlah penduduk menurut jenis kelamin, jumlah penduduk menurut struktur pendapatan, jumlah kepala keluarga, angka kelahiran dan angka kematian, tingkat mobilitas penduduk, tingkat harapan hidup, tingkat buta huruf, kepadatan penduduk, serta pertumbuhan penduduk.\n2. Data perinci ekonomi antara lain produk domestik regional bruto (PDRB) dan pendapatan asli daerah (PAD), income per capita, anggaran pendapatan dan belanja negara (APBN) dan anggaran pendapatan belanja daerah (APBD), jumlah dan besar investasi pemerintah dan swasta, serta jumlah tenaga kerja di sektor formal dan informal.\n3. Data kependudukan dalam menyusun rencana tata ruang kurang diperlukan. Data ekonomi adalah data yang paling diperlukan dalam menyusun rencana tata ruang.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  }
+]

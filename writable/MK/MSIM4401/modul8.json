@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Salah satu kelebihan Ionic framework adalah ....",
+    "pilihan": {
+      "A": "Satu basis kode sumber untuk multi platform",
+      "B": "Satu basis kode sumber untuk web platform",
+      "C": "Multi basis kode sumber untuk multi platform",
+      "D": "Multi basis kode sumber untuk web platform"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Untuk menjembatani dengan fungsionalitas native, Ionic menggunakan ....",
+    "pilihan": {
+      "A": "Capacitor atau Electron",
+      "B": "Capacitor atau Cordova",
+      "C": "Ionic Native",
+      "D": "Native Bridge"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Versi Vue yang didukung oleh Ionic adalah ....",
+    "pilihan": {
+      "A": "Vue 3",
+      "B": "Vue 2",
+      "C": "Vue 1",
+      "D": "Vue JS"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Untuk menjalankan ionic di browser pada environment pengembangan, perintah CLI-nya adalah ....",
+    "pilihan": {
+      "A": "ionic run web",
+      "B": "ionic serve web",
+      "C": "ionic serve",
+      "D": "ionic run"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Untuk build aplikasi ionic untuk production di web environment, perintah CLI-nya adalah ....",
+    "pilihan": {
+      "A": "ionic build web",
+      "B": "ionic build production",
+      "C": "ionic build prod",
+      "D": "ionic build"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Salah satu library icon yang disediakan ionic secara default adalah ....",
+    "pilihan": {
+      "A": "Ionicons",
+      "B": "FontAwesome",
+      "C": "Material Icons",
+      "D": "Bootstrap Icons"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Manakah komponen ionic berikut yang tidak umum digunakan sebagai container dari kumpulan items?",
+    "pilihan": {
+      "A": "IonList",
+      "B": "IonGrid",
+      "C": "IonCard",
+      "D": "IonButton"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Ion Router outlet berfungsi untuk ....",
+    "pilihan": {
+      "A": "Membuat Animasi antar route",
+      "B": "Merender komponen berdasarkan Route aktif",
+      "C": "Mengatur logika middleware route",
+      "D": "Menyimpan data history route"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Dalam Vue, syntax untuk mengiterasi list data di dalam IonItem adalah ....",
+    "pilihan": {
+      "A": "v-iterate",
+      "B": "v-loop",
+      "C": "v-for",
+      "D": "v-repeat"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Atribut yang merepresentasikan tipe komponen IonButton, seperti halnya warna utama dan border, disebut ....",
+    "pilihan": {
+      "A": "shape",
+      "B": "fill",
+      "C": "expand",
+      "D": "color"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Perintah untuk menambahkan platform android pada project Capacitor ....",
+    "pilihan": {
+      "A": "npx cap add android",
+      "B": "ionic cap add android",
+      "C": "ionic platform add android",
+      "D": "npx cordova add android"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Sebelum menjalankan npx cap sync android, hal yang harus dilakukan pada project ionic Vue adalah ....",
+    "pilihan": {
+      "A": "npx cap copy",
+      "B": "ionic build",
+      "C": "npm run serve",
+      "D": "ionic serve"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Fungsi dari perintah npx cap sync adalah ....",
+    "pilihan": {
+      "A": "Mensinkronkan dependency web dan native",
+      "B": "Meng-copy file web ke folder platform native dan mensinkronkan plugin",
+      "C": "Membuka IDE native (Android Studio/XCode)",
+      "D": "Membuat file konfigurasi Capacitor"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Nama file konfigurasi utama untuk Capacitor adalah ....",
+    "pilihan": {
+      "A": "capacitor.config.ts",
+      "B": "cap.config.json",
+      "C": "capacitor.json",
+      "D": "ionic.config.json"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Perintah untuk membuka project Android yang telah digenerate capacitor melalui Android Studio adalah ....",
+    "pilihan": {
+      "A": "ionic open android",
+      "B": "npx cap open android",
+      "C": "ionic build android",
+      "D": "npx cap start android"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Di dalam Capacitor, object global yang digunakan untuk memanggil berbagai plugin native adalah ....",
+    "pilihan": {
+      "A": "Plugins",
+      "B": "Capacitor",
+      "C": "CapacitorPlugins",
+      "D": "Native"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Plugin Capacitor apa yang sering digunakan untuk menampilkan notifikasi lokal pada perangkat?",
+    "pilihan": {
+      "A": "LocalNotifications",
+      "B": "PushNotifications",
+      "C": "Dialogs",
+      "D": "Toast"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Dalam sistem Android, ijin (permission) yang harus ditambahkan di AndroidManifest.xml untuk menggunakan akses internet adalah ....",
+    "pilihan": {
+      "A": "ACCESS_INTERNET",
+      "B": "INTERNET",
+      "C": "USE_INTERNET",
+      "D": "NETWORK"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Proses mengubah aplikasi Vue/Ionic menjadi file apk (Android Package) dapat dilakukan melalui ....",
+    "pilihan": {
+      "A": "Menu Build di VS Code",
+      "B": "Perintah ionic build prod --android",
+      "C": "Menu Build -> Build Bundle(s) / APK(s) di Android Studio",
+      "D": "Perintah npx cap build android"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Folder output utama di mana Ionic akan menyimpan hasil build production web-nya secara default sebelum dicopy oleh Capacitor adalah ....",
+    "pilihan": {
+      "A": "/www",
+      "B": "/build",
+      "C": "/dist",
+      "D": "/public"
+    },
+    "jawaban": "C"
+  }
+]

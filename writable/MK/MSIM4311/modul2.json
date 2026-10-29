@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut merupakan domain besar arsitektur TOGAF, kecuali arsitektur ....",
+    "pilihan": {
+      "A": "bisnis",
+      "B": "data",
+      "C": "teknologi",
+      "D": "finansial"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Beberapa kelebihan arsitektur enterprise TOGAF, kecuali ....",
+    "pilihan": {
+      "A": "memiliki template standar berupa blok diagram",
+      "B": "bersifat open standard",
+      "C": "sistematis",
+      "D": "memberikan best practice"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Bagian yang menggambarkan metode pengembangan arsitektur TOGAF untuk mengembangkan arsitektur perusahaan adalah ....",
+    "pilihan": {
+      "A": "pendahuluan",
+      "B": "kerangka konten arsitektur",
+      "C": "metode pengembangan arsitektur",
+      "D": "enterprise continuum"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Pengembangan arsitektur yang dilakukan diharapkan mendukung seluruh bagian organisasi, termasuk unit-unit organisasi yang membutuhkan, merupakan prinsip ....",
+    "pilihan": {
+      "A": "arsitektur",
+      "B": "enterprise",
+      "C": "teknologi",
+      "D": "aplikasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Produk hasil pengembangan arsitektur yang lebih rinci menggambarkan aspek arsitektur dari sudut pandang tertentu adalah ....",
+    "pilihan": {
+      "A": "hasil kerja",
+      "B": "artefak",
+      "C": "building block",
+      "D": "framework"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kerangka konten arsitektur TOGAF menggunakan tiga kategori berikut untuk menggambarkan jenis produk kerja arsitektur dalam konteks penggunaan, kecuali ....",
+    "pilihan": {
+      "A": "hasil kerja",
+      "B": "artefak",
+      "C": "building block",
+      "D": "framework"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Kerangka konten arsitektur yang terdiri dari komponen-komponen yang mewakili kapabilitas perusahaan adalah ....",
+    "pilihan": {
+      "A": "hasil kerja",
+      "B": "artefak",
+      "C": "building block",
+      "D": "framework"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Hasil kerja yang mendokumentasikan deskripsi arsitektur adalah ....",
+    "pilihan": {
+      "A": "dokumen definisi arsitektur",
+      "B": "dokumen kontrak",
+      "C": "project charter",
+      "D": "manual guide"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Tujuan fase pendahuluan pada metode pengembangan arsitektur TOGAF adalah ....",
+    "pilihan": {
+      "A": "memastikan bahwa kemampuan arsitektur perusahaan memenuhi persyaratan saat ini",
+      "B": "membangun kontrak arsitektur",
+      "C": "untuk merumuskan rekomendasi dari tiap-tiap proyek implementasi",
+      "D": "mengidentifikasi unsur-unsur organisasi perusahaan yang dipengaruhi oleh kemampuan arsitektur"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Tujuan fase manajemen persyaratan pada arsitektur enterprise TOGAF adalah ....",
+    "pilihan": {
+      "A": "memastikan bahwa kemampuan arsitektur perusahaan memenuhi persyaratan saat ini",
+      "B": "mengelola persyaratan arsitektur yang diidentifikasi selama eksekusi siklus atau fase ADM",
+      "C": "mengidentifikasi unsur-unsur organisasi perusahaan yang dipengaruhi oleh kemampuan arsitektur",
+      "D": "membangun kontrak arsitektur"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut merupakan artefak pada arsitektur TOGAF, kecuali ....",
+    "pilihan": {
+      "A": "katalog",
+      "B": "matriks",
+      "C": "diagram",
+      "D": "project charter"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut ini merupakan isi dari dokumen definisi arsitektur, kecuali arsitektur ....",
+    "pilihan": {
+      "A": "bisnis milestone",
+      "B": "bisnis baseline",
+      "C": "bisnis target",
+      "D": "teknologi baseline"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Repositori Arsitektur, terdiri dari ....",
+    "pilihan": {
+      "A": "deskripsi masalah",
+      "B": "tujuan pernyataan karya arsitektur",
+      "C": "building block yang dapat digunakan kembali",
+      "D": "tampilan ringkasan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Langkah-langkah dalam Fase C - arsitektur aplikasi sebagai berikut, kecuali ....",
+    "pilihan": {
+      "A": "mengembangkan deskripsi arsitektur aplikasi baseline",
+      "B": "membuat model arsitektur",
+      "C": "mengembangkan deskripsi arsitektur data baseline",
+      "D": "melakukan analisis gap dan membuat laporan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Fase-fase dalam metode pengembangan arsitektur TOGAF, kecuali ....",
+    "pilihan": {
+      "A": "visi arsitektur, arsitektur bisnis, arsitektur sistem informasi, arsitektur teknologi",
+      "B": "arsitektur bisnis, arsitektur sistem informasi, misi arsitektur, arsitektur teknologi",
+      "C": "peluang dan solusi, arsitektur bisnis, arsitektur sistem informasi, arsitektur teknologi",
+      "D": "manajemen perubahan arsitektur, arsitektur bisnis, arsitektur sistem informasi, arsitektur teknologi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Keterlibatan pemangku kepentingan pada tahap Visi Arsitektur dimaksudkan untuk ....",
+    "pilihan": {
+      "A": "mengidentifikasi lokasi yang diperlukan",
+      "B": "menentukan cara memasang perangkat jaringan",
+      "C": "menentukan spesifikasi personil yang membangun aplikasi",
+      "D": "mengidentifikasi batasan terhadap proses pengembangan arsitektur yang diperlukan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Risiko yang muncul setelah penerapan tindakan mitigasi adalah ....",
+    "pilihan": {
+      "A": "risiko awal",
+      "B": "risiko sebelum dilakukan mitigasi",
+      "C": "risiko residual",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Menyusun rekomendasi untuk pelaksanaan tata kelola implementasi yang sudah dilakukan, dilakukan pada fase ....",
+    "pilihan": {
+      "A": "G",
+      "B": "C",
+      "C": "D",
+      "D": "B"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Memastikan kerangka tata kelola arsitektur dijalankan merupakan tujuan dari fase ....",
+    "pilihan": {
+      "A": "G",
+      "B": "H",
+      "C": "D",
+      "D": "E"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Pada metode pengembangan arsitektur TOGAF, penilaian kapabilitas terdiri dari kapabilitas ....",
+    "pilihan": {
+      "A": "bisnis dan kapabilitas personil",
+      "B": "bisnis dan kapabilitas teknologi informasi",
+      "C": "personil dan kapabilitas teknologi informasi",
+      "D": "sumberdaya dan kapabilitas teknologi informasi"
+    },
+    "jawaban": "B"
+  }
+]

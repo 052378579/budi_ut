@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Mekanisme atau teknologi untuk mengontrol lalu lintas data dan memastikan kinerja aplikasi kritis adalah ....",
+    "pilihan": {
+      "A": "Class of Service",
+      "B": "Quality of Service",
+      "C": "Type of Service",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Mekanisme yang menandai aliran data pada header paket layer 3 adalah ....",
+    "pilihan": {
+      "A": "Class of Service",
+      "B": "Quality of Service",
+      "C": "Type of Service",
+      "D": "Differentiated Services Code Point"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Protokol pada lapisan transport yang dapat mengalokasikan sumber daya pada suatu jaringan dan dapat digunakan untuk memberikan tingkat QoS tertentu terhadap aliran data suatu layanan adalah ....",
+    "pilihan": {
+      "A": "Resource Reservation Protocol",
+      "B": "Class of Service",
+      "C": "Type of Service",
+      "D": "Differentiated Services Code Point"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Perangkat lunak QoS yang menerapkan dan membatasi bandwidth tertentu dan membuang paket yang tidak sesuai dengan aturan (rule) yang ditetapkan merupakan perangkat lunak QoS kelompok ....",
+    "pilihan": {
+      "A": "classification",
+      "B": "queuing",
+      "C": "policing",
+      "D": "weighted random early discard"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Mekanisme QoS yang memantau kongesti pada lalu lintas data di jaringan dan menentukan prioritas terhadap paket berdasarkan kongesti yang terjadi adalah ....",
+    "pilihan": {
+      "A": "classification & marking",
+      "B": "congestion management",
+      "C": "congestion avoidance",
+      "D": "shaping"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut ini merupakan model layanan quality of service, kecuali ....",
+    "pilihan": {
+      "A": "best-effort",
+      "B": "diffserv",
+      "C": "compression",
+      "D": "intserv"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Parameter-parameter yang memengaruhi quality of service, kecuali ....",
+    "pilihan": {
+      "A": "bandwidth & throughput",
+      "B": "packet loss",
+      "C": "jenis paket",
+      "D": "delay & jitter"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Kecepatan paket yang tidak teratur pada jaringan sebagai akibat dari kongesti, dapat mengakibatkan paket datang terlambat dan tidak berurutan adalah ....",
+    "pilihan": {
+      "A": "throughput",
+      "B": "jitter",
+      "C": "delay",
+      "D": "packet loss"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut ini merupakan manfaat yang dapat diperoleh terhadap penggunaan QoS, kecuali ....",
+    "pilihan": {
+      "A": "memberikan prioritas untuk aplikasi-aplikasi yang kritis pada jaringan",
+      "B": "meningkatkan kinerja untuk aplikasi-aplikasi yang sensitif terhadap delay, seperti voice dan video",
+      "C": "merespons terhadap adanya perubahan-perubahan pada aliran lalulintas di jaringan",
+      "D": "memperbesar ketersediaan bandwidth"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Waktu yang diperlukan untuk melewati suatu jalur media penghubung adalah delay ....",
+    "pilihan": {
+      "A": "transmisi",
+      "B": "propagasi",
+      "C": "proses",
+      "D": "antrian"
+    },
+    "jawaban": "B"
+  }
+]

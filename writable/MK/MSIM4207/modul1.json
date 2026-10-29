@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "soal": "Fungsi sistem informasi adalah mengubah data menjadi....",
+    "pilihan": {
+      "A": "informasi",
+      "B": "informatika",
+      "C": "keputusan",
+      "D": "kebutuhan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "soal": "Infrastruktur teknologi informasi guna berbagi data disebut....",
+    "pilihan": {
+      "A": "perangkat keras",
+      "B": "perangkat lunak",
+      "C": "perangkat telekomunikasi",
+      "D": "penyimpanan data"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "soal": "Tiga level hirarki organisasi yang umum dijumpai pada berbagai perusahaan adalah ....",
+    "pilihan": {
+      "A": "manajemen puncak, manajemen operasional, pekerja",
+      "B": "manajemen puncak, manajemen menengah, manajemen operasional",
+      "C": "manajemen puncak, manajemen operasional, sistem informasi",
+      "D": "manajemen puncak, manajemen menengah, pekerja"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "soal": "Point of sales yang mengolah data penjualan termasuk dalam tipe sistem informasi...",
+    "pilihan": {
+      "A": "sistem pembuatan keputusan",
+      "B": "sistem pemrosesan transaksi",
+      "C": "sistem pakar",
+      "D": "sistem penjualan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "soal": "Sistem terdiri dari komponen yang sering disebut sebagai ...",
+    "pilihan": {
+      "A": "subsistem",
+      "B": "supra sistem",
+      "C": "sub sistem",
+      "D": "sistemik"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "soal": "Informasi dibutuhkan guna membuat keputusan yang ...",
+    "pilihan": {
+      "A": "maksimal",
+      "B": "optimal",
+      "C": "rasional",
+      "D": "bilingual"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "soal": "Orang yang bertanggung jawab untuk menentukan arah dan tujuan suatu perusahaan adalah...",
+    "pilihan": {
+      "A": "manajer menengah",
+      "B": "supervisor",
+      "C": "mandor",
+      "D": "manajer puncak"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "soal": "Operasi rutin harian suatu perusahaan merupakan tanggung jawab dari manajer ....",
+    "pilihan": {
+      "A": "operasional",
+      "B": "umum",
+      "C": "puncak",
+      "D": "HRD"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "soal": "Regulasi yang dikembangkan oleh suatu perusahaan guna menyelesaikan atau melaksanakan suatu tugas disebut proses ...",
+    "pilihan": {
+      "A": "manual",
+      "B": "otomatis",
+      "C": "bisnis",
+      "D": "digital"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "soal": "Kumpulan instruksi yang digunakan untuk mengendalikan dan mengkoordinasikan sebuah komputer disebut perangkat....",
+    "pilihan": {
+      "A": "cadangan",
+      "B": "catu daya",
+      "C": "keras",
+      "D": "lunak"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "soal": "Munculnya layanan streaming film dan musik merupakan perkembangan bisnis berbasis teknologi informasi dalam bentuk ....",
+    "pilihan": {
+      "A": "model usaha baru",
+      "B": "proses bisnis baru",
+      "C": "strategi usaha baru",
+      "D": "pendapatan baru"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "soal": "Internet memungkinkan pengusaha UMKM di Indonesia berjualan ke luar negeri dengan cara menurunkan biaya ....",
+    "pilihan": {
+      "A": "upah dan gaji",
+      "B": "produksi",
+      "C": "operasional",
+      "D": "tak terduga"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "soal": "Keunikan barang digital dibandingkan dengan barang konvensional adalah ...",
+    "pilihan": {
+      "A": "biaya pemasaran sangat tinggi",
+      "B": "keuntungan pasti besar",
+      "C": "profit margin rendah",
+      "D": "biaya produksi hanya sebesar biaya produksi unit pertama"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "soal": "Biaya untuk berpindah ke penjual lain bagi seorang konsumen disebut sebagai ....",
+    "pilihan": {
+      "A": "switching cost",
+      "B": "variable cost",
+      "C": "fixed cost",
+      "D": "shared cost"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "soal": "Kualitas informasi ketepatan waktu biasanya berbanding terbalik dengan ....",
+    "pilihan": {
+      "A": "ketersediaan akses",
+      "B": "kelengkapan",
+      "C": "kehandalan",
+      "D": "kepercayaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "soal": "Mesin Anjungan Tunai Mandiri merupakan contoh teknologi informasi yang berguna untuk....",
+    "pilihan": {
+      "A": "meraih keuntungan besar",
+      "B": "keunggulan kompetitif",
+      "C": "bertahan hidup",
+      "D": "keunggulan non kompetitif"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "soal": "Perkembangan teknologi yang secara drastis mengubah tatanan usaha di berbagai industri disebut sebagai ...",
+    "pilihan": {
+      "A": "teknologi unggul",
+      "B": "adopsi teknologi",
+      "C": "difusi teknologi",
+      "D": "disrupsi teknologi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "soal": "Aplikasi yang memungkinkan suatu mesin dikendalikan melalui internet disebut sebagai ....",
+    "pilihan": {
+      "A": "Internet of Things",
+      "B": "Internet version 2.0",
+      "C": "Semantic Web",
+      "D": "Intelligent Web"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "soal": "Kemampuan untuk menemukan keterkaitan antara data yang nampak tidak saling berhubungan merupakan kelebihan dari teknologi ....",
+    "pilihan": {
+      "A": "Google SEO",
+      "B": "Big Data",
+      "C": "Business Reengineering",
+      "D": "Business Rendering"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "soal": "BRI membeli dan mengoperasikan sendiri satelit telekomunikasi dengan tujuan untuk mengatasi masalah ......",
+    "pilihan": {
+      "A": "jaringan telekomunikasi",
+      "B": "distribusi dana nasabah",
+      "C": "kredit macet",
+      "D": "fraud perbankan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 21,
+    "soal": "Pendekatan yang menggunakan dasar ilmu teknik adalah ....",
+    "pilihan": {
+      "A": "hard approach",
+      "B": "soft approach",
+      "C": "technical approach",
+      "D": "social approach"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 22,
+    "soal": "Pendekatan yang menggabungkan pendekatan teknis dan perilaku adalah ...",
+    "pilihan": {
+      "A": "hard approach",
+      "B": "soft approach",
+      "C": "technical approach",
+      "D": "socio-technical approach"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 23,
+    "soal": "Pendekatan yang menggabungkan pendekatan teknis dan perilaku adalah",
+    "pilihan": {
+      "A": "hard approach",
+      "B": "soft approach",
+      "C": "technical approach",
+      "D": "socio-technical approach"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 24,
+    "soal": "Ilmu yang mempelajari dasar matematis teknologi informasi adalah Ilmu ....",
+    "pilihan": {
+      "A": "Aljabar",
+      "B": "Rekayasa",
+      "C": "Matematika Dasar",
+      "D": "Komputer"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 25,
+    "soal": "Ilmu yang mempelajari cara pembuatan keputusan manajerial secara ilmiah adalah ...",
+    "pilihan": {
+      "A": "Manajemen Operasional",
+      "B": "Manajemen Sains",
+      "C": "Manajemen Keuangan",
+      "D": "Manajemen Strategis"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 26,
+    "soal": "Ilmu yang mempelajari perilaku individu dalam menggunakan sebuah sistem informasi adalah ...",
+    "pilihan": {
+      "A": "Psikologi",
+      "B": "Para Psikologi",
+      "C": "Kognisi",
+      "D": "Meta Kognisi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 27,
+    "soal": "Jika kita mempelajari dampak gawai terhadap suasana kerja, maka kita menggunakan dasar ilmu ...",
+    "pilihan": {
+      "A": "Sosiatri",
+      "B": "Antropologi",
+      "C": "Sosiologi",
+      "D": "Ekonomi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 28,
+    "soal": "Jika kita menghitung harga jual paket berlangganan streaming layanan musik seperti Spotify dan Joox, maka kita menggunakan dasar ilmu ...",
+    "pilihan": {
+      "A": "Sosiatri",
+      "B": "Antropologi",
+      "C": "Sosiologi",
+      "D": "Ekonomi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 29,
+    "soal": "Menunda penggunaan gawai terbaru di suatu perusahaan karena menunggu pelatihan karyawan merupakan contoh penggunaan pendekatan ....",
+    "pilihan": {
+      "A": "hard approach",
+      "B": "soft approach",
+      "C": "technical approach",
+      "D": "socio-technical approach"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 30,
+    "soal": "Menghitung pendayagunaan fasilitas komputasi perusahaan secara optimal merupakan fokus bidang ilmu ...",
+    "pilihan": {
+      "A": "Manajemen Operasional",
+      "B": "Operations Research",
+      "C": "Manajemen Keuangan",
+      "D": "Manajemen Strategis"
+    },
+    "jawaban": "B"
+  }
+]

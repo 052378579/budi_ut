@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Lobi yang berasal dari Bahasa Latin lobium, artinya adalah...",
+    "pilihan": {
+      "A": "serambi",
+      "B": "ruang tengah",
+      "C": "ruang tamu",
+      "D": "ruang belakang"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Banyaknya mantan pejabat dijadikan anggota dewan komisaris perusahaan. Tujuannya untuk membentuk dalam lobi pemerintah. Jenis lobi seperti ini adalah lobi....",
+    "pilihan": {
+      "A": "tradisional",
+      "B": "akar rumput",
+      "C": "komite aksi politik",
+      "D": "parlemen"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Fungsi lobbying yang tidak mungkin dilakukan oleh pelobi adalah semata-mata untuk....",
+    "pilihan": {
+      "A": "mempengaruhi pengambil keputusan",
+      "B": "menafsirkan opini pejabat",
+      "C": "memprediksi apa yang akan terjadi",
+      "D": "mencari proyek"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Dalam negosiasi yang berorientasi bargaining, terjadi....",
+    "pilihan": {
+      "A": "kalah",
+      "B": "menang",
+      "C": "kalah dan menang",
+      "D": "jawaban di atas semua salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Dalam negosiasi yang kompromistis, terjadi....",
+    "pilihan": {
+      "A": "masing-masing pihak kalah",
+      "B": "masing-masing pihak menang",
+      "C": "kalah dan menang",
+      "D": "masing-masing kalah dan menang"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dalam negosiasi kolaboratif, masing-masing pihak....",
+    "pilihan": {
+      "A": "kalah",
+      "B": "menang",
+      "C": "kalah dan menang",
+      "D": "jawaban di atas semua salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Dalam negosiasi, konflik diselesaikan melalui....",
+    "pilihan": {
+      "A": "kekerasan",
+      "B": "kekuasaan",
+      "C": "komunikasi",
+      "D": "kelihaian"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dalam melakukan lobi hal yang terpenting adalah kemampuan....",
+    "pilihan": {
+      "A": "memaksakan keinginan",
+      "B": "menunjukkan keinginan",
+      "C": "menjalankan kekuasaan",
+      "D": "melakukan persuasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Lobi terjadi karena adanya....",
+    "pilihan": {
+      "A": "perbedaan kepentingan yang dapat dijembatani",
+      "B": "kesamaan kepentingan",
+      "C": "kesamaan keinginan",
+      "D": "perbedaan keinginan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Negosiasi pada dasarnya merupakan....",
+    "pilihan": {
+      "A": "kegiatan",
+      "B": "tindakan",
+      "C": "usaha",
+      "D": "proses"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Dalam melakukan lobi hal yang terpenting kita lakukan adalah....",
+    "pilihan": {
+      "A": "mengumpulkan fakta dan data",
+      "B": "menentukan orang yang akan didekati",
+      "C": "menentukan orang yang melobi",
+      "D": "menentukan biaya lobi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Untuk memperbesar gema persoalan yang kita selesaikan melalui lobi biasanya dilakukan....",
+    "pilihan": {
+      "A": "pemasaran iklan",
+      "B": "publicity springboard",
+      "C": "memperbaiki perusahaan",
+      "D": "berbicara pada pengambil keputusan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Selain untuk mempengaruhi kebijakan dan keputusan, lobi juga dilakukan....",
+    "pilihan": {
+      "A": "menunjang pencitraan perusahaan",
+      "B": "menunjang kegiatan pemasaran",
+      "C": "memperbaiki perusahaan",
+      "D": "jawaban di atas semua benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Dalam teknik lobi, ada istilah menganalisa iklim, maksudnya adalah menganalisis....",
+    "pilihan": {
+      "A": "opini publik",
+      "B": "usaha yang tepat",
+      "C": "suasana yang tepat",
+      "D": "lingkungan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Dalam melakukan lobi kita harus bersikap fleksibel, yang artinya....",
+    "pilihan": {
+      "A": "bersikap taktis",
+      "B": "plin-plan",
+      "C": "tunduk pada kemampuan pihak lain",
+      "D": "kukuh pada pendirian"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Dalam melakukan lobi, peran media adalah....",
+    "pilihan": {
+      "A": "amat penting",
+      "B": "tidak penting",
+      "C": "kurang penting",
+      "D": "tidak berperan apa-apa"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Salah satu contoh keberhasilan lobi organisasi-organisasi lingkungan di Eropa adalah ditetapkannya kebijakan agar produk industri memakai....",
+    "pilihan": {
+      "A": "Eco-labeling",
+      "B": "Eco-numerical",
+      "C": "Eco-centered",
+      "D": "Eco-logical"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Pelobi melakukan interpretasi atas kebijakan pemerintah untuk kepentingan....",
+    "pilihan": {
+      "A": "pejabat pemerintah",
+      "B": "perusahaan yang diwakilinya",
+      "C": "masyarakat luas",
+      "D": "dunia bisnis"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Proses dalam lobi itu meliputi....",
+    "pilihan": {
+      "A": "menganalisis fakta",
+      "B": "menganalisis instituisi",
+      "C": "membangkitkan pengaruh",
+      "D": "jawaban a, b, dan c benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Pengaruh dalam lobi pada dasarnya diarahkan pada....",
+    "pilihan": {
+      "A": "kegiatan",
+      "B": "tindakan",
+      "C": "usaha",
+      "D": "proses"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Kemampuan melakukan negosiasi merupakan kemampuan....",
+    "pilihan": {
+      "A": "bawaan",
+      "B": "hasil belajar",
+      "C": "orang dengan zodiak tertentu",
+      "D": "milik para politisi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Salah satu prinsip penting negosiasi adalah....",
+    "pilihan": {
+      "A": "pemilikan otoritas",
+      "B": "kemampuan mempengaruhi",
+      "C": "pemilikan pengetahuan umum",
+      "D": "kemampuan berbicara"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Sikap tegas dalam negosiasi berarti membuat kita harus....",
+    "pilihan": {
+      "A": "tidak tunduk pada orang lain",
+      "B": "memaksa orang mengikuti pandangan kita",
+      "C": "berempati",
+      "D": "menjabarkan pandangan orang lain"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Dalam negosiasi kita dapat memanfaatkan kaukus. Arti kaukus, adalah kelompok....",
+    "pilihan": {
+      "A": "masyarakat",
+      "B": "kecil informal",
+      "C": "kecil formal",
+      "D": "yang bernegosiasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Pengaturan tempo amat penting dalam negosiasi. Salah satu caranya adalah dengan...",
+    "pilihan": {
+      "A": "tidak ada batas waktu negosiasi",
+      "B": "waktu disesuaikan dengan jam kerja",
+      "C": "mengulur waktu negosiasi hingga larut malam",
+      "D": "jawaban a, b, dan c benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Dalam menangani negosiasi, hal terpenting yang perlu kita ingat adalah....",
+    "pilihan": {
+      "A": "tujuan negosiasi",
+      "B": "waktu negosiasi",
+      "C": "tempat negosiasi",
+      "D": "informasi negosiasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Dalam gaya negosiasi bargaining, kita berorientasi untuk mengendalikan....",
+    "pilihan": {
+      "A": "orang lain",
+      "B": "diri sendiri",
+      "C": "agenda negosiasi",
+      "D": "isi pembicaraan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Dalam gaya negosiasi kompromi, pemahaman kita atas orang lain bersifat....",
+    "pilihan": {
+      "A": "utuh",
+      "B": "menyeluruh",
+      "C": "parsial",
+      "D": "tidak ada"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Dalam negosiasi \"menang-menang\", kita berorientasi pada....",
+    "pilihan": {
+      "A": "pemecahan masalah",
+      "B": "lawan negosiasi",
+      "C": "sikap lawan negosiasi",
+      "D": "hubungan baik dengan lawan negosiasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Pertimbangan pada penyelesaian masalah dan pemeliharaan hubungan baik ada pada gaya negosiasi....",
+    "pilihan": {
+      "A": "bargaining",
+      "B": "kompromi",
+      "C": "kolaborasi",
+      "D": "ketiga jawaban di atas benar"
+    },
+    "jawaban": "C"
+  }
+]

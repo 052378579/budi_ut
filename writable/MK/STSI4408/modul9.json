@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "E-bisnis merupakan transaksi atau proses digital di internal perusahaan, yang melibatkan sistem informasi dibawah kontrol perusahaan, definisi tersebut menurut",
+    "pilihan": {
+      "A": "Guay",
+      "B": "Turban",
+      "C": "Laudon & Traver",
+      "D": "jawaban A, B dan C tidak benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut ini merupakan ruang lingkup proses bisnis e-commerce, kecuali ....",
+    "pilihan": {
+      "A": "HRM",
+      "B": "pembelian",
+      "C": "penjualan",
+      "D": "pemasaran"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "E-bisnis merupakan kombinasi dari tiga aktivitas berikut, kecuali",
+    "pilihan": {
+      "A": "E-commerce",
+      "B": "proses bisnis internal",
+      "C": "pemeliharaan komputer",
+      "D": "relasi dengan pelanggan dan pemasok"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Nilai kegunaan suatu produk berubah akibat perpindahan lokasi terhadap produk tersebut adalah",
+    "pilihan": {
+      "A": "form utility",
+      "B": "place utility",
+      "C": "ownership utility",
+      "D": "time utility"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Bentuk kegiatan transaksi dengan pelaku bisnis (organisasi) lain adalah ....",
+    "pilihan": {
+      "A": "business to consumer",
+      "B": "business to business",
+      "C": "consumer to consumer",
+      "D": "consumer to business"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Penerapan e-bisnis dapat memberi keuntungan berikut, kecuali ....",
+    "pilihan": {
+      "A": "efisiensi dan efektivitas",
+      "B": "jangkauan yang lebih luas",
+      "C": "meningkatkan biaya proses bisnis",
+      "D": "terciptanya peluang model bisnis baru"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Berikut ini merupakan fungsi utama dari bisnis, kecuali",
+    "pilihan": {
+      "A": "memperoleh barang jadi menjadi bahan mentah",
+      "B": "menyalurkan produk",
+      "C": "mengubah bahan mentah menjadi barang jadi",
+      "D": "memperoleh bahan mentah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Payung atau jas hujan akan memiliki nilai bagi konsumen ketika musim hujan, artinya payung atau jas hujan memiliki utilitas....",
+    "pilihan": {
+      "A": "bentuk",
+      "B": "waktu",
+      "C": "kepemilikan",
+      "D": "tempat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Peran sistem informasi bisnis untuk mendukung bisnis perusahaan adalah ....",
+    "pilihan": {
+      "A": "memberi dukungan agar perusahaan dapat meningkatkan biaya",
+      "B": "memberi dukungan agar perusahaan dapat memperoleh keunggulan kompetitif",
+      "C": "memberi dukungan agar perusahaan dapat meningkatkan jumlah pegawai.",
+      "D": "jawaban A, B dan C tidak benar."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "eBay merupakan contoh penerapan e-commerce jenis",
+    "pilihan": {
+      "A": "business to consumer",
+      "B": "business to business",
+      "C": "consumer to business",
+      "D": "consumer to consumer"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini merupakan elemen-elemen yang termasuk dalam proses manajemen risiko berdasarkan standar AS/NZS 4360:1999, kecuali",
+    "pilihan": {
+      "A": "menetapkan konteks",
+      "B": "menganalisis risiko",
+      "C": "kepemimpinan dan komitmen",
+      "D": "melakukan komunikasi dan konsultasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Kerangka kerja manajemen risiko terdiri dari ....",
+    "pilihan": {
+      "A": "menetapkan konteks, integrasi, perancangan, implementasi, evaluasi, peningkatan",
+      "B": "kepemimpinan dan komitmen, integrasi, perancangan, implementasi, evaluasi, peningkatan",
+      "C": "melakukan komunikasi dan konsultasi, integrasi, perancangan, menganalisis, evaluasi, peningkatan",
+      "D": "kepemimpinan dan komitmen, integrasi, perancangan, implementasi, evaluasi, peningkatan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Manajer Teknologi Informasi pada suatu perusahaan menerapkan kebijakan untuk menyimpan aplikasi dan database nya di penyedia jasa cloud system dikarenakan kurangnya personil yang dapat melakukan pemeliharaan terhadap server yang digunakan perusahaan tersebut, menurut sudut pandang manajemen risiko, Manajer tersebut menangani risiko dengan menggunakan metode",
+    "pilihan": {
+      "A": "risk acceptance",
+      "B": "risk mitigation",
+      "C": "risk avoidance",
+      "D": "risk transference"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Level risiko tergantung pada parameter ....",
+    "pilihan": {
+      "A": "probabilitas dan keparahan dampak",
+      "B": "konsekuensi dan keparahan dampak",
+      "C": "probabilitas dan kemungkinan terjadinya risiko",
+      "D": "kontrol yang digunakan dan keparahan dampak"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Menurut standar AS/NZS 4360:1999, penanganan terhadap suatu risiko yang muncul dilakukan dengan melakukan ....",
+    "pilihan": {
+      "A": "identifikasi terhadap berbagai opsi yang dapat digunakan untuk menangani risiko",
+      "B": "melakukan komunikasi dan konsultasi",
+      "C": "melakukan pemantauan dan reviu",
+      "D": "menetapkan konteks dengan mendefinisikan hubungan antara organisasi dan lingkungannya"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Penerapan manajemen risiko yang sistematis dalam suatu organisasi dapat memberi manfaat",
+    "pilihan": {
+      "A": "meminimalisasi potensi kerusakan jika yang siatuasi terburuk terjadi",
+      "B": "mengubah risiko yang melekat dalam setiap aktivitas organisasi menjadi sistem kontrol",
+      "C": "mengontrol sumber dan jenis risiko",
+      "D": "memaksimalkan potensi kerusakan jika yang situasi terburuk terjadi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Penyediaan data yang dapat membantu dalam melakukan evaluasi dan penanganan risiko, merupakan tujuan dari tahapan ... dalam proses manajemen risiko standar AS/NZS 4360:1999",
+    "pilihan": {
+      "A": "mengevaluasi risiko",
+      "B": "mengidentifikasi risiko",
+      "C": "menganalisis risiko",
+      "D": "menetapkan konteks"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Risiko menurut Vaughan dan Elliott adalah",
+    "pilihan": {
+      "A": "risk is the chance of loss",
+      "B": "risk is the possibility of profit, risk is uncertainty, risk is the dispersion of actual from expected result, risk is the chance of loss",
+      "C": "risk is the probability of any outcome different from the one expected, risk is certainty",
+      "D": "risk is certainty, risk is the dispersion of actual from expected result"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Standar yang digunakan untuk manajemen risiko antara lain",
+    "pilihan": {
+      "A": "ISO 31000:2018, AS/NZS 4360:1999",
+      "B": "ISO 27001:2018, AS/NZS 4360:1999",
+      "C": "AS/NZS 4360:1999, ISO 15300:2018",
+      "D": "AS/NZS 4360:1999, ISO 27002:2018"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Membatasi terjadinya suatu risiko dengan menerapkan kontrol yang dapat meminimalisasi dampak yang merugikan, merupakan penanganan risiko metode",
+    "pilihan": {
+      "A": "risk acceptance",
+      "B": "risk mitigation",
+      "C": "risk avoidance",
+      "D": "risk transference"
+    },
+    "jawaban": "B"
+  }
+]

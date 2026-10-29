@@ -1,0 +1,95 @@
+body { background-color: #f4f7f9; font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; }
+[v-cloak] { display: none !important; }
+
+/* Gradien Biru UT */
+.navbar-custom {
+    background: linear-gradient(135deg, #004da1 0%, #002d5f 100%);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: background 0.4s ease;
+    
+    /* Padding Dinamis untuk poni layar (HP) */
+    padding-top: calc(env(safe-area-inset-top) + 10px) !important;
+}
+
+/* Link Navigasi */
+.nav-link-custom {
+    color: rgba(255, 255, 255, 0.85);
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    transition: all 0.2s ease-in-out;
+}
+.nav-link-custom:hover, .nav-link-custom.active {
+    color: #ffffff !important;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.profile-brand-text { font-size: 0.75rem; letter-spacing: 0.75px; }
+.avatar-placeholder { width: 32px; height: 32px; background-color: rgba(255,255,255,0.2); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; }
+
+/* =========================================================
+   KUSTOMISASI DROPDOWN PROFIL & BORDER RESPONSIVE
+   ========================================================= */
+.dropdown-toggle-profile {
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+.dropdown-toggle-profile:hover {
+    opacity: 0.85;
+}
+.dropdown-toggle-profile::after {
+    vertical-align: middle;
+    margin-left: 0.5rem;
+    color: rgba(255,255,255,0.7);
+}
+
+.dropdown-menu-custom {
+    border-radius: 12px;
+    border: 1px solid rgba(0,0,0,0.05);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    padding: 0.5rem;
+    margin-top: 10px !important;
+}
+
+.dropdown-menu-custom .dropdown-item {
+    border-radius: 8px;
+    padding: 0.6rem 1rem;
+    font-weight: 500;
+    color: #495057;
+    transition: all 0.2s;
+}
+
+.dropdown-menu-custom .dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: #004da1;
+}
+
+.dropdown-menu-custom .dropdown-item.text-danger:hover {
+    background-color: #fff5f5;
+    color: #dc3545 !important;
+}
+
+/* Menghilangkan garis pembatas profil di layar Desktop (lg ke atas) */
+@media (min-width: 992px) {
+    .border-lg-0 {
+        border-top: 0 !important;
+    }
+}
+
+/* Custom Footer Animasi Arminisme */
+.footer-heart { text-align: center; margin-top: 10px; }
+.footer-heart a { border-bottom: 1px solid #453886; color: #453886; padding-bottom: .25em; text-decoration: none; font-weight: 600; }
+.footer-heart a:hover {
+    color: #2196f3; 
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23453886' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+    background-position: bottom; background-repeat: repeat-x; background-size: 20%; border-bottom: 0; padding-bottom: .3em; text-decoration: none;
+}
+
+.emoji { vertical-align: middle; }
+/* Menghilangkan garis pembatas dan padding kiri secara paksa khusus di layar Mobile (di bawah 576px) */
+@media (max-width: 575.98px) {
+    .no-border-mobile {
+        border-left: 0 !important;
+        padding-left: 0 !important;
+    }
+}

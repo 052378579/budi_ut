@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini adalah contoh kondisi terjadinya data hilang, kecuali .....",
+    "pilihan": {
+      "A": "kondisi tanaman rusak yang menyebabkan tidak dapat diukur dalam penelitian",
+      "B": "kesalahan peneliti saat entri data",
+      "C": "adanya variabel tambahan setelah survei dilakukan, sehingga variabel tambahan ini tidak terisi oleh responden sebelumnya",
+      "D": "responden tidak ingin menjawab karena merupakan pertanyaan privasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Contoh kejadian data hilang karena kondisi pengamatan yang rusak adalah ....",
+    "pilihan": {
+      "A": "terjadinya bencana alam yang mengakibatkan tanaman percobaan rusak",
+      "B": "hilangnya alat ukur untuk mengukur tinggi tanaman sebagai pengamatan",
+      "C": "formulir kuesioner survei habis",
+      "D": "peneliti lupa untuk mengukur tinggi tanaman pada petak lahan tertentu"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Mekanisme data hilang MCAR (Missing Completely at Random) terjadi ketika hilangnya nilai pengamatan tidak bergantung pada variabel lain. Berikut ini adalah ilustrasi kasus MCAR, kecuali .....",
+    "pilihan": {
+      "A": "hilangnya kuesioner yang dikirimkan lewat pos",
+      "B": "sampel darah yang rusak karena alat di lab jatuh",
+      "C": "kosongnya pengamatan pada variabel jenis kelamin karena server down sesaat",
+      "D": "seseorang yang tidak datang untuk tes kesehatan karena sakit"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Pada penelitian kepadatan pembuluh kapiler dari luka kaki penderita diabetes, seorang responden kakinya sudah diamputasi karena lukanya sangat parah sehingga kapiler tidak dapat diukur. Mekanisme hilangnya pengamatan ini termasuk dalam ....",
+    "pilihan": {
+      "A": "MCAR (Missing Completely at Random)",
+      "B": "MAR (Missing at Random)",
+      "C": "MNAR (Missing Not at Random)",
+      "D": "tidak teridentifikasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Diketahui 4 kasus: I. Tidak hadir tes narkoba karena semalam pakai narkoba. II. Jeruk matang dicuri orang. III. Jarak tempuh mobil tidak diisi tapi dapat diprediksi dari tahun produksi. IV. Warna mobil tidak diisi karena malas. Urutan mekanisme data hilang dari I sampai IV adalah:",
+    "pilihan": {
+      "A": "MCAR, MAR, MAR, MNAR",
+      "B": "MNAR, MCAR, MAR, MCAR",
+      "C": "MNAR, MAR, MAR, MNAR",
+      "D": "MAR, MCAR, MAR, MCAR"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kasus I: Data ciri wajah tidak diisi karena responden tidak mau (MNAR). Kasus II: Data IPK tidak masuk karena sistem entri error (MCAR). Pernyataan yang benar adalah ....",
+    "pilihan": {
+      "A": "kasus I dan kasus II adalah contoh kasus MCAR",
+      "B": "kasus I adalah contoh kasus MNAR, sedangkan kasus II adalah contoh kasus MCAR",
+      "C": "kasus I dan kasus II adalah contoh kasus MAR",
+      "D": "kasus I adalah contoh kasus MAR, sedangkan kasus II adalah contoh kasus MCAR"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Pernyataan mengenai mekanisme data hilang di bawah ini adalah benar, kecuali ....",
+    "pilihan": {
+      "A": "hilangnya data karena ketidaksengajaan yang terjadi secara acak termasuk MCAR",
+      "B": "hilangnya pengamatan yang terkait dengan besaran/nilai yang hilang itu sendiri termasuk MNAR",
+      "C": "kejadian data hilang yang hanya disebabkan oleh nilai variabel lain yang diamati termasuk MAR",
+      "D": "kejadian data hilang terkait dengan faktor-faktor yang tidak diperhitungkan atau disembunyikan responden termasuk MAR"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut ini adalah implikasi jika terdapat data hilang dalam analisis data, kecuali .....",
+    "pilihan": {
+      "A": "berkurangnya informasi yang direpresentasikan oleh sampel yang ada",
+      "B": "mempermudah analisis data karena datanya semakin sedikit",
+      "C": "meningkatkan galat baku (standard error)",
+      "D": "dapat menyebabkan bias dalam pendugaan parameter"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pernyataan mengenai implikasi jika terdapat data hilang dalam analisis data di bawah ini adalah benar, kecuali ...",
+    "pilihan": {
+      "A": "meningkatkan kekuatan (power) statistik dikarenakan datanya semakin sedikit",
+      "B": "memperkecil ukuran sampel pengamatan yang menyebabkan galat baku membesar",
+      "C": "metode analisis data yang digunakan harus disesuaikan dengan kondisi data hilang",
+      "D": "pada uji hipotesis, uji yang dihasilkan akan cenderung gagal tolak hipotesis nol (karena power turun)"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Salah satu upaya yang dapat dilakukan untuk mencegah terjadinya data hilang dalam penelitian survei adalah ....",
+    "pilihan": {
+      "A": "merekrut surveyor dari teman agar tidak perlu pelatihan",
+      "B": "melakukan survei dengan sangat cepat tanpa briefing",
+      "C": "menghilangkan pemantauan untuk menghemat waktu",
+      "D": "melakukan pra-survei (pilot study) untuk mengidentifikasi masalah kuesioner/survei sebelum riset utama"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini adalah metode yang umum digunakan dalam mengatasi data hilang, kecuali ....",
+    "pilihan": {
+      "A": "menggunakan alat analisis data yang kekar (robust) terhadap data hilang",
+      "B": "mengulang proses pengumpulan data dari awal (membuang riset yang ada)",
+      "C": "menyisihkan pengamatan dengan data hilang (deletion), lalu menganalisis sisanya",
+      "D": "mengisi atau mengganti nilai yang hilang dengan suatu dugaan (imputation)"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Metode penanganan data hilang berikut ini tidak cocok digunakan jika mekanisme data hilangnya bukan MCAR, karena akan menimbulkan bias (biasanya disebut single imputation), yaitu metode:",
+    "pilihan": {
+      "A": "penghapusan kasus (listwise deletion)",
+      "B": "penghapusan berpasangan (pairwise deletion)",
+      "C": "pengisian dengan regresi stochastic",
+      "D": "penggantian dengan rataan (mean substitution)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Metode penanganan data hilang di bawah ini memiliki konsep menghapus (tidak mengikutkan) pengamatan dengan nilai hilang pada analisis, kecuali metode imputasi ganda yang disebut:",
+    "pilihan": {
+      "A": "multiple imputation",
+      "B": "listwise deletion",
+      "C": "pairwise deletion",
+      "D": "case deletion"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Secara umum, keunggulan teknik sederhana dalam penanganan data hilang (seperti listwise deletion atau mean substitution) adalah ....",
+    "pilihan": {
+      "A": "dapat diterapkan pada semua mekanisme data hilang tanpa bias",
+      "B": "tidak akan mengurangi ukuran sampel pada data",
+      "C": "penerapan metodenya sangat mudah dan sederhana pada software statiska",
+      "D": "hasil analisis pasti akurat"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika peneliti berencana menggunakan metode penghapusan kasus (listwise deletion), hal yang perlu diperhatikan agar valid adalah, kecuali ....",
+    "pilihan": {
+      "A": "mekanisme data hilangnya harus MCAR",
+      "B": "data yang hilang tersebut diisi dengan nilai nol",
+      "C": "hilangnya data tidak berkaitan dengan variabel lain (independen)",
+      "D": "ukuran sampel sisanya masih cukup besar untuk analisis"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Pernyataan yang benar terkait perbedaan antara metode penghapusan kasus (listwise) dengan penghapusan berpasangan (pairwise) adalah.....",
+    "pilihan": {
+      "A": "keduanya sama-sama menghapus pengamatan secara utuh",
+      "B": "listwise menghapus seluruh baris data jika ada 1 variabel hilang, sedangkan pairwise hanya menghapus baris tersebut pada perhitungan statistik yang melibatkan variabel yang hilang",
+      "C": "informasi yang tersisa pada listwise selalu lebih banyak daripada pairwise",
+      "D": "keduanya adalah metode imputasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Salah satu kekurangan statistik dari penggunaan metode penghapusan berpasangan (pairwise deletion) dalam matriks korelasi/kovarians adalah",
+    "pilihan": {
+      "A": "setiap pasangan variabel akan dihitung berdasarkan ukuran sampel (n) yang berbeda-beda",
+      "B": "mempermudah analisis lanjut",
+      "C": "ukuran sampel antar variabel akan selalu sama",
+      "D": "matriks selalu bernilai definit positif"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Misalkan diketahui nilai ujian 5 siswa: 90, 70, 80, [Hilang], 80. Jika peneliti menggunakan metode penggantian dengan rataan (mean substitution), maka nilai pengamatan ke-4 digantikan dengan nilai",
+    "pilihan": {
+      "A": "0",
+      "B": "70",
+      "C": "80",
+      "D": "90"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Ilustrasi di mana metode pengisian dengan regresi (regression imputation) sangat efektif digunakan adalah ketika...",
+    "pilihan": {
+      "A": "terdapat dua variabel independen yang tidak saling berhubungan sama sekali",
+      "B": "hanya ada satu variabel dalam penelitian tersebut yang hilang secara acak",
+      "C": "terdapat beberapa variabel yang hilang dan peneliti tidak tahu apa penyebabnya",
+      "D": "terdapat variabel A dengan data hilang yang memiliki korelasi linear yang kuat dengan variabel B yang datanya lengkap"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Sebelum menggunakan metode regresi (regression imputation) untuk mengisi nilai hilang, syarat utama yang harus diperhatikan adalah ....",
+    "pilihan": {
+      "A": "terdapat variabel prediktor (X) yang berhubungan linear dengan variabel respon (Y) yang hilang",
+      "B": "nilai data yang hilang diisikan dengan beberapa nilai tebakan acak",
+      "C": "skala data harus bertipe kategori",
+      "D": "data tersebut harus hilang dengan mekanisme MNAR"
+    },
+    "jawaban": "A"
+  }
+]

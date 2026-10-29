@@ -1,0 +1,36 @@
+/* ==========================================================================
+   RIWAYAT - STYLESHEET (public/css/riwayat.css)
+   ========================================================================== */
+
+/* Kompensasi tinggi navbar */
+.content-wrapper {
+    padding-top: calc(env(safe-area-inset-top) + 120px) !important;
+    min-height: 85vh;
+}
+
+/* Kartu Riwayat */
+.riwayat-card { 
+    border-radius: 16px; 
+    border: none; 
+    overflow: hidden; 
+}
+
+/* Membuat tabel memiliki efek melengkung (Rounded Table) */
+.table-responsive {
+    border-radius: 12px;
+}
+
+/* Lencana Teks Skor Nilai */
+.score-badge {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+/* Gambar Buku Pratinjau (Thumbnail) */
+.img-cover-thumb {
+    width: 45px;
+    height: 60px;
+    object-fit: contain;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+}

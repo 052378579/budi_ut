@@ -1,0 +1,7 @@
+.quiz-container { max-width: 800px; margin-top: 20px; }
+.card-soal { border: none; border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+
+/* Animasi Transisi Pilihan Jawaban */
+.transition-all { transition: all 0.3s ease; }
+.list-group-item.cursor-pointer { cursor: pointer; }
+.list-group-item:hover:not(:disabled) { background-color: #f8f9fa; border-color: #dee2e6; }

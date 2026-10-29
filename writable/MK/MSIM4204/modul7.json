@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini yang merupakan prinsip utama dari keamanan informasi adalah ....",
+    "pilihan": {
+      "A": "Confidentiality, Integrity, Availability",
+      "B": "Authentication, Authorization, Accounting",
+      "C": "Identification, Authentication, Authorization",
+      "D": "Confidentiality, Integrity, Authentication"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Aspek keamanan yang menjamin bahwa data tidak diubah oleh pihak yang tidak berwenang adalah ....",
+    "pilihan": {
+      "A": "Confidentiality",
+      "B": "Integrity",
+      "C": "Availability",
+      "D": "Non-repudiation"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Ancaman keamanan jaringan di mana pihak tidak berwenang menyisipkan objek palsu ke dalam sistem disebut ....",
+    "pilihan": {
+      "A": "Interruption",
+      "B": "Interception",
+      "C": "Modification",
+      "D": "Fabrication"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Suatu serangan yang bertujuan untuk membuat suatu sumber daya sistem tidak dapat digunakan oleh pihak yang berhak disebut ....",
+    "pilihan": {
+      "A": "Denial of Service (DoS)",
+      "B": "Man in the Middle (MitM)",
+      "C": "Phishing",
+      "D": "Spoofing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Teknik penyamaran dengan menggunakan alamat IP palsu agar terlihat seperti berasal dari sumber yang tepercaya disebut ....",
+    "pilihan": {
+      "A": "Sniffing",
+      "B": "Spoofing",
+      "C": "Phishing",
+      "D": "Session Hijacking"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Sistem yang dirancang untuk mencegah akses yang tidak sah ke atau dari jaringan pribadi adalah ....",
+    "pilihan": {
+      "A": "Intrusion Detection System (IDS)",
+      "B": "Intrusion Prevention System (IPS)",
+      "C": "Firewall",
+      "D": "Antivirus"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Proses untuk memverifikasi identitas pengguna atau sistem adalah ....",
+    "pilihan": {
+      "A": "Identification",
+      "B": "Authentication",
+      "C": "Authorization",
+      "D": "Accounting"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut ini adalah contoh otentikasi berdasarkan apa yang dimiliki oleh pengguna (something you have), kecuali ....",
+    "pilihan": {
+      "A": "Smart card",
+      "B": "Token",
+      "C": "Password",
+      "D": "Kartu ATM"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Proses pemberian hak akses kepada pengguna yang telah berhasil diautentikasi disebut ....",
+    "pilihan": {
+      "A": "Identification",
+      "B": "Authentication",
+      "C": "Authorization",
+      "D": "Accounting"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Sistem yang dapat mendeteksi adanya upaya penyusupan ke dalam suatu jaringan tanpa melakukan pemblokiran adalah ....",
+    "pilihan": {
+      "A": "Firewall",
+      "B": "Intrusion Detection System (IDS)",
+      "C": "Intrusion Prevention System (IPS)",
+      "D": "Virtual Private Network (VPN)"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Kriptografi merupakan ilmu dan seni untuk menjaga keamanan pesan. Pesan asli sebelum dienkripsi disebut ....",
+    "pilihan": {
+      "A": "Ciphertext",
+      "B": "Plaintext",
+      "C": "Key",
+      "D": "Algorithm"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Proses mengubah ciphertext kembali menjadi plaintext disebut ....",
+    "pilihan": {
+      "A": "Encryption",
+      "B": "Decryption",
+      "C": "Hashing",
+      "D": "Steganography"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Algoritma kriptografi yang menggunakan kunci yang sama untuk proses enkripsi dan dekripsi adalah ....",
+    "pilihan": {
+      "A": "Symmetric cryptography",
+      "B": "Asymmetric cryptography",
+      "C": "Public key cryptography",
+      "D": "Hash function"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Berikut ini merupakan contoh algoritma kriptografi simetris, kecuali ....",
+    "pilihan": {
+      "A": "DES",
+      "B": "AES",
+      "C": "RSA",
+      "D": "Blowfish"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Dalam kriptografi asimetris, kunci yang dibagikan secara bebas dan digunakan untuk enkripsi adalah ....",
+    "pilihan": {
+      "A": "Private key",
+      "B": "Public key",
+      "C": "Secret key",
+      "D": "Session key"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Fungsi hash satu arah (one-way hash function) biasanya digunakan untuk menjaga aspek keamanan ....",
+    "pilihan": {
+      "A": "Confidentiality",
+      "B": "Integrity",
+      "C": "Availability",
+      "D": "Non-repudiation"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Tanda tangan digital (digital signature) digunakan untuk memastikan aspek keamanan berikut, kecuali ....",
+    "pilihan": {
+      "A": "Authentication",
+      "B": "Data Integrity",
+      "C": "Non-repudiation",
+      "D": "Availability"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Protokol keamanan yang sering digunakan untuk mengamankan transaksi web (HTTP) adalah ....",
+    "pilihan": {
+      "A": "IPsec",
+      "B": "SSL/TLS",
+      "C": "SSH",
+      "D": "PGP"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Virtual Private Network (VPN) menggunakan teknik tunneling dan enkripsi untuk mengamankan komunikasi data. Protokol yang umum digunakan untuk VPN adalah ....",
+    "pilihan": {
+      "A": "IPsec",
+      "B": "SSL/TLS",
+      "C": "SSH",
+      "D": "HTTPS"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Ilmu dan seni menyembunyikan pesan rahasia di dalam media lain (seperti gambar, audio, atau video) sehingga keberadaannya tidak disadari disebut ....",
+    "pilihan": {
+      "A": "Kriptografi",
+      "B": "Kriptanalisis",
+      "C": "Steganografi",
+      "D": "Watermarking"
+    },
+    "jawaban": "C"
+  }
+]

@@ -1,0 +1,88 @@
+body { 
+    background-color: #f4f7f9 !important; 
+}
+
+/* Kompensasi padding navbar fixed-top */
+.content-wrapper {
+    padding-top: calc(env(safe-area-inset-top) + 110px) !important;
+    min-height: 85vh;
+}
+
+/* Kustomisasi Kartu Metrik Admin Premium */
+.metric-card {
+    border: none;
+    border-radius: 20px;
+    color: white;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
+
+.metric-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%);
+    z-index: -1;
+}
+
+.metric-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+.metric-icon {
+    font-size: 4rem;
+    position: absolute;
+    right: -5px;
+    bottom: -20px;
+    opacity: 0.2;
+    transform: rotate(-15deg);
+    transition: all 0.4s ease;
+}
+
+.metric-card:hover .metric-icon {
+    transform: rotate(0deg) scale(1.1);
+    opacity: 0.3;
+}
+
+.metric-value {
+    font-size: 2.8rem;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 5px;
+    letter-spacing: -1px;
+}
+
+/* Override warna bg-primary dll untuk dasbor agar lebih premium */
+.bg-gradient-primary { background: linear-gradient(135deg, #4f46e5 0%, #3730a3 100%); }
+.bg-gradient-success { background: linear-gradient(135deg, #10b981 0%, #047857 100%); }
+.bg-gradient-warning { background: linear-gradient(135deg, #f59e0b 0%, #b45309 100%); color: white !important; }
+.bg-gradient-danger  { background: linear-gradient(135deg, #ef4444 0%, #b91c1c 100%); }
+
+/* Metric Titles */
+.metric-title {
+    letter-spacing: 1px;
+}
+
+/* Chart Cards */
+.chart-card {
+    border-radius: 16px;
+}
+.chart-canvas {
+    max-height: 300px;
+}
+.chart-canvas-full {
+    max-height: 300px;
+    width: 100%;
+}
+
+/* Saran Items */
+.saran-badge {
+    font-size: 0.65rem;
+}
+.saran-text {
+    font-size: 0.85rem;
+    line-height: 1.4;
+}

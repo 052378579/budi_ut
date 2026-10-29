@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "kode_bmp": "STS14202",
+    "nama_mk": "Rekayasa Perangkat Lunak",
+    "nama_modul": "Ujian Online Uraian",
+    "skema_soal": "E",
+    "tgl_dibuat": "27/06/2026"
+  },
+  "tes_formatif": [
+    {
+      "no": 1,
+      "pertanyaan": "Untuk memastikan perangkat lunak yang dikembangkan memiliki kualitas yang dikembangkan berjalan dengan baik maka tim SQA harus mampu menjawab beberapa permasalahan yang mungkin akan di alami oleh penggunanya. Sebutkan dan jelaskan permasalahan apa saja yang harus digali oleh tim SQA dalam melaksanakan tugasnya?",
+      "pilihan": null,
+      "jawaban": "Skor 20"
+    },
+    {
+      "no": 2,
+      "pertanyaan": "Dalam pengembangan perangkat lunak yang baik tentunya tidak akan lepas dari dokumentasi produk yang nantinya akan dikirim ke kostumer atau digunakan oleh user. Coba Anda analisa perbedaan antara Dokumentasi deskripsi fungsi dari perangkat lunak (functional description) dengan Dokumentasi petunjuk pengenalan (introductory manual).",
+      "pilihan": null,
+      "jawaban": "Skor 20"
+    },
+    {
+      "no": 3,
+      "pertanyaan": "Sebuah aplikasi manajemen knowledge berbasis web akan dikembangkan oleh satu program studi di UT. Aplikasi manajemen knowledge merupakan aplikasi yang digunakan untuk menyimpan file atau dokumen digital. Pada aplikasi tersebut terdapat user yaitu pengguna dan administrator, pengguna dapat melakukan fungsionalitas preview file, note file, pencarian file, dan mendownload file. Sedangkan administrator dapat melakukan fungsionalitas seperti pengguna namun ditambahkan akses upload data, edit data, edit folder, dan edit kategori. Buatkan use case dari kasus diatas!",
+      "pilihan": null,
+      "jawaban": "Skor 30"
+    },
+    {
+      "no": 4,
+      "pertanyaan": "Buatlah DFD level 1 untuk kasus dibawah ini: Sebuah klien ingin membuat sistem peminjaman kendaraan yang terdiri dari customer dan manajer. Proses bisnis dari sistem ini sebagai berikut: Customer dapat meminjam kendaraan dan mendapat kan tagihannya. Setiap kendaraan yang dipinjamkan akan dicek terlebih dahulu ketersediaannya di database kendaraan setelah itu dicatat dalam basisdata peminjaman. Ketika custumer mengembalikan pinjaman kendaraannya maka akan mendapatkan bukti pengembalian kendaraan. Setiap data pengembalian kendaraan akan diupdate pada basis data peminjaman dan basis data kendaraan. Manajer dapat membuat laporan peminjaman kendaraan yang berasal dari basis data peminjaman.",
+      "pilihan": null,
+      "jawaban": "Skor 30"
+    }
+  ]
+}

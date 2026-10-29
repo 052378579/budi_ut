@@ -1,0 +1,24 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Tuliskan deskripsi pertanyaan pertama di sini....",
+    "pilihan": {
+      "A": "Teks untuk opsi A",
+      "B": "Teks untuk opsi B",
+      "C": "Teks untuk opsi C",
+      "D": "Teks untuk opsi D"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Tuliskan deskripsi pertanyaan kedua di sini....",
+    "pilihan": {
+      "A": "Teks untuk opsi A",
+      "B": "Teks untuk opsi B",
+      "C": "Teks untuk opsi C",
+      "D": "Teks untuk opsi D"
+    },
+    "jawaban": "C"
+  }
+]

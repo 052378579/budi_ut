@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Mengomunikasikan tahapan-tahapan yang harus dilakukan suatu organisasi agar visi dapat tercapai adalah",
+    "pilihan": {
+      "A": "visi",
+      "B": "misi",
+      "C": "tujuan",
+      "D": "strategi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Pernyataan tujuan yang relatif mampu diukur dan dicapai adalah ....",
+    "pilihan": {
+      "A": "terbuka",
+      "B": "tertutup",
+      "C": "fleksibel",
+      "D": "dinamis"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Membentuk kemitraan dengan 10 perusahaan rantai pasok utama merupakan contoh indikator kinerja dari tujuan",
+    "pilihan": {
+      "A": "mempertahankan pelanggan yang sudah ada",
+      "B": "meningkatkan pangsa pasar",
+      "C": "meningkatkan pendapatan dari program pemasaran yang baru",
+      "D": "meningkatkan efisiensi pada sistem rantai pasok"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Pada proses perumusan strategi, tool yang dapat digunakan untuk mengidentifikasi isu-isu strategis utama yang dapat dimanfaatkan dalam memperoleh perhatian dan peringkat prioritas adalah",
+    "pilihan": {
+      "A": "SWOT analysis",
+      "B": "value chain analysis",
+      "C": "Porter's Five forces analysis",
+      "D": "Generic strategy analysis"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Berikut merupakan elemen dari strategi generik, kecuali ....",
+    "pilihan": {
+      "A": "fokus",
+      "B": "kepemimpinan biaya",
+      "C": "kepemimpinan keuntungan",
+      "D": "diferensiasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Menciptakan produk dengan menggunakan teknologi unggul merupakan salah satu contoh penerapan strategi ....",
+    "pilihan": {
+      "A": "fokus",
+      "B": "kepemimpinan biaya",
+      "C": "kepemimpinan keuntungan",
+      "D": "diferensiasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Penurunan biaya produksi rata-rata per unit akibat meningkatnya volume produksi adalah teori",
+    "pilihan": {
+      "A": "fokus",
+      "B": "skala ekonomis",
+      "C": "diferensiasi",
+      "D": "kepemimpinan biaya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Informasi tentang lingkungan kompetitif yang dihadapi perusahaan dalam sektor industri dapat dipelajari melalui ....",
+    "pilihan": {
+      "A": "SWOT analysis",
+      "B": "value chain analysis",
+      "C": "Porter's five forces analysis",
+      "D": "generic strategy analysis"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Aktivitas utama yang terdapat pada model rantai nilai meliputi",
+    "pilihan": {
+      "A": "inbound & outbond logistic, operation, sales & marketing, service",
+      "B": "inbound & outbond logistic, human resource management, sales & marketing, service",
+      "C": "firm infrastructure, operation, sales & marketing, service",
+      "D": "inbound & outbond logistic, operation, sales & marketing, information technology"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Aktivitas pendukung yang terdapat pada model rantai nilai meliputi ....",
+    "pilihan": {
+      "A": "firm infrastructure, technology development, inbound logistic, human resource management",
+      "B": "firm infrastructure, technology development, procurement, human resource management",
+      "C": "service, technology development, procurement, human resource management",
+      "D": "firm infrastructure, outbond logistic, procurement, human resource management"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Jenis kontrol yang digunakan untuk menentukan kesesuaian antara tujuan perusahaan dan strategi yang dipilih adalah",
+    "pilihan": {
+      "A": "perilaku",
+      "B": "informasi",
+      "C": "formulasi",
+      "D": "evaluasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Proses pembelajaran organisasi terkait dengan elemen berikut, kecuali ....",
+    "pilihan": {
+      "A": "kepemimpinan",
+      "B": "biaya",
+      "C": "struktur organisasi",
+      "D": "budaya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Faktor yang menentukan budaya organisasi adalah",
+    "pilihan": {
+      "A": "motivasi dan moral pekerja",
+      "B": "kualitas kerja dan output",
+      "C": "sikap, kepercayaan dan nilai-nilai pekerja",
+      "D": "historis yang ditetapkan oleh generasi sebelumnya"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Budaya organisasi berpengaruh terhadap",
+    "pilihan": {
+      "A": "inovasi, kreativitas, dan berbagi pengetahuan",
+      "B": "historis yang ditetapkan oleh generasi sebelumnya",
+      "C": "lokasi geografis: karakteristik nasional dan regional",
+      "D": "pendirian organisasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Suatu perusahaan yang terdiri dari Bagian Logistik, Keuangan, Pemasaran, Produksi, merupakan penerapan struktur organisasi jenis ....",
+    "pilihan": {
+      "A": "matriks",
+      "B": "divisional",
+      "C": "fungsional",
+      "D": "hybrid"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Tingkat strategi yang mendefinisikan cara bersaing di pasar adalah Strategi tingkat ....",
+    "pilihan": {
+      "A": "perusahaan",
+      "B": "regional",
+      "C": "operasional",
+      "D": "unit bisnis"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Informasi dan teknologi dapat digunakan untuk berinovasi merupakan metode ....",
+    "pilihan": {
+      "A": "penambahan nilai",
+      "B": "membuat realitas baru",
+      "C": "mengelola risiko",
+      "D": "pengurangan biaya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Anggota dari suatu unit kerja fungsional mengerjakan kegiatan proyek dari organisasi tersebut, hal tersebut berarti bahwa perusahaan tersebut menerapkan struktur organisasi",
+    "pilihan": {
+      "A": "fungsional",
+      "B": "divisional",
+      "C": "matriks",
+      "D": "hybrid"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Perusahaan menyediakan peraturan dan prosedur untuk mencapai tujuan, kebijakan tersebut merupakan penerapan kontrol",
+    "pilihan": {
+      "A": "perilaku",
+      "B": "informasi",
+      "C": "formulasi",
+      "D": "evaluasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Berikut ini merupakan elemen kunci dari pembelajaran organisasi ....",
+    "pilihan": {
+      "A": "change management, empower workers, embrace change",
+      "B": "sharing knowledge, empower workers, embrace change",
+      "C": "sharing knowledge, change management, embrace change",
+      "D": "sharing knowledge, empower workers, sharing cost"
+    },
+    "jawaban": "B"
+  }
+]

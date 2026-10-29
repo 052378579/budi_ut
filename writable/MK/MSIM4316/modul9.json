@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Pendekatan terstruktur dalam pemeliharaan jaringan memiliki beberapa keuntungan berikut, *kecuali* ....",
+    "pilihan": {
+      "A": "mengurangi downtime jaringan",
+      "B": "menghemat biaya",
+      "C": "meningkatkan keamanan",
+      "D": "meningkatkan MTTR jaringan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Upaya untuk mencegah kerusakan dan insiden yang berulang sehingga *downtime* jaringan dapat diminimalisasi merupakan kategori .......... dalam pemeliharaan jaringan.",
+    "pilihan": {
+      "A": "fault management",
+      "B": "configuration management",
+      "C": "accounting management",
+      "D": "performance management"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Mekanisme yang fokus pada upaya memaksimalkan *throughput* adalah ....",
+    "pilihan": {
+      "A": "fault management",
+      "B": "configuration management",
+      "C": "accounting management",
+      "D": "performance management"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Elemen dari dokumentasi jaringan meliputi hal-hal berikut, *kecuali* ....",
+    "pilihan": {
+      "A": "topologi jaringan",
+      "B": "konfigurasi jaringan",
+      "C": "daftar harga perangkat",
+      "D": "daftar alamat IP"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Proses membandingkan gejala dan pengetahuan tentang sistem, untuk memisahkan perilaku normal dari perilaku abnormal merupakan elemen *troubleshooting* ....",
+    "pilihan": {
+      "A": "mengumpulkan informasi",
+      "B": "menganlisis informasi",
+      "C": "merumuskan hipotesis",
+      "D": "menguji hipotesis"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut merupakan metode *troubleshooting* yang biasa digunakan, *kecuali* ....",
+    "pilihan": {
+      "A": "bottom up",
+      "B": "top down",
+      "C": "follow the problem",
+      "D": "divide & conquer"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Metode *troubleshooting* yang biasa dimulai pada lapisan *network* adalah ....",
+    "pilihan": {
+      "A": "bottom up",
+      "B": "top down",
+      "C": "divide & conquer",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Pendekatan *troubleshooting* yang dapat menunjukkan masalah dengan berfokus pada perbedaan antara konfigurasi perangkat adalah ....",
+    "pilihan": {
+      "A": "spot the differences",
+      "B": "top down",
+      "C": "divide & conquer",
+      "D": "move the problem"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut merupakan tugas-tugas dalam *troubleshooting*, *kecuali* ....",
+    "pilihan": {
+      "A": "mengumpulkan solusi",
+      "B": "menganalisis informasi",
+      "C": "merumuskan hipotesis",
+      "D": "menguji hipotesis"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Berikut merupakan prosedur pemeliharaan yang merupakan turunan dari kategori *performance management*, *kecuali* ....",
+    "pilihan": {
+      "A": "prosedur *backup* secara manual",
+      "B": "prosedur *backup* secara terjadwal",
+      "C": "prosedur pengukuran *throughput* jaringan",
+      "D": "prosedur mengonfigurasi *router*"
+    },
+    "jawaban": "C"
+  }
+]

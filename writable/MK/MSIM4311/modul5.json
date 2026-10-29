@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut merupakan hambatan bagi pendatang (pelaku bisnis) baru, kecuali ....",
+    "pilihan": {
+      "A": "loyalitas pelanggan",
+      "B": "biaya peralihan produk",
+      "C": "modal yang besar",
+      "D": "kebijakan pemerintah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut ini merupakan strategi generik Porter, kecuali ....",
+    "pilihan": {
+      "A": "diferensiasi",
+      "B": "fokus biaya",
+      "C": "keunggulan biaya",
+      "D": "fokus pesaing"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Karakteristik strategi keunggulan biaya adalah ....",
+    "pilihan": {
+      "A": "menyediakan produk dengan harga ekonomis dengan cara mengelola biaya dalam setiap aspek",
+      "B": "menciptakan nilai bagi konsumen dengan menghasilkan produk yang berkualitas",
+      "C": "menyediakan fitur-fitur yang menyebabkan konsumen bersedia membayar dengan harga yang lebih tinggi",
+      "D": "produk cenderung dibuat khusus untuk segmen tertentu"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Karakteristik strategi fokus adalah ....",
+    "pilihan": {
+      "A": "menyediakan produk dengan harga ekonomis dengan cara mengelola biaya dalam setiap aspek",
+      "B": "menciptakan nilai bagi konsumen dengan menghasilkan produk yang berkualitas",
+      "C": "menyediakan fitur-fitur yang menyebabkan konsumen bersedia membayar dengan harga yang lebih tinggi",
+      "D": "produk cenderung dibuat khusus untuk segmen tertentu"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Strategi ini tidak optimal jika imitasi terhadap barang tersebut dapat dengan mudah dan cepat dilakukan, strategi tersebut adalah ....",
+    "pilihan": {
+      "A": "keunggulan biaya",
+      "B": "fokus",
+      "C": "diferensiasi",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Rivalitas tinggi ketika terdapat kondisi berikut, kecuali ....",
+    "pilihan": {
+      "A": "konsumen dapat dengan mudah beralih ke penawaran pesaing dengan biaya rendah",
+      "B": "pertumbuhan industri yang cepat",
+      "C": "terdapat banyak pesaing memiliki ukuran dan kekuatan yang sama",
+      "D": "pertumbuhan industri yang lambat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Anda sebagai konsumen kopi, dikarenakan pendapatan Anda berkurang sehingga Anda mengganti jenis minuman Anda menjadi teh. Kondisi tersebut bagi pengusaha kuliner minuman kopi khususnya merupakan salah satu bentuk ancaman yang perlu diperhatikan, termasuk bentuk ancaman apa kondisi tersebut ....",
+    "pilihan": {
+      "A": "bargaining power of suppliers",
+      "B": "bargaining power of buyers",
+      "C": "threat of substitutes",
+      "D": "threat of new entrance"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Entitas yang merupakan input penting bagi industri adalah ....",
+    "pilihan": {
+      "A": "pemasok",
+      "B": "pemerintah",
+      "C": "pembeli",
+      "D": "jawaban A, B, dan C benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Jika jumlah pembeli lebih sedikit dibanding dengan jumlah penjual akan berakibat ......",
+    "pilihan": {
+      "A": "meningkatkan daya tawar bagi pembeli",
+      "B": "meningkatkan daya tawar bagi penjual",
+      "C": "menurunkan daya tawar bagi pembeli",
+      "D": "tidak mempengaruhi daya tawar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Investasi awal yang diperlukan untuk memulai suatu perusahaan penerbangan termasuk ....",
+    "pilihan": {
+      "A": "bargaining power of suppliers",
+      "B": "bargaining power of buyers",
+      "C": "threat of substitutes",
+      "D": "threat of new entrance"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Balanced scorecard merupakan suatu metode yang digunakan untuk melakukan pengukuran dan penilaian kinerja berdasarkan perspektif berikut, kecuali ....",
+    "pilihan": {
+      "A": "finansial",
+      "B": "proses bisnis eksternal",
+      "C": "pelanggan",
+      "D": "proses bisnis internal"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Kegiatan mengukur berbagai aktivitas dalam rantai nilai perusahaan dapat menggunakan kerangka kerja ....",
+    "pilihan": {
+      "A": "Five Force Porter",
+      "B": "Zachman",
+      "C": "Balanced scorecard",
+      "D": "McFarlan Grid"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Kategori utama untuk perspektif pembelajaran dan pertumbuhan adalah ....",
+    "pilihan": {
+      "A": "kapabilitas pekerja",
+      "B": "proses inovasi",
+      "C": "kepuasan pelanggan",
+      "D": "peningkatan produktivitas kerja"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Kategori utama untuk perspektif proses bisnis internal adalah ....",
+    "pilihan": {
+      "A": "kapabilitas pekerja",
+      "B": "proses inovasi",
+      "C": "kepuasan pelanggan",
+      "D": "peningkatan produktivitas kerja"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Mengukur tingkat keberhasilan dalam menarik pelanggan atau bisnis baru termasuk dalam perspektif ....",
+    "pilihan": {
+      "A": "finansial",
+      "B": "proses bisnis eksternal",
+      "C": "pelanggan",
+      "D": "proses bisnis internal"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Dalam perspektif proses bisnis internal, bentuk layanan kepada pelanggan dengan memberi garansi dan berbagai aktifitas perbaikan produk yang rusak, termasuk dalam proses ....",
+    "pilihan": {
+      "A": "inovasi",
+      "B": "purna jual",
+      "C": "operasi",
+      "D": "kepuasan pelanggan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Tujuan finansial suatu perusahaan adalah memperoleh pertumbuhan berikut, kecuali ....",
+    "pilihan": {
+      "A": "pendapatan",
+      "B": "penjualan",
+      "C": "pelanggan baru",
+      "D": "pekerja baru"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berikut merupakan aktivitas Balanced Scorecard dalam mendukung perencanaan bisnis, kecuali ....",
+    "pilihan": {
+      "A": "menetapkan sasaran",
+      "B": "mengalokasikan sumber daya",
+      "C": "mengaitkan penghargaan dengan hasil kinerja",
+      "D": "menyelaraskan tindakan strategis"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Konsep keseimbangan dalam Balanced Scorecard mencakup area keseimbangan ....",
+    "pilihan": {
+      "A": "antara indikator keuangan dan nonkeuangan",
+      "B": "antara barang dan jasa",
+      "C": "antara pelanggan dan penjual",
+      "D": "antara pekerja dan barang"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Untuk mencapai visi yang diharapkan, perspektif pelanggan pada Balanced Scorecard adalah ....",
+    "pilihan": {
+      "A": "berupaya untuk memberi nilai tambah bagi pelanggan melalui layanan dan produk",
+      "B": "berupaya untuk memenuhi harapan finansial pemangku kepentingan",
+      "C": "berupaya untuk memenuhi kebutuhan pelanggan melalui akselerasi proses bisnis sehingga efektif dan efisien",
+      "D": "berupaya untuk menjaga kemampuan untuk berubah dan berkembang menjadi lebih baik"
+    },
+    "jawaban": "A"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Bentuk penulisan variabel yang benar adalah ....",
+    "pilihan": {
+      "A": "Int byvalue = ‘20’;",
+      "B": "Char case = budi;",
+      "C": "Char caseif = “budi”",
+      "D": "Boolean A= true;"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut ini yang merupakan invalid variable dalam Java adalah ....",
+    "pilihan": {
+      "A": "$char.",
+      "B": "1MyNumber_int.",
+      "C": "case.",
+      "D": "int."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Statement berikut ini tidak akan menghasilkan kesalahan saat di compile adalah ....",
+    "pilihan": {
+      "A": "Char my_car = “c”;",
+      "B": "Char your_char = “int”;",
+      "C": "char what =”Hello”;",
+      "D": "char what_char = “L”;"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berikut ini adalah penulisan identifier yang salah ....",
+    "pilihan": {
+      "A": "123nama;",
+      "B": "BIGinterface;",
+      "C": "footbar;",
+      "D": "$incomeAfterExpenses;"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Berikut ini penulisan identifier yang benar ....",
+    "pilihan": {
+      "A": "Int !Satu;",
+      "B": "Int dua@;",
+      "C": "int b32;",
+      "D": "int ti#ga;"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Deklarasi berikut yang bukan termasuk tipe data primitive adalah ....",
+    "pilihan": {
+      "A": "String",
+      "B": "Boolean",
+      "C": "Char",
+      "D": "Float"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Float merupakan jenis tipe data ....",
+    "pilihan": {
+      "A": "primitive",
+      "B": "referensi",
+      "C": "pecahan",
+      "D": "desimal"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Tanda &= merupakan operator ....",
+    "pilihan": {
+      "A": "pembanding",
+      "B": "kondisional",
+      "C": "penugasan",
+      "D": "logika"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Untuk menyimpan data NIM mahasiswa, tipe data yang paling tepat digunakan adalah ....",
+    "pilihan": {
+      "A": "Boolean",
+      "B": "Short",
+      "C": "String",
+      "D": "Int"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Berikut ini adalah keyword yang terdapat dalam Java, kecuali ....",
+    "pilihan": {
+      "A": "Go to",
+      "B": "Break",
+      "C": "If",
+      "D": "String"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Method yang digunakan untuk mengubah seluruh huruf dalam string menjadi huruf besar/kapital adalah ....",
+    "pilihan": {
+      "A": "UpperCase()",
+      "B": "toUperCase()",
+      "C": "toUpperCase()",
+      "D": "isUpperCase()"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Apa yang akan tercetak dari hasil penggalan program berikut ini.\nint All;\nint a=2, b=3, c=6, d=5;\nAll = b * d - c / a + b;\nSystem.out.print (“All:”+All);",
+    "pilihan": {
+      "A": "All:14",
+      "B": "All:10",
+      "C": "All: 15",
+      "D": "All: 9"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Perhatikan statement berikut.\n1. Int satuAwal = 5;\n2. Final boolean BW = true;\n3. Char k = “T”;\n4. String w=”123”;\nBaris statement yang tidak valid terdapat pada nomor ....",
+    "pilihan": {
+      "A": "1 dan 2",
+      "B": "3 dan 4",
+      "C": "2 dan 3",
+      "D": "2 dan 4"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Fungsi method system.in dalam Java adalah ....",
+    "pilihan": {
+      "A": "mengirimkan keluaran ke layar",
+      "B": "menangani pembacaan dari keyboard",
+      "C": "menampilkan pesan kesalahan",
+      "D": "menangani suatu object"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Diantara perintah untuk mencetak berikut, yang benar adalah ....",
+    "pilihan": {
+      "A": "System.out.println(“Hello world”); cek",
+      "B": "System.Out.println(“Hello world ”);<br>",
+      "C": "System.out.Println(“Hello world ”);<br>",
+      "D": "System.Out.Println(Hello world ”);"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Berikut adalah penamaan class pada Java yang diperbolehkan, kecuali ....",
+    "pilihan": {
+      "A": "3_One",
+      "B": "O_3ne",
+      "C": "S13h",
+      "D": "B3_Ta"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Suatu method yang dapat dijalankan otomatis pada saat object dari class dibuat, dikenal dengan ....",
+    "pilihan": {
+      "A": "Constructor",
+      "B": "Initializer",
+      "C": "Garbage Collector",
+      "D": "Inheritance"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berikut ini pernyataan yang benar berhubungan dengan class dan object dalam Java, kecuali ....",
+    "pilihan": {
+      "A": "Setiap class dapat mengandung beberapa method sekaligus",
+      "B": "Object merupakan instance dari class",
+      "C": "Object terdiri dari keyword dan method",
+      "D": "Class merupakan pendefinisian dari object"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Komentar program dalam Java dapat menggunakan perintah ....",
+    "pilihan": {
+      "A": "/*...*/ saja",
+      "B": "// saja",
+      "C": "// dan /*..*/",
+      "D": "#, // dan /*..*/"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Paket yang dapat digunakan untuk membuat program menggunakan class BufferedReader adalah ....",
+    "pilihan": {
+      "A": "Java.io.*",
+      "B": "Java.lang.*",
+      "C": "Java.swing.*",
+      "D": "semua benar"
+    },
+    "jawaban": "A"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Model layanan komputasi awan yang menyediakan infrastruktur TI seperti server, ruang penyimpanan, dan jaringan adalah ....",
+    "pilihan": {
+      "A": "SaaS (Software as a Service)",
+      "B": "PaaS (Platform as a Service)",
+      "C": "IaaS (Infrastructure as a Service)",
+      "D": "DaaS (Data as a Service)"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Karakteristik komputasi awan di mana pengguna dapat mengakses layanan kapan saja dari berbagai perangkat melalui jaringan internet disebut ....",
+    "pilihan": {
+      "A": "On-demand self-service",
+      "B": "Broad network access",
+      "C": "Resource pooling",
+      "D": "Rapid elasticity"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut ini adalah keuntungan utama menggunakan layanan cloud computing bagi perusahaan, kecuali ....",
+    "pilihan": {
+      "A": "Mengurangi biaya pengadaan perangkat keras (Capital Expenditure)",
+      "B": "Skalabilitas yang tinggi sesuai dengan kebutuhan operasional",
+      "C": "Mengharuskan perusahaan merekrut lebih banyak staf teknisi hardware",
+      "D": "Akses data dan aplikasi yang fleksibel dari mana saja"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Layanan Google Workspace (sebelumnya G Suite) dan Microsoft 365 merupakan contoh dari model layanan cloud ....",
+    "pilihan": {
+      "A": "IaaS",
+      "B": "PaaS",
+      "C": "SaaS",
+      "D": "BaaS"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Deployment model cloud yang dioperasikan secara eksklusif untuk satu organisasi tunggal disebut ....",
+    "pilihan": {
+      "A": "Public Cloud",
+      "B": "Private Cloud",
+      "C": "Community Cloud",
+      "D": "Hybrid Cloud"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kombinasi antara infrastruktur Private Cloud dan Public Cloud, di mana data dan aplikasi dapat dipindahkan di antara keduanya, disebut ....",
+    "pilihan": {
+      "A": "Public Cloud",
+      "B": "Private Cloud",
+      "C": "Community Cloud",
+      "D": "Hybrid Cloud"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Kemampuan cloud computing untuk dengan cepat menambah atau mengurangi sumber daya komputasi (seperti CPU, RAM, atau storage) secara otomatis sesuai beban kerja disebut ....",
+    "pilihan": {
+      "A": "Resource pooling",
+      "B": "Measured service",
+      "C": "Rapid elasticity",
+      "D": "On-demand self-service"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Amazon Web Services (AWS) EC2 dan Google Compute Engine (GCE) adalah produk yang merepresentasikan layanan ....",
+    "pilihan": {
+      "A": "IaaS",
+      "B": "PaaS",
+      "C": "SaaS",
+      "D": "FaaS"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Salah satu tantangan atau risiko utama dalam mengadopsi cloud computing bagi sebuah organisasi adalah ....",
+    "pilihan": {
+      "A": "Kecepatan deployment aplikasi",
+      "B": "Keamanan dan privasi data yang dikelola oleh pihak ketiga",
+      "C": "Biaya operasional yang menjadi lebih transparan",
+      "D": "Kemudahan akses oleh karyawan secara remote"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Karakteristik cloud computing yang memungkinkan penyedia layanan memantau, mengontrol, dan melaporkan penggunaan sumber daya secara transparan kepada pengguna disebut ....",
+    "pilihan": {
+      "A": "Broad network access",
+      "B": "Rapid elasticity",
+      "C": "Measured service",
+      "D": "Resource pooling"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Virtualisasi merupakan teknologi fundamental yang memungkinkan berjalannya cloud computing. Perangkat lunak yang berfungsi membuat dan menjalankan mesin virtual (VM) disebut ....",
+    "pilihan": {
+      "A": "Hypervisor",
+      "B": "Emulator",
+      "C": "Simulator",
+      "D": "Compiler"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Hypervisor tipe 1 (Bare-metal) berjalan langsung di atas ....",
+    "pilihan": {
+      "A": "Sistem Operasi Host",
+      "B": "Perangkat Keras (Hardware) fisik",
+      "C": "Sistem Operasi Guest",
+      "D": "Aplikasi Web Browser"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Berikut ini adalah contoh perangkat lunak Hypervisor tipe 2 (Hosted Hypervisor), kecuali ....",
+    "pilihan": {
+      "A": "VMware Workstation",
+      "B": "Oracle VirtualBox",
+      "C": "VMware ESXi",
+      "D": "Parallels Desktop"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Sebuah wadah terisolasi yang mengemas aplikasi beserta seluruh dependensinya agar dapat berjalan konsisten di berbagai lingkungan komputasi disebut ....",
+    "pilihan": {
+      "A": "Virtual Machine",
+      "B": "Container",
+      "C": "Hypervisor",
+      "D": "Vagrant"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Perbedaan utama antara Virtual Machine (VM) dan Container adalah ....",
+    "pilihan": {
+      "A": "VM berbagi kernel OS host, sedangkan Container memiliki kernel OS sendiri.",
+      "B": "Container memiliki OS Guest sendiri yang berat, sedangkan VM sangat ringan.",
+      "C": "VM membutuhkan Hypervisor dan memiliki OS Guest sendiri, sedangkan Container berbagi kernel OS host tanpa memerlukan OS Guest.",
+      "D": "Tidak ada perbedaan, keduanya adalah teknologi yang persis sama."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Platform perangkat lunak open-source yang sangat populer digunakan untuk mengelola dan menjalankan aplikasi berbasis container adalah ....",
+    "pilihan": {
+      "A": "VMware",
+      "B": "VirtualBox",
+      "C": "Docker",
+      "D": "OpenStack"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Sistem orkestrasi container open-source yang digunakan untuk mengotomatisasi deployment, penskalaan, dan manajemen aplikasi berbasis container adalah ....",
+    "pilihan": {
+      "A": "Jenkins",
+      "B": "Kubernetes",
+      "C": "Git",
+      "D": "Ansible"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Kelebihan utama menggunakan arsitektur microservices yang dijalankan di dalam container dibandingkan arsitektur monolitik adalah ....",
+    "pilihan": {
+      "A": "Lebih mudah diskalakan dan diperbarui per komponen tanpa mengganggu seluruh aplikasi",
+      "B": "Membutuhkan spesifikasi hardware yang jauh lebih besar",
+      "C": "Sangat bergantung pada satu bahasa pemrograman tunggal",
+      "D": "Sulit untuk dikelola oleh tim developer yang berbeda"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Proses pencadangan data dari server fisik atau virtual ke lingkungan penyimpanan cloud untuk tujuan pemulihan bencana (Disaster Recovery) merupakan penerapan dari ....",
+    "pilihan": {
+      "A": "Cloud Storage & Backup",
+      "B": "Cloud Computing Networking",
+      "C": "Platform as a Service",
+      "D": "Software as a Service"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Dalam ekosistem Docker, file teks yang berisi serangkaian instruksi untuk membangun sebuah Docker image disebut ....",
+    "pilihan": {
+      "A": "Docker-compose.yml",
+      "B": "Dockerfile",
+      "C": "Image.tar",
+      "D": "Container.cfg"
+    },
+    "jawaban": "B"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Pengujian perangkat lunak yang berfokus pada fungsionalitas aplikasi tanpa melihat struktur kode internal disebut ....",
+    "pilihan": {
+      "A": "White Box Testing",
+      "B": "Black Box Testing",
+      "C": "Gray Box Testing",
+      "D": "Glass Box Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Salah satu teknik pengujian Black Box di mana nilai input dibagi menjadi kelompok-kelompok yang valid dan tidak valid adalah ....",
+    "pilihan": {
+      "A": "Equivalence Partitioning",
+      "B": "Boundary Value Analysis",
+      "C": "Decision Table Testing",
+      "D": "State Transition Testing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Teknik pengujian yang secara khusus menguji nilai-nilai di batas ekstrem (minimum dan maksimum) dari rentang input yang diizinkan adalah ....",
+    "pilihan": {
+      "A": "Equivalence Partitioning",
+      "B": "Boundary Value Analysis",
+      "C": "Orthogonal Array Testing",
+      "D": "Use Case Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Pengujian yang dilakukan oleh pengguna akhir (end-user) untuk memvalidasi apakah sistem sudah memenuhi kebutuhan bisnis mereka disebut ....",
+    "pilihan": {
+      "A": "Unit Testing",
+      "B": "Integration Testing",
+      "C": "System Testing",
+      "D": "User Acceptance Testing (UAT)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Pengujian yang bertujuan untuk memastikan bahwa komponen-komponen individual perangkat lunak (seperti fungsi atau method) berjalan dengan benar adalah ....",
+    "pilihan": {
+      "A": "Unit Testing",
+      "B": "Integration Testing",
+      "C": "System Testing",
+      "D": "Acceptance Testing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Tahap pengujian di mana beberapa modul atau komponen yang sudah diuji secara unit digabungkan dan diuji interaksinya adalah ....",
+    "pilihan": {
+      "A": "Unit Testing",
+      "B": "Integration Testing",
+      "C": "System Testing",
+      "D": "Stress Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Model pendekatan integrasi perangkat lunak yang menggabungkan seluruh komponen secara bersamaan sekaligus disebut ....",
+    "pilihan": {
+      "A": "Top-Down Integration",
+      "B": "Bottom-Up Integration",
+      "C": "Big Bang Integration",
+      "D": "Sandwich Integration"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dalam Top-Down Integration Testing, modul pengganti (dummy) yang digunakan untuk menyimulasikan komponen level bawah yang belum selesai disebut ....",
+    "pilihan": {
+      "A": "Driver",
+      "B": "Stub",
+      "C": "Mock",
+      "D": "Spy"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pengujian kinerja (Performance Testing) yang bertujuan untuk melihat bagaimana sistem menangani beban kerja di luar batas normalnya adalah ....",
+    "pilihan": {
+      "A": "Load Testing",
+      "B": "Stress Testing",
+      "C": "Spike Testing",
+      "D": "Endurance Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Proses mengeksekusi perangkat lunak dengan tujuan untuk menemukan kesalahan (bug) disebut ....",
+    "pilihan": {
+      "A": "Debugging",
+      "B": "Testing",
+      "C": "Refactoring",
+      "D": "Compiling"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "White Box Testing juga sering dikenal dengan istilah-istilah di bawah ini, kecuali ....",
+    "pilihan": {
+      "A": "Clear Box Testing",
+      "B": "Glass Box Testing",
+      "C": "Structural Testing",
+      "D": "Behavioral Testing"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Dalam White Box Testing, metrik yang digunakan untuk mengukur persentase baris kode yang dieksekusi selama pengujian disebut ....",
+    "pilihan": {
+      "A": "Statement Coverage",
+      "B": "Branch Coverage",
+      "C": "Path Coverage",
+      "D": "Condition Coverage"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pengujian yang dilakukan setelah adanya perubahan kode atau perbaikan bug untuk memastikan tidak ada fitur lama yang rusak adalah ....",
+    "pilihan": {
+      "A": "Sanity Testing",
+      "B": "Smoke Testing",
+      "C": "Regression Testing",
+      "D": "Alpha Testing"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Istilah untuk menemukan dan memperbaiki penyebab dari suatu bug/error dalam kode sumber disebut ....",
+    "pilihan": {
+      "A": "Testing",
+      "B": "Debugging",
+      "C": "Verification",
+      "D": "Validation"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Fase pengujian Acceptance Testing yang dilakukan oleh tim internal sebelum perangkat lunak dirilis ke publik disebut ....",
+    "pilihan": {
+      "A": "Alpha Testing",
+      "B": "Beta Testing",
+      "C": "Gamma Testing",
+      "D": "Unit Testing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Fase pengujian perangkat lunak yang melibatkan sekelompok pengguna eksternal (publik) untuk mencoba versi pra-rilis disebut ....",
+    "pilihan": {
+      "A": "Alpha Testing",
+      "B": "Beta Testing",
+      "C": "Integration Testing",
+      "D": "System Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Pengujian yang berfokus pada seberapa mudah perangkat lunak dapat digunakan oleh pengguna akhir adalah ....",
+    "pilihan": {
+      "A": "Security Testing",
+      "B": "Usability Testing",
+      "C": "Portability Testing",
+      "D": "Reliability Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Teknik di mana penguji mengeksplorasi aplikasi tanpa skenario pengujian (test case) yang ketat atau dokumentasi sebelumnya disebut ....",
+    "pilihan": {
+      "A": "Scripted Testing",
+      "B": "Automated Testing",
+      "C": "Exploratory Testing",
+      "D": "Regression Testing"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Dokumen yang memuat langkah-langkah spesifik, data input, dan hasil yang diharapkan untuk memverifikasi fitur tertentu disebut ....",
+    "pilihan": {
+      "A": "Test Plan",
+      "B": "Test Scenario",
+      "C": "Test Case",
+      "D": "Defect Report"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Pengujian yang dilakukan untuk memverifikasi bahwa sistem dapat berjalan di berbagai perangkat keras, sistem operasi, dan browser web disebut ....",
+    "pilihan": {
+      "A": "Usability Testing",
+      "B": "Compatibility Testing",
+      "C": "Performance Testing",
+      "D": "Security Testing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Pengujian untuk mengukur waktu respon aplikasi di bawah beban kerja normal dikenal sebagai ....",
+    "pilihan": {
+      "A": "Load Testing",
+      "B": "Stress Testing",
+      "C": "Usability Testing",
+      "D": "Security Testing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Apa perbedaan utama antara Verifikasi dan Validasi dalam siklus pengujian?",
+    "pilihan": {
+      "A": "Verifikasi memeriksa apakah kita membangun produk yang benar, Validasi memeriksa apakah kita membangun produk dengan benar.",
+      "B": "Verifikasi memeriksa apakah kita membangun produk dengan benar, Validasi memeriksa apakah kita membangun produk yang benar.",
+      "C": "Verifikasi dilakukan oleh klien, Validasi oleh developer.",
+      "D": "Keduanya adalah hal yang sama persis."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Model pengembangan perangkat lunak yang pengujiannya dilakukan secara paralel dengan setiap tahap pengembangan (berbentuk seperti huruf V) disebut ....",
+    "pilihan": {
+      "A": "Waterfall Model",
+      "B": "Spiral Model",
+      "C": "V-Model",
+      "D": "Agile Model"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Metodologi pengujian yang sangat adaptif dan berulang-ulang, yang berfokus pada kolaborasi antara tim pengembang dan penguji dalam siklus singkat (sprint) adalah ....",
+    "pilihan": {
+      "A": "Agile Testing",
+      "B": "Waterfall Testing",
+      "C": "V-Model Testing",
+      "D": "Traditional Testing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Kumpulan dari beberapa Test Case yang dirangkai untuk menguji keseluruhan alur kerja dari ujung ke ujung (end-to-end) disebut ....",
+    "pilihan": {
+      "A": "Test Script",
+      "B": "Test Suite",
+      "C": "Test Environment",
+      "D": "Test Plan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Tool pengujian populer yang digunakan untuk melakukan otomasi pengujian pada aplikasi berbasis web adalah ....",
+    "pilihan": {
+      "A": "Selenium",
+      "B": "JMeter",
+      "C": "Postman",
+      "D": "JUnit"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Tool yang umum digunakan untuk menguji fungsionalitas dan performa dari sebuah API (Application Programming Interface) adalah ....",
+    "pilihan": {
+      "A": "Selenium",
+      "B": "Appium",
+      "C": "Postman",
+      "D": "Katalon"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Cacat (defect) yang ditemukan saat perangkat lunak sudah beroperasi di lingkungan produksi pelanggan disebut ....",
+    "pilihan": {
+      "A": "Syntax Error",
+      "B": "Compilation Error",
+      "C": "Production Bug / Escaped Defect",
+      "D": "Logic Error"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Pendekatan pengujian keamanan yang menyimulasikan serangan siber secara nyata terhadap sistem untuk menemukan celah keamanan disebut ....",
+    "pilihan": {
+      "A": "Vulnerability Scanning",
+      "B": "Penetration Testing (Pen Test)",
+      "C": "Risk Assessment",
+      "D": "Security Auditing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Sebuah dokumen ringkasan yang merinci jumlah kasus uji yang berhasil, gagal, dan status keseluruhan dari suatu siklus pengujian disebut ....",
+    "pilihan": {
+      "A": "Test Plan",
+      "B": "Test Case",
+      "C": "Defect Log",
+      "D": "Test Summary Report"
+    },
+    "jawaban": "D"
+  }
+]

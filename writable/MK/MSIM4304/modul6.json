@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Manfaat dari penerapan tata kelola teknologi informasi, adalah",
+    "pilihan": {
+      "A": "mengatur penggunaan teknologi informasi yang selaras dengan organisasi",
+      "B": "mengatur penggunaan teknologi informasi dan tidak perlu selaras dengan organisasi",
+      "C": "mengatur penggunaan teknologi informasi terpisah dengan organisasi",
+      "D": "jawaban A, B dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut merupakan dampak yang dapat ditimbulkan terhadap organisasi jika tata kelola tidak berjalan secara efektif, kecuali",
+    "pilihan": {
+      "A": "tidak berpengaruh terhadap organisasi",
+      "B": "proses akan terganggu akibat kualitas manfaat TI yang rendah",
+      "C": "menimbulkan kerugian bisnis",
+      "D": "biaya menjadi tidak efisien"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut ini merupakan sumber daya teknologi informasi, kecuali",
+    "pilihan": {
+      "A": "aplikasi",
+      "B": "infrastruktur",
+      "C": "manusia",
+      "D": "risiko"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Keuntungan yang diperoleh dengan menggunakan standar model tata kelola teknologi informasi adalah",
+    "pilihan": {
+      "A": "stakeholder mempunyai dasar yang sama dalam melakukan pengelolaan teknologi informasi dan pengukurannya",
+      "B": "penggunaan standar yang sudah ada dan mapan akan sangat efisien",
+      "C": "manajemen tidak dapat berbagi ide dan pengalaman antar organisasi melalui media informasi",
+      "D": "standar menyediakan suatu kerangka kerja yang terstruktur yang mudah dipahami dan diikuti oleh manajemen"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Berikut ini merupakan prinsip dasar tata kelola menurut standar COBIT, kecuali ....",
+    "pilihan": {
+      "A": "memenuhi kebutuhan stakeholder",
+      "B": "menggunakan pendekatan secara menyeluruh",
+      "C": "memberikan solusi teknologi informasi sesuai dengan anggaran",
+      "D": "meliputi seluruh kegiatan perusahaan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut ini yang merupakan model standar tata kelola teknologi informasi, adalah ....",
+    "pilihan": {
+      "A": "COBIT, ITIL, ISO 9001",
+      "B": "ISO 38500, ITIL, COBIT",
+      "C": "ISO 14000, ITIL, COBIT",
+      "D": "ISO 9001, ISO 38500, ISO 14000"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Komponen utama kerangka kerja ITIL V4 adalah",
+    "pilihan": {
+      "A": "nilai, hasil, biaya, dan risiko",
+      "B": "nilai, hasil, biaya, dan manfaat",
+      "C": "biaya, nilai, risiko, dan layanan",
+      "D": "biaya, nilai, manfaat, dan risiko"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Komponen-komponen ITIL V4 adalah",
+    "pilihan": {
+      "A": "service value chain, practice, guiding principles",
+      "B": "governance, continual improvement, service operation",
+      "C": "service value chain, service operation, practice",
+      "D": "governance, continual improvement, service design"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Faktor individual dan kolektif yang mempengaruhi sesuatu agar dapat berjalan atau bekerja adalah",
+    "pilihan": {
+      "A": "reconaisance",
+      "B": "governance",
+      "C": "enabler",
+      "D": "trigger"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Yang termasuk ke dalam kategori enablers, yakni ....",
+    "pilihan": {
+      "A": "sumber daya manusia, keahlian dan kompetensi",
+      "B": "prinsip, kebijakan dan kerangka kerja",
+      "C": "struktur organisasi",
+      "D": "jawab A, B, dan C benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini merupakan aspek-aspek keamanan informasi, kecuali ....",
+    "pilihan": {
+      "A": "kerahasiaan",
+      "B": "ketersediaan",
+      "C": "integrity",
+      "D": "fungsionalitas"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Aspek keamanan informasi yang berhubungan dengan suatu proses untuk melakukan validasi terhadap user credentials adalah ....",
+    "pilihan": {
+      "A": "non repudiation",
+      "B": "availability",
+      "C": "integrity",
+      "D": "authentication"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Sebutkan 3 komponen yang memberikan kontribusi risiko adalah ....",
+    "pilihan": {
+      "A": "asset, ancaman, dan ketersediaan",
+      "B": "ancaman, keutuhan, dan kelemahan",
+      "C": "asset, kelemahan, dan ancaman",
+      "D": "ancaman, asset, dan modifikasi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Sesuatu yang berpotensi untuk merusak sistem pengamanan yang telah diterapkan adalah",
+    "pilihan": {
+      "A": "asset",
+      "B": "ancaman",
+      "C": "risiko",
+      "D": "perimeter"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut ini merupakan bentuk-bentuk serangan terhadap suatu target, kecuali ..",
+    "pilihan": {
+      "A": "Interception",
+      "B": "Fabrication",
+      "C": "Modification",
+      "D": "Developing"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Ancaman terhadap informasi yang dilakukan oleh orang yang tidak berwenang dengan cara menyisipkan objek palsu ke dalam sistem, adalah ....",
+    "pilihan": {
+      "A": "Interception",
+      "B": "Fabrication",
+      "C": "Modification",
+      "D": "Developing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Jenis serangan yang berupaya untuk meniadakan ketersediaan sistem dengan cara membuat sistem menjadi tidak bisa diakses adalah",
+    "pilihan": {
+      "A": "Interception",
+      "B": "Fabrication",
+      "C": "Denial of Service",
+      "D": "Modification"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Teknik mencuri data atau informasi dengan cara melakukan pengintipan, pemantauan dan menganalisis trafik yang melalui media transmisi dari sumber ke tujuan adalah",
+    "pilihan": {
+      "A": "Sniffing",
+      "B": "Web deface",
+      "C": "Denial of Service",
+      "D": "Jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Mengenali dan mencari informasi tentang target tanpa harus berhubungan secara langsung dengan target merupakan aktivitas yang dilakukan pada tahapan apa dalam metodologi serangan adalah",
+    "pilihan": {
+      "A": "reconaisance pasif",
+      "B": "reconaisance aktif",
+      "C": "reconaisance reaktif",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Penerapan teknologi IP security merupakan salah satu pengamanan pada lapisan defense in depth, yakni",
+    "pilihan": {
+      "A": "Host",
+      "B": "Network",
+      "C": "Data",
+      "D": "Aplikasi"
+    },
+    "jawaban": "B"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Salah satu dari tiga elemen manipulasi langsung adalah ....",
+    "pilihan": {
+      "A": "penyajian visual dari obyek yang tidak akan dimanipulasi",
+      "B": "tindakan fisik sebagai pengganti teks masukan",
+      "C": "penyampaian audio yang tidak dimanipulasi",
+      "D": "reaksi langsung yang tidak dapat dilihat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Penggantian perintah yang diketik dengan tindakan menunjuk ke obyek yang diinginkan adalah ....",
+    "pilihan": {
+      "A": "ide utama dari manipulasi langsung",
+      "B": "jenis dari manipulasi langsung",
+      "C": "rangkaian kelompok dari manipulasi langsung",
+      "D": "karakteristik dari manipulasi langsung"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Dua aspek penting pada manipulasi langsung adalah jarak dan ....",
+    "pilihan": {
+      "A": "keterbukaan",
+      "B": "keleluasaan",
+      "C": "keterlibatan",
+      "D": "keterbatasan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Manipulasi program adalah ....",
+    "pilihan": {
+      "A": "cara pengguna mengelola data dalam aplikasi tertentu",
+      "B": "tindakan pengguna yang menghasilkan umpan balik",
+      "C": "tindakan pengguna yang menghasilkan output program",
+      "D": "cara pengguna menggunakan program aplikasi untuk menyelesaikan suatu tugas"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Contoh aplikasi manipulasi isi adalah ....",
+    "pilihan": {
+      "A": "Microsoft Word",
+      "B": "Adobe Photoshop",
+      "C": "PDF Reader",
+      "D": "Mathtype"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Tindakan bertahap pada antarmuka dengan umpan balik segera untuk semua tindakan yang diambil, merupakan salah satu fitur dari antarmuka ....",
+    "pilihan": {
+      "A": "manipulasi langsung",
+      "B": "manipulasi isi",
+      "C": "manipulasi tidak langsung",
+      "D": "manipulasi program"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Fase sebelum pengguna melakukan suatu tindakan, di mana pada fase ini tidak ada sesuatu yang terjadi, merupakan fase ....",
+    "pilihan": {
+      "A": "penghentian",
+      "B": "aktivasi",
+      "C": "evaluasi",
+      "D": "bebas"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Pengolah kata modern yang memberikan kemudahan kepada pengguna untuk mendapatkan hasil cetakan seperti apa yang muncul pada layar tampilan disebut ....",
+    "pilihan": {
+      "A": "editor teks",
+      "B": "kontrol proses",
+      "C": "simulator",
+      "D": "kontrol lalu lintas"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Salah satu keuntungan dari manipulasi langsung adalah ....",
+    "pilihan": {
+      "A": "memerlukan program yang rumit",
+      "B": "sulit untuk dioperasikan",
+      "C": "mengurangi waktu pembelajaran",
+      "D": "menampilkan visual yang tidak diinginkan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Salah satu kerugian dari manipulasi langsung adalah ....",
+    "pilihan": {
+      "A": "mempunyai analogi yang jelas",
+      "B": "memerlukan tampilan grafis berkinerja tinggi",
+      "C": "memerlukan program yang ringan",
+      "D": "memerlukan perancangan tampilan tidak bersyarat"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Kata lain dari peranti penunjuk mouse adalah ....",
+    "pilihan": {
+      "A": "tetikus",
+      "B": "tombol",
+      "C": "tikus",
+      "D": "tetombol"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Jumlah tombol mouse yang dikeluarkan oleh perusahaan Macintosh adalah ....",
+    "pilihan": {
+      "A": "empat",
+      "B": "tiga",
+      "C": "dua",
+      "D": "satu"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Jumlah tombol mouse yang dikeluarkan oleh perusahaan Borland adalah ....",
+    "pilihan": {
+      "A": "satu",
+      "B": "dua",
+      "C": "tiga",
+      "D": "empat"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Tombol pada mouse yang selalu digunakan untuk melakukan fungsi manipulasi langsung seperti mengaktifkan, memilih, menggambar, dan lain-lain, adalah tombol ....",
+    "pilihan": {
+      "A": "kanan",
+      "B": "atas",
+      "C": "kiri",
+      "D": "tengah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Tombol pada mouse yang dimanfaatkan untuk tombol singkat adalah tombol ....",
+    "pilihan": {
+      "A": "kiri",
+      "B": "tengah",
+      "C": "atas",
+      "D": "kanan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Tombol pada mouse yang memungkinkan akses langsung ke properti dan tindakan berdasar konteks pada obyek dan fungsi adalah tombol ....",
+    "pilihan": {
+      "A": "kanan",
+      "B": "atas",
+      "C": "kiri",
+      "D": "atas"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Proses yang dilakukan pengguna untuk menggerakkan mouse sampai kursor mouse-nya berada di atas obyek yang dimaksud, disebut dengan operasi ....",
+    "pilihan": {
+      "A": "meng-klik",
+      "B": "meng-klik dan menggeser",
+      "C": "menunjuk",
+      "D": "menunjuk dan menggeser"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Operasi mouse untuk memilih, mengubah bentuk, mengubah posisi, menggambar, dan menggeser dan menjatuhkan, disebut dengan operasi meng-klik dan ....",
+    "pilihan": {
+      "A": "menunjuk",
+      "B": "menggeser",
+      "C": "meng-klik ganda",
+      "D": "menggeser ganda"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Operasi memegang mouse dalam keadaan diam, dan meng-klik salah satu tombol mouse kemudian melepasnya, disebut dengan operasi ....",
+    "pilihan": {
+      "A": "menunjuk",
+      "B": "menggeser",
+      "C": "mengganda",
+      "D": "meng-klik"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Suatu proses meng-klik tunggal diteruskan dengan suatu tindakan lain, disebut dengan operasi ....",
+    "pilihan": {
+      "A": "meng-klik",
+      "B": "meng-klik tunggal",
+      "C": "meng-klik ganda",
+      "D": "meng-klik tak beraturan"
+    },
+    "jawaban": "C"
+  }
+]

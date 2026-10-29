@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut adalah contoh perangkat lunak dalam kategori software sistem, kecuali ....",
+    "pilihan": {
+      "A": "sistem operasi",
+      "B": "program aplikasi",
+      "C": "compiler",
+      "D": "device driver"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut ini yang termasuk ke dalam kategori sistem operasi server, kecuali ....",
+    "pilihan": {
+      "A": "Ubuntu Server",
+      "B": "FreeBSD",
+      "C": "Windows 2010",
+      "D": "Windows 2012"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut ini yang merupakan bahasa pemrograman untuk membangun aplikasi berbasis web adalah ....",
+    "pilihan": {
+      "A": "Pascal",
+      "B": "Cobol",
+      "C": "Delphi",
+      "D": "PHP"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berikut adalah fungsi dari sistem operasi, kecuali ....",
+    "pilihan": {
+      "A": "sistem operasi sebagai perangkat lunak yang langsung berhubungan dengan user (pengguna)",
+      "B": "sistem operasi sebagai pengatur aliran data",
+      "C": "sistem operasi sebagai pengatur sumber daya",
+      "D": "tidak ada jawaban yang benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Konsep yang digunakan dalam menterjemahkan source code program baris-demi-baris dari syntax atau instruksi program yang diberikan adalah ....",
+    "pilihan": {
+      "A": "Interpreter",
+      "B": "Assembler",
+      "C": "Compiler",
+      "D": "Kernel"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Bahasa pemrograman yang mengenalkan konsep kecerdasan buatan adalah",
+    "pilihan": {
+      "A": "PROLOG",
+      "B": "DELPHI",
+      "C": "Power Builder",
+      "D": "Assembler"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Fungsi dari device driver adalah sebagai program yang ....",
+    "pilihan": {
+      "A": "menghubungkan antara sistem operasi dengan perangkat keras komputer",
+      "B": "menampilkan tampilan GUI untuk pengguna komputer",
+      "C": "bersifat executable",
+      "D": "membantu kerja processor (CPU)"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut adalah piranti atau perangkat lunak dalam kategori utility software, kecuali ....",
+    "pilihan": {
+      "A": "System restore",
+      "B": "Disk defragmenter",
+      "C": "Photoshop",
+      "D": "Antivirus"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Bahasa pemrograman web yang pengolahan datanya dilakukan oleh komputer server adalah",
+    "pilihan": {
+      "A": "Server-side",
+      "B": "Client-side",
+      "C": "Javascript",
+      "D": "Hypertext markup language"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Perangkat lunak yang digunakan untuk pengolah kata dan bersifat open source adalah",
+    "pilihan": {
+      "A": "Microsoft Word",
+      "B": "Open office",
+      "C": "Apple page",
+      "D": "Applix Word"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Salah satu proses dalam manajemen layanan teknologi informasi adalah merencanakan dan merancang layanan teknologi informasi yang diberikan perusahaan untuk memenuhi tuntutan bisnis dan pasar, disebut",
+    "pilihan": {
+      "A": "transisi layanan",
+      "B": "operasi layanan",
+      "C": "desain layanan",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut merupakan jenis layanan berdasarkan manfaat layanan, kecuali",
+    "pilihan": {
+      "A": "Core service",
+      "B": "Customer-facing service",
+      "C": "Enhancing services",
+      "D": "Enabling service"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pembentuk layanan teknologi informasi adalah",
+    "pilihan": {
+      "A": "teknologi informasi, manusia dan bisnis",
+      "B": "proses, perangkat keras dan perangkat lunak",
+      "C": "teknologi informasi, manusia dan proses",
+      "D": "manusia, proses dan prosedur"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Berikut merupakan bagian dari siklus layanan teknologi informasi, kecuali ....",
+    "pilihan": {
+      "A": "peningkatan layanan",
+      "B": "desain layanan",
+      "C": "operasi layanan",
+      "D": "penghapusan layanan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Sesuatu yang diperoleh pengguna dari layanan adalah",
+    "pilihan": {
+      "A": "Utility",
+      "B": "Warranty",
+      "C": "Jaminan",
+      "D": "semua jawaban benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Manfaat dari utility dapat berupa",
+    "pilihan": {
+      "A": "mengurangi keterbatasan",
+      "B": "penurunan warranty",
+      "C": "peningkatan constraint",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Memastikan tersedianya alternatif sistem lain yang dapat digunakan ketika sistem utama bermasalah sehingga pengguna tetap dapat memanfaatkan layanan merupakan aspek",
+    "pilihan": {
+      "A": "Availability",
+      "B": "Continuity",
+      "C": "Capacity",
+      "D": "Security"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Layanan berikut yang tidak termasuk layanan cloud adalah ....",
+    "pilihan": {
+      "A": "Infrastucture as a service",
+      "B": "Platform as a service",
+      "C": "Software as a service",
+      "D": "Managed service"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Yang harus dimiliki penyedia layanan agar dapat menciptakan nilai adalah ....",
+    "pilihan": {
+      "A": "Resource",
+      "B": "Service asset",
+      "C": "Capability",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Empat aspek dari warranty adalah",
+    "pilihan": {
+      "A": "ketersediaan, kuantitas, keamanan dan kontinuitas",
+      "B": "keamanan, kapasitas, kuantitas dan ketersediaan.",
+      "C": "kontinuitas, kapasitas, kualitas, ketersediaan.",
+      "D": "ketersediaan, kapasitas, keamanan dan kontinuitas"
+    },
+    "jawaban": "D"
+  }
+]

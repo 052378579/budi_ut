@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Bahasa pertama yang menggunakan konsep PBO/OOP adalah ....",
+    "pilihan": {
+      "A": "simule",
+      "B": "simula",
+      "C": "simalu",
+      "D": "simale"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Istilah object oriented programming (OOP) pertama kali digunakan oleh Xerox PARC di luar bahasa pemrograman lainnya, merujuk pada proses yang menggunakan objek sebagai dasar ....",
+    "pilihan": {
+      "A": "perhitungan",
+      "B": "class",
+      "C": "objek",
+      "D": "metode"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Metode pemrograman yang mengeluarkan perintah yang akan dieksekusi oleh komputer. Biasanya berupa baris-baris program yang dieksekusi secara urut mulai dari baris atas hingga bawah disebut dengan ....",
+    "pilihan": {
+      "A": "terstruktur",
+      "B": "prosedural",
+      "C": "object oriented",
+      "D": "text base"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Model data berorientasi objek dapat memberikan fleksibitas yang lebih banyak, karena ....",
+    "pilihan": {
+      "A": "memberikan kemudahan dalam mengubah program",
+      "B": "digunakan dalam program berskala kecil",
+      "C": "terdiri dari sub-sub modul",
+      "D": "setiap bagian mengandung class"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Pada pemrograman berorientasi objek, dimana sebuah objek dapat mempunyai objek turunan disebut ....",
+    "pilihan": {
+      "A": "inheritance",
+      "B": "polimorphism",
+      "C": "encapsulation",
+      "D": "abstraction"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Setiap object memiliki property. Berikut yang bukan termasuk property dari laptop adalah ....",
+    "pilihan": {
+      "A": "merk",
+      "B": "warna",
+      "C": "tipe",
+      "D": "charger"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Suatu program yang menterjemahkan bahasa program ke dalam bahasa objek adalah ....",
+    "pilihan": {
+      "A": "interpreter",
+      "B": "editor",
+      "C": "compiler",
+      "D": "translator"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Untuk menulis source code maka kita memerlukan ....",
+    "pilihan": {
+      "A": "aplikasi",
+      "B": "linker",
+      "C": "editor",
+      "D": "assembly"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Ketika kita melakukan proses compile suatu kode program, posisi Loader setelah ....",
+    "pilihan": {
+      "A": "editor",
+      "B": "linker",
+      "C": "CPU",
+      "D": "compiler"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Perangkat lunak yang mampu mengeksekusi kode program (yang ditulis oleh programmer) lalu menterjemahkannya ke dalam bahasa mesin, sehingga mesin melakukan instruksi yang diminta oleh programmer tersebut ....",
+    "pilihan": {
+      "A": "translator",
+      "B": "compiler",
+      "C": "interpreter",
+      "D": "assembly"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "JDK merupakan singkatan dari ....",
+    "pilihan": {
+      "A": "Java Desain Kit",
+      "B": "Java Design Kit",
+      "C": "Java Developer Kit",
+      "D": "Java Development Kit"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Saat melakukan install Java, ada beberapa point yang harus dilakukan, kecuali ....",
+    "pilihan": {
+      "A": "Install Java",
+      "B": "Setting system",
+      "C": "Setting computer",
+      "D": "Setting path"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Jdk-12.0.1_windows-x64_bin artinya adalah ....",
+    "pilihan": {
+      "A": "Java versi 12",
+      "B": "Java versi 12 untuk Windows",
+      "C": "Java versi 12 untuk Windows 64",
+      "D": "Java versi 12 untuk Windows bin"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Langkah untuk install Java ....",
+    "pilihan": {
+      "A": "download file java - accept license agreement - double klik file hasil download - ikuti klik next-close",
+      "B": "download file java-double klik file hasil download - accept license agreement - ikuti langkah dengan klik next-close",
+      "C": "download file java - ikuti langkah dengan klik next-accept license agreement - close",
+      "D": "download file java - double klik file hasil download - ikuti langkah dengan klik next-close"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Langkah untuk setting System Variabel ....",
+    "pilihan": {
+      "A": "klik control panel - system - advance setting-environement variabel-new-si data - browse directory - cari lokasi file jdk - OK",
+      "B": "klik control panel - advance setting- environement variabel- new- system",
+      "C": "klik control panel - new-system-advance setting-environement variabel-new-isi data- browse directory-cari lokasi file jdk",
+      "D": "klik control panel - browse directory - advance setting- nvironement variabel-new - isi data - browse directory - cari lokasi file jdk"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Berikut ini adalah editor yang dapat digunakan untuk menuliskan program Java, kecuali ....",
+    "pilihan": {
+      "A": "JCreator",
+      "B": "Notepad",
+      "C": "Eclipse",
+      "D": "JavaBeans"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Sintaks java untuk melakukan kompilasi terhadap berkas program adalah ....",
+    "pilihan": {
+      "A": "Java",
+      "B": "Javac",
+      "C": "Javaclass",
+      "D": "Javax"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Hasil kompilasi dari berkas Java adalah ....",
+    "pilihan": {
+      "A": "file BAK",
+      "B": "file Bytecode",
+      "C": "file executable",
+      "D": "file class"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Editor yang berbasis text adalah ....",
+    "pilihan": {
+      "A": "JCreator",
+      "B": "Notepad",
+      "C": "Eclipse",
+      "D": "JavaBeans"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Arsitektur Java yang digunakan untuk membuat aplikasi berbasis web adalah ....",
+    "pilihan": {
+      "A": "J2EE",
+      "B": "J2SE",
+      "C": "J2ME",
+      "D": "JVM"
+    },
+    "jawaban": "B"
+  }
+]

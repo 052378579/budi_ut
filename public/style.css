@@ -1,0 +1,81 @@
+body {
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    /* Menggunakan font tebal tanpa kait (sans-serif) seperti di gambar */
+    font-family: 'Impact', 'Arial Black', sans-serif; 
+}
+
+.calendar-card {
+    width: 350px;
+    background-color: white;
+    border-radius: 35px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    position: relative;
+    text-align: center;
+}
+
+.calendar-top {
+    background-color: #f7a8d0; /* Warna pink menyerupai gambar */
+    height: 110px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+
+/* Memposisikan cincin besi */
+.rings {
+    position: absolute;
+    top: -25px;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 70px;
+    box-sizing: border-box;
+}
+
+/* Membuat efek 3D cincin besi dengan gradasi warna */
+.ring {
+    width: 16px;
+    height: 60px;
+    background: linear-gradient(to right, #c0c0c0, #ffffff, #a9a9a9);
+    border-radius: 10px;
+    box-shadow: 2px 4px 6px rgba(0,0,0,0.2), inset 0px 2px 2px rgba(255,255,255,0.9);
+}
+
+.calendar-bottom {
+    padding: 20px;
+    padding-bottom: 40px;
+}
+
+.calendar-bottom h2 {
+    font-size: 45px;
+    margin: 0;
+    line-height: 1.1;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.week-number {
+    font-size: 80px; /* Angka minggu dibuat sangat besar */
+    margin: 10px 0;
+    color: #000;
+    line-height: 1;
+}
+
+.calendar-footer {
+    margin-top: 30px;
+    font-family: 'Arial', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: #000;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}

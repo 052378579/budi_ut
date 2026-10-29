@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Komponen inti yang harus di-import jika akan menggunakan single page layout adalah ....",
+    "pilihan": {
+      "A": "IonHeader, IonContent, IonFooter",
+      "B": "IonPage, IonContent",
+      "C": "IonPage, IonHeader, IonContent, IonFooter jika akan menggunakan header, content, dan footer",
+      "D": "IonPage saja cukup"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Urut-urutan definisi yang benar saat akan membuat layout tabs adalah ....",
+    "pilihan": {
+      "A": "ion-tab, ion-tab-bar, ion-tab-button",
+      "B": "ion-tabs, ion-tab-button, ion-tab-bar",
+      "C": "ion-tab, ion-tab-button, ion-tab-bar",
+      "D": "ton-tabs, ion-tab-bar, ion-tab-button"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Jika menghendaki tab bar berada pada bagian bawah layar, maka bisa digunakan ....",
+    "pilihan": {
+      "A": "<ion-tab-bar slot=\"end\">",
+      "B": "<ion-tab slot=\"bottom\">",
+      "C": "<ion-tab slot=\"end\">",
+      "D": "<ion-tab-bar slot=\"bottom\">"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Suatu menu harus merupakan bagian dari halaman. Atribut yang digunakan untuk menetapkan halaman utama dari suatu menu adalah ....",
+    "pilihan": {
+      "A": "contentId",
+      "B": "content-id",
+      "C": "Content-ID",
+      "D": "pageId"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Suatu item menu bisa ditetapkan untuk mengakses suatu URL tertentu dengan menggunakan ....",
+    "pilihan": {
+      "A": "<ion-menu-item href=\"URL\"></ion-menu-item>",
+      "B": "<ion-menu-list href=\"URL\"></ion-menu-list>",
+      "C": "<ion-item href=\"URL\"><ion-item>",
+      "D": "<ion-menu ahref=\"URL\"></ion-menu>"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Saat membuat layout split pane, bisa digunakan atribut when. Jika menggunakan atribut when=\"sm\", maka berarti ....",
+    "pilihan": {
+      "A": "pemisah berada pada breakpoint sm.",
+      "B": "sm merupakan singkatan dari small, jadi hanya mengambil bagian kecil dari layar saja.",
+      "C": "pemisah akan berada pada pixel sesuai dengan definisi dari sm, yaitu 250px.",
+      "D": "pemisah akan berada pada pixel sesuai dengan definisi dari sm, yaitu 300px."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jika layar terlalu kecil untuk split pane, maka yang terjadi adalah ....",
+    "pilihan": {
+      "A": "panel sebelah kiri akan menutupi panel sebelah kanan.",
+      "B": "panel sebelah kiri akan hidden.",
+      "C": "panel sebelah kanan akan hidden.",
+      "D": "panel sebelah kanan akan menutupi panel sebelah kiri."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Komponen inti yang digunakan oleh layout responsive grid adalah ....",
+    "pilihan": {
+      "A": "semua sudah masuk di dalam IonGrid",
+      "B": "IonGrid, IonRow, IonColumn",
+      "C": "IonGrid, IonRows, IonColumns",
+      "D": "IonGrid, IonRow, IonCol"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Jika ingin me-render kolom mulai dari kolom ke 6, maka gunakan ....",
+    "pilihan": {
+      "A": "<ion-col offset=\"6\">",
+      "B": "<ion-col offset=\"5\">",
+      "C": "<ion-col pull=\"6\">",
+      "D": "<ion-col size=\"6\">"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pada responsive grid, jika jumlah kolom default 12, jumlah kolom yang dibuat 3, maka jika pada kolom ke 3 diberikan perintah berikut: <ion-col pull=\"2\">, maka kolom ke 4 tersebut akan mulai berada pada ....",
+    "pilihan": {
+      "A": "kolom 8",
+      "B": "kolom 9",
+      "C": "kolom 7",
+      "D": "kolom 6"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Pengaturan jumlah kolom maksimal dalam suatu grid pada variables.css diatur menggunakan ....",
+    "pilihan": {
+      "A": "--ion-grid-columns",
+      "B": "--ion-gridmax-columns",
+      "C": "--ion-grid-column",
+      "D": "--ion-grid-maxcolumns"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Definisi dari variabel CSS dilakukan pada ....",
+    "pilihan": {
+      "A": "sembarang file .css dan kemudian bisa di-import oleh aplikasi pada main.ts",
+      "B": "src/themes/variables.css",
+      "C": "src/theme/variables.css",
+      "D": "sembarang file .css"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pengaturan warna teks serta latar belakang dalam Ionic didefinisikan sebagai ....",
+    "pilihan": {
+      "A": "application colors",
+      "B": "CSS selector for colors",
+      "C": "stepped colors",
+      "D": "CSS variables"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Jika pemakai menggunakan device Android, maka mode yang digunakan adalah ....",
+    "pilihan": {
+      "A": "sm",
+      "B": "md",
+      "C": "xs",
+      "D": "android"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Untuk mendefinisikan warna baru untuk keseluruhan aplikasi, definisi dilakukan pada ....",
+    "pilihan": {
+      "A": ":root dan .ion-color-{WARNA}",
+      "B": ":root",
+      "C": ".ion-color-{WARNA}",
+      "D": "<style scoped>...</style>"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Variabel CSS untuk mengatur padding adalah ....",
+    "pilihan": {
+      "A": "--ion-app-padding",
+      "B": "--ion-global-padding",
+      "C": "--ion-padding-app",
+      "D": "--ion-padding"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Variabel CSS untuk mengatur warna latar belakang untuk keseluruhan aplikasi adalah ....",
+    "pilihan": {
+      "A": "--ion-background",
+      "B": "--ion-color-background",
+      "C": "--ion-background-colour",
+      "D": "--ion-background-color"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Variabel CSS untuk mengatur font / huruf untuk keseluruhan aplikasi adalah ....",
+    "pilihan": {
+      "A": "--ion-fonts",
+      "B": "--ion-font",
+      "C": "--ion-font-family",
+      "D": "--ion-font-text"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Secara default, Ionic akan menggunakan mode sesuai device, meskipun demikian, pemrogram bisa menggunakan mode lainnya dengan cara ....",
+    "pilihan": {
+      "A": "mengatur atribut mode",
+      "B": "mengatur atribut class",
+      "C": "mengatur atribut device",
+      "D": "Tidak bisa dilakukan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Warna yang digunakan secara default jika tidak menggunakan atribut color adalah ....",
+    "pilihan": {
+      "A": "tanpa warna, sesuai dengan warna latar belakang aplikasi.",
+      "B": "ionicPrimary",
+      "C": "medium",
+      "D": "primary"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Dialog modal adalah dialog yang ....",
+    "pilihan": {
+      "A": "akan muncul di toolbar.",
+      "B": "akan muncul di isi aplikasi utama.",
+      "C": "akan muncul pada header atau footer, tergantung bagaimana pemrogram menetapkan property.",
+      "D": "akan muncul di atas aplikasi utama dan bersifat harus diselesaikan dulu sebelum kembali ke pemanggil."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Suatu pilihan radio akan berjalan dengan baik apabila ....",
+    "pilihan": {
+      "A": "dikelompokkan menjadi satu dengan ion-radio-group.",
+      "B": "dikelompokkan menjadi satu dengan memberi nama yang sama.",
+      "C": "dikelompokkan menjadi satu dengan ion-group-radio.",
+      "D": "dikelompokkan menjadi satu dengan ion-container."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Jika pemrogram ingin menampilkan suatu dialog tepat di atas komponen tertentu, maka digunakan ....",
+    "pilihan": {
+      "A": "Modal.",
+      "B": "Popover.",
+      "C": "Toolbar bagian atas.",
+      "D": "Badge"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Supaya hasil input teks bisa langsung ditangkap hasilnya, maka digunakan ....",
+    "pilihan": {
+      "A": "#refs.value",
+      "B": "v-model dari Vue",
+      "C": "this.$refs.namaKomponen.value",
+      "D": "deklarasi data()"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Untuk menetapkan event handler dari suatu komponen saat berubah, Ionic menggunakan ....",
+    "pilihan": {
+      "A": "ionChange",
+      "B": "ionicChange",
+      "C": "onChange",
+      "D": "ionOnChange"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Beberapa komponen bisa diatur tampilannya dengan menggunakan ....",
+    "pilihan": {
+      "A": "property CSS",
+      "B": "<style scoped>",
+      "C": "cssClass yang didefinisikan di variables.css",
+      "D": "<style>"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Untuk menggunakan icon, maka yang harus dilakukan adalah ....",
+    "pilihan": {
+      "A": "import IonIcon dan langsung menggunakannya pada komponen dengan :icon.",
+      "B": "import IonIcon serta icon yang digunakan di ionicons/icons dan kemudian langsung menggunakannya dengan :icon.",
+      "C": "import IonIcon dan menggunakannya pada komponen dengan :name",
+      "D": "import IonIcon serta icon yang digunakan di ionicons/icons dan kemudian men-setup icon yang digunakan pada setup(). Icon digunakan dengan :icon"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Komponen yang digunakan untuk membuat dialog modal adalah ....",
+    "pilihan": {
+      "A": "IonModal",
+      "B": "modalController",
+      "C": "ModalController",
+      "D": "IonModalController"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Untuk menetapkan nilai awal dan akhir dari komponen Range, digunakan atribut ....",
+    "pilihan": {
+      "A": "start dan end",
+      "B": "low dan high",
+      "C": "min dan max",
+      "D": "first dan last"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Untuk memilih tanggal - bulan - tahun dalam urutan tersebut, maka format yang digunakan adalah ....",
+    "pilihan": {
+      "A": "DD-MM-YYYY",
+      "B": "DD-MM-YY",
+      "C": "DD-M-YY",
+      "D": "DD/MM/YYY"
+    },
+    "jawaban": "A"
+  }
+]

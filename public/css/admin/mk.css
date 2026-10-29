@@ -1,0 +1,55 @@
+/* Container padding */
+.mk-container {
+    padding-top: 100px;
+}
+
+/* Search input wrapper */
+.search-wrapper {
+    border-radius: 20px; 
+    overflow: hidden;
+}
+
+/* Table styling */
+.action-column {
+    width: 220px;
+}
+
+.cover-img {
+    width: 45px; 
+    height: 60px; 
+    object-fit: cover; 
+    border-radius: 6px;
+}
+
+.kode-badge {
+    background: #f1f5f9; 
+    padding: 4px 8px; 
+    border-radius: 6px; 
+    color: #475569;
+}
+
+.theme-badge {
+    letter-spacing: 0.5px;
+}
+
+/* Pagination buttons */
+.pagination-prev {
+    border-radius: 20px 0 0 20px;
+}
+
+.pagination-next {
+    border-radius: 0 20px 20px 0;
+}
+
+/* Modal styling */
+.modal-content-custom {
+    border-radius: 15px;
+}
+
+.modal-header-custom {
+    border-radius: 15px 15px 0 0;
+}
+
+.modal-footer-custom {
+    border-radius: 0 0 15px 15px;
+}

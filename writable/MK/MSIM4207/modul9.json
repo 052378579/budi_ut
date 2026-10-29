@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "SDLC digunakan secara resmi sejak ....",
+    "pilihan": {
+      "A": "1960",
+      "B": "1970",
+      "C": "2010",
+      "D": "1980"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Komputerisasi proses penggajian merupakan contoh....",
+    "pilihan": {
+      "A": "otomatisasi proses bisnis",
+      "B": "rasionalisasi proses bisnis",
+      "C": "perancangan ulang proses bisnis",
+      "D": "pergeseran paradigma"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Gojek merupakan contoh dari ....",
+    "pilihan": {
+      "A": "otomatisasi proses bisnis",
+      "B": "rasionalisasi proses bisnis",
+      "C": "perancangan ulang proses bisnis",
+      "D": "pergeseran paradigma"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Pengembangan sistem pada masa tutup pembukuan tidak layak secara ....",
+    "pilihan": {
+      "A": "teknis",
+      "B": "hukum",
+      "C": "ekonomis",
+      "D": "jadwal"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Jika suatu sistem informasi di perusahaan eceran membutuhkan komputer super, maka tidak layak secara...",
+    "pilihan": {
+      "A": "teknis",
+      "B": "hukum",
+      "C": "ekonomis",
+      "D": "jadwal"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Program penghitung pajak salah menerapkan tarif PPh Pasal 25 berarti tidak layak secara ...",
+    "pilihan": {
+      "A": "teknis",
+      "B": "hukum",
+      "C": "ekonomis",
+      "D": "jadwal"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Pengembangan sistem informasi yang mahal dan lebih mahal daripada manfaatnya tidak layak secara...",
+    "pilihan": {
+      "A": "teknis",
+      "B": "hukum",
+      "C": "ekonomis",
+      "D": "jadwal"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Pemangku kepentingan mana yang sebaiknya diikutsertakan dalam pengembangan sistem informasi ....",
+    "pilihan": {
+      "A": "pemerintah",
+      "B": "konsumen",
+      "C": "pengguna",
+      "D": "pemegang saham"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pemangku kepentingan yang terkait dengan kelayakan secara hukum....",
+    "pilihan": {
+      "A": "pemerintah",
+      "B": "konsumen",
+      "C": "pengguna",
+      "D": "pemegang saham"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Alat bantu aplikasi komputer untuk mengembangkan sistem informasi....",
+    "pilihan": {
+      "A": "CASE",
+      "B": "CAST",
+      "C": "CEASE",
+      "D": "CARD"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Ukuran kesuksesan proyek adalah...",
+    "pilihan": {
+      "A": "tepat waktu dan anggaran",
+      "B": "anggaran dihabiskan",
+      "C": "selesai lebih cepat",
+      "D": "laporan lengkap"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Yang bukan variabel utama keberhasilan proyek adalah ....",
+    "pilihan": {
+      "A": "pemasok",
+      "B": "risiko",
+      "C": "waktu",
+      "D": "kualitas"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Keamanan sistem informasi masuk dalam kategori...",
+    "pilihan": {
+      "A": "must have",
+      "B": "should have",
+      "C": "could have",
+      "D": "will not have"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Bagi perusahaan jasa, sistem informasi persediaan dagangan termasuk kategori....",
+    "pilihan": {
+      "A": "must have",
+      "B": "should have",
+      "C": "could have",
+      "D": "will not have"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Bagi perusahaan dagang, sistem informasi persediaan dagangan termasuk kategori...",
+    "pilihan": {
+      "A": "must have",
+      "B": "should have",
+      "C": "could have",
+      "D": "will not have"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Bagi perusahaan konsultan manajemen, sistem informasi pengadaan barang termasuk kategori...",
+    "pilihan": {
+      "A": "must have",
+      "B": "should have",
+      "C": "could have",
+      "D": "will not have"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Yang menunjukkan rencana dan realisasi proyek....",
+    "pilihan": {
+      "A": "CPM",
+      "B": "PERT",
+      "C": "Gantt Chart",
+      "D": "Chart of Account"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Yang tidak menunjukkan titik kritis suatu proyek....",
+    "pilihan": {
+      "A": "CPM",
+      "B": "PERT",
+      "C": "Gantt Chart",
+      "D": "Chart of Account"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Ukuran proyek dinilai dengan ....",
+    "pilihan": {
+      "A": "estimasi",
+      "B": "prediksi",
+      "C": "biaya dan waktu pengerjaan",
+      "D": "intuisi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Potensi munculnya masalah yang mengganggu penyelesaian proyek adalah...",
+    "pilihan": {
+      "A": "risiko",
+      "B": "biaya",
+      "C": "waktu",
+      "D": "tenaga"
+    },
+    "jawaban": "A"
+  }
+]

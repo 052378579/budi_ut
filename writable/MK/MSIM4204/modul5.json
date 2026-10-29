@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Contoh dari External Gateway Protocol (EGP) adalah ....",
+    "pilihan": {
+      "A": "OSPF",
+      "B": "IGP",
+      "C": "BGP",
+      "D": "OSPF"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Jenis routing yang menggunakan algoritma Bellman-Ford adalah ....",
+    "pilihan": {
+      "A": "static routing",
+      "B": "distance vector routing",
+      "C": "hybrid routing",
+      "D": "link state routing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Salah satu contoh dari aplikasi RouteD adalah ....",
+    "pilihan": {
+      "A": "OSPF",
+      "B": "RIP",
+      "C": "BGP-4",
+      "D": "RIPng"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Algoritma yang dapat membuat perangkat router untuk menentukan jalur routingnya secara otomatis adalah ....",
+    "pilihan": {
+      "A": "static routing",
+      "B": "atomatic routing",
+      "C": "dynamic routing",
+      "D": "direct routing"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Contoh penggunaan algoritma pada hybrid routing adalah ....",
+    "pilihan": {
+      "A": "distance vector",
+      "B": "Bellman-Ford",
+      "C": "Dijkstra",
+      "D": "EIGRP"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Cara yang bisa digunakan untuk membangun table routing ada ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jenis routing yang menggabungkan antara distance vector dan link state routing adalah ....",
+    "pilihan": {
+      "A": "static routing",
+      "B": "hybrid routing",
+      "C": "dynamik routing",
+      "D": "combined routing"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Pemilihan jalan pada saat routing dilakukan pada ....",
+    "pilihan": {
+      "A": "host",
+      "B": "hop",
+      "C": "router",
+      "D": "IP"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Route yang dilakukan oleh seorang administrator untuk mengatur jalur dari sebuah paket data adalah ....",
+    "pilihan": {
+      "A": "static routing",
+      "B": "distance vector",
+      "C": "link state",
+      "D": "hybrid"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Algortima Bellman-Ford pertama kali dikenalkan pada tahun ....",
+    "pilihan": {
+      "A": "1959",
+      "B": "1969",
+      "C": "1979",
+      "D": "1988"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Telnet merupakan salah satu aplikasi yang menggunakan jaringan. Untuk menjalankan telnet memerlukan port ke ....",
+    "pilihan": {
+      "A": "21",
+      "B": "22",
+      "C": "23",
+      "D": "24"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Segmen TCP yang digunakan untuk pilihan lain pada datagram adalah ....",
+    "pilihan": {
+      "A": "padding",
+      "B": "options",
+      "C": "checksum",
+      "D": "window"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pada gambar berikut, fungsi dari Length adalah ....",
+    "pilihan": {
+      "A": "port yang digunakan untuk mengirimkan data",
+      "B": "panjang data paket keseluruhan",
+      "C": "port yang digunakan untuk tujuan data",
+      "D": "16 bit komplemen-1 dari pseudo-ip-header yang merupakan error check dari paket data"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Segmen TCP yang berfungsi mengaktifkan titik yang darurat pada suatu segmen adalah ....",
+    "pilihan": {
+      "A": "URG",
+      "B": "ACK",
+      "C": "PSH",
+      "D": "SYN"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Well-known port memiliki range antara ....",
+    "pilihan": {
+      "A": "1 sampai dengan 1023",
+      "B": "1 sampai dengan 1024",
+      "C": "1 sampai dengan 1025",
+      "D": "1 sampai dengan 1026"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Menerima dan meng-copy data kepada buffer milik pengguna yang digunakan pada komunikasi TCP merupakan fungsi dari ....",
+    "pilihan": {
+      "A": "Open",
+      "B": "Send",
+      "C": "Receive",
+      "D": "Close"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Penulisan socket pada terminologi asosiasi yang benar adalah ....",
+    "pilihan": {
+      "A": "<tcp, 193.168.123.4, 1500, 193.168.123.5>",
+      "B": "<tcp, 193.168.123.4, 1500, 193.168.123.5, 21>",
+      "C": "<tcp, 193.168.123.4, 1500, 21>",
+      "D": "<tcp, 193.44.234.3, 12345>"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Jumlah tipe port yang digunakan untuk komunikasi host-to-host adalah ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Untuk mengetahui lebih lengkap dari spesifikasi UDP dapat dilihat pada standar ....",
+    "pilihan": {
+      "A": "RFC 768",
+      "B": "RFC 867",
+      "C": "RFC 667",
+      "D": "RFC 767"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Aplikasi jaringan pada TCP yang digunakan sebagai protokol untuk melakukan transfer file adalah ....",
+    "pilihan": {
+      "A": "Telnet",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "HTTP"
+    },
+    "jawaban": "B"
+  }
+]

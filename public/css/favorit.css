@@ -1,0 +1,19 @@
+/* ==========================================================================
+   FAVORIT - STYLESHEET (public/css/favorit.css)
+   ========================================================================== */
+
+/* Kompensasi tinggi navbar fixed-top + area poni yang lebih presisi (120px) */
+.content-wrapper {
+    padding-top: calc(env(safe-area-inset-top) + 120px) !important;
+    min-height: 85vh;
+}
+
+/* Efek interaktif tambahan untuk kartu favorit */
+.mk-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.mk-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}

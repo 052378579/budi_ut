@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Komputasi yang sangat terpusat di bawah kendali programer dan operator sistem terjadi pada era",
+    "pilihan": {
+      "A": "client server",
+      "B": "mainframe",
+      "C": "Personal Computer",
+      "D": "Internet"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Salah satu contoh platform pengelolaan data adalah",
+    "pilihan": {
+      "A": "router",
+      "B": "DB2",
+      "C": "procurve",
+      "D": "cisco"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Layanan-layanan infrastruktur TI yang merencanakan dan mengembangkan infrastruktur adalah layanan",
+    "pilihan": {
+      "A": "platform komputasi",
+      "B": "peranti lunak aplikasi",
+      "C": "manajemen teknologi informasi",
+      "D": "platform internet"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Layanan Gmail yang disediakan oleh Google merupakan bentuk cloud computing jenis ....",
+    "pilihan": {
+      "A": "IaaS",
+      "B": "PaaS",
+      "C": "SaaS",
+      "D": "hosting"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Karakteristik dari infrastruktur yang adaptif adalah sebagai berikut, kecuali ....",
+    "pilihan": {
+      "A": "efektivitas",
+      "B": "efisiensi",
+      "C": "kompleksitas",
+      "D": "agility"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Infrastruktur teknologi informasi meliputi hal-hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "manusia",
+      "B": "perangkat keras",
+      "C": "perangkat lunak",
+      "D": "layanan teknologi informasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jika suatu perusahaan menetapkan kebijakan, misalnya kebijakan terhadap penggunaan sistem operasi yang bersifat open source. Hal tersebut termasuk dalam layanan",
+    "pilihan": {
+      "A": "manajemen teknologi informasi",
+      "B": "piranti lunak aplikasi",
+      "C": "standar teknologi informasi",
+      "D": "tidak ada jawaban yang benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Penggunaan Vmware pada suatu data center menggunakan teknologi",
+    "pilihan": {
+      "A": "cloud computing",
+      "B": "virtualisasi",
+      "C": "green computing",
+      "D": "platform digital seluler"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pengembangan teknologi informasi yang adaptif dapat dilakukan dengan cara berikut, kecuali",
+    "pilihan": {
+      "A": "merencanakan infrastruktur secara parsial",
+      "B": "mempertimbangkan kebutuhan infrastruktur di masa depan dengan mengakomodasi perubahan dan pertumbuhan",
+      "C": "memilih teknologi yang tepat",
+      "D": "menerapkan prosedur standar dalam perencanaan dan pengelolaan infrastruktur"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Hukum yang menyatakan bahwa nilai atau kekuatan dari jaringan bertumbuh secara eksponensial sebagai fungsi dari jumlah anggota jaringan tersebut merupakan hukum",
+    "pilihan": {
+      "A": "Moore",
+      "B": "Metcalfe",
+      "C": "penyimpanan digital massal",
+      "D": "penurunan biaya komunikasi dan internet"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Teknologi komputer digunakan pada tahun 1980-an yang merupakan masa",
+    "pilihan": {
+      "A": "kolonial",
+      "B": "global",
+      "C": "produksi",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut adalah dampak positif dari penggunaan teknologi informasi, kecuali",
+    "pilihan": {
+      "A": "mempercepat informasi",
+      "B": "kualitas hidup meningkat",
+      "C": "memudahkan komunikasi",
+      "D": "timbulnya cyber crime"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Contoh efek negatif dari penggunaan teknologi informasi dan komunikasi adalah",
+    "pilihan": {
+      "A": "penjualan",
+      "B": "penipuan",
+      "C": "pendidikan",
+      "D": "persahabatan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Membuat website palsu untuk memancing orang untuk memasukkan data-data pribadinya disebut ....",
+    "pilihan": {
+      "A": "illegal content",
+      "B": "data forgery",
+      "C": "pishing",
+      "D": "carding"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Keuntungan teknologi informasi dalam pemerintahan antara lain",
+    "pilihan": {
+      "A": "membuka lahan pekerjaan baru",
+      "B": "membuka peluang bisnis baru",
+      "C": "meningkatkan kualitas dan kuantitas layanan publik",
+      "D": "memperbaiki kualitas pendidikan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Manfaat yang diperoleh dari teknologi informasi dan komunikasi saat ini adalah sebagai berikut, kecuali",
+    "pilihan": {
+      "A": "informasi lebih mudah",
+      "B": "kualitas hidup meningkat",
+      "C": "komunikasi efektif",
+      "D": "harga mahal"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Perdagangan yang dilakukan dengan memanfaatkan jaringan internet disebut ....",
+    "pilihan": {
+      "A": "Internet banking",
+      "B": "SMS banking",
+      "C": "E-commerce",
+      "D": "Government to citizen"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Berikut ini keuntungan perdagangan secara elektronik bagi perusahaan, kecuali",
+    "pilihan": {
+      "A": "dapat menjual harga barang dengan lebih murah",
+      "B": "dapat menjangkau pasar yang lebih luas",
+      "C": "perusahaan tidak perlu membuka toko yang lebih besar",
+      "D": "perusahaan harus mengirimkan barang yang dibeli ke tempat yang jauh"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Dengan adanya perdagangan secara online, konsumen akan memperoleh keuntungan berikut, kecuali",
+    "pilihan": {
+      "A": "tidak harus datang ke toko untuk memperoleh barang",
+      "B": "menghemat waktu",
+      "C": "dapat membandingkan harga",
+      "D": "harga lebih murah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Bentuk-bentuk hubungan pemerintahan dalam pemanfaatan teknologi informasi antara lain",
+    "pilihan": {
+      "A": "government to citizen",
+      "B": "government to business",
+      "C": "government to government",
+      "D": "jawaban A, B, dan C semuanya benar"
+    },
+    "jawaban": "D"
+  }
+]

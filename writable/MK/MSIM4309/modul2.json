@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "CSS merupakan singkatan dari ....",
+    "pilihan": {
+      "A": "cascading sheetsstyle",
+      "B": "cascading stylesheet",
+      "C": "cascading stylesheets",
+      "D": "cascading styleheet"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "CSS diciptakan oleh Hákon Wium Lie pada tahun ....",
+    "pilihan": {
+      "A": "1995",
+      "B": "1994",
+      "C": "1996",
+      "D": "2014"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut adalah berbagai macam tata cara penulisan CSS pada kode HTML, kecuali ....",
+    "pilihan": {
+      "A": "inline CSS",
+      "B": "internal CSS",
+      "C": "external CSS",
+      "D": "internet CSS"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berikut adalah bagian-bagian CSS, kecuali ....",
+    "pilihan": {
+      "A": "element",
+      "B": "selector",
+      "C": "declaration",
+      "D": "property"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Perhatikan kode CSS berikut. Yang dimaksud dengan declaration block adalah .... i { background-color: brown; }",
+    "pilihan": {
+      "A": "{ background-color: brown; }",
+      "B": "background-color: brown",
+      "C": "background-color",
+      "D": "i"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Jarak antara objek (CSS) dan lingkungan luarnya disebut ....",
+    "pilihan": {
+      "A": "indent",
+      "B": "padding",
+      "C": "margin",
+      "D": "style"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jarak antarobjek (CSS) dan lingkungan dalamnya disebut ....",
+    "pilihan": {
+      "A": "indent",
+      "B": "padding",
+      "C": "margin",
+      "D": "style"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Untuk menghasilkan border putus-putus, dibutuhkan style ....",
+    "pilihan": {
+      "A": "dotted",
+      "B": "solid",
+      "C": "double",
+      "D": "dashed"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Untuk membentuk lengkungan pada border, digunakan property ....",
+    "pilihan": {
+      "A": "border-style",
+      "B": "border-width",
+      "C": "border-radius",
+      "D": "border-round"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Berikut adalah jenis warna yang diakui oleh CSS, kecuali ....",
+    "pilihan": {
+      "A": "HEX color",
+      "B": "HSL color",
+      "C": "HDC color",
+      "D": "RGB color"
+    },
+    "jawaban": "C"
+  }
+]

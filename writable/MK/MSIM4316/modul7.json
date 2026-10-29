@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini merupakan antena yang termasuk dalam kategori *semi directional*, *kecuali* antena ....",
+    "pilihan": {
+      "A": "patch",
+      "B": "yagi",
+      "C": "panel",
+      "D": "rubber duck"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Antena yang memiliki faktor *gain* paling tinggi adalah antena ....",
+    "pilihan": {
+      "A": "patch",
+      "B": "yagi",
+      "C": "panel",
+      "D": "highly directional grid"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Garis pandang yang lurus dari *transmitter* ke *receiver* adalah ....",
+    "pilihan": {
+      "A": "fresnel zone",
+      "B": "line of sight",
+      "C": "gain",
+      "D": "isotropic"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Jika antena memiliki *gain* sebesar 7,5 dBi, maka antena akan meningkatkan keluaran daya sinyal sebesar ....",
+    "pilihan": {
+      "A": "7,5 dB",
+      "B": "75 dB",
+      "C": "750 dB",
+      "D": "15 dB"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Antena yang memancarkan daya secara seragam ke segala arah adalah ....",
+    "pilihan": {
+      "A": "omni directional",
+      "B": "semi directional",
+      "C": "highly directional",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Pada pola *direct sequence spread spectrum*, *channel* yang tidak saling berinterferensi adalah *channel* ....",
+    "pilihan": {
+      "A": "1, 2, 3",
+      "B": "1, 6, 9",
+      "C": "1, 6, 11",
+      "D": "1, 3, 6"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Mekanisme suatu bit dikonversi ke dalam beberapa *chip* yang berbentuk unik merupakan teknik ....",
+    "pilihan": {
+      "A": "frequency hopping spread spectrum",
+      "B": "direct sequence spread spectrum",
+      "C": "osilasi",
+      "D": "channel"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Jumlah osilasi dalam 1 detik disebut ....",
+    "pilihan": {
+      "A": "frequency hopping spread spectrum",
+      "B": "direct sequence spread spectrum",
+      "C": "osilasi",
+      "D": "channel"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut ini merupakan karakteristik dari DSSS, *kecuali* ....",
+    "pilihan": {
+      "A": "memanfaatkan frekuensi 2,4 GHz – 2,483GHz",
+      "B": "membentuk 11 *channel*",
+      "C": "membentuk 79 *channel*",
+      "D": "setiap *channel* menggunakan lebar frekuensi 22 MHz"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Teknologi WLAN dibangun berdasarkan standar ....",
+    "pilihan": {
+      "A": "IEEE 802.11",
+      "B": "IEEE 802.3",
+      "C": "IEEE 802.10",
+      "D": "IEEE 802.16"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Frekuensi yang digunakan pada WLAN adalah ....",
+    "pilihan": {
+      "A": "900 MHz",
+      "B": "1800 MHz",
+      "C": "2,4 GHz",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Antena yang digunakan pada *access point indoor* secara *default* adalah antena ....",
+    "pilihan": {
+      "A": "patch",
+      "B": "yagi",
+      "C": "dipole",
+      "D": "highly directional grid"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Teknologi WLAN yang dapat memberikan *throughput* hingga 100 Mbps adalah ....",
+    "pilihan": {
+      "A": "802.11 a",
+      "B": "802.11 b",
+      "C": "802.11 g",
+      "D": "802.11 n"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Berikut ini *channel-channel* yang saling *overlap*, *kecuali channel* ....",
+    "pilihan": {
+      "A": "1, 6, dan 11",
+      "B": "1, 3, dan 11",
+      "C": "2, 6, dan 9",
+      "D": "2, 6, dan 11"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Lebar frekuensi pada setiap *channel* yang digunakan oleh perangkat *access point* WLAN adalah ....",
+    "pilihan": {
+      "A": "1 MHz",
+      "B": "22 MHz",
+      "C": "20 MHz",
+      "D": "2,4 GHZ"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Mekanisme pengamanan WLAN berikut *tidak* memerlukan *server* RADIUS, *kecuali* ....",
+    "pilihan": {
+      "A": "WEP",
+      "B": "WPA-PSK",
+      "C": "WPA",
+      "D": "802.1x-EAP"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "*Frame* yang dikirim dari *access point* digunakan untuk mengelola dan menyinkronisasi kelompok WLAN adalah ....",
+    "pilihan": {
+      "A": "spectrum",
+      "B": "beacon",
+      "C": "frekuensi",
+      "D": "channel"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Nilai unik dengan panjang 2 hingga 32 karakter dan bersifat *case sensitive* yang digunakan oleh *wireless* LAN sebagai nama suatu kelompok jaringan adalah ....",
+    "pilihan": {
+      "A": "beacon",
+      "B": "SSID",
+      "C": "WEP",
+      "D": "channel"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Topologi WLAN yang memerlukan *access point* adalah ....",
+    "pilihan": {
+      "A": "infrastruktur",
+      "B": "ad hoc",
+      "C": "tethering",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Klien WLAN secara *peer to peer* terhubung tanpa akses poin membentuk topologi ....",
+    "pilihan": {
+      "A": "infrastruktur",
+      "B": "ad hoc",
+      "C": "tethering",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  }
+]

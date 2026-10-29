@@ -1,0 +1,223 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "SAN adalah ...",
+    "pilihan": {
+      "A": "Storage Area Network",
+      "B": "Storage Attached Network",
+      "C": "Storage Array Network",
+      "D": "Storage Access Network"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Antar muka yang menggunakan layar pada perangkat adalah.....",
+    "pilihan": {
+      "A": "Stylus",
+      "B": "Touch Screen",
+      "C": "Touch Pen",
+      "D": "Digitizer"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Bahasa Pemrograman yang dapat dijalankan pada berbagai perangkat adalah ....",
+    "pilihan": {
+      "A": "C++",
+      "B": "Assembler",
+      "C": "Pascal",
+      "D": "Java"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Ciri khas aplikasi dengan lisensi kode terbuka adalah ....",
+    "pilihan": {
+      "A": "gratis dan boleh dijual",
+      "B": "gratis dan kode sumber disediakan",
+      "C": "berbayar dan terbatas",
+      "D": "berbayar dan boleh digandakan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Menurut hukum Moore, kekuatan komputasi akan naik dua kali lipat setiap ...",
+    "pilihan": {
+      "A": "18 bulan",
+      "B": "18 tahun",
+      "C": "18 minggu",
+      "D": "18 hari"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Kelebihan komputer kuantum dibanding komputer biasa adalah dapat ....",
+    "pilihan": {
+      "A": "bekerja sangat lama",
+      "B": "mengolah data 1 atau 0",
+      "C": "bekerja lebih sunyi",
+      "D": "mengolah data 1,0, dan keduanya secara simultan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Jenis komputer yang digunakan untuk menangani transaksi penting perbankan karena kehandalannya adalah ...",
+    "pilihan": {
+      "A": "Blade Server",
+      "B": "Rack Server",
+      "C": "Mainframe",
+      "D": "Tablet"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Aplikasi yang biasa digunakan untuk mengakses layanan komputasi awan adalah...",
+    "pilihan": {
+      "A": "Browser",
+      "B": "FTP Client",
+      "C": "Word Processor",
+      "D": "Defrager"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Kebijakan untuk memperbolehkan penggunaan perangkat pribadi untuk kepentingan kerja disebut ...",
+    "pilihan": {
+      "A": "BYOB",
+      "B": "BYOD",
+      "C": "BSOD",
+      "D": "MYOB"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Sistem operasi perangkat bergerak yang dominan saat ini adalah ....",
+    "pilihan": {
+      "A": "Android dan iOS",
+      "B": "Symbian dan Blackberry",
+      "C": "MS Windows CE dan Android",
+      "D": "iOS dan FreeBSD"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Dalam model Packet Switching, data yang akan dikirim diperlakukan ...",
+    "pilihan": {
+      "A": "dikirim langsung",
+      "B": "dijadikan beberapa paket data dan dikirim melalui jalur berbeda",
+      "C": "dijadikan beberapa paket data dan dikirim bergantian",
+      "D": "dijadikan beberapa paket data dan dikirim bersamaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Alat yang menghubungkan sebuah jaringan komputer dengan berbagai jaringan lain yang berbeda adalah ...",
+    "pilihan": {
+      "A": "Hub",
+      "B": "Switch",
+      "C": "Repeater",
+      "D": "Router"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Kabel untuk menghubungkan jaringan telekomunikasi antar benua adalah ....",
+    "pilihan": {
+      "A": "Fiber Glass",
+      "B": "Fiber Optic",
+      "C": "Fiber Soluble",
+      "D": "Fiber Kevlar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Alat telekomunikasi yang dapat menjangkau sepertiga permukaan bumi adalah ....",
+    "pilihan": {
+      "A": "Satelit",
+      "B": "Wifi",
+      "C": "BTS",
+      "D": "Bluetooth"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Perangkat pengeras suara komputer tanpa kabel termasuk jaringan ...",
+    "pilihan": {
+      "A": "WAN",
+      "B": "WLAN",
+      "C": "LAN",
+      "D": "PAN"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Badan yang mengelola alokasi nama domain dan alamat IP adalah ....",
+    "pilihan": {
+      "A": "ICANN",
+      "B": "WTO",
+      "C": "W3C",
+      "D": "IMF"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Alamat IP yang terdiri atas 4 blok angka antara 0-255 adalah versi ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Energi listrik pada pusat data milik perusahaan besar teknologi informasi dunia digunakan untuk mengoperasikan dan mendinginkan....",
+    "pilihan": {
+      "A": "generator",
+      "B": "perangkat komputer",
+      "C": "perangkat pembangkit daya",
+      "D": "perangkat lunak"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Layanan telepon menggunakan jalur Internet adalah .....",
+    "pilihan": {
+      "A": "VOIP",
+      "B": "VOLTE",
+      "C": "VOLTA",
+      "D": "MIRC"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Server Internet yang melayani permintaan dokumen dari klien adalah ....",
+    "pilihan": {
+      "A": "Web Server",
+      "B": "File Server",
+      "C": "Application Server",
+      "D": "Database Server"
+    },
+    "jawaban": "A"
+  }
+
+]

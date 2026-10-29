@@ -1,0 +1,333 @@
+
+[
+  {
+    "no": 1,
+    "pertanyaan": "Pertama kali website diperkenalkan di dunia tahun ....",
+    "pilihan": {
+      "A": "1990",
+      "B": "1991",
+      "C": "1992",
+      "D": "1993"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Istilah yang digunakan untuk menerima (mengambil) data/berkas dari server disebut ....",
+    "pilihan": {
+      "A": "browsing",
+      "B": "upload",
+      "C": "download",
+      "D": "web programming"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut adalah contoh browser, kecuali ....",
+    "pilihan": {
+      "A": "Microsoft Edge",
+      "B": "Google Chrome",
+      "C": "Mozilla Thunderbird",
+      "D": "Opera"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Contoh pemrograman client side adalah ....",
+    "pilihan": {
+      "A": "Javascript",
+      "B": "php",
+      "C": "asp",
+      "D": "jsp"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Nama lain dari HomePage adalah ....",
+    "pilihan": {
+      "A": "website",
+      "B": "main page",
+      "C": "search engine",
+      "D": "www"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "www merupakan singkatan dari ....",
+    "pilihan": {
+      "A": "world wipe wide",
+      "B": "world wide web",
+      "C": "world wipe web",
+      "D": "world web wide"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "SEO (search engine optimization) merupakan kegiatan ....",
+    "pilihan": {
+      "A": "mencari website",
+      "B": "menggunakan search engine",
+      "C": "mengoptimalkan website",
+      "D": "membuat search engine"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut adalah nama-nama web server yang ada saat ini, kecuali ....",
+    "pilihan": {
+      "A": "IIS",
+      "B": "Apache",
+      "C": "Nginx",
+      "D": "Link"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Sistem alamat unik untuk setiap host yang terkoneksi dalam jaringan dengan menggunakan protocol TCP/IP disebut ....",
+    "pilihan": {
+      "A": "website",
+      "B": "alamat IP",
+      "C": "browser",
+      "D": "DNS"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Tautan yang terdapat pada halaman web yang berguna untuk mengantarkan aktivitas browsing ke halaman yang lain dinamakan ....",
+    "pilihan": {
+      "A": "www",
+      "B": "hyperlink",
+      "C": "hypercard",
+      "D": "URL"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Kode yang digunakan untuk mengatur tata letak tampilan halaman web dan isinya adalah menggunakan bahasa....",
+    "pilihan": {
+      "A": "JAVA",
+      "B": "HTML",
+      "C": "visual basic",
+      "D": "C#"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Tokoh yang telah menciptakan HTML adalah",
+    "pilihan": {
+      "A": "Dave Rageett",
+      "B": "Tim Berners Lee",
+      "C": "Elizabeth",
+      "D": "Newton"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Nama program/ software yang pertama kali dibuat oleh Tim Berners Lee adalah",
+    "pilihan": {
+      "A": "www",
+      "B": "HTML",
+      "C": "Enquire",
+      "D": "hypertext"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "CERN adalah...",
+    "pilihan": {
+      "A": "lembaga bisnis",
+      "B": "organisasi sosial",
+      "C": "perusahaan telekomunikasi",
+      "D": "lembaga riset"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Diskusi terbuka tentang HTML pertama kali dilakukan pada",
+    "pilihan": {
+      "A": "1991",
+      "B": "1992",
+      "C": "1997",
+      "D": "2014"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Salah satu protocol internet yang dibuat oleh Tim Berners Les adalah",
+    "pilihan": {
+      "A": "FTP",
+      "B": "TCP/IP",
+      "C": "HTTP",
+      "D": "PHP"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "HTML2 di release pada",
+    "pilihan": {
+      "A": "1992",
+      "B": "1993",
+      "C": "1995",
+      "D": "1997"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "XHTML di release pada",
+    "pilihan": {
+      "A": "1999",
+      "B": "2000",
+      "C": "2014",
+      "D": "2015"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Nama lembaga yang mengorganisasi HTML dan www adalah",
+    "pilihan": {
+      "A": "W3C",
+      "B": "CERN",
+      "C": "Oxford",
+      "D": "Enquire"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "HTML merupakan bahasa",
+    "pilihan": {
+      "A": "pemrograman",
+      "B": "stylesheet",
+      "C": "www",
+      "D": "markup"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Berikut merupakan bagian penting dari HTML, kecuali ....",
+    "pilihan": {
+      "A": "elemen",
+      "B": "content",
+      "C": "tag",
+      "D": "input"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Bagian dalam penggalan kode berikut yang disebut sebagai tag penutup adalah .... <p>mati satu tumbuh seribu</p>",
+    "pilihan": {
+      "A": "<p>",
+      "B": "</p>mati satu tumbuh seribu",
+      "C": "</p>",
+      "D": "semua salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Bagian dalam penggalan kode berikut yang disebut sebagai content adalah .... <strong>rajin pangkal pandai</strong>",
+    "pilihan": {
+      "A": "<strong>",
+      "B": "<strong>rajin pangkal pandai</strong>",
+      "C": "rajin pangkal pandai",
+      "D": "</strong>"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Elemen <strong> mempunyai fungsi menghasilkan ....",
+    "pilihan": {
+      "A": "daftar terurut",
+      "B": "daftar tidak terurut",
+      "C": "tulisan tebal",
+      "D": "tulisan bercetak miring"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Attribute dalam elemen <meter> yang memberikan suatu nilai tertentu adalah ....",
+    "pilihan": {
+      "A": "id",
+      "B": "class",
+      "C": "value",
+      "D": "name"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Attribute dalam tabel yang berfungsi menggabungkan baris adalah ....",
+    "pilihan": {
+      "A": "colspan",
+      "B": "rowspan",
+      "C": "td",
+      "D": "tr"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Untuk menghasilkan tampilan seperti input tanggal, diperlukan elemen ....",
+    "pilihan": {
+      "A": "input dengan attribute type=\"text\"",
+      "B": "input dengan attribute type=\"calendar\"",
+      "C": "input dengan attribute type=\"submit\"",
+      "D": "input dengan attribute type=\"date\""
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Huruf atau angka kecil yang berada di bawah dan berdampingan dengan teks dikenal dengan ....",
+    "pilihan": {
+      "A": "subscript",
+      "B": "subcript",
+      "C": "elemen",
+      "D": "subelemen"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Attribute yang dimiliki oleh elemen <textarea> yang digunakan mengatur panjang dan tinggi bidangnya disebut ....",
+    "pilihan": {
+      "A": "width dan height",
+      "B": "cols dan rows",
+      "C": "tr dan td",
+      "D": "option"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Untuk menghasilkan tampilan tombol radio, diperlukan elemen ....",
+    "pilihan": {
+      "A": "input dengan attribute type=\"text\"",
+      "B": "input dengan attribute type=\"checkbox\"",
+      "C": "input dengan attribute type=\"button\"",
+      "D": "input dengan attribute type=\"radio\""
+    },
+    "jawaban": "D"
+  }
+]

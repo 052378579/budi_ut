@@ -1,0 +1,9 @@
+.leaderboard-card { border-radius: 16px; border: none; overflow: hidden; }
+
+/* Styling Khusus Elemen Visual Top 3 Juara */
+.rank-1 { background-color: #fff9e6 !important; }
+.rank-2 { background-color: #f5f5f5 !important; }
+.rank-3 { background-color: #fff0e6 !important; }
+
+.medal-icon { font-size: 1.5rem; line-height: 1; }
+.score-text { font-size: 1.25rem; font-weight: 800; }

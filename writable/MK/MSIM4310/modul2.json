@@ -1,0 +1,167 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Hal-hal berikut yang benar terkait dengan transformasi data adalah ....",
+    "pilihan": {
+      "A": "semua data pengamatan harus dilakukan transformasi data",
+      "B": "setiap analisis atau metode statistika selalu mengasumsikan data berdistribusi normal",
+      "C": "transformasi data merupakan cara untuk mengubah skala pengukuran data asli menjadi bentuk data lain yang memenuhi asumsi penggunaan analisis data",
+      "D": "pernyataan A, B, dan C tidak ada yang benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Transformasi data yang pertama kali dilakukan Tukey menggunakan ....",
+    "pilihan": {
+      "A": "pangkat (power transformation)",
+      "B": "logaritma",
+      "C": "akar",
+      "D": "jawaban A, B, dan C tidak ada yang benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut merupakan asumsi yang mendasari analisis data parametrik (regresi/ANOVA).....",
+    "pilihan": {
+      "A": "normal dan heteroskedastisitas",
+      "B": "menjulur ke kanan dan homoskedastis",
+      "C": "normal dan homoskedastis (ragam homogen)",
+      "D": "menjulur ke kiri dan heteroskedastisitas"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Jika dalam data terdapat pencilan (outlier), maka dikatakan bahwa ....",
+    "pilihan": {
+      "A": "data tersebut berdistribusi normal",
+      "B": "data tersebut berdistribusi tidak normal",
+      "C": "data tersebut bisa berdistribusi normal, bisa juga tidak normal",
+      "D": "pernyataan A, B, dan C tidak ada yang benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Jika dalam data terdapat pencilan (outlier), yang sebaiknya dilakukan adalah",
+    "pilihan": {
+      "A": "membuang data outlier karena akan merusak data",
+      "B": "membiarkan data pencilan dalam data, tapi tidak ikut dianalisis",
+      "C": "data pencilan harus diamati lebih lanjut, karena mungkin saja berguna dan merupakan data berpengaruh",
+      "D": "pernyataan A, B, dan C tidak ada yang benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Bentuk data yang tidak dapat ditransformasi secara langsung dengan Transformasi Logaritma adalah data yang terdapat ....",
+    "pilihan": {
+      "A": "angka 0",
+      "B": "angka 1",
+      "C": "angka positif",
+      "D": "bilangan sangat besar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Menurut Anda, penanganan atas data yang tidak dapat ditransformasi secara langsung dengan logaritma (terdapat angka 0) adalah....",
+    "pilihan": {
+      "A": "setiap data ditambah 1",
+      "B": "data yang bermasalah ditambah 1",
+      "C": "data dihapus",
+      "D": "jawaban A, B, dan C benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Setelah data ditambah 1 untuk mengatasi nilai 0 sebelum transformasi logaritma, penanganan ini berpengaruh terhadap analisis pada tahap ....",
+    "pilihan": {
+      "A": "Saat Pengumpulan Data",
+      "B": "Saat Pembentukan Model",
+      "C": "Saat Interpretasi Model",
+      "D": "jawaban A, B, dan C benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Permasalahan tidak bisa memproses angka 0 juga dialami oleh bentuk transformasi ...",
+    "pilihan": {
+      "A": "Transformasi x' = 1/x (reciprocal)",
+      "B": "Transformasi x' = x²",
+      "C": "Transformasi x' = √x",
+      "D": "jawaban A, B, dan C benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Bentuk data yang tidak bisa dilakukan transformasi dengan transformasi akar (square root) adalah data yang terdapat ....",
+    "pilihan": {
+      "A": "angka 0",
+      "B": "angka 1",
+      "C": "angka negatif",
+      "D": "bilangan sangat besar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Jika diketahui suatu persamaan regresi hasil transformasi data adalah y = 0.846 - 0.079 * ln(x), jika diketahui nilai x adalah 5 (ln(5) ≈ 1.609), maka nilai y adalah.....",
+    "pilihan": {
+      "A": "0.846",
+      "B": "-0.079",
+      "C": "0.719",
+      "D": "0.791"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Jika diketahui persamaan regresi hasil transformasi log-log adalah ln(y) = 4.386 - 0.401 * ln(x). Jika x=1 (ln(1)=0), maka ln(y)=4.386. Berapakah estimasi nilai asli y? (y = e^4.386)",
+    "pilihan": {
+      "A": "4.386",
+      "B": "-0.401",
+      "C": "3.985",
+      "D": "53.785"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Jika diketahui suatu persamaan regresi hasil transformasi reciprocal adalah y = 2.979 - 6.935/x. Jika diketahui nilai x adalah 0, maka nilai y adalah .....",
+    "pilihan": {
+      "A": "2.979",
+      "B": "-6.935",
+      "C": "∞",
+      "D": "tidak terdefinisi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Dari beberapa pernyataan mengenai transformasi data berikut, pernyataan yang benar adalah....",
+    "pilihan": {
+      "A": "model yang dibuat dari data hasil transformasi selalu lebih baik dibandingkan model yang dibuat dari data yang tidak ditransformasi",
+      "B": "model hasil transformasi perlu berhati-hati dalam interpretasi, karena perlu disesuaikan kembali dengan bentuk aslinya (back transform)",
+      "C": "transformasi data merupakan satu-satunya cara untuk menangani data tidak berhubungan linier",
+      "D": "jawaban A, B, dan C benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika hubungan antara dua buah peubah y dan x pada diagram pencar menunjukkan pola pertumbuhan eksponensial (melengkung tajam ke atas), bentuk transformasi yang tepat digunakan pada y adalah ....",
+    "pilihan": {
+      "A": "akar",
+      "B": "kuadrat",
+      "C": "logaritma (semi-log)",
+      "D": "reciprocal"
+    },
+    "jawaban": "C"
+  }
+]

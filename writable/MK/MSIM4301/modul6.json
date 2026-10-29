@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Layanan pada server yang berfungsi untuk menerima permintaan HTTP atau HTTPS dari klien dan mengirimkan kembali respons berupa halaman web adalah ....",
+    "pilihan": {
+      "A": "Database Server",
+      "B": "Web Server",
+      "C": "Mail Server",
+      "D": "DNS Server"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Port default (standar) yang digunakan oleh layanan HTTP untuk komunikasi tidak terenkripsi adalah ....",
+    "pilihan": {
+      "A": "21",
+      "B": "22",
+      "C": "80",
+      "D": "443"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Port default yang digunakan oleh protokol HTTPS yang mendukung komunikasi terenkripsi adalah ....",
+    "pilihan": {
+      "A": "80",
+      "B": "443",
+      "C": "8080",
+      "D": "21"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berikut ini adalah contoh perangkat lunak Web Server yang paling banyak digunakan di sistem operasi Linux, kecuali ....",
+    "pilihan": {
+      "A": "Apache",
+      "B": "Nginx",
+      "C": "LiteSpeed",
+      "D": "Microsoft IIS"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Mekanisme pada web server yang memungkinkan satu mesin fisik untuk melayani lebih dari satu nama domain (website) disebut ....",
+    "pilihan": {
+      "A": "Virtual Host",
+      "B": "Subdomain",
+      "C": "DNS Forwarding",
+      "D": "Port Forwarding"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Direktori default (DocumentRoot) untuk menyimpan file-file website pada instalasi Apache di distribusi berbasis Red Hat/CentOS adalah ....",
+    "pilihan": {
+      "A": "/var/www/html",
+      "B": "/usr/share/nginx/html",
+      "C": "/home/web",
+      "D": "/etc/httpd"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Sintaks untuk memulai (start) layanan web server Apache pada sistem operasi berbasis sistemd (CentOS 7+) adalah ....",
+    "pilihan": {
+      "A": "systemctl start apache2",
+      "B": "systemctl start httpd",
+      "C": "service apache start",
+      "D": "systemctl enable httpd"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "File konfigurasi utama dari web server Apache di lingkungan CentOS/RHEL umumnya berlokasi di ....",
+    "pilihan": {
+      "A": "/etc/httpd/conf/httpd.conf",
+      "B": "/etc/apache2/apache2.conf",
+      "C": "/var/www/httpd.conf",
+      "D": "/etc/nginx/nginx.conf"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Teknologi yang membungkus lalu lintas HTTP dengan enkripsi SSL/TLS sehingga data aman dari penyadapan adalah ....",
+    "pilihan": {
+      "A": "FTP",
+      "B": "HTTPS",
+      "C": "SSH",
+      "D": "Telnet"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Untuk mengetahui status apakah layanan httpd sedang berjalan atau berhenti, perintah yang digunakan adalah ....",
+    "pilihan": {
+      "A": "systemctl status httpd",
+      "B": "systemctl check httpd",
+      "C": "service httpd test",
+      "D": "httpd -v"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Perangkat lunak open source yang berfungsi sebagai Database Management System (DBMS) relasional dan sering dipasangkan dengan Apache dan PHP adalah ....",
+    "pilihan": {
+      "A": "MongoDB",
+      "B": "Redis",
+      "C": "MariaDB / MySQL",
+      "D": "Cassandra"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Perintah dasar SQL yang digunakan untuk menampilkan seluruh data dari sebuah tabel bernama 'mahasiswa' adalah ....",
+    "pilihan": {
+      "A": "SHOW ALL FROM mahasiswa;",
+      "B": "SELECT * FROM mahasiswa;",
+      "C": "DISPLAY * FROM mahasiswa;",
+      "D": "GET ALL FROM mahasiswa;"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Query SQL yang berfungsi untuk membuat sebuah basis data baru adalah ....",
+    "pilihan": {
+      "A": "CREATE DATABASE nama_db;",
+      "B": "MAKE DATABASE nama_db;",
+      "C": "NEW DATABASE nama_db;",
+      "D": "BUILD DATABASE nama_db;"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Untuk masuk ke dalam antarmuka command line MySQL/MariaDB sebagai pengguna 'root' dengan prompt kata sandi, perintahnya adalah ....",
+    "pilihan": {
+      "A": "mysql root",
+      "B": "mysql -u root -p",
+      "C": "login mysql root",
+      "D": "mysql login -u root"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Perintah yang digunakan untuk menghapus sebuah tabel beserta struktur dan datanya dari basis data adalah ....",
+    "pilihan": {
+      "A": "DELETE TABLE nama_tabel;",
+      "B": "REMOVE TABLE nama_tabel;",
+      "C": "DROP TABLE nama_tabel;",
+      "D": "TRUNCATE TABLE nama_tabel;"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Dalam sistem MariaDB/MySQL, untuk melihat daftar hak akses (privileges) yang dimiliki oleh pengguna tertentu, query yang digunakan adalah ....",
+    "pilihan": {
+      "A": "SHOW GRANTS;",
+      "B": "SHOW PRIVILEGES;",
+      "C": "DISPLAY GRANTS;",
+      "D": "SELECT PRIVILEGES;"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Apa maksud dari karakter '%' dalam memberikan hak akses user database MySQL (contoh: 'admin'@'%')?",
+    "pilihan": {
+      "A": "User hanya bisa login dari localhost",
+      "B": "User bisa login dari alamat IP mana saja",
+      "C": "User tidak diizinkan login",
+      "D": "User hanya memiliki hak akses baca (Read-Only)"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Perintah utilitas Linux yang sering digunakan untuk melakukan pencadangan (backup) seluruh isi basis data MySQL ke dalam sebuah file .sql adalah ....",
+    "pilihan": {
+      "A": "mysqlbackup",
+      "B": "mysqldump",
+      "C": "mysqlsave",
+      "D": "mysql_export"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Sebuah utilitas penjadwalan otomatis di Linux yang bisa dimanfaatkan administrator untuk menjalankan script backup database secara harian/mingguan adalah ....",
+    "pilihan": {
+      "A": "systemd",
+      "B": "crontab (cron)",
+      "C": "bash",
+      "D": "rsyslog"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Kumpulan data yang diorganisasikan secara logis dan disimpan dalam tabel-tabel yang saling berelasi di dalam server disebut sebagai ....",
+    "pilihan": {
+      "A": "Sistem Operasi",
+      "B": "Basis Data (Database)",
+      "C": "Web Server",
+      "D": "DNS Zone"
+    },
+    "jawaban": "B"
+  }
+]

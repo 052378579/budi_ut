@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Hak akses yang memiliki kemampuan untuk membaca, menulis, mengubah, dan menghapus file dan subfolder ....",
+    "pilihan": {
+      "A": "full control @",
+      "B": "read",
+      "C": "write",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut merupakan hak akses yang terdapat pada folder sharing permission, kecuali ....",
+    "pilihan": {
+      "A": "full control",
+      "B": "change",
+      "C": "modify @",
+      "D": "read"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Hak akses default yang terpasang pada sharing folder pada sistem operasi Windows adalah ....",
+    "pilihan": {
+      "A": "everyone – read @",
+      "B": "everyone – full control",
+      "C": "everyone – modify",
+      "D": "everyone - write"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "User1 merupakan anggota dari Object Group X yang memiliki hak akses Change pada share permission dan Read pada NTFS permission, maka hak akses yang akan dimiliki oleh User1 adalah ....",
+    "pilihan": {
+      "A": "change",
+      "B": "read @",
+      "C": "write",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Sintak yang digunakan untuk membuat atau mengubah hak akses terhadap suatu file atau direktori adalah ....",
+    "pilihan": {
+      "A": "chmod @",
+      "B": "chown",
+      "C": "getfacl",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Sintak chown digunakan untuk ....",
+    "pilihan": {
+      "A": "mengubah hak akses suatu file atau direktori",
+      "B": "mengubah kepemilikan file atau direktori @",
+      "C": "memasang access list control",
+      "D": "mengubah nama file atau direktori"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Anda akan memasangkan hak akses pada folder1 bagi: pemilik file : read, write dan execute, group : read dan execute, other : read dan execute. Pemasangan chmod yang sesuai dengan maksud tersebut adalah ....",
+    "pilihan": {
+      "A": "#chmod 755 folder1",
+      "B": "#chmod 756 folder1",
+      "C": "#chmod 755 folder01",
+      "D": "#chmod 775 folder1"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berikut sintak yang digunakan untuk melakukan verifikasi pemasangan hak akses mode ACL adalah ....",
+    "pilihan": {
+      "A": "setfacl",
+      "B": "getacl",
+      "C": "setacl",
+      "D": "getfacl @"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Sudo merupakan salah satu contoh file executable yang memiliki hak akses khusus ....",
+    "pilihan": {
+      "A": "sticky",
+      "B": "setuid @",
+      "C": "getid",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Tampilan berikut ini -rwxrwxrwt. 1 user10 user10 6 Apr 21 16:56 file1.txt Menandai bahwa file1.txt terpasang hak akses khusus ....",
+    "pilihan": {
+      "A": "sticky @",
+      "B": "setuid",
+      "C": "getid",
+      "D": "jawaban A, B, dan C salah"
+    },
+    "jawaban": "A"
+  }
+]

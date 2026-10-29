@@ -1,0 +1,222 @@
+[
+    {
+        "no": 1,
+        "pertanyaan": "Class yang mempunyai sedikitnya satu abstract method disebut ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "class",
+            "C": "multiple interface",
+            "D": "implementasi"
+        },
+        "jawaban": "A"
+    },
+    {
+        "no": 2,
+        "pertanyaan": "Kumpulan dari method-method yang belum terdapat operasi di dalam tubuh method tersebut disebut ...",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "inheritance",
+            "C": "interface",
+            "D": "Method abstract"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 3,
+        "pertanyaan": "Diketahui\n1 public abstract class Hewan{\n2 abstract void setNama();\n3 abstract void setMakanan();\n4 }\nYang termasuk abstrak class ....",
+        "pilihan": {
+            "A": "Hewan",
+            "B": "setNama",
+            "C": "SetMakanan",
+            "D": "Viod"
+        },
+        "jawaban": "A"
+    },
+    {
+        "no": 4,
+        "pertanyaan": "Yang termasuk abstrak method....",
+        "pilihan": {
+            "A": "Hewan",
+            "B": "Public",
+            "C": "SetMakanan",
+            "D": "Void"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 5,
+        "pertanyaan": "User akan menerima informasi mengenai apa yang dapat dilakukan oleh suatu objek namun user tidak akan mengetahui bagaimana objek itu melakukannya, disebut dengan ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "abstraction",
+            "C": "interface",
+            "D": "method abstract"
+        },
+        "jawaban": "B"
+    },
+    {
+        "no": 6,
+        "pertanyaan": "Method yang tidak memiliki implementasi atau tidak ada bentuk konkritnya, disebut dengan ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "abstraction",
+            "C": "interface",
+            "D": "method abstract"
+        },
+        "jawaban": "D"
+    },
+    {
+        "no": 7,
+        "pertanyaan": "Mempunyai fungsi sebagai penghubung antara sesuatu yang abstrak dengan sesuatu yang nyata adalah pengertian dari ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "abstraction",
+            "C": "interface",
+            "D": "method"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 8,
+        "pertanyaan": "Penggunaan modifier private dan protected tidak diperbolehkan pada ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "abstraction",
+            "C": "interface",
+            "D": "method"
+        },
+        "jawaban": "D"
+    },
+    {
+        "no": 9,
+        "pertanyaan": "Properti dan variabel hanya dapat dibuat pada ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "abstraction",
+            "C": "interface",
+            "D": "method"
+        },
+        "jawaban": "A"
+    },
+    {
+        "no": 10,
+        "pertanyaan": "Penggunaan modifier private dan protected hanya diperbolehkan pada ....",
+        "pilihan": {
+            "A": "abstract class",
+            "B": "abstraction",
+            "C": "interface",
+            "D": "method"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 11,
+        "pertanyaan": "Suatu kelas dapat diturunkan dari kelas yang lain, di mana atribut dari kelas semula dapat diwariskan ke kelas yang baru adalah prinsip ....",
+        "pilihan": {
+            "A": "abstraksi",
+            "B": "enkapsulasi",
+            "C": "inheritance",
+            "D": "polymorphism"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 12,
+        "pertanyaan": "Keyword yang digunakan untuk mengaplikasikan konsep pewarisan adalah ....",
+        "pilihan": {
+            "A": "This",
+            "B": "Super",
+            "C": "Dinamic",
+            "D": "Extends"
+        },
+        "jawaban": "D"
+    },
+    {
+        "no": 13,
+        "pertanyaan": "Kemampuan suatu subclass untuk memodifikasi data dan method dari kelas induknya disebut dengan ....",
+        "pilihan": {
+            "A": "overriding",
+            "B": "Inheritance",
+            "C": "polymorphism",
+            "D": "encapsulation"
+        },
+        "jawaban": "A"
+    },
+    {
+        "no": 14,
+        "pertanyaan": "Modifier final pada kelas class berarti ....",
+        "pilihan": {
+            "A": "kelas tersebut adalah konstanta",
+            "B": "kelas tersebut tidak dapat di override oleh kelas class lain",
+            "C": "kelas tersebut tidak dapat diturunkan menjadi subclass",
+            "D": "kelas tersebut tidak dapat diakses oleh kelas lain"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 15,
+        "pertanyaan": "Diketahui potongan kode program sebagai berikut.\n1 class Laptop extends Gadget{\n2 public static void main(String[] args){\n3 //method main\n4 }\n5 }\nGadget pada kode program merupakan ....",
+        "pilihan": {
+            "A": "class anak",
+            "B": "objek",
+            "C": "class Parent",
+            "D": "modifier"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 16,
+        "pertanyaan": "Pada soal no. 5, Laptop merupakan ....",
+        "pilihan": {
+            "A": "class anak",
+            "B": "objek",
+            "C": "class Parent",
+            "D": "modifier"
+        },
+        "jawaban": "A"
+    },
+    {
+        "no": 17,
+        "pertanyaan": "Property dan method dari class induk tidak akan dapat diturunkan. Hal ini merupakan prinsip kerja ....",
+        "pilihan": {
+            "A": "private",
+            "B": "protected",
+            "C": "default",
+            "D": "modifier"
+        },
+        "jawaban": "A"
+    },
+    {
+        "no": 18,
+        "pertanyaan": "Property dan method yang bisa diakses dari class anak, merupakan prinsip kerja ....",
+        "pilihan": {
+            "A": "private",
+            "B": "protected",
+            "C": "default",
+            "D": "modifier"
+        },
+        "jawaban": "B"
+    },
+    {
+        "no": 19,
+        "pertanyaan": "Mendefinisikan kembali method yang sama, baik nama method maupun parameter yang diperlukan dalam subclass disebut dengan ....",
+        "pilihan": {
+            "A": "Method Overloading",
+            "B": "Method Override",
+            "C": "Method Overriding",
+            "D": "Method Overload"
+        },
+        "jawaban": "C"
+    },
+    {
+        "no": 20,
+        "pertanyaan": "Jika kita akan mengakses member private dari luar class, maka kita harus menggunakan ....",
+        "pilihan": {
+            "A": "Method Overloading",
+            "B": "Method Setter dan Getter",
+            "C": "Method Overriding",
+            "D": "Method Modifier public"
+        },
+        "jawaban": "B"
+    }
+]

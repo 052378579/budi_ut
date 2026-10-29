@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Aktor yang tidak terlibat dalam sistem pelaporan adalah ....",
+    "pilihan": {
+      "A": "departemen akuntansi",
+      "B": "bendahara",
+      "C": "pegawai",
+      "D": "manajemen"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Fungsi departemen lainnya dalam sistem pelaporan adalah",
+    "pilihan": {
+      "A": "pengumpulan bukti transaksi",
+      "B": "membuatkan laporan pemasukan",
+      "C": "membuatkan laporan keuangan",
+      "D": "membuatkan laporan manajerial"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Aktor yang menyusun laporan manajerial adalah",
+    "pilihan": {
+      "A": "bendahara",
+      "B": "departemen akuntansi",
+      "C": "manajemen",
+      "D": "departemen lainnya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Tahap selanjutnya yang harus dilakukan terhadap akun yang tidak perlu dibuatkan jurnal penyesuaian adalah",
+    "pilihan": {
+      "A": "membuat laporan keuangan",
+      "B": "membuat laporan manajerial",
+      "C": "mencetak saldo akun",
+      "D": "update data buku besar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Aktor yang berfungsi melakukan pencatatan terhadap seluruh transaksi di perusahaan adalah",
+    "pilihan": {
+      "A": "bendahara",
+      "B": "departemen akuntansi",
+      "C": "manajemen",
+      "D": "departemen lainnya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Fungsi bendahara dalam otorisasi bukti transaksi adalah ....",
+    "pilihan": {
+      "A": "membuat laporan keuangan manajerial",
+      "B": "mencetak saldo akun",
+      "C": "mengumpulkan dan mengeluarkan uang perusahaan",
+      "D": "membuat laporan pemasukan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Memberikan informasi mengenai jumlah anggaran merupakan salah satu dari fungsi dari ....",
+    "pilihan": {
+      "A": "sistem informasi akuntansi",
+      "B": "sistem anggaran",
+      "C": "sistem pengeluaran",
+      "D": "sistem pelaporan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Laporan yang digunakan untuk memberikan informasi kepada manajemen mengenai performa perusahaan secara keseluruhan adalah ....",
+    "pilihan": {
+      "A": "laporan performa",
+      "B": "laporan kinerja perusahaan",
+      "C": "laporan akuntansi",
+      "D": "laporan manajerial"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Tujuan manajemen menerima dan mempelajari laporan yang dihasilkan dari sistem pelaporan adalah",
+    "pilihan": {
+      "A": "pengendalian detektif",
+      "B": "pengambilan keputusan",
+      "C": "penyusunan jurnal penyesuaian",
+      "D": "departemen lainnya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Sistem yang memainkan peran sentral dari sistem informasi akuntansi perusahaan adalah",
+    "pilihan": {
+      "A": "sistem buku besar dan pelaporan",
+      "B": "sistem pengeluaran",
+      "C": "sistem pengendalian internal",
+      "D": "sistem penggajian"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Fungsi utama dari aktivitas update buku besar adalah",
+    "pilihan": {
+      "A": "membuat jurnal penyesuaian",
+      "B": "membuat laporan keuangan",
+      "C": "membuat laporan manajerial",
+      "D": "memperbarui catatan transaksi yang ada pada buku besar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut ini yang bukan kategori dasar pada jurnal penyesuaian adalah ....",
+    "pilihan": {
+      "A": "akrual",
+      "B": "perkiraan",
+      "C": "penilaian ulang",
+      "D": "penyetoran"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Berikut ini yang bukan fungsi dari anggaran adalah",
+    "pilihan": {
+      "A": "dibandingkan dengan kinerja aktual",
+      "B": "pengambilan keputusan pengeluaran yang diutamakan",
+      "C": "membuat jurnal penyesuaian",
+      "D": "sebagai perkiraan besar pengeluaran setiap periode"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Anggaran yang memperlihatkan perkiraan aliran masuk dan keluar kas adalah anggaran",
+    "pilihan": {
+      "A": "arus kas",
+      "B": "anggaran pengeluaran modal",
+      "C": "anggaran neraca",
+      "D": "anggaran kinerja"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Laporan kinerja yang membandingkan penjualan aktual dengan prediksi penjualan adalah tipikal dari laporan kinerja berdasarkan pusat ....",
+    "pilihan": {
+      "A": "biaya",
+      "B": "pengeluaran",
+      "C": "anggaran",
+      "D": "pendapatan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Mewakili jurnal yang dibuat untuk mencerminkan perbedaan nilai yang sesungguhnya dengan yang dicatat atas suatu aset atau perubahan dalam prinsip akuntansi merupakan jurnal penyesuaian kategori .....",
+    "pilihan": {
+      "A": "perbaikan",
+      "B": "penilaian ulang",
+      "C": "akrual",
+      "D": "perkiraan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Kategori jurnal penyesuaian yang mencerminkan jurnal yang dibuat pada akhir periode akuntansi untuk mencerminkan pertukaran kas sebelum kinerja kegiatan terkait adalah ....",
+    "pilihan": {
+      "A": "pembayaran di muka",
+      "B": "akrual",
+      "C": "perkiraan",
+      "D": "koreksi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Neraca saldo disesuaikan bertindak sebagai input ke langkah berikutnya dalam siklus pelaporan, yaitu",
+    "pilihan": {
+      "A": "pembuatan laporan keuangan",
+      "B": "pembuatan jurnal penyesuaian",
+      "C": "pembuatan laporan manajerial",
+      "D": "pembuatan anggaran kinerja"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Fungsi utama dari bagian akuntansi adalah",
+    "pilihan": {
+      "A": "mengotorisasi dan melakukan transaksi",
+      "B": "mencatat dan melaporkan transaksi",
+      "C": "mencatat dan melakukan transaksi",
+      "D": "mengotorisasi dan melaporkan transaksi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Kategori jurnal penyesuaian ewakili jurnal yang dibuat untuk meniadakan pengaruh kesalahan yang ditemukan dalam buku besar adalah ....",
+    "pilihan": {
+      "A": "pembayaran di muka",
+      "B": "akrual",
+      "C": "perbaikan",
+      "D": "perkiraan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Pemeriksaan validitas merupakan upaya pengendalian untuk mengatasi risiko ....",
+    "pilihan": {
+      "A": "kesalahan dalam proses update buku besar",
+      "B": "akses tanpa otorisasi ke buku besar",
+      "C": "kehilangan data buku besar",
+      "D": "pesanan pelanggan yang tidak lengkap"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Risiko yang dapat timbul karena masalah akses tanpa otorisasi ke buku besar adalah ....",
+    "pilihan": {
+      "A": "pembuatan keputusan yang tidak benar",
+      "B": "kebocoran data rahasia ke pihak lain",
+      "C": "hilangnya data aktivitas keuangan",
+      "D": "hilangnya data buku besar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Upaya pengendalian yang dapat dilakukan untuk menghindari risiko kehilangan data buku besar adalah ...",
+    "pilihan": {
+      "A": "laporan rekonsiliasi dan pengendalian",
+      "B": "pemeliharaan jejak audit",
+      "C": "penggunaan username dan password",
+      "D": "menyediakan data cadangan (back-up)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Laporan yang dapat digunakan untuk mendeteksi kesalahan selama proses pembaruan buku besar adalah laporan ....",
+    "pilihan": {
+      "A": "keuangan",
+      "B": "manajerial",
+      "C": "realisasi anggaran",
+      "D": "rekonsiliasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Berikut ini yang bukan termasuk kelompok gangguan yang tidak dapat diprediksi terhadap risiko kehilangan data buku besar adalah ....",
+    "pilihan": {
+      "A": "banjir",
+      "B": "kebakaran",
+      "C": "pencurian",
+      "D": "gempa bumi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Suatu sistem akuntansi yang disusun sehingga pengumpulan dan pelaporan biaya dan pendapatan dilakukan sesuai dengan pusat pertanggungjawaban dalam organisasi adalah",
+    "pilihan": {
+      "A": "sistem pelaporan",
+      "B": "sistem pengendalian internal",
+      "C": "akuntansi pertanggungjawaban",
+      "D": "sistem pengeluaran"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Anggaran yang memungkinkan suatu perusahaan untuk menghitung perkiraan biaya dalam suatu tingkat aktivitas atau output yang terjadi adalah",
+    "pilihan": {
+      "A": "anggaran fleksibel",
+      "B": "anggaran perusahaan",
+      "C": "realisasi anggaran",
+      "D": "anggaran prediktif"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Laporan keuangan yang tidak akurat dapat dicegah dengan melakukan upaya ....",
+    "pilihan": {
+      "A": "pengendalian edit input",
+      "B": "training PSAK",
+      "C": "back-up",
+      "D": "otomatisasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Dampak perancangan laporan yang buruk pada manajemen adalah manajer dapat melakukan",
+    "pilihan": {
+      "A": "kecurangan",
+      "B": "penipuan",
+      "C": "pencurian",
+      "D": "keputusan yang salah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Jejak setiap transaksi di sepanjang sistem akuntansi yang memberikan informasi yang dibutuhkan untuk menelusuri semua perubahan yang dibuat atas buku besar adalah jejak",
+    "pilihan": {
+      "A": "audit",
+      "B": "akuntansi",
+      "C": "kesalahan",
+      "D": "buku besar"
+    },
+    "jawaban": "A"
+  }
+]

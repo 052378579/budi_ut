@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Tentukan perintah for berikut di mana blok perintahnya dijalankan sebanyak 10 kali ....",
+    "pilihan": {
+      "A": "For(int x=1; x<=9; x++) { }",
+      "B": "For(int x=0; x<=10; x++) { }",
+      "C": "For(int x=10; x>=1; x-) { }",
+      "D": "For(int x=10; x>0; x-) { }"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Untuk soal no. 2 dan 3, perhatikan potongan program berikut.\n\npublic class Break {\n  public static void main( String args[] ) {\n    String cetak = \"\";\n    int x;\n    for ( x = 1; x <= 10; x++ ) {\n      if ( x == 5 )\n        break;\n      cetak = cetak + x + \" \";\n    }\n    System.out.println(cetak);\n  }\n}\n\nJika potongan program di atas dijalankan maka akan menghasilkan keluaran ....",
+    "pilihan": {
+      "A": "1 2 3 4",
+      "B": "1 2 3 4 5",
+      "C": "1 2 3 4 5 6 7 8 9 10",
+      "D": "1 2 3 4 5 1 2 3 4 5"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Jika baris ke-7 dari program diubah dengan perintah continue; maka akan menghasilkan keluaran ....",
+    "pilihan": {
+      "A": "1 2 3 4",
+      "B": "1 2 3 4 5",
+      "C": "1 2 3 4 6 7 8 9 10",
+      "D": "1 2 3 4 5 6 7 8 9 10"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Struktur perintah yang BUKAN berupa merupakan perulangan (looping) adalah ....",
+    "pilihan": {
+      "A": "For",
+      "B": "Do-While",
+      "C": "While",
+      "D": "If"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Perulangan yang jumlah perulangannya dapat dihitung adalah ....",
+    "pilihan": {
+      "A": "Counted loop",
+      "B": "Uncounted loop",
+      "C": "Do-While",
+      "D": "While"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dalam merancang perulangan for, setidaknya harus diketahui 3 komponen terkait kondisi berikut ini, kecuali ....",
+    "pilihan": {
+      "A": "awal perulangan",
+      "B": "pada saat perulangan",
+      "C": "akhir perulangan",
+      "D": "yang harus dipenuhi agar perulangan berhenti"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Diketahui potongan program sebagai berikut.\n\npublic class Belajar {\n  public static void main(String args[]){\n    int i ;\n    for(i = 1; i < 5; i++) {\n      System.out.println(\"Hallo\");\n    }\n  }\n}\n\nPotongan program di atas, akan menampilkan tulisan Hallo sebanyak ....",
+    "pilihan": {
+      "A": "5",
+      "B": "1",
+      "C": "4",
+      "D": "6"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Jika baris ke 4 dari soal no. 7 diganti dengan\n\nFor (i=1; i<=5; i++) {\n\nmaka hasilnya akan menampilkan tulisan Hallo sebanyak ....",
+    "pilihan": {
+      "A": "5",
+      "B": "1",
+      "C": "4",
+      "D": "6"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Diketahui potongan program sebagai berikut.\n\npublic class Belajar {\n  public static void main(String args[]){\n    int i ;\n    for (i = 1; i <=5; i++) {\n      System.out.print (i*3 + \" \");\n    }\n  }\n}\n\nPotongan program tersebut, akan menghasilkan....",
+    "pilihan": {
+      "A": "3 6 9 12 15 18",
+      "B": "3 6 9 12 15",
+      "C": "1 3 6 9 12",
+      "D": "1 3 6 9"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Jika baris ke 4 pada soal no. 9 diganti menjadi\n\nFor (i=1; i<5; i++) {\n\nmaka hasilnya adalah ....",
+    "pilihan": {
+      "A": "3 6 9 12 15",
+      "B": "3 6 9 12",
+      "C": "1 3 6 9",
+      "D": "d. 1 3 6"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Diberikan penggalan perintah berikut.\n\nwhile (x > 7)\n  x--;\ncout << x;\n\nApabila nilai awal variabel x adalah 9, maka nilai yang ditampilkan berturut-turut adalah ....",
+    "pilihan": {
+      "A": "9, 8, 7",
+      "B": "9, 8",
+      "C": "9",
+      "D": "8, 7"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Diberikan penggalan perintah berikut.\n\ndo\n  cout << x;\n  x--;\nwhile (x < 7)\n\nApabila nilai awal x adalah 9, maka nilai yang ditampilkan berturut-turut adalah ....",
+    "pilihan": {
+      "A": "9, 8, 7,6",
+      "B": "9, 8 ,7",
+      "C": "9",
+      "D": "8, 7"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Diberikan penggalan perintah:\n\ndo\n  x--;\n  cout << x;\nwhile (x > 7)\n\nApabila nilai awal x adalah 9, maka nilai yang ditampilkan berturut-turut adalah ....",
+    "pilihan": {
+      "A": "9, 8, 7",
+      "B": "9, 8",
+      "C": "9",
+      "D": "8, 7"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Suatu bentuk perulangan yang posisi pemeriksaan kondisinya berada di akhir perulangan adalah ....",
+    "pilihan": {
+      "A": "For",
+      "B": "Do-While",
+      "C": "While",
+      "D": "If"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Struktur perulangan yang melakukan pemeriksaan kondisi di awal blok perulangan adalah ....",
+    "pilihan": {
+      "A": "For",
+      "B": "Do-While",
+      "C": "While",
+      "D": "If"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Diketahui potongan kode program sebagai berikut.\n\nclass Belajar {\n  public static void main(String args[]){\n    int i = 1;\n    while (i <= 5) {\n      System.out.println(\"Hello\");\n      i++;\n    }\n  }\n}\n\nKode program tersebut akan mencetak Hello sebanyak ....",
+    "pilihan": {
+      "A": "5 kali",
+      "B": "4 kali",
+      "C": "1 kali",
+      "D": "6 kali"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Diketahui potongan kode program sebagai berikut.\n\nclass Belajar {\n  public static void main(String args[]){\n    int i = 1;\n    while (i <= 5) {\n      System.out.println(\"Hello\");\n    }\n  }\n}\n\nKode program tersebut akan mencetak tulisan Hello sebanyak ....",
+    "pilihan": {
+      "A": "5 kali",
+      "B": "4 kali",
+      "C": "1 kali",
+      "D": "Program akan berjalan terus menerus"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Diketahui potongan kode program sebagai berikut.\n\nclass BelajarJava {\n  public static void main(String args[]){\n    int i = 10;\n    while (i <= 5) {\n      System.out.println(\"Hello\" + i);\n      i++;\n    }\n  }\n}\n\nPotongan kode program tersebut akan menghasilkan tulisan Hello sebanyak ....",
+    "pilihan": {
+      "A": "5 kali",
+      "B": "4 kali",
+      "C": "Tidak ada hasilnya",
+      "D": "Program akan berjalan terus menerus"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Diketahui potongan kode program sebagai berikut.\n\nclass Belajar {\n  public static void main(String args[]){\n    int i = 1;\n    do {\n      System.out.print(i*3 + \" \");\n      i++;\n    }\n    while (i <= 5);\n  }\n}\n\nPotongan kode program tersebut akan menghasilkan deret bilangan ....",
+    "pilihan": {
+      "A": "1 3 6 9 12 15",
+      "B": "3 6 9 12 15",
+      "C": "1 3 6 9 12",
+      "D": "3 6 9 12 15"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Diketahui potongan kode program sebagai berikut.\n\nclass BelajarJava {\n  public static void main(String args[]){\n    int i = 10;\n    do {\n      System.out.print(i*3 + \" \");\n      i++;\n    }\n    while (i <= 5);\n  }\n}\n\nPotongan kode program di atas akan menghasilkan bilangan ....",
+    "pilihan": {
+      "A": "1",
+      "B": "5",
+      "C": "30",
+      "D": "4"
+    },
+    "jawaban": "C"
+  }
+]

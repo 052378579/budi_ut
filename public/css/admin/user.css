@@ -1,0 +1,23 @@
+.user-container {
+    padding-top: 100px;
+}
+
+.search-wrapper {
+    border-radius: 20px; 
+    overflow: hidden;
+}
+
+.phone-badge {
+    background: #f1f5f9; 
+    padding: 4px 8px; 
+    border-radius: 6px; 
+    color: #475569;
+}
+
+.pagination-prev {
+    border-radius: 20px 0 0 20px;
+}
+
+.pagination-next {
+    border-radius: 0 20px 20px 0;
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan pengertian informasi keruangan?",
+    "pilihan": {
+      "A": "Data/informasi keruangan adalah data/informasi yang dihasilkan hanya dari ilmu pengetahuan tertentu dan tidak berhubungan dengan ruang muka bumi.",
+      "B": "Data/informasi keruangan adalah data/informasi yang dihasilkan dari berbagai ilmu pengetahuan dan tidak berhubungan dengan ruang muka bumi.",
+      "C": "Data/informasi keruangan adalah data/informasi yang dihasilkan dari berbagai ilmu pengetahuan dan berhubungan dengan ruang muka bumi.",
+      "D": "Data/informasi keruangan adalah data/informasi yang dihasilkan hanya dari ilmu pengetahuan tertentu dan berhubungan dengan ruang muka bumi."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Salah satu ciri khas informasi keruangan adalah hanya dapat menjawab pertanyaan where is it.",
+      "B": "Salah satu ciri khas informasi keruangan adalah hanya dapat menjawab pertanyaan in which direction is it facing.",
+      "C": "Salah satu ciri khas informasi keruangan adalah hanya dapat menjawab pertanyaan what form is it.",
+      "D": "Salah satu ciri khas informasi keruangan adalah dapat menjawab pertanyaan where is it."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Aspek yang dapat membedakan suatu data/informasi disebut sebagai data/informasi keruangan atau bukan adalah ....",
+    "pilihan": {
+      "A": "aspek kuantitas",
+      "B": "aspek lokasi",
+      "C": "aspek bentuk objek",
+      "D": "aspek simbol dan warna"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Unsur utama yang dapat membedakan suatu ilustrasi disebut gambar atau peta adalah ....",
+    "pilihan": {
+      "A": "unsur judul",
+      "B": "unsur skala",
+      "C": "unsur legenda",
+      "D": "unsur arah mata angin"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Sebagai media dalam sistem informasi geografis, cara penyajian informasi geografis harus berbentuk ....",
+    "pilihan": {
+      "A": "gambar",
+      "B": "gambar dan peta",
+      "C": "peta",
+      "D": "skema"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Dari pengertian di bawah ini, manakah yang paling tepat?\n(1) Data/informasi keruangan adalah data/informasi yang dihasilkan hanya dari ilmu pengetahuan tertentu dan tidak berhubungan dengan ruang muka bumi.\n(2) Informasi keruangan selalu terkait dengan aspek lokasi.\n(3) Salah satu ciri khas informasi keruangan adalah dapat menjawab pertanyaan \"di mana\".",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Di permukaan bumi, karakteristik objek ditentukan oleh salah satu atau kombinasi dari tiga parameter: (1) location (where is it), (2) shape (what form is it), (3) size (how big is it), dan (4) orientation (in which direction is it facing).\n(2) Di permukaan bumi, karakteristik objek ditentukan oleh salah satu atau kombinasi dari empat parameter: (1) location (where is it), (2) shape (what form is it), (3) size (how big is it), dan (4) orientation (in which direction is it facing).\n(3) Aspek lokasi merupakan parameter yang paling menentukan. Oleh karena itu, dapat dikatakan bahwa data/informasi keruangan selalu terkait dengan aspek lokasi.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dari pernyataan di bawah ini, mana yang paling tepat?\n(1) Untuk mengolah informasi geografis, salah satu sistem yang digunakan adalah sistem informasi geografis (SIG) atau geographic information system (GIS).\n(2) Dalam menggunakan SIG, media yang dipakai adalah PETA.\n(3) Peta digunakan mulai dari tahap input data, analisis data, sampai dengan penyajian hasil analisis.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Konsep peta adalah ....\n(1) gambar situasi unsur-unsur ruang muka bumi pada bidang lengkung yang bersifat selektif, efektif, dan dapat dipertanggungjawabkan kebenarannya secara matematis\n(2) gambaran permukaan bumi pada bidang datar dengan skala tertentu melalui suatu sistem proyeksi\n(3) gambaran unsur-unsur alam atau buatan manusia yang berada di atas ataupun di bawah permukaan bumi yang digambarkan pada suatu bidang datar dengan skala tertentu",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Komponen-komponen/kelengkapan peta antara lain adalah ....\n(1) judul peta, skala peta, dan arah mata angin/orientasi/petunjuk arah legenda\n(2) judul peta, skala peta, gratikul (posisi geografis), inset, foto, legenda, dan tahun pembuatan peta\n(3) gratikul (posisi geografis), inset, legenda, serta sumber dan tahun pembuatan peta",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Manakah pernyataan yang paling tepat dalam kaitannya dengan konsep peta topografi?",
+    "pilihan": {
+      "A": "Peta topografi berisikan informasi tentang benda-benda alam yang tidak bergerak yang terdapat di atas muka bumi.",
+      "B": "Peta topografi berisikan informasi tentang semua benda yang tidak bergerak yang terdapat di atas muka bumi, terkecuali benda-benda budaya.",
+      "C": "Peta topografi berisikan informasi tentang benda-benda budaya yang tidak bergerak yang terdapat di atas muka bumi.",
+      "D": "Peta topografi berisikan informasi tentang semua benda yang tidak bergerak yang terdapat di atas muka bumi, baik benda-benda alam maupun benda-benda budaya."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Peta tematik wilayah merupakan peta yang memuat berbagai tema tertentu yang sesuai untuk keperluan penataan ruang.",
+      "B": "Peta tematik adalah peta yang menyajikan berbagai tema untuk kepentingan tertentu (land-status, penduduk, transportasi, dan lain-lain) dengan menggunakan peta rupa bumi yang telah disederhanakan sebagai dasar untuk meletakkan informasi tematiknya.",
+      "C": "Peta tematik wilayah merupakan peta yang memuat suatu tema tertentu yang sesuai untuk keperluan penataan ruang.",
+      "D": "Peta tematik wilayah merupakan peta yang memuat suatu tema tertentu yang sesuai untuk keperluan penataan ruang dan dibuat berbeda dengan peta rupa bumi."
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Terkait dengan jenis peta berdasarkan skalanya, manakah pernyataan yang paling tepat?",
+    "pilihan": {
+      "A": "Semakin besar skala peta, semakin detail unsur ruang muka bumi yang digambar.",
+      "B": "Semakin besar skala peta, semakin umum unsur ruang muka bumi yang digambar.",
+      "C": "Tidak ada kaitan antara besar kecilnya skala dengan tingkat kedetailan informasi yang dikandungnya.",
+      "D": "Semakin kecil skala peta, semakin detail unsur ruang muka bumi yang digambar."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Jika pada peta skala 1:10.000 digambarkan panjang suatu penggal jalan 10 cm, panjang penggal jalan di muka bumi adalah ....",
+    "pilihan": {
+      "A": "10 km",
+      "B": "1.000 cm",
+      "C": "1 km",
+      "D": "100.000 km"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Pada PP No. 10 Tahun 2000 tentang Tingkat Ketelitian Peta untuk Penataan Ruang Wilayah, skala peta minimal untuk ....",
+    "pilihan": {
+      "A": "lingkup perencanaan wilayah daerah kota adalah 1:500.000",
+      "B": "lingkup perencanaan wilayah daerah kabupaten adalah 1:50.000",
+      "C": "lingkup perencanaan wilayah daerah kota yang bentang wilayahnya sempit adalah 1:50.000",
+      "D": "lingkup perencanaan wilayah daerah provinsi yang bentang wilayahnya sempit adalah 1:50.000"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang tepat?\n(1) Peta topografi berisikan informasi tentang semua benda yang tidak bergerak yang terdapat di atas muka bumi, baik benda-benda alam maupun benda-benda budaya.\n(2) Peta topografi dapat memuat lebih dari satu informasi objek ruang muka bumi, misalnya memuat informasi tentang objek kemiringan lereng, sungai, bentuk garis pantai, dan sebagainya.\n(3) Informasi yang selalu terkandung dalam peta topografi adalah garis kontur.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Dari pernyataan di bawah ini, manakah yang paling tepat?\n(1) Garis kontur adalah garis yang menghubungi titik-titik yang mempunyai ketinggian di atas permukaan laut sama.\n(2) Dalam perencanaan tata ruang, garis kontur tidak dapat digunakan untuk menginterpretasikan apakah suatu daerah memiliki kondisi curam atau landai, misalnya.\n(3) Garis kontur berguna untuk melakukan analisis kelerengan atau menghitung kemiringan lereng.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Terkait dengan jenis peta berdasarkan skala, manakah pernyataan yang paling tepat?\n(1) Semua skala dapat diterapkan, baik pada peta topografi maupun peta tematik, bergantung tujuan pembuatan peta dan lingkup wilayah yang dipetakan.\n(2) Jenis peta berdasarkan skalanya meliputi peta skala besar atau peta detail, peta skala menengah/sedang atau peta semidetail, dan peta skala kecil atau peta ikhtisar.\n(3) Tidak semua skala dapat diterapkan, baik pada peta topografi maupun peta tematik. Hanya skala-skala tertentu yang dapat diterapkan pada peta topografi.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Terkait dengan tingkat kedetailan informasi yang dikandungnya, manakah pernyataan yang paling tepat?\n(1) Informasi yang dikandung pada peta skala 1:5.000 lebih detail dibandingkan dengan informasi yang dikandung pada peta skala 1:50.000.\n(2) Informasi yang dikandung pada peta skala 1:500.000 lebih umum dibandingkan dengan informasi yang dikandung pada peta skala 1:5.000.\n(3) Informasi yang dikandung pada peta skala 1:5.000 lebih umum dibandingkan dengan informasi yang dikandung pada peta skala 1:50.000.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Terkait dengan tingkat minimal ketelitian peta untuk penataan ruang wilayah, manakah pernyataan yang paling tepat?\n(1) Lingkup perencanaan daerah kabupaten adalah 1:100.000.\n(2) Lingkup perencanaan daerah kabupaten yang bentang wilayahnya sempit dapat digunakan peta wilayah dengan skala 1:50.000.\n(3) Lingkup perencanaan daerah kabupaten yang bentang wilayahnya sempit dapat digunakan peta wilayah dengan skala 1:25.000.",
+    "pilihan": {
+      "A": "(1) dan (2) benar",
+      "B": "(1) dan (3) benar",
+      "C": "(2) dan (3) benar",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  }
+]

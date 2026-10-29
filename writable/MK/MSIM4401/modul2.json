@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Vue merupakan framework yang bisa digunakan untuk, kecuali ....",
+    "pilihan": {
+      "A": "membangun frontend",
+      "B": "membangun spa",
+      "C": "disertakan ke pustaka / framework lain untuk bersama-sama membangun aplikasi.",
+      "D": "membangun aplikasi native untuk mobile"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Pada dasarnya instalasi Vue yang dibuat menggunakan CDN sama dengan ....",
+    "pilihan": {
+      "A": "npm",
+      "B": "vue/cli",
+      "C": "vue@next",
+      "D": ".tar.gz"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Rendering deklaratif dimungkinkan di Vue dengan adanya ....",
+    "pilihan": {
+      "A": "template dan props",
+      "B": "template",
+      "C": "props",
+      "D": "hooks"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Direktif yang digunakan untuk melakukan atau tidak melakukan sesuatu berdasarkan kondisi tertentu adalah ....",
+    "pilihan": {
+      "A": "v-if-else",
+      "B": "v-if",
+      "C": "v-switch",
+      "D": "v-bind"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Setiap instan aplikasi akan menghasilkan ....",
+    "pilihan": {
+      "A": "aplikasi vue yang bisa berjalan",
+      "B": "root element",
+      "C": "root component",
+      "D": "dom"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Untuk mendefinisikan suatu fungsi yang bisa dikerjakan oleh button pada saat di-klik, maka di dalam root component kita gunakan ....",
+    "pilihan": {
+      "A": "created",
+      "B": "mounted",
+      "C": "methods",
+      "D": "updated"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Untuk menampilkan data yang berjumlah banyak dalam perulangan, kita bisa menggunakan ....",
+    "pilihan": {
+      "A": "v-for bersama dengan template.",
+      "B": "v-for bersama dengan <ol><li>...</li></ol>.",
+      "C": "v-for.",
+      "D": "v-for yang didefinisikan sebagai komponen."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Fungsi yang digunakan untuk membuat suatu instan aplikasi Vue adalah ....",
+    "pilihan": {
+      "A": "createapp",
+      "B": "new Vue",
+      "C": "mount",
+      "D": "sesuai dengan elemen DOM tempat instan di-mount."
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Props berfungsi untuk ....",
+    "pilihan": {
+      "A": "mendefinisikan komponen.",
+      "B": "mendefinisikan atribut yang akan digunakan oleh komponen.",
+      "C": "mendefinisikan method yang akan digunakan oleh komponen.",
+      "D": "mendefinisikan nilai kembalian dari data."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pemrograman bisa mendefinisikan berbagai kode sumber yang bisa dijalankan pada suatu fase tertentu dari siklus hidup instan aplikasi dan komponen. Definisi pada fase tertentu tersebut disebut dengan ....",
+    "pilihan": {
+      "A": "component hooks",
+      "B": "component filtering",
+      "C": "component creation",
+      "D": "lifecycle hooks."
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Untuk membuat routing, kita bisa menggunakan paket Vue Router. Dalam paket tersebut, terdapat fungsi untuk membuat rute, yaitu ....",
+    "pilihan": {
+      "A": "createRouter",
+      "B": "createRoute",
+      "C": "createRoutes",
+      "D": "addRoute"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Elemen yang digunakan untuk menampilkan routing adalah ....",
+    "pilihan": {
+      "A": "router-link",
+      "B": "router-view",
+      "C": "route-link",
+      "D": "route-view"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Atribut berikut ini :to=\"{ name: 'Awal' }\" adalah ....",
+    "pilihan": {
+      "A": "variabel untuk view",
+      "B": "variabel untuk template",
+      "C": "direktif",
+      "D": "named router"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Interpolasi dalam template bisa berbentuk ....",
+    "pilihan": {
+      "A": "nilai kembalian dari data()",
+      "B": "ekspresi javascript",
+      "C": "nilai kembalian dari data() dan ekspresi javascript",
+      "D": "array"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika di dalam router didefinisikan /pegawai/:npp, maka kita bisa mengakses nilai npp di template menggunakan ....",
+    "pilihan": {
+      "A": "$router.params.npp",
+      "B": "$route.params.npp",
+      "C": "router.params.npp",
+      "D": "router.param.npp"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Bagian yang diawali dengan tanda titik (.) dalam suatu direktif disebut dengan ....",
+    "pilihan": {
+      "A": "modifier",
+      "B": "argument",
+      "C": "method",
+      "D": "nilai"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Berikut adalah direktif yang digunakan untuk kondisional, kecuali ....",
+    "pilihan": {
+      "A": "v-if",
+      "B": "v-if-else",
+      "C": "v-bind",
+      "D": "v-show"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Untuk menampilkan suatu array, digunakan direktif ....",
+    "pilihan": {
+      "A": "v-model",
+      "B": "v-array",
+      "C": "v-for",
+      "D": "v-bind:array"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Berikut adalah interpolasi teks yang valid dalam template, kecuali ....",
+    "pilihan": {
+      "A": "{{ nama }}",
+      "B": "{{ ok ? 'Ya' : 'Tidak' }}",
+      "C": "{{ pesan.toLowerCase() }}",
+      "D": "<p v-text></p>"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Untuk memastikan bahwa CSS untuk template hanya berlaku pada template tersebut, gunakan ....",
+    "pilihan": {
+      "A": "<style v-scoped=true>",
+      "B": "<style scoped>",
+      "C": "<style v-private=true>",
+      "D": "<style v-protected=true>"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Berikut adalah unsur-unsur yang bisa digunakan untuk menangani suatu event, kecuali ....",
+    "pilihan": {
+      "A": "ekspresi javascript",
+      "B": "fungsi javascript",
+      "C": "class javascript",
+      "D": "fungsi sejumlah tertentu"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Modifier yang digunakan untuk menangani event hanya sekali saja adalah ....",
+    "pilihan": {
+      "A": ".stopFirst",
+      "B": ".first",
+      "C": ".stopAfterFirst",
+      "D": ".once"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Suatu event bisa diacu kembali di dalam event handler dengan menggunakan ....",
+    "pilihan": {
+      "A": "event",
+      "B": ".event",
+      "C": "$event",
+      "D": "Document.event"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Berikut adalah contoh deskripsi handler yang benar, kecuali ....",
+    "pilihan": {
+      "A": "\"<template></template>\"",
+      "B": "\"counter +=1, funct1(2,1)\"",
+      "C": "\"counter += 1, next += 1\"",
+      "D": "\"func1(2, 1), func2()\""
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Suatu komponen bisa diletakkan pada direktori ....",
+    "pilihan": {
+      "A": "harus di src/components",
+      "B": "src",
+      "C": "src/components/namakomponen/",
+      "D": "bisa diletakkan dimana saja, tetapi pada umumnya di src/components"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Supaya komponen bisa digunakan, harus didaftarkan pada ....",
+    "pilihan": {
+      "A": "vue.component.name",
+      "B": "components: { NamaKomponen }",
+      "C": "import Komponen from \"nama.vue\"",
+      "D": "components() { NamaKomponen }"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Untuk menetapkan argumen bagi komponen, digunakan ....",
+    "pilihan": {
+      "A": "props",
+      "B": "components",
+      "C": "import",
+      "D": "langsung digunakan pada komponen penggunanya"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Meletakkan unsur-unsur template, script, serta style dalam satu file disebut dengan ....",
+    "pilihan": {
+      "A": "component definition",
+      "B": "component registration",
+      "C": "separation of concerns",
+      "D": "single file components"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Supaya setiap perubahan atau pembaharuan bisa langsung mempunyai efek, maka sebaiknya suatu function diletakkan di ....",
+    "pilihan": {
+      "A": "created",
+      "B": "methods",
+      "C": "computed",
+      "D": "data()"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Salah satu perbedaan antara computed dengan methods adalah ....",
+    "pilihan": {
+      "A": "computed harus menghasilkan nilai kembalian, sementara methods tidak perlu.",
+      "B": "computed digunakan untuk elemen tertentu saja, sementara methods bisa untuk semua elemen.",
+      "C": "computed tidak perlu di-bind, sementara methods harus di-bind.",
+      "D": "computed bisa menggunakan argument, sementara methods tidak bisa"
+    },
+    "jawaban": "A"
+  }
+]

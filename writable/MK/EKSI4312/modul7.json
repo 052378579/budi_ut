@@ -1,0 +1,332 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini aktivitas yang tidak dilakukan oleh departemen produksi adalah ....",
+    "pilihan": {
+      "A": "mendesain produk",
+      "B": "membuat anggaran produksi",
+      "C": "memproduksi barang",
+      "D": "menjual barang produksi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Fungsi penelitian dan pengembangan biasanya digunakan untuk",
+    "pilihan": {
+      "A": "mendesain produk",
+      "B": "membuat anggaran produksi",
+      "C": "memproduksi barang",
+      "D": "menjual barang produksi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Hal yang dipertimbangkan dalam membuat jadwal produksi adalah ....",
+    "pilihan": {
+      "A": "berapa harga jual produk",
+      "B": "kapan produksi akan dimulai",
+      "C": "apakah diperlukan jam kerja tambahan",
+      "D": "kapan proses produksi akan berakhir"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Aktivitas yang dilakukan setelah membuat anggaran produksi adalah ....",
+    "pilihan": {
+      "A": "mendesain produk",
+      "B": "membuat produk",
+      "C": "menjual produk",
+      "D": "merencanakan produksi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Pihak yang berfungsi sebagai perantara departemen produksi dalam transaksi dengan pemasok barang kebutuhan produksi adalah ....",
+    "pilihan": {
+      "A": "pelanggan",
+      "B": "departemen pembelian",
+      "C": "departemen penjualan",
+      "D": "gudang"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut yang merupakan salah satu dari aktivitas dasar pada siklus produksi adalah",
+    "pilihan": {
+      "A": "penjualan barang produksi",
+      "B": "operasi produksi",
+      "C": "pembelian barang",
+      "D": "permintaan barang"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Mendesain sebuah produk yang memenuhi permintaan dalam hal kualitas, ketahanan, fungsi, dan secara simultan meminimalkan biaya produksi adalah tujuan dari aktivitas",
+    "pilihan": {
+      "A": "perencanaan dan penjadwalam",
+      "B": "operasi produksi",
+      "C": "desain produk",
+      "D": "permintaan barang"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Dua metode yang umum dalam aktivitas perencanaan dan penjadwalan, yakni ....",
+    "pilihan": {
+      "A": "MPR dan JIS",
+      "B": "RPM dan JET",
+      "C": "MRP dan JIT",
+      "D": "material production dan just in time"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Penggunakan berbagai bentuk TI dalam proses produksi, seperti robot dan mesin yang dikendalikan oleh komputer, disebut ....",
+    "pilihan": {
+      "A": "MPR",
+      "B": "computer integrated manufacturing",
+      "C": "just in time",
+      "D": "machine integrated production"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Memberikan data biaya yang akurat mengenai produk untuk digunakan dalam menetapkan harga serta keputusan bauran produk merupakan salah satu tujuan aktivitas",
+    "pilihan": {
+      "A": "akuntansi biaya",
+      "B": "desain produk",
+      "C": "perencanaan dan penjadwalan produksi",
+      "D": "operasi produksi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini yang tidak termasuk dalam aktivitas dalam siklus produksi adalah",
+    "pilihan": {
+      "A": "desain produk",
+      "B": "akuntansi biaya",
+      "C": "pemesanan bahan baku",
+      "D": "perencanaan produksi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Proses produksi yang dilakukan hanya setelah menerima pesanan dari pelanggan adalah menggunakan metode",
+    "pilihan": {
+      "A": "material requirement planning",
+      "B": "just in time",
+      "C": "economic order quantity",
+      "D": "reorder point"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Berikut ini yang tidak termasuk dalam hal yang harus menjadi pertimbangan dari aktivitas operasi produksi adalah ....",
+    "pilihan": {
+      "A": "harga bahan baku yang digunakan",
+      "B": "jam tenaga kerja yang digunakan",
+      "C": "lama operasi mesin yang dilakukan",
+      "D": "biaya overhead produksi yang terjadi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Memberikan informasi biaya yang berkaitan dengan proses perencanaan merupakan tujuan dari aktivitas",
+    "pilihan": {
+      "A": "perencanaan produksi",
+      "B": "penjadwalan produksi",
+      "C": "akuntansi biaya",
+      "D": "operasi produksi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Berikut ini yang merupakan wewenang dari departemen produksi adalah ....",
+    "pilihan": {
+      "A": "menghitung harga jual produk",
+      "B": "menghitung harga pokok produksi",
+      "C": "mencari pelanggan",
+      "D": "mendatangkan bahan baku"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Kategori biaya yang digunakan dalam menghitung biaya produksi adalah .....",
+    "pilihan": {
+      "A": "bahan baku",
+      "B": "tenaga kerja tidak langsung",
+      "C": "administrasi",
+      "D": "biaya overhead kantor"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Dokumen yang memberikan otorisasi pemindahan sejumlah bahan baku dari gudang ke tempat produksi adalah",
+    "pilihan": {
+      "A": "production order",
+      "B": "operation list",
+      "C": "bill of material",
+      "D": "material requisition"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Dokumen yang memberikan otorisasi pemroduksian kuantitas tertentu dari suatu produk adalah",
+    "pilihan": {
+      "A": "material requisition",
+      "B": "bill of material",
+      "C": "operation list",
+      "D": "production order"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Dokumen berisi mengenai jumlah produk yang diproduksi selama proses perencanaan dan kapan proses produksi tersebut akan dilaksanakan adalah ....",
+    "pilihan": {
+      "A": "master production schedule",
+      "B": "bill of material",
+      "C": "operation list",
+      "D": "production order"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Dokumen berisi informasi mengenai komponen apa saja yang dipakai dalam suatu produk adalah",
+    "pilihan": {
+      "A": "master production schedule",
+      "B": "bill of material",
+      "C": "operation list",
+      "D": "production order"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 21,
+    "pertanyaan": "Fungsi supervisor dalam permintaan bahan baku adalah",
+    "pilihan": {
+      "A": "mengesahkan permintaan bahan baku",
+      "B": "membantu proses produksi",
+      "C": "mengeluarkan uang pembayaran",
+      "D": "memilihkan pemasok"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 22,
+    "pertanyaan": "Risiko yang biasanya terjadi sebelum dilakukan proses produksi adalah",
+    "pilihan": {
+      "A": "desain produk yang kurang baik",
+      "B": "kekurangan barang hasil produksi",
+      "C": "pencurian barang hasil produksi",
+      "D": "perhitungan harga pokok produksi yang salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 23,
+    "pertanyaan": "Prediksi penjualan yang akurat merupakan upaya untuk menghindari risiko ....",
+    "pilihan": {
+      "A": "desain produk yang kurang baik",
+      "B": "kekurangan barang hasil produksi",
+      "C": "pencurian barang hasil produksi",
+      "D": "perhitungan harga pokok produksi yang salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 24,
+    "pertanyaan": "Dokumentasi perpindahan barang dari gudang ke pabrik produksi dilakukan oleh pegawai",
+    "pilihan": {
+      "A": "departemen pembelian",
+      "B": "departemen produksi",
+      "C": "departemen penjualan",
+      "D": "gudang"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 25,
+    "pertanyaan": "Masalah yang ditimbulkan karena pemrosesan data aktivitas produksi yang tidak tepat adalah....",
+    "pilihan": {
+      "A": "pengendalian operasional produksi akan terganggu",
+      "B": "kehilangan bahan baku produksi",
+      "C": "kekecewaan pada pelanggan",
+      "D": "proses produksi menjadi lebih cepat"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 26,
+    "pertanyaan": "Kinerja pegawai yang buruk dalam akvitas operasi produksi dapat dicegah dengan cara",
+    "pilihan": {
+      "A": "pengendalian internal",
+      "B": "pelatihan",
+      "C": "reward",
+      "D": "teguran"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 27,
+    "pertanyaan": "Perencanaan produksi yang akurat seharusnya dapat mencegah risiko ....",
+    "pilihan": {
+      "A": "pengendalian operasional produksi akan terganggu",
+      "B": "kehilangan bahan baku produksi",
+      "C": "kelebihan atau kekurangan produksi",
+      "D": "proses produksi menjadi lebih cepat"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 28,
+    "pertanyaan": "Untuk memastikan bahwa hanya personel yang berhak sajalah yang memiliki akses secara langsung, dilakukan",
+    "pilihan": {
+      "A": "pengendalian operasional produksi",
+      "B": "pengendalian internal yang baik",
+      "C": "pengendalian akses yang baik dan uji kesesuaian",
+      "D": "pengendalian produksi"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 29,
+    "pertanyaan": "Pengumpulan data yang akurat tentang hubungan antara komponen dan barang jadi adalah upaya untuk menghindari risiko",
+    "pilihan": {
+      "A": "desain produk yang kurang baik",
+      "B": "kekurangan barang hasil produksi",
+      "C": "pencurian barang hasil produksi",
+      "D": "perhitungan harga pokok produksi yang salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 30,
+    "pertanyaan": "Upaya yang efektif dilakukan untuk mencegah risiko kehilangan inventory dan aset tetap karena bencana alam atau kebakaran adalah ....",
+    "pilihan": {
+      "A": "pengendalian operasional produksi",
+      "B": "implementasi sistem pemadam kebakaran",
+      "C": "pembelian asuransi",
+      "D": "pengendalian akses yang baik dan uji kesesuaian"
+    },
+    "jawaban": "C"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Command apa yang dapat mengkonversi string menjadi int?",
+    "pilihan": {
+      "A": "integer.parseInt",
+      "B": "Interger.ParseInt",
+      "C": "Int.parseInt",
+      "D": "parseInt"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Untuk menyimpan data no.KTP, tipe data yang paling tepat digunakan adalah ....",
+    "pilihan": {
+      "A": "int",
+      "B": "char",
+      "C": "string",
+      "D": "short"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Berikut adalah cara inisialisasi variabel bertipe class string, kecuali ....",
+    "pilihan": {
+      "A": "String me = new String(“Inisialisasi 1”);",
+      "B": "String me; me = new String “inisialisasi 1” ;",
+      "C": "String me; me = new String(“inisialisasi 1”);",
+      "D": "String me; me = “inisialisasi 1”;"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Array merupakan sebuah struktur data yang mempunyai ciri ....",
+    "pilihan": {
+      "A": "tipe data sama",
+      "B": "tipe data tidak sama",
+      "C": "bersifat tidak tetap",
+      "D": "mempunyai ukuran tidak sama"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Elemen dalam array adalah tipe data ....",
+    "pilihan": {
+      "A": "primitif",
+      "B": "integer",
+      "C": "string",
+      "D": "short integer"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Deklarasi bentuk array yang benar adalah ....",
+    "pilihan": {
+      "A": "Int Array (2);",
+      "B": "Int array [2]:",
+      "C": "int array [2];",
+      "D": "int array [2]:"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Cara menciptakan object string yang berasal dari array adalah ....",
+    "pilihan": {
+      "A": "String()",
+      "B": "String(String)",
+      "C": "String(char[])",
+      "D": "String(char())"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Class string Buffer adalah class string yang menyimpan string ....",
+    "pilihan": {
+      "A": "kosong",
+      "B": "karakter",
+      "C": "konstan",
+      "D": "konstruktor"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Tipe data string mempunyai sifat ....",
+    "pilihan": {
+      "A": "statis",
+      "B": "konstan",
+      "C": "tetap",
+      "D": "dinamis"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "<div class='p-3 mb-3 bg-dark text-white rounded font-monospace text-start shadow-sm' style='font-size: 14px; overflow-x: auto;'>public class tipe_string {<br>&nbsp;&nbsp;public static void main(String args[]){<br>&nbsp;&nbsp;&nbsp;&nbsp;String text1=<span class='text-info'>\"belajar\"</span>;<br>&nbsp;&nbsp;&nbsp;&nbsp;String text2=<span class='text-info'>\"malasngoding.com\"</span>;<br>&nbsp;&nbsp;&nbsp;&nbsp;System.out.print(text1.length());<br><br>&nbsp;&nbsp;}<br>}</div>Akan menghasilkan panjang karakter",
+    "pilihan": {
+      "A": "6",
+      "B": "19",
+      "C": "12",
+      "D": "7"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Method yang digunakan untuk mengubah seluruh huruf dalam string menjadi huruf besar/kapital adalah ....",
+    "pilihan": {
+      "A": "UpperCase()",
+      "B": "toUperCase()",
+      "C": "toUpperCase()",
+      "D": "isUpperCase()"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut ini adalah hak akses yang dapat ditambahkan didepan method Java, kecuali ....",
+    "pilihan": {
+      "A": "static",
+      "B": "public",
+      "C": "private",
+      "D": "protected"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Method yang digunakan untuk panjang data StringBuffer adalah ....",
+    "pilihan": {
+      "A": "Lenght()",
+      "B": "SetLength()",
+      "C": "Changelength()",
+      "D": "Reverse()"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Method yang digunakan untuk mengambil suatu karakter berdasarkan lokasi yang anda berikan adalah ....",
+    "pilihan": {
+      "A": "toCharAt()",
+      "B": "toCharArray()",
+      "C": "charAt()",
+      "D": "valueOf()"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Suatu method yang dapat dijalankan otomatis pada saat objek dari class dibuat, dikenal dengan ....",
+    "pilihan": {
+      "A": "constructor",
+      "B": "initializer",
+      "C": "garbage collector",
+      "D": "inheritance"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Method yang digunakan untuk mengkonversi nilai string ke integer dalam Java adalah ....",
+    "pilihan": {
+      "A": "ParseInt()",
+      "B": "ConverseInt()",
+      "C": "Cint()",
+      "D": "ChangeInt()"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Method yang digunakan untuk membandingkan dua buah data string adalah ....",
+    "pilihan": {
+      "A": "equal()",
+      "B": "concat()",
+      "C": "length()",
+      "D": "equals()"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Fungsi method System.in dalam java adalah ....",
+    "pilihan": {
+      "A": "mengirimkan keluaran ke layar",
+      "B": "menangani pembacaan dari keyboard",
+      "C": "menampilkan pesan kesalahan",
+      "D": "menangani suatu object"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Pada potongan berikut ini:<br><div class='p-3 my-3 bg-dark text-white rounded font-monospace text-start shadow-sm' style='font-size: 14px; overflow-x: auto;'><span class='text-warning'>modifier</span> returnType nameOfMethod (Parameter List){<br>&nbsp;&nbsp;<span class='text-secondary'>// method body</span><br>}</div>Yang berfungsi mendefinisikan jenis akses method, sesuai dengan kondisi yang dibutuhkan",
+    "pilihan": {
+      "A": "returnType",
+      "B": "Parameter List",
+      "C": "nameOfMethod",
+      "D": "Modifier"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "nameOfMethod pada soal no. 19 berfungsi sebagai",
+    "pilihan": {
+      "A": "mengembalikan nilai method",
+      "B": "jenis perintah",
+      "C": "mendefinisikan jenis akses method",
+      "D": "nama method"
+    },
+    "jawaban": "D"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Tantangan utama ketika melakukan analisis data teks adalah karena sifat alami data teks yakni ....",
+    "pilihan": {
+      "A": "data structured dan formatnya sama",
+      "B": "data unstructured dan formatnya sama",
+      "C": "data structured dan formatnya bervariasi",
+      "D": "data unstructured dan formatnya bervariasi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Berikut adalah langkah-langkah preprocessing data teks, kecuali ....",
+    "pilihan": {
+      "A": "menghilangkan efek huruf besar dan mengonversinya menjadi huruf kecil",
+      "B": "menghilangkan karakter yang tidak memiliki arti, misal tanda baca",
+      "C": "menguraikan teks menjadi kata-kata (tokenization)",
+      "D": "mengubah kalimat tanya menjadi kalimat berita"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Dipunyai dua kalimat komentar pelanggan panjang. Bila kedua komentar tersebut dimasukkan dalam R dalam satu vektor dan didefinisikan sebagai variabel 'komentar', maka nilai dari fungsi `length(komentar)` adalah ....",
+    "pilihan": {
+      "A": "1",
+      "B": "2",
+      "C": "58",
+      "D": "386"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Berdasarkan variabel 'komentar' dari dua teks di atas, nilai dari fungsi karakter `nchar(komentar)` akan menghasilkan angka yang merepresentasikan jumlah karakter per dokumen, yaitu ...",
+    "pilihan": {
+      "A": "240 dan 380",
+      "B": "236 dan 386",
+      "C": "1 dan 2",
+      "D": "tidak teridentifikasi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Dengan menggunakan library 'quanteda', jika diberikan perintah `tokens(komentar)` maka output konsol akan memberikan informasi jumlah dokumen (n documents) sebanyak ....",
+    "pilihan": {
+      "A": "2",
+      "B": "1",
+      "C": "236",
+      "D": "386"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Jika diberikan perintah `summary(corpus(komentar))` maka sistem R akan memberikan ringkasan jumlah tokens dan sentences untuk text 1 sebanyak .....",
+    "pilihan": {
+      "A": "37 dan 43",
+      "B": "43 dan 4",
+      "C": "53 dan 71",
+      "D": "71 dan 8"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Pada perintah `komentarcorpus <- tm_map(komentarcorpus, tolower)`, parameter fungsi tersebut digunakan untuk ....",
+    "pilihan": {
+      "A": "menghilangkan tanda baca",
+      "B": "menghilangkan spasi",
+      "C": "mengonversi huruf besar ke huruf kecil",
+      "D": "menghilangkan stopwords"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Perintah `tm_map(komentarcorpus, stripWhitespace)` dan `tm_map(komentarcorpus, removePunctuation)` di library(tm) digunakan untuk ....",
+    "pilihan": {
+      "A": "menghilangkan spasi berlebih dan menghilangkan tanda baca",
+      "B": "mempermudah analisis data secara otomatis",
+      "C": "menghilangkan kata-kata yang tidak relevan",
+      "D": "mengubah sentences menjadi tokens"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Perintah `tm_map(komentarcorpus, removeWords, stopwords('english'))` digunakan untuk ....",
+    "pilihan": {
+      "A": "menghilangkan tanda baca",
+      "B": "menghilangkan bahasa Inggris yang termuat dalam komentar",
+      "C": "mengonversi bahasa Indonesia ke bahasa Inggris",
+      "D": "menghilangkan kata-kata sambung umum bahasa Inggris yang tidak relevan (stopwords)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Hasil akhir dari proses preprocessing teks adalah sekumpulan teks yang sudah bersih dari tanda baca, angka, kata sambung (stopwords), dan seragam berhuruf kecil. Kumpulan ini sering disebut dengan matriks atau ....",
+    "pilihan": {
+      "A": "Corpus mentah",
+      "B": "Raw Token",
+      "C": "Sentence array",
+      "D": "Document-Feature Matrix (DFM)"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Berikut ini adalah proses preprocessing sebelum membuat visualisasi data teks, kecuali ....",
+    "pilihan": {
+      "A": "mengambil teks yang akan dianalisa (crawling/scraping)",
+      "B": "mengkonversi huruf besar ke huruf kecil (case folding)",
+      "C": "menghilangkan karakter yang tidak memiliki arti dalam konteks (cleaning)",
+      "D": "merubah semua bahasa lokal ke Bahasa Inggris"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Berikut adalah sub-proses preprocessing teks, kecuali ....",
+    "pilihan": {
+      "A": "menguraikan teks menjadi kata-kata (tokenizing)",
+      "B": "menghilangkan kata-kata yang tidak relevan (remove stopwords)",
+      "C": "mengkonversi nilai numeris menjadi teks narasi",
+      "D": "menentukan kata dasar dari setiap kata (stemming/lemmatization)"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Di bahasa R, jika ingin membaca teks/dokumen langsung dari URL internet (alamat web), maka digunakan perintah dasar ....",
+    "pilihan": {
+      "A": "writeLines()",
+      "B": "readWeb()",
+      "C": "readLines()",
+      "D": "writeWeb()"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Jika keluhan pelanggan diproses dengan fungsi library(quanteda) melalui perintah `token1 <- tokens(keluhan)`, dan dicetak dengan `head(token1)`, maka keluarannya berupa format ....",
+    "pilihan": {
+      "A": "Pesan error Token consisting of 1 document.",
+      "B": "Objek string karakter murni",
+      "C": "Daftar Tokens objek (List) yang berisi pecahan kata per dokumen",
+      "D": "Warning messages Display list redraw incomplete"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika diberikan perintah `dfm1 <- dfm(token1)` lalu diikuti `topfeatures(dfm1, n = 5)`, output yang dihasilkan adalah ....",
+    "pilihan": {
+      "A": "5 kata yang paling sering muncul beserta frekuensinya (contoh: ac=3, tidak=2, dsb)",
+      "B": "5 dokumen pertama dari corpus",
+      "C": "Grafik wordcloud berisi 5 kata",
+      "D": "Pesan error"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Pada perintah `tokens(token1, remove_symbols=TRUE, remove_punct=TRUE, remove_numbers=TRUE)`, tujuan utamanya adalah menghasilkan token yang ....",
+    "pilihan": {
+      "A": "hanya berisi kata/teks murni (abjad) tanpa simbol, tanda baca, maupun angka",
+      "B": "hanya berisi angka dan simbol",
+      "C": "selalu menghasilkan Error jika ada angka",
+      "D": "hanya mengurutkan teks"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Jika dalam Document-Feature Matrix (DFM) terdapat kata sambung tak bermakna seperti 'karena', 'dan', '1x', perintah menggunakan quanteda untuk menghilangkannya ke dalam stopwords kustom adalah ....",
+    "pilihan": {
+      "A": "token3 <- tokens_remove(token2, c(\"karena\", \"dan\", \"1x\"))",
+      "B": "token3 <- tokens_remove(token2, stopwords(\"Indonesia\"))",
+      "C": "token3 <- tokens_remove(token2, stopwords(\"english\"))",
+      "D": "stopwords(token2, \"karena\", \"dan\", \"1x\")"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Visualisasi data teks yang paling populer untuk merepresentasikan kata-kata yang paling sering muncul dari sekumpulan keluhan secara grafis (ukuran teks sesuai frekuensi) adalah ....",
+    "pilihan": {
+      "A": "Bar chart",
+      "B": "Line plot",
+      "C": "Pie chart",
+      "D": "Wordcloud"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Pada sekumpulan review pelanggan tentang hotel yang mengeluhkan 'AC mati', 'AC bermasalah', 'kurang dingin', kata yang paling menonjol (terbesar) pada Wordcloud kemungkinan besar mengindikasikan masalah pada fasilitas ...",
+    "pilihan": {
+      "A": "Pelayanan front office",
+      "B": "AC (Air Conditioner) kamar",
+      "C": "Sarapan (breakfast)",
+      "D": "Kebersihan kamar"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Fungsi utama menggunakan visualisasi wordcloud pada kasus teks review produk atau keluhan hotel di atas adalah untuk ....",
+    "pilihan": {
+      "A": "mempercepat laporan operasional keuangan",
+      "B": "memahami sentimen dan masalah utama pelanggan secara cepat",
+      "C": "optimasi SEO mesin pencari",
+      "D": "menelusuri pola regresi dalam data."
+    },
+    "jawaban": "B"
+  }
+]

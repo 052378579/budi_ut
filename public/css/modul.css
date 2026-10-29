@@ -1,0 +1,35 @@
+/* --- KARTU MODUL --- */
+.module-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    cursor: pointer;
+    border: none;
+    border-radius: 16px;
+    overflow: hidden;
+}
+.module-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0,0,0,0.15) !important;
+    opacity: 0.95;
+}
+
+/* Tautan membungkus seluruh kartu untuk mempermudah klik di mobile */
+a.module-link { 
+    text-decoration: none; 
+    color: inherit; 
+    display: block; 
+    height: 100%;
+}
+
+/* --- CSS Animasi Tombol Favorit di Header --- */
+.btn-header-fav { 
+    transition: all 0.2s ease-in-out; 
+    border: 2px solid transparent; 
+}
+.btn-header-fav:hover { 
+    transform: scale(1.1); 
+    border-color: #dee2e6; 
+    background-color: #f8f9fa !important;
+}
+.btn-header-fav:active {
+    transform: scale(0.95);
+}

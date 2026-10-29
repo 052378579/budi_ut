@@ -1,0 +1,202 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini adalah beberapa yang pengertian tentang six sigma, kecuali ....",
+    "pilihan": {
+      "A": "Six Sigma mengacu pada seperangkat alat kontrol kualitas yang dapat digunakan bisnis untuk menghilangkan cacat dan meningkatkan proses untuk membantu meningkatkan keuntungan mereka",
+      "B": "Six Sigma adalah proses berbasis statistik dan data yang bekerja dengan meninjau kesalahan atau cacat batas namun dengan pertimbangan tertentu saja",
+      "C": "Six Sigma adalah ideologi manajemen yang berfokus pada perbaikan statistik untuk Proses Bisnis dan menganjurkan pengukuran kualitatif keberhasilan atas penanda kualitatif",
+      "D": "Statistik Six Sigma membuat daftar input potensial, yang dapat menyebabkan masalah dan membantu tim memahami kinerja benchmark proses"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Ketika bisnis secara efektif menerapkan Six Sigma dan BPM ke tempat kerja maka perusahaan akan mendapatkan beberapa keuntungan dan manfaat seperti, kecuali ....",
+    "pilihan": {
+      "A": "penghematan biaya",
+      "B": "otomatisasi proses",
+      "C": "peningkatan kualitas dan kinerja",
+      "D": "semuanya benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Six Sigma adalah praktik peningkatan berkelanjutan yang mengikuti metode yang dikembangkan di ....",
+    "pilihan": {
+      "A": "Samsung",
+      "B": "Motorola",
+      "C": "Nokia",
+      "D": "Apel"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Metode six sigma terdiri dari dua, yaitu ....",
+    "pilihan": {
+      "A": "DMAIC dan DMADV",
+      "B": "DMIIN dan DMOUT",
+      "C": "DMMIN dan DMMAX",
+      "D": "DMACD dan DMACE"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Untuk meningkatkan keandalan dan ketersediaan jaringannya di seluruh dunia, Microsoft menerapkan ....",
+    "pilihan": {
+      "A": "SDLC",
+      "B": "Scrum",
+      "C": "Six sigma",
+      "D": "7FE framework"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Microsoft (MSFT) adalah salah satu produsen perangkat lunak terkecil di dunia.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Sigma adalah proses berbasis statistik dan data yang bekerja dengan meninjau kesalahan atau cacat batas.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Lean Sigma adalah pendekatan manajerial yang berfokus pada tim yang berupaya meningkatkan kinerja dengan menghilangkan pemborosan dan cacat sambil meningkatkan standarisasi kerja.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Six Sigma adalah suatu alat manajemen baru yang digunakan untuk mengganti Total Quality Management (TQM) yang sangat terfokus terhadap pengendalian kualitas dengan mendalami sistem produksi perusahaan secara keseluruhan.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Model yang dikembangkan untuk menilai kematangan proses pengembangan perangkat lunak dan didasarkan pada konsep organisasi perangkat lunak yang belum matang dan matang disebut dengan model maturity CMM.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Manajemen Proses Bisnis berfokus pada menemukan, mengoptimalkan, memodelkan, memantau dan ....",
+    "pilihan": {
+      "A": "menganalisis aktivitas bisnis",
+      "B": "mengelola proses yang terjadi sebelumnya",
+      "C": "mengelola proses yang terjadi setelahnya",
+      "D": "A dan B benar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Business Process Management mengarah ke langkah-langkah lain seperti ....",
+    "pilihan": {
+      "A": "desain Proses Bisnis dan pemodelan Proses Bisnis",
+      "B": "desain usulan bisnis proses",
+      "C": "analisis sistem lama dan desain sistem baru",
+      "D": "konsolidasi tim terkait perbaikan sistem"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Hal penting lain untuk membuat Proses Bisnis menjadi lebih baik dan sesuai rencana yang di buat sebelumnya adalah dengan ....",
+    "pilihan": {
+      "A": "memastikan semua bisnis proses berjalan dengan baik dan pengajuan anggaran yang disesuaikan",
+      "B": "memastikan akses data keuangan perusahaan untuk memastikan bahwa tidak akan kekurangan budget dalam menjalankan proses dan rencana usaha",
+      "C": "memastikan semua abudget ditanggung perusahaan",
+      "D": "memastikan semua personel yang terlibat mendapatkan hak nya terkait penambahan pekerjaan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Siklus hidup Proses Bisnis Manajemen dicirikan oleh serangkaian aktivitas yang berulang namun dilakukan secara ....",
+    "pilihan": {
+      "A": "sekaligus",
+      "B": "bertahap",
+      "C": "menyesuaikan prioritas",
+      "D": "sesuai instruksi"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Manajemen proses dan peningkatannya membutuhkan sebuah acuan yaitu menghapus langkah-langkah perbaikan yang tidak diperlukan, seperti ....",
+    "pilihan": {
+      "A": "potensi penggunaan outsourcing, produksi bersama, atau otomatisasi",
+      "B": "pemangkasan sumberdaya yang berpotensi tidak perform",
+      "C": "penyederhanaan dan penyempurnaan langkah-langkah yang tersisa",
+      "D": "menyesuaikan kebutuhan dan melakukan perampingan SDM jika diperlukan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Penerapan beberapa Teknik untuk setiap langkah perbaikan proses ditunjukkan melalui analisis biaya.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "BPM saat ini diusulkan sebagai rentang disiplin yang sebagian besar mengintegrasikan dan melengkapi apa yang telah dicapai oleh disiplin sebelumnya.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "SIPOC adalah singkatan dari Suppliers, Inputs, Process, Output, Correlation.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Empat jenis event-driven proses yaitu Manajemen, pengaruh pelanggan, primer (berkaitan dengan pengaruh pelanggan, misalnya, rekayasa desain), dan dukungan (misalnya, SDM, hukum, TI).",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Model proses membantu memvisualisasikan langkah-langkah apa yang penting dalam suatu proses.",
+    "pilihan": {
+      "A": "Benar",
+      "B": "Salah"
+    },
+    "jawaban": "A"
+  }
+]

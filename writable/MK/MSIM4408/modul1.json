@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Etika adalah suatu cabang ilmu filsafat yang mempelajari tentang sebuah nilai ataupun kualitas (norma). Kata etika berasal dari bahasa Yunani Kuno, yaitu \"ethikos\" yang berarti ....",
+    "pilihan": {
+      "A": "asas bersama",
+      "B": "timbul dari kebiasaan",
+      "C": "akhlak mulia",
+      "D": "moral utama"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Menurut Aristoteles pengertian etika dibagi menjadi dua, yaitu Terminius Technicus dan Manner and Custom. Ilmu pengetahuan yang mempelajari suatu problem tindakan manusia adalah ....",
+    "pilihan": {
+      "A": "Manner",
+      "B": "Terminius Technicus",
+      "C": "Custom",
+      "D": "Technicus Manner"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Secara umum etika dibagi menjadi dua, yaitu etika ....",
+    "pilihan": {
+      "A": "khusus dan spesial",
+      "B": "umum dan khusus",
+      "C": "khusus dan individual",
+      "D": "umum dan sosial"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Etika yang mengajarkan hal baik dan juga buruk berdasarkan ajaran agama dan kepercayaan yang dianut oleh manusia merupakan etika ....",
+    "pilihan": {
+      "A": "sosiologis",
+      "B": "deskriptif",
+      "C": "teologis",
+      "D": "normatif"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Etika yang mengajarkan dan menetapkan kewajiban-kewajiban yang harus dilakukan oleh manusia untuk hidup yang lebih baik adalah etika ....",
+    "pilihan": {
+      "A": "normatif",
+      "B": "filosofis",
+      "C": "sosiologis",
+      "D": "deskriptif"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Profesi berasal dari bahasa Inggris \"profession\" dan bahasa Latin \"professus\" yang berarti ....",
+    "pilihan": {
+      "A": "bisa",
+      "B": "ahli",
+      "C": "ringan",
+      "D": "sesuai"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Profesi merupakan suatu pekerjaan yang didasarkan pada studi intelektual dan latihan yang khusus, tujuannya adalah untuk menyediakan pelayanan keterampilan terhadap yang lain dengan bayaran maupun upah tertentu merupakan definisi profesional yang dikemukakan oleh ....",
+    "pilihan": {
+      "A": "Cogan",
+      "B": "Peter Jarvis",
+      "C": "Dedi Supriyadi",
+      "D": "Hughes, E.C."
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Menurut Lakshamana Roa dalam Assegaff (1985:19) yang dikutip dari media online Media Kontroversi (2020), sebuah pekerjaan disebut profesi jika memenuhi empat kriteria berikut, kecuali ....",
+    "pilihan": {
+      "A": "kebebasan dalam pekerjaan itu",
+      "B": "panggilan dan keterikatan dengan pekerjaan itu",
+      "C": "bayaran yang sangat memadai",
+      "D": "tanggung jawab yang terikat pada kode etik"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut ini adalah beberapa hal yang termasuk dalam syarat-syarat profesi, kecuali ....",
+    "pilihan": {
+      "A": "akademik yang bertanggung jawab",
+      "B": "organisasi profesi",
+      "C": "etika dan kode etik profesi",
+      "D": "kerja tanpa batas"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Salah satu hal pokok yang harus dimiliki oleh seorang profesional di dalam dirinya adalah ....",
+    "pilihan": {
+      "A": "keterampilan",
+      "B": "kelapangan",
+      "C": "kebijaksanaan",
+      "D": "pengalaman"
+    },
+    "jawaban": "A"
+  }
+]

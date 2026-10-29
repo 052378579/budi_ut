@@ -1,0 +1,112 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Sebuah proses dalam melakukan dan menciptakan suatu hal yang baru melalui cara-cara yang kreatif dan penuh inovasi sehingga dapat bermanfaat bagi setiap orang adalah ....",
+    "pilihan": {
+      "A": "wirausaha",
+      "B": "kewirausahaan",
+      "C": "e-commerce",
+      "D": "usahawan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Untuk mengetahui lebih lanjut mengenai kewirausahaan, berikut merupakan ciri-ciri kegiatan kewirausahaan, kecuali ....",
+    "pilihan": {
+      "A": "memiliki keberanian dan daya kreasi yang tinggi",
+      "B": "memiliki semangat tinggi dan kemauan keras",
+      "C": "memiliki keterampilan bisnis yang kompeten",
+      "D": "berjiwa pemimpin dan tidak berperilaku boros"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Seorang wirausaha harus mampu mengoptimalkan potensi yang dimiliki untuk menjalani usahanya sehingga dapat memberi manfaat baik bagi diri dan usaha yang dijalaninya. Manfaat kewirausahaan di antaranya adalah ....",
+    "pilihan": {
+      "A": "mengoptimalkan kemampuan perusahaan",
+      "B": "munculnya peluang dalam mencapai keuntungan dari setiap hasil kerja keras kita",
+      "C": "mencari keuntungan sebesar-besarnya",
+      "D": "membuka usaha yang seluas-luasnya"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Untuk memajukan sebuah usaha maka pembuatan website dalam mempromosikan bisnis atau kegiatan di internet agar dikenal luas oleh masyarakat sangatlah diperlukan. Berikut merupakan manfaat website dalam bidang usaha, kecuali ....",
+    "pilihan": {
+      "A": "website dapat meningkatkan “harga diri”",
+      "B": "meningkatkan pangsa pasar usahanya",
+      "C": "memudahkan konsumen untuk menghubungi penjual",
+      "D": "website bekerja paruh waktu"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Electronic commerce atau e-commerce adalah semua aktivitas jual beli yang dilakukan melalui media elektronik. Lazada, Shopee, Tokopedia, Bukalapak merupakan contoh e-commerce jenis ....",
+    "pilihan": {
+      "A": "Business to Business (B2B)",
+      "B": "Business to Consumer (B2C)",
+      "C": "Consumer to Consumer (C2C)",
+      "D": "Consumer to Business (C2B)"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Startup merupakan sebuah kata yang di adopsi dari bahasa Inggris yang memiliki arti ....",
+    "pilihan": {
+      "A": "perlakuan dan tindakan",
+      "B": "tindakan atau proses",
+      "C": "proses dan pelaksanaan",
+      "D": "program dan tindakan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Startup selalu diidentikkan dengan usaha rintisan yang menggunakan teknologi informasi pada produknya. Jika tidak menggunakan unsur teknologi informasi maka usaha tersebut dapat dikatakan sebagai usaha kecil dan menengah (UKM) merupakan definisi startup yang dikemukakan oleh ....",
+    "pilihan": {
+      "A": "Blank and Dorf",
+      "B": "Yevgeniy Brikman",
+      "C": "Eric Ries",
+      "D": "Baskoro"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Aplikasi e-commerce dan situs marketplace belanja online merupakan salah satu jenis startup yang bergerak dalam bidang ....",
+    "pilihan": {
+      "A": "games",
+      "B": "industri",
+      "C": "perdagangan",
+      "D": "sekuritas"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Berikut merupakan beberapa persyaratan dalam membangun dan mengembangkan bisnis startup, kecuali ....",
+    "pilihan": {
+      "A": "memiliki aspek marketing yang bagus",
+      "B": "memiliki model bisnis yang jelas",
+      "C": "sudah mendaftar merek dagang",
+      "D": "sudah memiliki modal besar"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Berikut merupakan alasan kegagalan yang dihadapi usaha startup ....",
+    "pilihan": {
+      "A": "kegagalan model bisnis",
+      "B": "masalah pada perekonomian",
+      "C": "dana yang sulit dikembangkan",
+      "D": "adanya perdagangan bebas"
+    },
+    "jawaban": "A"
+  }
+]

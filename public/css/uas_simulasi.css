@@ -1,0 +1,9 @@
+.simulasi-container { max-width: 850px; margin-top: 20px; }
+.card-simulasi { border: none; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.08); overflow: hidden; }
+.timer-badge { font-family: monospace; font-size: 1.1rem; letter-spacing: 1px; }
+
+/* Animasi Transisi Pilihan Jawaban */
+.transition-all { transition: all 0.2s ease-in-out; }
+.opsi-btn { text-align: left; padding: 15px 20px; border-radius: 12px; border: 2px solid #e9ecef; background: #fff; margin-bottom: 12px; cursor: pointer; color: #495057; }
+.opsi-btn:hover { background-color: #f8f9fa; border-color: #dee2e6; }
+.opsi-btn.selected { border-color: transparent; font-weight: 600; }

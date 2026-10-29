@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Berikut ini perintah membuat halaman baru pada yEd berbasis web adalah",
+    "pilihan": {
+      "A": "Open Sample Graph",
+      "B": "Open an Existing",
+      "C": "Start With Blank Diagram",
+      "D": "Semua Salah"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Sebuah area yang memungkinkan dalam membuat dan menganalisis sebuah grafik, diagram, flowcart atau struktur yang anda buat adalah ....",
+    "pilihan": {
+      "A": "Editor Windows",
+      "B": "Menu Bar",
+      "C": "Pallete",
+      "D": "Neighboard"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Fungsi untuk membatalkan modifikasi terakhir pada node dokumen adalah ....",
+    "pilihan": {
+      "A": "Menu bar",
+      "B": "Undo",
+      "C": "Redo",
+      "D": "Cut"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Fungsi untuk Menyalin sekaligus menghapus seleksi node pada dokumen adalah",
+    "pilihan": {
+      "A": "Menu bar",
+      "B": "Undo",
+      "C": "Redo",
+      "D": "Cut"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Menu untuk mengatur tata letak sesuai dengan kebutuhan adalah",
+    "pilihan": {
+      "A": "Menu toolbar",
+      "B": "Main toolbar",
+      "C": "Layout",
+      "D": "Tools"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berikut ini menu sebagai shortcut fitur-fitur menu adalah ....",
+    "pilihan": {
+      "A": "Menu toolbar",
+      "B": "Main toolbar",
+      "C": "Layout",
+      "D": "Tools"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Mengubah ukuran node yang dipilih, sehingga label node sepenuhnya berada di dalam batas node fungsi dari menu ....",
+    "pilihan": {
+      "A": "Main bar",
+      "B": "Layout",
+      "C": "Fit Label to Node",
+      "D": "Fit Node to Label"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Menu untuk Mengeluarkan semua node dari group adalah ....",
+    "pilihan": {
+      "A": "Open Group",
+      "B": "Close Group",
+      "C": "Ungroup",
+      "D": "Ungroup All"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Menu First Step adalah fungsi untuk",
+    "pilihan": {
+      "A": "menu contoh grapik dalam yEd",
+      "B": "menampilkan layar Selamat Datang",
+      "C": "menu tutorial yang menjelaskan konsep yEd",
+      "D": "cek update dari pengembang yEd"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Menu Fit Content adalah fungsi menu untuk ....",
+    "pilihan": {
+      "A": "memindahkan area pandang supaya terlihat keseluruhan",
+      "B": "memperkecil tampilan satu langkah",
+      "C": "mengaktifkan kaca pembesar pada area mouse",
+      "D": "memperbesar tampilan satu langkah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Simbol yang digunakan untuk menggambarkan entitas adalah ....",
+    "pilihan": {
+      "A": "Persegi Panjang",
+      "B": "Belah Ketupat",
+      "C": "Oval",
+      "D": "Garis"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Simbol yang digunakan untuk menggambarkan relasi adalah ....",
+    "pilihan": {
+      "A": "Persegi Panjang",
+      "B": "Oval",
+      "C": "Belah Ketupat",
+      "D": "Garis"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Simbol garis lurus mendatar digunakan untuk menggambarkan derajat kardinalitas ....",
+    "pilihan": {
+      "A": "Banyak",
+      "B": "Satu",
+      "C": "Nol",
+      "D": "Satu ke Banyak"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Simbol garis bercabang (seperti kaki burung/crow's foot) digunakan untuk menggambarkan derajat kardinalitas ....",
+    "pilihan": {
+      "A": "Satu",
+      "B": "Nol",
+      "C": "Banyak",
+      "D": "Satu ke Satu"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika sebuah relasi memiliki derajat kardinalitas banyak ke banyak (M:N) maka relasi tersebut berubah menjadi",
+    "pilihan": {
+      "A": "Entitas Baru",
+      "B": "Atribut",
+      "C": "Derajat Kardinalitas",
+      "D": "Semua jawaban salah"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Simbol yang digunakan untuk menggambarkan atribut adalah ....",
+    "pilihan": {
+      "A": "Persegi Panjang",
+      "B": "Oval",
+      "C": "Belah Ketupat",
+      "D": "Garis"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Simbol garis dengan lingkaran kecil (o) diikuti cabang (crow's foot) digunakan untuk menggambarkan derajat kardinalitas ....",
+    "pilihan": {
+      "A": "Satu ke Satu",
+      "B": "Banyak ke Banyak",
+      "C": "Satu ke Banyak",
+      "D": "NOL ke banyak"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Simbol garis dengan dua tanda vertikal sejajar digunakan untuk menggambarkan derajat kardinalitas ....",
+    "pilihan": {
+      "A": "Banyak ke Banyak",
+      "B": "NOL ke Satu",
+      "C": "Satu ke Banyak",
+      "D": "satu-ke-satu"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Simbol garis dengan lingkaran kecil (o) diikuti satu tanda vertikal digunakan untuk menggambarkan derajat kardinalitas ....",
+    "pilihan": {
+      "A": "Satu ke Satu",
+      "B": "Banyak ke Banyak",
+      "C": "Satu ke Banyak",
+      "D": "NOL ke satu"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Simbol garis dengan satu tanda vertikal diikuti cabang (crow's foot) digunakan untuk menggambarkan derajat kardinalitas ....",
+    "pilihan": {
+      "A": "satu-ke-banyak",
+      "B": "Banyak ke Banyak",
+      "C": "NOL ke Banyak",
+      "D": "Satu ke Satu"
+    },
+    "jawaban": "A"
+  }
+]

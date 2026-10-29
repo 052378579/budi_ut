@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Menghitung gaji bulanan karyawan termasuk jenis keputusan ....",
+    "pilihan": {
+      "A": "rasional",
+      "B": "terstruktur",
+      "C": "semi terstruktur",
+      "D": "tidak terstruktur"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Memilih pemasok untuk barang tertentu termasuk jenis keputusan....",
+    "pilihan": {
+      "A": "rasional",
+      "B": "terstruktur",
+      "C": "semi terstruktur",
+      "D": "tidak terstruktur"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Membuat produk baru termasuk jenis keputusan....",
+    "pilihan": {
+      "A": "rasional",
+      "B": "terstruktur",
+      "C": "semi terstruktur",
+      "D": "tidak terstruktur"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Tiga kategori peran manajerial menurut Mintzberg adalah ....",
+    "pilihan": {
+      "A": "interpersonal, informational, keputusan",
+      "B": "pengendalian, kepemimpinan, pengawasan",
+      "C": "operasional, manajerial, eksekutif",
+      "D": "budaya, organisasional, teknis"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Menolak kebenaran informasi karena konsepsi yang dimiliki disebut....",
+    "pilihan": {
+      "A": "filter redaksional",
+      "B": "filter reduksional",
+      "C": "filter abrasif",
+      "D": "filter manajerial"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Konsistensi struktur data merupakan dimensi kualitas data....",
+    "pilihan": {
+      "A": "integritas",
+      "B": "akurasi",
+      "C": "ketepatan waktu",
+      "D": "kelengkapan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Membuat anggaran merupakan perwujudan fungsi manajemen ....",
+    "pilihan": {
+      "A": "perencanaan",
+      "B": "pengendalian",
+      "C": "koordinasi",
+      "D": "pengawasan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Memberikan surat peringatan pada karyawan yang melanggar aturan merupakan perwujudan fungsi manajemen ....",
+    "pilihan": {
+      "A": "perencanaan",
+      "B": "pengendalian",
+      "C": "koordinasi",
+      "D": "pengawasan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Membaca dan mempelajari laporan penjualan harian merupakan perwujudan fungsi manajemen...",
+    "pilihan": {
+      "A": "perencanaan",
+      "B": "pengendalian",
+      "C": "koordinasi",
+      "D": "pengawasan"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Mengajak diskusi karyawan yang mengalami penurunan kinerja untuk mencari tahu penyebabnya merupakan tahapan pembuatan keputusan ....",
+    "pilihan": {
+      "A": "pencarian fakta",
+      "B": "perancangan solusi",
+      "C": "pemilihan alternatif solusi",
+      "D": "penerapan solusi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Analisis prediktif dapat digunakan untuk hal berikut, kecuali ....",
+    "pilihan": {
+      "A": "mengantisipasi tanggapan pada produk baru",
+      "B": "mengidentifikasi produk yang paling menguntungkan",
+      "C": "menentukan rute pengiriman barang terbaik",
+      "D": "menilai kelayakan kredit nasabah"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Dalam BSC (Balanced Scorecard), kinerja diukur berdasarkan...",
+    "pilihan": {
+      "A": "KIP",
+      "B": "KPI",
+      "C": "IKP",
+      "D": "PIK"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Analisa sensitivitas banyak digunakan dalam sistem ....",
+    "pilihan": {
+      "A": "DMS",
+      "B": "DSS",
+      "C": "DNS",
+      "D": "NDA"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Media untuk menampilkan kinerja perusahaan berdasarkan kriteria tertentu adalah...",
+    "pilihan": {
+      "A": "Dashcam",
+      "B": "Scoring",
+      "C": "Dashboard",
+      "D": "KPI"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Yang tidak termasuk alat dalam analisis prediktif adalah...",
+    "pilihan": {
+      "A": "Statistik",
+      "B": "Ekonometri",
+      "C": "Data mining",
+      "D": "Intuisi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Fasilitas untuk menelusuri data yang menjadi dasar suatu laporan disebut....",
+    "pilihan": {
+      "A": "drill down",
+      "B": "throughput",
+      "C": "drilling",
+      "D": "data staging"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Menurunnya keterlambatan pengiriman barang merupakan KPI untuk Scorecard dalam dimensi ....",
+    "pilihan": {
+      "A": "Keuangan",
+      "B": "Pembelajaran dan pertumbuhan",
+      "C": "Proses Bisnis",
+      "D": "Pelanggan"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Naiknya kas masuk merupakan KPI untuk Scorecard dalam dimensi...",
+    "pilihan": {
+      "A": "Keuangan",
+      "B": "Pembelajaran dan pertumbuhan",
+      "C": "Proses Bisnis",
+      "D": "Pelanggan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Menurunnya piutang tidak tertagih merupakan KPI untuk Scorecard dalam dimensi...",
+    "pilihan": {
+      "A": "Keuangan",
+      "B": "Pembelajaran dan pertumbuhan",
+      "C": "Proses Bisnis",
+      "D": "Pelanggan"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Model yang dominan digunakan dalam DSS adalah ....",
+    "pilihan": {
+      "A": "ikonik",
+      "B": "mental",
+      "C": "analog",
+      "D": "matematis"
+    },
+    "jawaban": "D"
+  }
+]

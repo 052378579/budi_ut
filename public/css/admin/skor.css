@@ -1,0 +1,21 @@
+.skor-container {
+    padding-top: 100px;
+}
+.alert-custom-radius {
+    border-radius: 12px;
+}
+.col-aksi {
+    width: 150px;
+}
+.phone-badge {
+    background: #f1f5f9;
+    padding: 4px 8px;
+    border-radius: 6px;
+    color: #475569;
+}
+.pagination-prev {
+    border-radius: 20px 0 0 20px;
+}
+.pagination-next {
+    border-radius: 0 20px 20px 0;
+}

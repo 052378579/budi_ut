@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Perhatikan penggalan source code berikut ini\n\nif (grade > 70)\n   System.out.println(Passed);\nelse\n   System.out.println(Failed);\n\nJika penggalan program diatas dan diubah dengan menggunakan operator kondisi maka hasilnya akan menjadi ....",
+    "pilihan": {
+      "A": "System.out.println(grade > 70 “Passed” : “Failed” )",
+      "B": "System.out.println(grade > 70 ? “Passed” : “Failed” )",
+      "C": "System.out.println(grade > 70 : “Passed” ? “Failed” )",
+      "D": "System.out.println(grade > 70 ? “Passed” ? : “Failed” )"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Kondisi if akan dicek jika nilai yang diketahui sama dengan kondisi dan jika pernyataan tidak sesuai dengan kondisi maka perintah else yang akan di jalankan",
+    "pilihan": {
+      "A": "If",
+      "B": "If..then",
+      "C": "If...else",
+      "D": "If....else..If"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Jika bentuk umum sebuah if seperti berikut ini.\n\nif (kondisi) {\n //kode proses if pertama\n   if (kondisi){\n     // kode proses if kedua\n   }\n}\n\nmaka termasuk jenis",
+    "pilihan": {
+      "A": "If",
+      "B": "If....then",
+      "C": "If...If",
+      "D": "Nested If"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Apa hasil dari penjalanan (run) kode program berikut ini?\n\npublic class belajar_if_else {\n  public static void main (String[] args){\n    int nilai_MTK = 80;\n    if (nilai_MTK < 70){\n      System.out.println(\"Selamat kamu lulus ujian Matematika\");\n    }\n  }\n}",
+    "pilihan": {
+      "A": "selamat kamu lulus ujian matematika",
+      "B": "kosong",
+      "C": "nilai MTK= 80",
+      "D": "nilai MTK <70"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Diketahui kode program sebagai berikut.\n\npublic class belajar_if_else {\n  public static void main (String[] args){\n    int nilai_MTK = 80;\n    if (nilai_MTK > 70){\n      System.out.println(\"Selamat kamu lulus ujian Matematika\");\n    }else {\n      System.out.println(\"Mohon maaf kamu tidak lulus\");\n    }\n  }\n}\n\nJika program dijalankan (run) akan menghasilkan output ....",
+    "pilihan": {
+      "A": "mohon maaf kamu tidak lulus",
+      "B": "selamat kamu lulus ujian matematika",
+      "C": "nilai MTK <70",
+      "D": "nilai MTK =80"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Pada soal nomor 5, if pada statement pertama bernilai ....",
+    "pilihan": {
+      "A": "True",
+      "B": "60",
+      "C": "False",
+      "D": "80"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Pada soal no. 5, if pada statement kedua bernilai ....",
+    "pilihan": {
+      "A": "True",
+      "B": "60",
+      "C": "False",
+      "D": "80"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Diketahui kode program sebagai berikut ....\n\npublic class PercabanganIf {\n  public static void main(String[] args) {\n    int nilai = 60;\n    if (nilai > 90){\n      System.out.println(\"Kamu mendapat nilai A\");\n    }\n    else if (nilai > 70){\n      System.out.println(\"Kamu mendapat nilai B\");\n    }\n    else {\n      System.out.println(\"Kamu mendapat nilai C\");\n    }\n  }\n}",
+    "pilihan": {
+      "A": "kamu mendapat nilai A",
+      "B": "kamu mendapat nilai B",
+      "C": "kamu mendapat nilai C",
+      "D": "kosong"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pada soal no.8, if pada statement ke 1, bernilai ....",
+    "pilihan": {
+      "A": "True",
+      "B": "60",
+      "C": "False",
+      "D": "80"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pada soal no. 8 nilai pada statement ke 3, bernilai ....",
+    "pilihan": {
+      "A": "True",
+      "B": "60",
+      "C": "False",
+      "D": "80"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Di antara penggalan-penggalan program dibawah ini, tentukan mana yang valid ....",
+    "pilihan": {
+      "A": "Switch(n){\ncase 1; System.out.print(“Value 1”);break;\ncase 2; System.out.print(“Value 2”); break;\ndefault; System.out.print(“Value 1”);",
+      "B": "switch(n){\ncase 1: System.out.print(“Value 1”); break;\ncase 2: System.out.print(“Value 2”); break;\ndefault: System.out.print(“Value 1”);}",
+      "C": "Switch(n){\ncase 1; System.out.print(“Value 1”); break;\ncase 2; System.out.print(“Value 2”); break;\ndefault; System.out.print(“Value 1”); break;}",
+      "D": "switch(n){\ncase 1: System.out.print(“Value 1”); break;\ncase 2: System.out.print(“Value 2”); break;\ndefault: System.out.print(“Value 1”); break; }"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Pada soal no. 1 (no. 11), terdapat statement break, maksudnya adalah program ....",
+    "pilihan": {
+      "A": "keluar",
+      "B": "istirahat",
+      "C": "menunggu",
+      "D": "berhenti"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Jika kondisi nilai variabel tidak ada yang sama dengan pilihan case di atas, maka digunakan pilihan ....",
+    "pilihan": {
+      "A": "Case",
+      "B": "Swicth..case",
+      "C": "default",
+      "D": "if"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Tipe data yang tidak diperbolehkan pada switch..case adalah ....",
+    "pilihan": {
+      "A": "Boolean",
+      "B": "Int",
+      "C": "char",
+      "D": "short"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Ketika pilihan/kondisi yang kita gunakan hanya satu pilihan, seperti integer, char, dan lainnya, maka kita gunakan ....",
+    "pilihan": {
+      "A": "if-else",
+      "B": "if-then",
+      "C": "switch..case",
+      "D": "if"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Ketika saat kondisi yang kita gunakan merupakan range dari suatu nilai atau kondisi, maka kita gunakan ....",
+    "pilihan": {
+      "A": "if-else",
+      "B": "if-then",
+      "C": "switch..case",
+      "D": "if"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Perhatikan kode program berikut.\n\npublic class latihancase {\n public static void main(String args[]) {\n   char grade = 'A';\n   switch(grade) {\n   case 'A' :\n     System.out.println(\"Merah\");\n     break;\n   case 'B' :\n     System.out.println(\"Kuning\");\n     break;\n   case 'C' :\n     System.out.println(\"Hijau\");\n     break;\n   default :\n     System.out.println(\"Invalid grade\");\n   }\n }\n}\n\nApabila program dijalankan (dirun), maka output nya adalah:",
+    "pilihan": {
+      "A": "merah",
+      "B": "kuning",
+      "C": "hijau",
+      "D": "invalid grade"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Apabila statement pada soal no.7 (no. 17), tidak ada pilihan yang dipilih, maka akan menghasilkan",
+    "pilihan": {
+      "A": "merah",
+      "B": "kuning",
+      "C": "hijau",
+      "D": "invalid grade"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Apabila pada soal no. 7 (no. 17) dipilih, pilihan E, maka akan menghasilkan",
+    "pilihan": {
+      "A": "merah",
+      "B": "kuning",
+      "C": "hijau",
+      "D": "invalid grade"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Apabila pada soal no. 7 (no. 17) dipilih, pilihan B, maka akan menghasilkan",
+    "pilihan": {
+      "A": "merah",
+      "B": "kuning",
+      "C": "hijau",
+      "D": "invalid grade"
+    },
+    "jawaban": "B"
+  }
+]

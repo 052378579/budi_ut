@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Perusahaan besar dengan banyak divisi, usaha berskala besar, dan anak perusahaan disebut....",
+    "pilihan": {
+      "A": "Enterpreneur",
+      "B": "Socialpreneur",
+      "C": "Enterprise",
+      "D": "Technopreneur"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Dampak dari pembentukan divisi yang saling berdiri sendiri dalam suatu perusahaan besar adalah ....",
+    "pilihan": {
+      "A": "silo informasi",
+      "B": "kuasi informasi",
+      "C": "politik organisasi",
+      "D": "isolasi informasi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Proses pengiriman barang merupakan bagian dari modul ERP ...",
+    "pilihan": {
+      "A": "akuntansi dan keuangan",
+      "B": "manufaktur dan operasi",
+      "C": "penjualan dan pemasaran",
+      "D": "sumber daya manusia"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Pengajuan ijin cuti pegawai merupakan bagian dari modul ERP...",
+    "pilihan": {
+      "A": "akuntansi dan keuangan",
+      "B": "manufaktur dan operasi",
+      "C": "penjualan dan pemasaran",
+      "D": "sumber daya manusia"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Petani tembakau bagi perusahaan rokok merupakan bagian segmen rantai pasokan...",
+    "pilihan": {
+      "A": "streamer",
+      "B": "upstream",
+      "C": "internal",
+      "D": "downstream"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Minimarket merupakan bagian rantai pasokan yang masuk dalam segmen ....",
+    "pilihan": {
+      "A": "streamer",
+      "B": "upstream",
+      "C": "internal",
+      "D": "downstream"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Kegiatan produksi yang dipicu oleh estimasi penjualan disebut....",
+    "pilihan": {
+      "A": "push manufacturing",
+      "B": "pull manufacturing",
+      "C": "modern manufacturing",
+      "D": "traditional manufacturing"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Modul yang membantu tenaga penjualan dalam perangkat lunak CRM adalah ....",
+    "pilihan": {
+      "A": "SFA",
+      "B": "PO",
+      "C": "AR",
+      "D": "AP"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Bagian CRM yang menentukan apa saja barang yang paling diminati pembeli usia muda adalah.....",
+    "pilihan": {
+      "A": "operasional",
+      "B": "finansial",
+      "C": "analitis",
+      "D": "sekuensial"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Petugas Call Centre menggunakan bagian CRM...",
+    "pilihan": {
+      "A": "Operasional",
+      "B": "Finansial",
+      "C": "Analitis",
+      "D": "Sekuensial"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Model bisnis untuk toko online seperti Blibli.Com adalah...",
+    "pilihan": {
+      "A": "pengepul",
+      "B": "pengecer",
+      "C": "perantara",
+      "D": "media sosial"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Tokopedia termasuk perusahaan dengan model bisnis ....",
+    "pilihan": {
+      "A": "pengepul",
+      "B": "pengecer",
+      "C": "perantara",
+      "D": "media sosial"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Pembelian karet alam bagi perusahaan ban termasuk model perdagangan ....",
+    "pilihan": {
+      "A": "C2C",
+      "B": "G2G",
+      "C": "B2C",
+      "D": "B2B"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Amazon termasuk model perdagangan.....",
+    "pilihan": {
+      "A": "C2C",
+      "B": "G2G",
+      "C": "B2C",
+      "D": "B2B"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Pendapatan Google terbesar berasal dari ....",
+    "pilihan": {
+      "A": "penjualan smartphone pixel",
+      "B": "penjualan google drive",
+      "C": "iklan",
+      "D": "penjualan android"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Model pendapatan Joox adalah...",
+    "pilihan": {
+      "A": "premium",
+      "B": "freemium",
+      "C": "berlangganan",
+      "D": "iklan"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Traveloka, AirBnB, Tiket.com adalah contoh perusahaan yang menggunakan model bisnis...",
+    "pilihan": {
+      "A": "penyedia konten",
+      "B": "pedagang eceran",
+      "C": "penjual iklan",
+      "D": "perantara transaksi"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Youtube adalah contoh perusahaan yang menggunakan model bisnis....",
+    "pilihan": {
+      "A": "penyedia konten",
+      "B": "pedagang eceran",
+      "C": "penjual iklan",
+      "D": "perantara transaksi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Ruang Guru adalah contoh perusahaan yang menggunakan model bisnis...",
+    "pilihan": {
+      "A": "penyedia konten",
+      "B": "pedagang eceran",
+      "C": "penjual iklan",
+      "D": "perantara transaksi"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Netflix mampu bersaing dengan Blockbuster karena meniadakan biaya sewa...",
+    "pilihan": {
+      "A": "kios",
+      "B": "komputer",
+      "C": "lahan",
+      "D": "rumah"
+    },
+    "jawaban": "A"
+  }
+]

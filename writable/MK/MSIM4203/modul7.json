@@ -1,0 +1,222 @@
+[
+  {
+    "no": 1,
+    "pertanyaan": "Indeks elemen pertama pada sebuah struktur array di Java selalu dimulai dari angka....",
+    "pilihan": {
+      "A": "-1",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 2,
+    "pertanyaan": "Dua komponen utama yang harus disertakan ketika membuat instansiasi array pada Java adalah....",
+    "pilihan": {
+      "A": "Tipe Data dan nama Variabel",
+      "B": "Tipe data dan alokasi memori (panjang ukuran array)",
+      "C": "Alokasi memori dan data referensi",
+      "D": "Data dan penyertaan method"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 3,
+    "pertanyaan": "Perhatikan deklarasi array berikut: `int[] nilai;` Kode program di atas memberikan informasi bahwa....",
+    "pilihan": {
+      "A": "Mendeklarasikan referensi array satu dimensi bertipe integer",
+      "B": "Mendeklarasikan array dua dimensi",
+      "C": "Mendeklarasikan array tiga dimensi",
+      "D": "A, B, dan C benar"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 4,
+    "pertanyaan": "Contoh cara inisialisasi alokasi memori untuk array bernama 'nilai' dengan kapasitas 4 elemen bertipe integer yang benar adalah....",
+    "pilihan": {
+      "A": "nilai = new single[4];",
+      "B": "int nilai = new single[4];",
+      "C": "nilai = new int[];",
+      "D": "nilai = new int[4];"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 5,
+    "pertanyaan": "Perhatikan potongan kode program array 2D berikut: int array2D[][] = { {2, 1, 8}, {3, 6, 9}, {1, 7, 4} }; Untuk menampilkan elemen data array yang bernilai 3 adalah dengan memanggil koordinat....",
+    "pilihan": {
+      "A": "System.out.print(array2D[0][0]);",
+      "B": "System.out.print(array2D[0][1]);",
+      "C": "System.out.print(array2D[1][0]);",
+      "D": "System.out.print(array2D[1][1]);"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 6,
+    "pertanyaan": "Berdasarkan matriks soal no 5, jika terdapat perbandingan: `boolean BooleanLogic = array2D[1][1] > array2D[1][0];` Nilai dari variabel BooleanLogic adalah.... (Petunjuk: bandingkan nilai 6 dan 3)",
+    "pilihan": {
+      "A": "true",
+      "B": "false",
+      "C": "4",
+      "D": "7"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 7,
+    "pertanyaan": "Perhatikan script fungsi bawaan Java berikut: `System.arraycopy(arraySumber, 7, arrayTujuan, 5, 6);` Fungsi utama dari kode program di atas adalah untuk....",
+    "pilihan": {
+      "A": "Kloning (duplikasi seluruh) data array secara instan",
+      "B": "Mengambil data dari Method eksternal",
+      "C": "Menyalin (copy) sebagian data dari suatu array ke array lain",
+      "D": "Copy data dari array ke dirinya sendiri secara terbalik"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 8,
+    "pertanyaan": "Berdasarkan array matriks: int array2D[][] = { {2, 1, 8}, {3, 6, 9}, {1, 7, 4} }; Nilai dari pemanggilan `array2D[2][1]` adalah....",
+    "pilihan": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "7"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 9,
+    "pertanyaan": "Pada notasi Array dua dimensi `Nilai[x][y]`, notasi `x` dan `y` secara konseptual merepresentasikan parameter letak....",
+    "pilihan": {
+      "A": "Baris (x) dan kolom (y)",
+      "B": "Kolom (x) dan baris (y)",
+      "C": "Semuanya baris",
+      "D": "Semuanya kolom"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 10,
+    "pertanyaan": "Pernyataan fungsi memori kloning (`.clone()`) untuk array satu dimensi jika dibandingkan penerapannya pada array multi-dimensi (shallow copy) sifatnya adalah....",
+    "pilihan": {
+      "A": "Sama persis perilakunya (deep copy semua)",
+      "B": "Berbeda mutlak",
+      "C": "Berbeda (array 1D disalin isinya, array multi-D hanya disalin referensinya)",
+      "D": "Sama untuk beberapa hal saja"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 11,
+    "pertanyaan": "Perhatikan method: `public static int CekGanjilGenap(int nilai) { ... return nilai; }`. Kata `public static` pada deklarasi method tersebut berkedudukan sebagai....",
+    "pilihan": {
+      "A": "Nama Method",
+      "B": "Access Modifier dan Keyword modifier",
+      "C": "Variabel masukan",
+      "D": "Tipe Data kembalian"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 12,
+    "pertanyaan": "Supaya suatu method hanya menjalankan tugas tanpa mengembalikan nilai data apapun (tidak memerlukan return), maka tipe data kembalian method harus dideklarasikan dengan keyword...",
+    "pilihan": {
+      "A": "while",
+      "B": "return",
+      "C": "void",
+      "D": "break"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 13,
+    "pertanyaan": "Jika dibuat method: `public static double contoh(int nilai, boolean logik, double kecepatan)`. Maka cara memanggil method tersebut dengan parameter yang sesuai urutan tipe data (int, bool, double) adalah....",
+    "pilihan": {
+      "A": "y = contoh(2.5, false, 2);",
+      "B": "y = contoh(2.5, 3, 2);",
+      "C": "y = contoh(2.5, 4, false);",
+      "D": "y = contoh(2, false, 2.5);"
+    },
+    "jawaban": "D"
+  },
+  {
+    "no": 14,
+    "pertanyaan": "Aturan pembuatan sebuah custom method dari sisi hirarki penempatan blok kodenya di dalam file `.java` adalah.....",
+    "pilihan": {
+      "A": "Method harus diletakkan di luar tubuh (blok) class",
+      "B": "Method dapat ditempatkan (dideklarasikan) di dalam tubuh class, boleh sebelum maupun sesudah method utama (main)",
+      "C": "Method selalu harus ditulis di baris paling atas sebelum method utama",
+      "D": "Method hanya boleh ditulis di baris paling bawah sesudah method utama"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 15,
+    "pertanyaan": "Jika dalam satu class terdapat dua method dengan nama sama namun berbeda parameternya: `cariNilaiX(double alas, int tinggi)` dan `cariNilaiX(int panjang, int lebar)`. Praktik menggunakan nama yang sama ini dikenal dengan istilah polymorphism....",
+    "pilihan": {
+      "A": "Out of memory",
+      "B": "Method Overriding",
+      "C": "Method Overloading",
+      "D": "Method Constructor"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 16,
+    "pertanyaan": "Sebuah method yang diwariskan dari kelas induk (super-class) lalu kemudian di-deklarasikan ulang dan diubah isinya secara spesifik pada kelas anak (sub-class) disebut dengan konsep....",
+    "pilihan": {
+      "A": "Method Overriding",
+      "B": "Method Overload",
+      "C": "Overtime Process",
+      "D": "Runtime Polymorphism"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 17,
+    "pertanyaan": "Cara memanggil fungsi dengan memberikan argumen berupa kurung kurawal alih-alih kurung biasa adalah cara yang SALAH secara sintaksis Java. Contoh yang salah adalah....",
+    "pilihan": {
+      "A": "a = nilaiX(2,2);",
+      "B": "a = nilaiX{2,2};",
+      "C": "a = Math.abs(-2);",
+      "D": "objek.nilaiX(2,2);"
+    },
+    "jawaban": "B"
+  },
+  {
+    "no": 18,
+    "pertanyaan": "Struktur kode method dengan statemen pengembalian nilai (`return`) yang tepat jika tipe data method tersebut adalah boolean (logika) adalah....",
+    "pilihan": {
+      "A": "public static boolean nilaix(int nilai) { return 5; }",
+      "B": "public static boolean nilaix(int nilai) { return 'A'; }",
+      "C": "public static boolean nilaix(int nilai) { return true; }",
+      "D": "public static boolean nilaix(int nilai) { return \"benar\"; }"
+    },
+    "jawaban": "C"
+  },
+  {
+    "no": 19,
+    "pertanyaan": "Pernyataan tipe kembalian 'void' pada deklarasi sebuah method memberikan pengertian bahwa....",
+    "pilihan": {
+      "A": "Sebuah method sama sekali tidak mengembalikan nilai balik (return value) ke pemanggilnya",
+      "B": "Sebuah method dapat digunakan pada sembarang class lain sebagai global statis",
+      "C": "Sebuah method wajib mengembalikan sebuah nilai objek",
+      "D": "Sebuah method memerlukan statemen instruksi return di akhir blok"
+    },
+    "jawaban": "A"
+  },
+  {
+    "no": 20,
+    "pertanyaan": "Jika tipe data keluaran sebuah method dideklarasikan secara spesifik sebagai `double`, maka instruksi return wajib mengembalikan tipe data yang sesuai yaitu tipe....",
+    "pilihan": {
+      "A": "double (pecahan koma)",
+      "B": "int (angka bulat)",
+      "C": "boolean (logika)",
+      "D": "Semua A, B, dan C sah di-return"
+    },
+    "jawaban": "A"
+  }
+]
