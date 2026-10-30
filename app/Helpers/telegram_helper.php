@@ -9,23 +9,24 @@ if (!function_exists('send_telegram_notif')) {
     
     /**
      * Fungsi untuk mengirim pesan ke Telegram
-     * * @param string $message Pesan yang ingin dikirim (Mendukung format HTML dasar)
+     * @param string $message Pesan yang ingin dikirim (Mendukung format HTML dasar)
      * @return string|bool Mengembalikan response dari Telegram atau false jika gagal
      */
     function send_telegram_notif($message)
     {
         // =====================================================================
         // KREDENSIAL BOT TELEGRAM
-        // PENTING: Ganti nilai variabel di bawah dengan token dan chat ID asli Anda
+        // Dibaca murni dari berkas lingkungan .env peladen (STRICTLY CONFIDENTIAL)
+        // DILARANG KERAS menaruh hardcoded token atau chat ID di berkas ini!
         // =====================================================================
         
-        $token  = getenv('TELEGRAM_BOT_TOKEN');
-        $chatId = getenv('TELEGRAM_CHAT_ID');
+        $token  = env('TELEGRAM_BOT_TOKEN') ?: (getenv('TELEGRAM_BOT_TOKEN') ?: ($_ENV['TELEGRAM_BOT_TOKEN'] ?? null));
+        $chatId = env('TELEGRAM_CHAT_ID') ?: (getenv('TELEGRAM_CHAT_ID') ?: ($_ENV['TELEGRAM_CHAT_ID'] ?? null));
 
-        // Jika tidak ada di getenv, coba fallback (meskipun di production seharusnya ada)
-        if (!$token || !$chatId) {
-            $token  = "8827975671:AAF-RTUA-EEJrNK-Pfy_Wei2FCOpjuNti80";
-            $chatId = "8784856529";
+        // Jika kredensial belum disetel di .env, batalkan eksekusi secara aman (fail gracefully)
+        if (empty($token) || empty($chatId)) {
+            log_message('error', 'Notifikasi Telegram dibatalkan: TELEGRAM_BOT_TOKEN atau TELEGRAM_CHAT_ID belum disetel di .env');
+            return false;
         }
 
         // =====================================================================
