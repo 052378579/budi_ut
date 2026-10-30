@@ -1,6 +1,6 @@
-﻿#-------------------------
+#--------------------------------------------------------------------
 # Operating Specific Junk Files
-#-------------------------
+#--------------------------------------------------------------------
 
 # OS X
 .DS_Store
@@ -36,18 +36,34 @@ $RECYCLE.BIN/
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
-#-------------------------
-# Environment Files
-#-------------------------
-# These should never be under version control,
-# as it poses a security risk.
+#--------------------------------------------------------------------
+# Environment & Sensitive System Configuration (STRICTLY PRIVATE)
+#--------------------------------------------------------------------
+# These should never be under version control as they pose severe security risks.
 .env
+.env.*
+!.env.example
 .vagrant
 Vagrantfile
 
-#-------------------------
-# Temporary Files
-#-------------------------
+# Database Dumps, SQL Exports & Audit Reports
+*.sql
+*.sql.gz
+*.sqlite
+*.dump
+audit_result.json
+
+#--------------------------------------------------------------------
+# AI Agents, Prompts & Internal Development SOPs (DO NOT SYNC TO GITHUB)
+#--------------------------------------------------------------------
+# Berkas & Direktori Tata Kelola Khusus Agen AI dan Server Lokal (DEV)
+.agents/
+vibe_coding.md
+dok_git.txt
+
+#--------------------------------------------------------------------
+# Temporary, Runtime & Upload Files (HANYA FOLDER + index.html)
+#--------------------------------------------------------------------
 /writable/cache/*
 !/writable/cache/index.html
 
@@ -64,38 +80,49 @@ Vagrantfile
 !/writable/debugbar/index.html
 
 /writable/PROFIL/*
-!/writable/PROFIL/mahasiswa.webp
-!/writable/PROFIL/mahasiswa_.webp
+!/writable/PROFIL/index.html
 
-.bckup/
+/writable/MK/*
+!/writable/MK/index.html
 
+# Log files
 php_errors.log
+*.log
 
-#-------------------------
+#--------------------------------------------------------------------
+# Backups, Services & Dependencies (HANYA FOLDER + index.html)
+#--------------------------------------------------------------------
+.bckup/
+*.bckup
+*.bak
+
+# Python microservices (hanya folder + index.html)
+/python_services/*
+!/python_services/index.html
+
+# Composer dependencies (hanya folder + index.html)
+/vendor/*
+!/vendor/index.html
+
+#--------------------------------------------------------------------
 # User Guide Temp Files
-#-------------------------
+#--------------------------------------------------------------------
 /user_guide_src/build/*
 /user_guide_src/cilexer/build/*
 /user_guide_src/cilexer/dist/*
 /user_guide_src/cilexer/pycilexer.egg-info/*
 
-#-------------------------
+#--------------------------------------------------------------------
 # Test Files
-#-------------------------
+#--------------------------------------------------------------------
 /tests/coverage*
-
-# Don't save phpunit under version control.
 /phpunit
+/results/
+/phpunit.xml
 
-#-------------------------
-# Composer
-#-------------------------
-vendor/
-
-#-------------------------
+#--------------------------------------------------------------------
 # IDE / Development Files
-#-------------------------
-
+#--------------------------------------------------------------------
 # Modules Testing
 _modules/*
 
@@ -127,6 +154,3 @@ _modules/*
 
 # Visual Studio Code
 .vscode/
-
-/results/
-/phpunit.xml
